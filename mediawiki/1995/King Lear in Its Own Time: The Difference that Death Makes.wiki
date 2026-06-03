@@ -1,0 +1,449 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/''King Lear'' in Its Own Time: The Difference that Death Makes}}
+''This essay was written by Ben Ross Schneider, Jr''.
+
+<!--Paragraph 1-->
+The belief that Shakespeare was a ''universal genius'' who understood the ''timeless essence'' of human nature and was therefore capable of writing ''not for an age, but for all time'', is not doing him any good. Thanks to the ingenuity of our directors, who more and more use Shakespeare's language and plots as the occasion for huddling up spectacles that deliver their own messages, we will continue to marvel as we leave the theatre that ''he speaks to us as if he had written yesterday''. But he did not write yesterday and, if the truth were to be told, he barely speaks to us at all. We are not on the same page; no, not even in the same book. Many critics today think that this state of affairs is unavoidable, even desirable, and that we are doomed (or free) to keep on reading Shakespeare's plays forever as if they were indeed written yesterday.
+
+<!--Paragraph 2-->
+But until a thoroughgoing attempt has been made to recapture all the behavioral norms of Shakespeare's society, we cannot so confidently deny the possibility of recovering the authentic early modern Shakespeare. We know much about what Elizabethans ate, drank, wore, played at, lived in, and rode on. But we know very little about what they admired and disliked in each other's behaviour, the moral code by which Shakespeare communicated with his audience, and by which they judged the actions of his characters. One way of bridging the gap between us and Shakespeare might be to imagine what it was like to live under the material conditions determining human existence in Shakespeare's time and deducing what the moral consequences of these conditions might be.
+
+<!--Paragraph 3-->
+Fernand Braudel, who founded in France the famous Annales school of historiography, begins his grand four-volume opus, ''Civilization and Capitalism, 15th-18th Century'', with the proposition that civilizations are propelled by population. "The outward feature that immediately differentiates the present from mankind before 1800 is the recent increase in the number of people." Not until 1700 did births begin to outnumber deaths, and now population doubles every thirty or forty years. Plagues (four in London between 1593 and 1664), epidemics (influenza, smallpox, syphilis, typhus, and typhoid) and famine (thirteen full scale in France during the 16th century) were the principal dampers on population growth.<ref>31, 70-1, 74, 78-90.</ref> In ''The World We Have Lost'', Peter Laslett, using figures from 1690, estimates that at birth an English baby had an average life expectancy of thirty. An extremely high infant mortality rate was the main cause for this low figure. If the baby lived until twenty, it could expect to live until fifty (94-5).
+
+<!--Paragraph 4-->
+Lear's friend Kent, the "old fellow" with a "grey beard" who, on being remanded to the stocks for quarrelling, declares himself "too old to learn" and who in the end declines the crown in order to go away and die<ref>2.2.63, 85, 127; 5.3.322-323.</ref>—this Kent, by his own testimony, had "years on [his] back forty-eight" (1.4.39). In our time, a forty-eight-year-old literary critic, happily writing important books and chairing important committees, gives little thought to death, and, thus desensitized, misses the point of much that is said and done in Shakespeare's plays. So many lethal diseases and dangers have been removed from our lives that not until we reach our eighties do we submit to being called an "old man." Until our seventies, when our friends begin to die off in alarming numbers, we manage to postpone the contemplation of our own deaths. But death must have seemed imminent and ubiquitous in the daily lives of Shakespeare and his contemporaries, because, added to the fact that all lives were compressed, was the fact that there were so many more ways to die. Today, when someone dies before the statistically expected time, we think it cruel and unusual and look for some entity to blame and/or sue.<ref>On this social phenomenon, see Roger Rosenblatt, "An Inescapable Need To Blame."</ref> Death used to be the rule, but now it is the exception.
+
+<!--Paragraph 5-->
+When you read Montaigne's essays, he gives the impression that he spent his whole life meditating on death. At age 39 he wrote his famous piece on Cicero's pronouncement, "To philosophize is to learn to die." In the following passage from that essay he discusses death's omnipresence: 
+
+<blockquote>
+If thou but register [people of renown], I will lay a wager, I will finde more that have died before they came to five and thirty years, than after. [Consider] Jesus Christ, who ended his humane life at three and thirtie yeares. The greatest man that ever was being no more than a man, I meane Alexander the Great . . . also [died at] that age. How many severall meanes and waies hath death to surprise us! . . . I omit to speak of agues and pleurisies; who would ever have imagined that a Duke of Brittanie should have beene stifled to death in a throng of people, as whilome was a neighbour of mine at Lyons. . . . Hast thou not seene one of our late Kings slaine in the middest of his sports? and one of his ancestors die miserably by the chocke of an hog? Eschilus . . . when he stood most upon his guard, strucken dead by the fall of a tortoise shell, which fell out of the tallants of a eagle flying in the air? and another choaked with the kernel of a grape? And an Emperour die by the scratch of a combe, whilest he was combing his head? And Aemylius Lepidus with hitting his foot against a doore-seele? Add Aufidius with stumbling against the Consull-chamber doore as he was going in thereat? And Cornelius Gallus, the Praetor, Tigillinus, Captaine of the Romane watch, Lodowike, sonne of Guido Gonzaga, Marquis of Mantua, end their daies betweens womens thighs? And of a farre worse example Speusippus, the Platonian philosopher, and one of our Popes? Poore Bebius a judge, whilest he demurreth the sute of a plaintife but for eight daies, behold his last expired: And Caius Iulius a Physitian, whilest he was anointing the eies of one of his patients, to have his owne sight closed for ever by death. And if amongst these examples, I may adde one of a brother of mine [who died at age twenty from being hit in the head by a tennis ball]. These so frequent and ordinary examples, hapning, and being still before our eies, how is it possible for man to forgo or forget the remembrance of death? [Is she not] ready at hand to take us by the throat?<ref>''Essays'' 1.28-9, hereafter referred to as ''Mont''. John Florio's translation of the ''Essays'' in three volumes, which I use here, was published in 1603. I refer frequently to Montaigne because he was available to Shakespeare in translation and because he is such a good witness to the impact of Stoicism in Europe at this time, granted that he repudiates some of its teachings in his later essays. </ref>
+</blockquote>
+
+In Shakespeare's plays, she is indeed ready at hand. As Hamlet says, "If it be now, 'tis not to come; if it be not to come, it will be now; if it be not now, yet it will come—the readiness is all" (5.2.220- 222). Or as Hal says to Falstaff, "thou owest God a death" (5.1.126).
+
+<!--Paragraph 6-->
+Shakespeare, we can't help noticing, broods all the time on that "undiscover'd country from whose bourne no traveler returns"; his most memorable lines meditate on death: "To be or not to be," "Alas poor Yorick," "Life's but a walking shadow," and "We are such stuff as dreams are made on."
+
+<!--Paragraph 7-->
+Perhaps more than in any other play of Shakespeare's, death is ubiquitous in ''King Lear''. As one critic observes: 
+
+<blockquote>
+The dramatic emphasis is on the generality of death . . . . The reiterated fact of the multiple deaths is processional in quality. It is like an enormous summarial obituary. The Fool disappears of causes mysterious; Oswald . . . is killed by Edgar; Goneril and Regan are poisoned and dagger-slain; Gloucester dies offstage of weariness, conflicting emotion, and a broken heart; Kent is about to die of grief and service; Edmund is killed by his brother in a duel; Cordelia dies (by a kind of mistake . . .) at a hangman's hands; and King Lear dies of grief and deluded joy and fierce exhaustion. . . . Death is neither punishment nor reward: it is simply in the nature of things.<ref>Evelyn G. Hooven, quoted in Mack (85). On the importance of death in Hamlet, see essays by G. W. Knight and C. S. Lewis in Sacks and Whan.</ref>
+</blockquote>
+
+<!--Paragraph 8-->
+One can easily conceive that a profound moral difference would proceed from such a difference in material circumstances: with death at a distance our ethical endeavours tend to center on the quality of life. With death more "ready at hand," as it was in Shakespeare's time, we would be more likely to focus on posterity's opinion of us, too soon to be all that is left. We want to live a good life; they wanted to die a good death. Notice, as T. S. Eliot already has, how many of Shakespeare's tragic heroes found it necessary to make an appeal to posterity before they expired.<ref>6. Eliot overlooks Antonio's appeal to posterity before submitting himself to Shylock's knife in Merchant of Venice.</ref> This helplessness in the face of ubiquitous death carries with it an urge to live life so as to develop as good a name for posterity in whatever time remains (perhaps only this day) as possible. Whatever the reason, posterity's opinion meant a great deal more in Shakespeare's day than it does in ours, and a good name after death was more important than a good life beforehand. Or, as Shakespeare put the case, out of the mouth of Iago into the ear of Othello: 
+
+<blockquote>
+Who steals my purse steals trash; 'tis something, nothing;<br/>
+'Twas mine, 'tis his, and has been slave to thousands;<br/>
+But he that filches from me my good name<br/>
+Robs me of that which not enriches him,<br/>
+And makes me poor indeed. (3.3.157-161) 
+</blockquote>
+
+When Othello's friend Cassio cries out, "O, I have lost my reputation! I have lost the immortal part of myself, and what remains is bestial" (2.3.262-264), he expresses the deepest anxiety of a death-dominated society. 
+
+<!--Paragraph 9-->
+The moral philosophy best suited to a death-oriented society is, of course, Stoicism. Why no thoroughgoing attempt to apply Stoicism to Shakespeare has yet been undertaken is a mystery. Perhaps our totalization of the term ''Renaissance'' and our superficial conception of Stoicism may account for this oversight. Shakespeare did not live in a ''Renaissance'' culture, because that term selects that part of classical literature which had died or been lost and was reborn or rediscovered. Hence it leaves out everything that was always there, that was never lost, and didn't have to be rediscovered. Stoicism falls into this category. In fact it was the backbone of school and college education from the middle ages until the 19th century. It filled the pages of the scores of conduct books printed in Shakespeare's time for upwardly-mobile but un-latined gentlemen and ladies. The same pressure brought forth a great many vernacular translations and new editions of the principal sources of Stoicism.
+
+<!--Paragraph 10-->
+Perhaps we have been led astray by a misdefinition of Stoicism. Indeed, if we confine our definition of Stoicism to fatalism and suppression of feelings, then certainly it may be ignored in the study of Shakespeare's plays—because we all sense that he is compassionate and believes that individual choice makes a difference. But suppression of feeling does not necessarily imply a lack of feelings, because one must have feelings to suppress, and the energy Stoics devoted to suppressing them shows what strong feelings they had. Fatalism, because it implies acceptance of whatever happens, is simply the wrong word for the Stoic attitude. The fatalist says, whatever does happen was pre-destined and inevitable; the Stoic position is more like Murphy's law—whatever ''can'' happen ''may'' happen.<ref>Seneca says as much; see ''Moral Essays'', hereafter abbreviated as Ess. (2.257, 261) and ''Moral Epistles'', hereafter abbreviated as Epis. (1.175, 437, 2.359, 433). Erasmus, Justus Lipsius, and J. F. Gronovius published "famous editions" of Seneca's moral works in the 16th and 17th centuries (Ess. 1.xv). If Cicero's ''De Officiis'' was the primary authority on ethical practice, Seneca's ''Epistles'' and Essays were the primary authority on ethical theory. His complete moral works were translated in 1614 by Thomas Lodge. Something of Seneca's called ''Morals'', probably a compendium of excerpts, was published in English in 1607. Then, in 1678, Sir Roger L'Estrange published ''Seneca's Morals by Way of Abstract''. By 1793 it had gone into 17 editions. Montaigne several times confesses himself to be deeply indebted to Seneca (Mont. 1.161, 2.102, 2.108).</ref> The universe is not a machine, it's a roulette wheel, and though the Stoics do advise us not to count on controlling anything except one's self, they nevertheless try, else why all this talk about virtue and striving against all odds?<ref>See especially Epis. (3.119).</ref> People ''can'' make a difference.
+
+<!--Paragraph 11-->
+An even worse mistake of modern scholars is to assume that fatalism and suppression of emotion make up the whole of Stoicism.<ref>Though Elton and Brower make extensive reference to Stoicism in connection with ''Lear'', they do not, as I do, consider its doctrines as a comprehensive manual of conduct covering a full range of social and political situations.</ref> In fact the writings of the Stoics cover a wide range of moral, social, political, and psychological terrain. Bishop Joseph Hall, in the preface to his ''Characters of the Virtues and Vices'' (1608), praised the Stoics as the original pre-Christian, "correctors of vices, directors of lives, [and] doctors of virtue."<ref>Hall (89). It is interesting to notice that Hall, a professed moralist and an Anglican Bishop contemporary with Shakespeare, consistently follows pagan Stoic doctrine in his ''Characters of the Virtues and Vices'' (1608).</ref> When Alexander Pope wrote "The proper study of mankind is man," he was reiterating the Stoic project.
+
+<!--Paragraph 12-->
+When we look at ''King Lear'' through a Stoic lens, many shadowy places become distinct. We have all sorts of explanations, almost as many as there are explainers, of why, in the scene in which he divides his kingdom, Cordelia refuses to say how much she loves him, and he in a fit of rage disinherits her. Maynard Mack has decided that Shakespeare intentionally elides any motivational background for this scene in order to dramatize the way in which a choice which seems innocent may set off a chain of unexpected and utterly devastating consequences.<ref>94-5; see also Calderwood (10).</ref> The scene certainly does set off a chain reaction, but in the context of Stoic discourse, Lear's division of the Kingdom is not innocent, and Cordelia's reaction is inevitable.
+
+<!--Paragraph 13-->
+In his essay ''On Benefits'', Seneca gives us a veritable plot for ''King Lear''. As is his wont, he begins with a rhetorical question: what can we give to a person who has everything? 
+
+<blockquote>
+I will show you what the highest in the land stand in need of, what the man who possesses everything lacks: someone, assuredly who will tell him the truth, who will deliver him from the constant cant and falsehood that so bewilder him with lies that the very habit of listening to flatteries instead of facts has brought him to the point of not knowing what truth really is. Do you not see how such persons are driven to destruction by the absence of frankness and the substitution of cringing obsequiousness for loyalty? No one is sincere in expressing approval or disapproval, but ''one person vies with another in flattery'', and, while all the man's friends have only one object, a common aim to see who can deceive him most charmingly, he himself remains ignorant of his own powers, and, ''believing himself to be as great as he hears he is'', he brings on wars that are useless and will imperil the world, breaks up a useful and necessary peace, and, ''led on by a madness'' that no one checks, sheds the blood of numerous persons, destined at last to spill his own. While without investigation such men claim the undetermined as assured and think that it is ''as disgraceful to be diverted from their purpose as to be defeated'' and believe that what has already reached its highest development and is even then tottering, will last for ever, ''they cause vast kingdoms to come crashing down upon themselves and their followers''. And, living in that ''gorgeous show'' of unreal and swiftly passing blessings, they failed to grasp that from the moment when it was impossible for them to hear a word of truth, they ought to have expected nothing but misfortune.<ref>Ess. (3.427-8); my italics.</ref>
+</blockquote>
+
+There is no way to prove that Shakespeare had read Seneca, though ''De Beneficiis'', the essay from which this passage is taken, was translated into English in 1578. But whether Shakespeare had read it or not, the moral assumptions that frame this passage, I will argue, pervade his own society, and it is unlikely that he could have escaped having them himself.
+
+<!--Paragraph 14-->
+The power of flatterers to obstruct even the best-intentioned monarch was recognized as a major problem in absolute systems. There is continual railing against flattery in ancient and early modern texts. In Castiglione's Courtier, Federico Fregoso in no uncertain terms urges that a courtier must tell his Lord the truth "without fear or peril to displease him" lest he fall prey to the flatterers that surround him.<ref>Translated by Thomas Hoby 1561 (542, 543).</ref> Machiavelli's formula for "How [a prince may] Avoid Flatterers" is to "let . . . it be understood that you will not be offended by plain speaking."<ref>''The Prince'', translated 1602 (60).</ref> According to Sir Thomas Elyot, a popular English moralist in Shakespeare's time, disaster is sure to strike rulers who 
+
+<blockquote>
+either do refuse counsaile, or prohibite libertie of speche; [since] that in libertie (as it hath bene proved) is moste perfecte suertie, according as it is remembred by Plutarche of Theopompus, kyng of Lacedemone, who beinge demaunded, howe a realme might be best and mooste surely kepte; If (saide he) the prince [give] to his frendes libertie to speake to hym thinges that be just."<ref>''The Boke Named the Governour'' (136), hereafter abbreviated as ''Gov''. Elyot was a prolific writer of self-help books. This popular conduct book testifies to the importance of Stoic precepts in Shakespeare's England. It was published in 1531 and went into nine editions before 1600 (xxvi). On good counsel see also ''Gov''. (292).</ref>
+</blockquote>
+
+Montaigne declares "I deadly hate to heare a flatterer": "admonitions and corrections . . . are the chiefest offices of friendship."<ref>1.302-32, 217. </ref> According to Bishop Hall (1608) 
+
+<blockquote>
+Flattery is nothing but false friendship, fawning hypocrisy, dishonest civility, base merchandise of words, a plausible discord of the heart and lips. . . . [The flatterer's] art is nothing but delightful cozenage; whose rules are smoothing and guarded with perjury; whose scope is, to make men fools in teaching them to overvalue themselves, and to tickle [their] friends to death.<ref>115. </ref>
+</blockquote>
+
+King James concurs, advising his son Prince Henry, when he becomes king, to 
+
+<blockquote>
+choose . . . men of knowen wisedome, honestie and good conscience. . . and free of all factions and partialities; but specially free of that filthie vice of Flatterie, the pest of all Princes, and wracke of Republicks.<ref>32. In 1603, the year of his accession, James privately printed his own imitation of ''De Officiis'', which he called ''Basilikon Doron'', but popular demand soon forced him to publish a general edition. James is another professed moralist who echoes Stoic precepts in Shakespeare's time. He cites Cicero 55 times, of which 25 refer to ''De Officiis''. He cites Plato (mostly ''Laws'' and ''Republic'') 48 times, but Seneca's moral works only 9.</ref>
+</blockquote>
+
+In antiquity the outcry against flattery was loud and clear: Cicero, too, warns 
+
+<blockquote>
+The greater our prosperity . . . the more should we seek the counsel of friends, and the greater the heed that should be given to their advice. Under such circumstances also we must beware of lending an ear to sycophants or allowing them to impose upon us with their flattery. For it is easy in this way to deceive ourselves, since we thus come to think ourselves duly entitled to praise; and to this frame of mind a thousand delusions may be traced, when men are puffed up with conceit and expose themselves to ignominy and ridicule by committing the most egregious blunders.<ref>''De Officiis'' (93), hereafter abbreviated as "Off." ''De Officiis'' was the first classical text ever printed, at the Monastery of Subiaco in 1465 (''Off''. xvii). The British Museum Catalogue lists eleven printed editions of it before 1600—eight interlinear trots for use by schoolboys, one in English without the Latin, and two in Latin, bound with Cicero's ''De Amicitia'' and ''De Senectute''. Eighteen more editions were published before 1700. In the Governour, Elyot lists three essential texts for the education of gentlemen: Plato's works, Aristotle's ''Ethics'', and ''De Officiis''. In the preface to his translation of 1681 Sir Roger L'Estrange calls it "the commonest school book that we have," and goes on to observe, "as it is the best of books, so it is applied to the best of purposes, that is to say, to training up of youth in the study and exercise of virtue." Voltaire said of it, "No one will ever write anything more wise" (Wells, ''Wide Arch'' 142). And Hume preferred its moral teaching to that of Allestree's (1619-1681) ''The Whole Duty of Man'', a standard Christian work (MacIntyre 214).</ref>
+</blockquote>
+
+<!--Paragraph 15-->
+The most egregious blunder in history, to judge from the number of times it is marvelled at in conduct literature, was that of Alexander the Great, who, having been seduced by flatterers to believe he was a God and becoming displeased during a drinking bout because his best friend Clitus didn't think he was, stabbed Clitus to death on the spot, an act that he bitterly repented for the rest of his life.<ref>The story is mentioned in ''Ess''. (1.299); ''Epis''. (2.271); ''Mont''. (2.8); ''Gov''. (137).</ref> The "poison of flattery," thusly, (''Gov''. 161) is universally deplored.<ref>See ''Off''. (47, 237, 345); ''Ess''. (1.213, 291-3, 433; 2.211, 337); ''Ess''. (3.309, 423, 435); ''Epis''. (1.417-19; 2.171); (3.337, 429); ''Gov''. (20, 55, 104, 109, 132, 185, 190-3, 241); Mont. (1.302, 339, 397); (2.66), Hall (98, 114, 122); James (32, 301).</ref>
+
+<!--Paragraph 16-->
+This evidence strongly suggests that Kent diagnoses Lear's case at the outset of the play correctly as an example of "power" seduced by "flattery" (1.1.148). But, perhaps because we are life-oriented instead of virtue-oriented, we seem nowadays to feel a need to blame someone else than Lear for his ensuing agony, which seems to us cruel and unusual punishment for someone who simply, as we so often say, ''made a mistake''. The finger points at Cordelia who, we think, could have humoured the old man by playing her sisters' game, instead of unloosing his blind fury by telling the truth.<ref>Of course if Lear's decision to divide the kingdom was an astute one, then Cordelia is even more to blame. Strier surveys arguments for this view in a footnote (128-9 n31).</ref> But pragmatism is a modern virtue. According to the ancients, Cordelia had no choice but to say, most respectfully, in answer to Lear's question—"What can you say to draw/A third [of my kingdom] more opulent than your sisters'?"—that hollow-sounding doom- filled word: "'''Nothing''', my lord." If she had lied to him as her sisters had done, she would not only have done great damage to "the immortal part of [herself]," but that very same consideration also obliged her to give him good counsel, whatever the cost. As Kent later says, "When power to flattery bows / To plainness honor's bound" (1.1.148). As if to reinforce the necessity of giving good counsel, Shakespeare repeats the pattern with Kent and again with Cornwall's first Servant, who counsels his master, "Better service have I never done you /Than now to bid you hold [your cruel assault on Gloucester]" (3.7.73-4). 
+
+<!--Paragraph 17-->
+Cordelia's subsequent rebuttal of her sisters' claims to "love their father all" (1.1.104) seems self-righteous and flimsy to us simply because we don't know what the word ''love'' means in her lexicon. She argues that a married woman cannot honestly give all her love to her father, because she has also promised to love her husband. I think it is safe to say, given our present-day steadily-rising divorce rate, that a sense of binding obligation is no longer a strong component of the word ''love''.<ref>See the section on marriage in Bellah, et. al. John Updike's lovers in his recent novel Brazil perfectly demonstrate the sense of "love" as dedication to which I refer, but that is in another country.</ref> Throughout the canon, when ''love'' does not refer to sexual passion, it is used in this sense of mutual obligation; and when it signifies a bond between males, as it often does, this is the only sense in which it can be understood.<ref>Alan Bray, in an essay called "Homosexuality and the Signs of Male Friendship," comes to the conclusion that no physical relationship is implied when the word "love" is used to denote male friendship.</ref> So when Kent trips up Oswald, Lear takes it as a favour to him and promises to ''love'' him in return (1.4.86-88). He is simply acknowledging an obligation. If Cordelia took the word ''love'' as lightly as we do, it would indeed be no big deal for her to share some of her infinite store of it with her father, but this is not the case. Her love for her father can be quite precisely specified: 
+
+<blockquote>
+You have begot me, bred me, lov'd me: I<br/>
+Return those duties back as are right fit,<br/>
+Obey you, love you, and most honor you. (1.1.96-98) 
+</blockquote>
+
+She limits her duties to such "as are right fit," recognizing that obligations to others may have priority. Since marriage vows would also require her to love, honor, and obey, they would of course limit the ways in which she could love, honor, and obey her father. Ergo, her sisters are liars. She couldn't have made a better case, but Lear is too far gone in egotism to pay it the regard it deserves.
+
+<!--Paragraph 18-->
+When she apologizes for this plainness with the words "I cannot heave/ My heart into my mouth" (1.1.91-2), it may appear that she could indeed be suffering from that new sin, the fear of intimacy, which Stanley Cavell calls "the avoidance of love." But that is not the reason, as she points out later, explaining why her father found fault with her: 
+
+<blockquote>
+I want that glib and oily art<br/>
+To speak and purpose not, since what I [well] intend,<br/>
+I'll do't before I speak. (1.1.224-6) 
+</blockquote>
+
+Here she clearly states the moral basis of her action. We still recognize it when we say "Talk is cheap," "Actions speak louder than words," or "Put up or shut up." When she says she "cannot heave her heart into her mouth" Cordelia simply means that it is not her wont to "unpack her heart with words" like Hamlet; she simply does the deed. 
+
+<!--Paragraph 19-->
+The moralists give her full support. Bishop Hall's Honest Man "loves actions above words," and his Valiant Man "talks little and loves rather the silent language of the hand" (93, 96). In his Characters (London, 1665), Richard Flecknoe notes much the same phenomenon. The "Valiant Man," he says, "has but one defect; he cannot talk much, to recompense which he does the more." The ancients made the same distinction. Seneca said, for example, "Philosophy teaches us to act not to speak," (Epis. 1.133), and he reiterated the idea in various other contexts.<ref>''Epis''. (1.349, 2.137, 3.253, 279, 359).</ref> One's virtues must be shown, not told. Therefore bragging is taboo. Cicero ordains that "it is bad taste to talk about one's self . . . , to play the Braggart Captain," (Off. 141; see also Ess. 3.509). For the same reason, pedantic, precious, and florid speech are condemned,<ref>''Ess''. (2.209; 3.477); ''Epis''. (1.313, 319); Mont. (1.175, 196; 2.109).</ref> as well as foppish dress and manners.<ref>''Off''. (133); ''Ess''. (2.247); Mont. (1.124, 348-9, 402); James (45).</ref> Summing up, Montaigne recommends a plain, informal, style that is "not Pedantical, nor Frierlike, nor Lawyer-like, but rather down-right, Souldier-like."<ref>Mont. (1.199); see also ''Ess''. (1.433); Epis. (1.265); ''Off''. (137); Hall (99); James (3, 28, 39, 46, 47, 48, 51).</ref> The language of soldiers well suits a culture in which daily life is a battlefield.<ref>Or a football field: Responding to the Dallas coach's boast that his team would win the Super Bowl, a San Francisco player told the press, "You don't win a game by talking, you win a game on the field. The only thing that's certain is that someday you're going to die." And a Dallas player said "Now let's just shut up and play" (''San Francisco Chronicle'', 22 January 1994).</ref>
+
+<!--Paragraph 20-->
+When Cordelia says the one word "Nothing," in contrast to her sisters' verbose flattery, she identifies herself as a female version of an archetypal persona that was well-known in the Renaissance and still persists. He has many names: the "good man," the "manly man," the "man of honor," the "honest man," the "true gentleman." In Shakespeare's time he was often called the "plain dealer," and that is what I shall call him.
+
+<!--Paragraph 21-->
+This persona pervades Western Civilization (and perhaps Eastern, too—witness the Samurai) from Socrates to George Smiley, and crops up randomly throughout arts and letters, in bitter and in sweet versions: in Durer's weatherbeaten knight who rides deliberately straight ahead past death and the devil; in Jonathan Swift, who wrote "Honesty [is] a pair of shoes worn out in the dirt" (''Tale of a Tub'', II); in Wycherley's Plain Dealer, whose hero was Manly; in almost every Restoration comedy, under names like Blunt, Careless, Wildair, Easy, Truman, Worthy, Hardy, and Constant;<ref>See Schneider (''Ethos'' ch. 5).</ref> in Conrad's Axel Heyst, for whom death was the ''Victory'' foretold in the title; in Yeats' "Friend whose work has come to nothing" who is "Bred to a harder thing than triumph;" in Hemingway's Lady Brett, who gave up the first man she ever loved because she wasn't good enough for him; in Hemingway himself who blew out his brains rather than become a vegetable; in the unpressed George Smiley, who, wondering "Why do we do this dangerous work?" answers, "I rather think it's because it gives us a chance to pay" (''Honorable Schoolboy''); in Faulkner's upright judge; in Faulkner himself, who wrote to an admirer 
+
+<blockquote>
+I have been writing all the time about honor, truth, pity, consideration, the capacity to endure well grief and misfortune and injustice and then endure again, in terms of individuals who observed and adhered to them not merely for reward but for virtue's own sake, not even merely because they are admirable in themselves, but in order to live with oneself and die peacefully when the time comes. (Letter to my colleague Warren Beck) 
+</blockquote>
+
+and increasingly in Italian-American films, egregiously in Scent of a Woman, an unabashed showcase for the word "integrity."
+
+<!--Paragraph 22-->
+Except when Don John of ''Much Ado'' calls himself a "Plain Dealing Villain," which he is (and so is Edmund of ''King Lear''), Shakespeare did not use the term to designate a character type, though he frequently uses the word "plain" in the context of honesty (eleven times in ''Lear''), and Lear "deal[s] plainly" (4.7.61) with Cordelia during their reconciliation. But the type is recognizable throughout the canon. Sir Walter Blunt of ''1 Henry IV'', whose "grinning honor" Falstaff "like[d] not," is one of many plain dealers in history and literature, and Enobarbus is another. Hal, Hotspur, Timon of Athens, Othello, Brutus, and Antonio of ''The Merchant of Venice'' are other Shakespearean varieties. When Cornwall calls down Kent for imitating the type in order to gain credit, he recognizes the esteem in which it is held: "He cannot flatter, he, / An honest mind and plain, he must speak truth" (2.2.98).
+
+<!--Paragraph 23-->
+His virtues also have many names, and there are many ways to array them. The emphases in Stoic literature suggest the following outline: 
+
+<ul>
+*''Constancy'', comprehending integrity, responsibility, loyalty.
+*''Generosity'', comprehending graciousness (cf. ''gratias ago'', Latin for "I thank you"), the capacity to "love" and feel gratitude, to be mindful of obligations, to have a good memory for favours received and no hesitation in reciprocating them.
+*''Plainness'', comprehending honesty, frankness, reticence, diffidence, modesty, lack of pretence, amateurism, easiness in manners, eschewing formality and precision as attributes of a fop.
+*''Courage'', comprehending patience, endurance, fortitude—a willingness to undergo any amount of suffering or loss, including death, rather than fail in any of the above.
+</ul>
+
+<!--Paragraph 24-->
+Kent is little regarded in ''Lear'' criticism, and yet the play starts with an invitation for us to compare Kent and Gloucester, and the comparison is indeed instructive; in fact, on close inspection, we find that Kent is a useful touchstone against which to test all the characters. He also conditions our opinion of Lear, being a constant witness to his great worth. Actually, without Kent's obvious affection to guide us, we might have trouble sympathizing with Lear. For Kent to be a credible witness he must be an exemplary role model. And that is why he is the archetypal plain dealer. Although he could be cut from the play with no damage to the main action, he carries a heavy burden of meaning. Though causally expendable, he is thematically indispensable.
+
+<!--Paragraph 25-->
+When he steps "between the dragon and his wrath," and dares to interfere with Lear's disinheritance of Cordelia, he rivets our attention: 
+
+<blockquote>
+"Good my liege—<br/>
+Peace, Kent!" (1.1.120-2) 
+</blockquote>
+
+Lear sends her off with curses ringing in her ears. Kent tries again, beginning 
+
+<blockquote>
+Royal Lear,<br/>
+Whom I have ever honor'd as my king,<br/>
+Lov'd as my father, as my master follow'd,<br/>
+As my great patron thought on in my prayers—(1.1.139-42) 
+</blockquote>
+
+<!--Paragraph 26-->
+In the name of these hallowed ties Kent calls on Lear to come to his senses. If ''King Lear'' refers in any special way to early modern history, it must be to that same cataclysmic revolution in human affairs so eloquently described by Karl Marx in ''The Communist Manifesto'', in which 
+
+<blockquote>
+The Bourgeoisie, wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relations. It has pitilessly torn asunder the motley feudal ties that bound man to his 'natural superiors,' and left remaining no other nexus between man and man than naked self-interest, than callous cash payment. It has drowned the most heavenly ecstacies of religious fervor, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation. It has resolved personal worth into exchange value, and in place of the numberless indefeasible chartered freedoms, it has set up that single unconscionable freedom--Free Trade. (12-13) 
+</blockquote>
+
+<!--Paragraph 27-->
+Marx's view of the matter has been abundantly documented by social historians. If ''King Lear'' also documents it, then the older sisters must be meant to show us the breakdown of human relations with the coming of the cash nexus and Kent must stand for "feudal ties." Perhaps this is the reason why Shakespeare keeps him so much on stage, even when he has little to do but stand and wait.
+
+<!--Paragraph 28-->
+To understand Kent's function fully we must learn how to love servitude. Before society came to be ruled almost exclusively by contracts, constitutions, and laws, it was thought to be held in harmonious equilibrium by the exchange of benefits. This system of organization is sometimes referred to as ''mutuality''.<ref>See Knights (esp. 123-5).</ref> Cicero finds that 
+
+<blockquote>
+[A] strong bond of fellowship is effected by mutual interchange of kind services; and as long as these kindnesses are mutual and acceptable, those between whom they are interchanged are united by the ties of an enduring intimacy. (''Off''. 59) 
+</blockquote>
+
+Hence
+
+<blockquote>
+we ought to follow Nature as our guide, to contribute to the general good by an interchange of acts of kindness, by giving and receiving, and thus by our skill, our industry, and our talents to cement human society more closely together, man to man. (''Off''. 59) 
+</blockquote>
+
+In the process of answering some rhetorical questions about the Three Graces (''Gratiae''), Seneca becomes enraptured by the beauty of reciprocating benefits. First, why are there three of them? 
+
+<blockquote>
+There is one for bestowing a benefit, another for receiving it, and a third for returning it . . . . Why do the sisters hand in hand dance in a ring which returns upon itself? For the reason that a benefit passing in its course from hand to hand returns nevertheless to the giver; . . . Their faces are cheerful, as are ordinarily the faces of those who bestow or receive benefits. They are young because the memory of benefits ought not to grow old. They are maidens because benefits are pure and undefiled and holy in the eyes of all; and it is fitting that there should be nothing to bind or restrict them, and so the maidens wear flowing robes. (Ess. 3.13) 
+</blockquote>
+
+The end result, as Seneca notes, is a society like "a stone arch, which would collapse if the stones did not mutually support each other."<ref>''Epis''. (3.91). See also ''Off''. (55, 223); ''Ess''. (3.165, 423, 435); ''Epis''. (3.83, 317); Mont. (1.12, 13, 36, 63, 345); ''Gov''. (xxxi, 18, 29, 129, 132, 136, 164, 137, 140, 292, 294).</ref>
+
+<!--Paragraph 29-->
+In a hierarchical society this mutuality of benefits works vertically as well as horizontally, another fact that may interfere with our appreciation of Shakespeare in the egalitarian times, for we have a tendency look upon any hierarchy as a form of oppression. Although Barish and Waingrow, in their ground-breaking essay on "Service in King Lear," establish that the master/servant bond is reciprocal; they assume this to mean that the servant "has rights as well as duties," and go on to say that Lear violates Kent's rights.<ref>Barish and Waingrow (349).</ref> This is the language of contracts, and it implies that the master is quit of all obligation so long as he recognizes some right. This is not Cicero's "bond of fellowship"; it is the cash nexus. What masters owe servants is "love," of the sort Lear declares for Kent/Caius when he trips up Oswald. When Lear banishes his friend Kent, he violates something much greater than a right; he violates a trust.
+
+<!--Paragraph 30-->
+Richard Strier, in an essay called "Faithful Servants: Shakespeare's Praise of Disobedience," similarly misreads the bond as a contract. Positing that servants are legally bound to obey masters, he imagines that Cordelia and Kent are disobedient on principle. Kenneth Graham goes even farther afield, labelling Cordelia's recalcitrance an individualistic reaction against formality fostered by the Renaissance.<ref>Strier (107-113); Graham (442-5). Bradley (255-6), Brooke (81-2), Cavell (''Disowning'' 62-68), and Leggatt (64, 73) also question Cordelia's response. </ref> The thought that love might be the motive thus escapes both scholars.
+
+<!--Paragraph 31-->
+I suggest that in King Lear Shakespeare envisions the stone arch of English society collapsing.<ref>This is the conventional Marxist reading of the play. See for example Cohen (esp. 114).</ref> He was, for example, a witness to the increasing numbers of noble houses that fell into the hands of money lenders and to the controversies through which the Catholic sin of usury inevitably transformed into the Protestant virtue of banking. When Lear proposes to divide his kingdom into portions equal to the amount of love his daughters express for him, he shows that he is already a free marketeer. He is bargaining still at Gloucester's castle when he proposes to stay with the daughter who lets him keep the greatest number of knights, saying "Thy fifty yet doth double five and twenty, / And thou art twice her love" (2.4.259-60). But as Cordelia and Kent have shown, love doesn't come in measurable amounts: it entails a whole lot more than how many knights one is willing to house. Cordelia's counsel costs her her dower, and when he steps between "the dragon and his wrath" Kent stakes his life. 
+
+<blockquote>
+Check<br/>
+This hideous rashness. Answer my life my judgment,<br/>
+Thy youngest daughter does not love thee least.<br/>
+[Lear.] Kent, on thy life, no more.<br/>
+[Kent.] My life I never held but as [a] pawn<br/>
+To wage against thine enemies, ne'er [fear'd] to lose it,<br/>
+Thy safety being motive. 
+</blockquote>
+
+Lear certainly would have hacked him to pieces as Alexander did Clitus, had not Cornwall and Albany interposed.
+
+<!--Paragraph 32-->
+In order to fully understand Kent we must also learn to love death as did the Elizabethans. The trivialization of death has a long history. According to Plato, courage is an adjunct of wisdom: it consists in knowing what to be afraid of; and in the list of true dreads, dishonour is worse than death.<ref>76, 119, 122-3; see also ''Epis'' (2.303); ''Off''. (61, 83, 89).</ref> Once more the priorities that govern us today are reversed: how a man dies is more important than how he lives. We are given only one death, and so we had better not waste it (cf. Mont. 2.124). Thus Seneca says, 
+
+<blockquote>
+The mere contemplation of a [brave] deed that is to be done is a delight, and the brave and upright man, picturing to himself the guerdons of his death,—guerdons such as the freedom of his country and the deliverance of all those for whom he is paying out his life,—partakes of the greatest pleasure and enjoys the fruit of his own peril. But [even] that man . . . who is deprived of this joy . . . will leap to his death without a moment's hesitation, content to act rightly and dutifully.<ref>''Epis''. (2.165); see also ''Off''. (83, 207, 399); ''Ess''. (1.45, 73; 2.151, 463; 3.173); ''Epis''. (1.173; 2.41, 69, 165, 185, 251).</ref>
+</blockquote>
+
+"Of all the benefits of vertue," says Montaigne, "the contempt of death is the chiefest."<ref>Mont. (1.75, 150; see also 1.140, 306, 323, 2.25, 2. 12); Gov. (29, 39, 40).</ref> As Hotspur said, leading his troops into battle, "Die all, die all merrily" (''1 Henry IV'' 4.1.134). The horror is that they probably did.
+
+<!--Paragraph 33-->
+Kent, too, is ready to die merrily, and faces Lear without flinching. But his courage avails not, and the king banishes him, we would think thus absolving him from further duty. But his love is not conditional. He shows us his ''constancy'' and turns up disguised as Caius, to serve his master, whom he loves, in any way he can (1.4.21-26). The scene in which Caius is what we would call today ''interviewed'' functions as a catalogue of his virtues: to the question "How now, what art thou?" he responds "A man, Sir." This answer is typical of a plain dealer. It is stripped of decoration. It is deferential; the "Sir," indicates his eagerness to serve. It contains nothing but a fact. However it also glances at a principle, the great levelling fact that good, bad, wellborn, illborn, master, slave, we are all the same kind of animal. Sir Thomas Elyot admits 
+
+<blockquote>
+Of no better claye (as I mought frankely saye) is a gentilman made than a carter, and of libertie of wille as moche is gyuen of god to the poore herdeman, as to the great and mighty emperour. (''Gov''. 202) 
+</blockquote>
+
+This hierarchy-collapsing notion pervades the literature of conduct. Seneca is obsessed with it, broadcasting such unpleasant truths as "Every king springs from a race of slaves, and every slave has had kings among his ancestors." Moreover, he says, 
+
+<blockquote>
+Let this verse be in your heart and on your lips: 
+<blockquote>
+I am a man; and nothing in man's lot<br/>
+Do I deem foreign to me.<ref>''Epis''. (1.289; see also 3.91); ''Off''. (153); ''Ess''. (1.375, 443; 2.55, 163, 167); ''Epis''. (1.27, 315; 2.109, 367, 433; 3.91, 227); Mont. (1.346; 2.85); Hall (98).</ref>
+</blockquote>
+</blockquote>
+
+Kent/Caius' reply also foresees the humility that Lear later discovers, when he realizes that he is that same "bare, forked animal" as Poor Tom, with whom he shelters from the storm in the peasant's hovel. No human being can assume inherent superiority:<ref>But whereas we tend to believe that anyone can be as good as the best, the Stoics held that anyone can be as bad as the worst. It was correct to have low self-esteem. It was also true that you had to hate oneself before you could love another. See Ess. (2.125, 213); Epis. (1.203); Epis. (2.45, 49); Epis. (3.289); Hall (91).</ref> our merit, such as it is, lies in our deeds. So Kent refuses to state any qualifications. As the scene proceeds, his laconic answers, which for the sake of efficiency I shall gloss in footnotes, contain further commentary on the archetype he represents. 
+
+<blockquote>
+[Lear.] What dost thou profess? What wouldst thou with us?<br/>
+[Kent.] I do profess to be no less than I seem,{{ref|reference_name_A|a}} to serve him<br/>
+truly that will put me in trust,{{ref|reference_name_B|b}} to love him that is honest,{{ref|reference_name_C|c}}<br/>
+to converse with him that is wise and says little.{{ref|reference_name_D|d}}<br/>
+[Lear.] What art thou?<br/>
+[Kent.] A very honest-hearted fellow, and as poor as the King.{{ref|reference_name_E|e}}<br/>
+[Lear.] If thou be'st as poor for a subject as he's for a king,<br/>
+[th'] art poor enough. What wouldst thou?<br/>
+[Kent.] Service.{{ref|reference_name_F|f}}<br/>
+[Lear.] Who wouldst thou serve?<br/>
+[Kent.] You.<br/>
+[Lear.] Dost thou know me, fellow?<br/>
+[Kent.] No, sir, but you have that in your countenance which I<br/>
+would fain call master.<br/>
+[Lear.] What's that?<br/>
+[Kent.] Authority.{{ref|reference_name_G|g}}<br/>
+[Lear.] What services canst do?<br/>
+[Kent.] I can keep honest counsel,{{ref|reference_name_H|h}} ride, run, mar a curious<br/>
+tale in telling it,{{ref|reference_name_I|i}} and deliver a plain message bluntly. That<br/>
+which ordinary men are fit for, I am qualified in, and the best<br/>
+of me is diligence.<br/>
+[Lear.] How old art thou?<br/>
+[Kent.] Not so young, sir, to love a woman for singing, nor so<br/>
+old to dote on her for any thing. (1.4.9-39){{ref|reference_name_J|j}}
+*{{note|reference_name_A|a}}I don't boast.
+*{{note|reference_name_B|b}}I will reciprocate the honor done me by your trust. "Trusting obligeth trustinesse" (Mont. 1.139).
+*{{note|reference_name_C|c}}Since gain is no object, I serve only people I respect.
+*{{note|reference_name_D|d}}Plain dealers (unlike, say, Polonius) don't run off at the mouth.
+*{{note|reference_name_E|e}}Having nothing to gain, I have no ulterior motives. Honesty.
+*{{note|reference_name_F|f}}The joy of serving is compensation enough. "In la sua voluntade e nostra pace." Generosity.
+*{{note|reference_name_G|g}}I serve because you command. "[Kent] did him service improper for a slave" (5.3.221-2). Generosity.
+*{{note|reference_name_H|h}}I can be trusted not to speak secrets. Constancy.
+*{{note|reference_name_I|i}}I have no art. Plainness.
+*{{note|reference_name_J|j}}I'm old enough to withstand sexual attraction, but not so old as to be led by the nose. Fortitude. 
+</blockquote>
+
+<!--Paragraph 34-->
+Later, when Kent/Caius first encounters the fool, the fool offers him his fool's cap. "Why," says Kent? 
+
+<blockquote>
+[Fool.] Why? for taking one's part that's out of favor. Nay, and<br/>
+thou canst not smile as the wind sits, thou'lt catch cold<br/>
+shortly. There, take my coxcomb. (1.4.99-101) 
+</blockquote>
+
+By ridiculing Kent/Caius' lack of self-interest, the fool calls attention to his ''constancy'', the virtue that really entails all the rest. One must be the same inside and out, which is integrity, and the same today and tomorrow, which is constancy, or else one is a liar, not a plain dealer. Whatever befalls, the constant man never changes his course; he pays no attention to wind shifts. Therefore, as Montaigne says, 
+
+<blockquote>
+Constancie is valour, not of armes and legs but of minde and courage; it consisteth not of the spirit and courage of our horse, nor of our armes . . . . 'If hee slip or fall he fights upon his knee.' He that in danger of imminent death is no whit da[u]nted in his assurednesse; he that in yeelding up his ghost beholding his enemie with a scorn-efull and fierce looke, he is vanquished, not by us, but by fortune: he is slaine, but not conquered.<ref>Mont. (1.252); see also ''Off''. (51, 55, 101, 115); ''Ess''. (2.119, 123; 3.405); ''Epis''. (1.163, 249; 2.367; 3.389); ''Gov''. (229); Mont. (1.138, 352; 2.92, 122-3, 124); James (38).</ref>
+</blockquote>
+
+<!--Paragraph 35-->
+After proposing his fool's cap to Lear, the fool sings the following song, now recommending Kent/Caius' virtues and contradicting earlier gibes about his folly: 
+
+<blockquote>
+Have more than thou showest,<br/>
+Speak less than thou knowest,<br/>
+Lend less than thou owest,<br/>
+Ride more than thou goest,<br/>
+Learn more than thou trowest,<br/>
+Set less than thou throwest;<br/>
+Leave thy drink and thy whore,<br/>
+And keep in a' door,<br/>
+And thou shalt have more<br/>
+Than two tens to a score. (1.4.118-127) 
+</blockquote>
+
+Except for the last two precepts, these all say the same thing: let your deeds speak, not your words; be more than you profess, not less. As Cordelia has said, "what I [well] intend, / I'll do't before I speak" (1.1.226). If you profess less, what you give away will return with interest. Nothing is something, after all.
+
+<!--Paragraph 36-->
+Kent's confrontation with Oswald that lands him in the stocks—especially because it lands him in the stocks—further demonstrates his virtues. It reinforces his character by contrasting it with its exact opposite (2.2.87-8), and it epitomizes the forces that drive the whole play. Kent moves straight ahead, Oswald veers as the wind sits; Kent serves his master; Oswald serves himself; Kent is plain, Oswald lies; and to sum it all up, Kent is brave and Oswald is a coward. Oswald had already proved a coward when Caius, in his first scene, tripped him up, and he allowed himself to be shamefully shoved out of the room. Now Kent calls him every bad name in the book, including "son and heir of a mongrel bitch" (2.2.22-3), again trying to get him to fight. But rather than risk getting killed, Oswald submits to a beating, which is the worst disgrace a gentleman can undergo. When Cornwall and Gloucester interrupt this shaming procedure, Cornwall asks Kent why he is so angry: "That such a slave as this should wear a sword, / Who wears no honesty" (2.2.72-3). To wear a sword and be afraid to use it, is of course the worst way of having less "than thou showest." Oswald compounds his pusillanimity when he tells Cornwall that the reason he took the beating was to "spare [Kent's] grey beard" (2.2.67), which is a lie. Oswald is pretentious, duplicitous, and cowardly, reinforcing the fact that Kent is modest, plain-dealing, and brave. These qualities earn him a night in the stocks. 
+
+<!--Paragraph 37-->
+There, Kent reaches his apotheosis, perfectly exemplifying his constancy, his generosity, his plainness, and his courage. At the end of a long day, having accomplished less than nothing, he philosophizes: 
+
+<blockquote>
+All weary and o'erwatch'd<br/>
+Take vantage, heavy eyes, not to behold<br/>
+This shameful lodging.<br/>
+Fortune, good night; smile once more, turn thy wheel. (2.2.171-3) 
+</blockquote>
+
+And so ends the scene. It is no accident that the archetypal gentleman should call upon Fortune at this low point, because it is against just such a backdrop of arbitrary and meaningless events that his characteristic constancy stands out. In Stoic language, the word ''fortune'' differed from ''chance'' in nothing but its being ''chance'' personified. She is as arbitrary as a set of dice. Her favours are as undeserved as her slings and arrows. There is no way of telling what she will do next. Shakespeare uses the word ''fortune'' twenty-five times in ''King Lear'', fifteen times in the sense of wealth and status; five times in the sense of luck; and five times as the name of a goddess. The Stoics and their Renaissance descendants almost always call one's money and position one's fortune, whether it is inherited or won. The idea of having ''earned'' one's property or position appears to be a modern one.
+
+<!--Paragraph 38-->
+Those critics who maintain that ''Lear'' takes place in a godless, cruel, meaningless, random universe<ref>Notably Brooke, Elton, Kott, Calderwood, and Matchett.</ref> are probably right. One advantage of Stoicism over Christianity is that it rewards virtue in the real world, whether or not there is a God, whether or not there is a heaven, whether or not the universe is just. Stoicism provides a means of dealing with a godless, random universe, even if, or especially if, it kills you. Its basic premise is that Fortune controls everything but one's body and one's will (Epictetus); by giving up any hope of controlling her and taking charge of body and will, one can make the best of the options still open. Our premise at the end of the twentieth century is the reverse. By taking charge of Fortune—by scientific and medical research, by passing laws, making studies, forecasting natural disasters, averting diseases, installing air bags, taking courses, and preventing war—we can manage to keep what we earn and live a full and rewarding life. This is not reality according to Cicero, who cries out, 
+
+<blockquote>
+Who fails to comprehend the enormous, two-fold power of Fortune for weal and for woe? When we enjoy her favouring breeze, we are wafted over to the wished-for haven; when she blows against us, we are dashed to destruction. (Off. 185) 
+</blockquote>
+
+"Chance drives and tosses human affairs without method" (Epis. 1.103-5), says Seneca, and Montaigne agrees, for "Fortune hath many-many meanes to open a hundred gaps for povertie to enter."<ref>Mont. (1.324); see also ''Off''. (69, 83, 93, 123); ''Ess''. (1.17, 37, 43, 61-3 63, 73-5 75, 93, 105, 149, 319, 441; 2.21, 27, 31, 35, 47, 69, 83, 111, 169, 245, 251, 267, 309, 313, 317, 343, 343, 363-5, 381, 405, 427, 477-9; 3.457, 491); ''Epis''. (1.51, 93, 103, 121, 249, 457; 2.59, 89-91, 117, 127, 159, 167, 191, 199, 215, 243, 301, 433, 441, 447; 3.107, 119, 123 149, 203, 207, 297, 363); Mont. (1.11, 22, 46, 49, 69, 135, 139, 179, 263, 266, 324, 327, 329, 392, 397, 408, 421; 2.36, 51).</ref>
+
+<!--Paragraph 39-->
+Under such circumstances Seneca advises us to emulate 
+
+<blockquote>
+that perfect man, who has attained virtue, never cursed his luck, and never received the results of chance with dejection; he believed that he was citizen and soldier of the universe, accepting his tasks as if they were his orders. Whatever happened, he did not spurn it, as if it were evil and borne in upon him by hazard; he accepted it as if it were assigned to be his duty. "Whatever this may be," he says, "it is my lot; it is rough and it is hard, but I must work diligently at the task."<ref>''Epis''. (3.387; see also 389).</ref>
+</blockquote>
+
+<!--Paragraph 40-->
+These words may serve to describe Kent in the stocks at the end of Act 2, Scene 3--deserted by Fortune, mindful of duty, undismayed, undeluded, and unafraid. Here, he is complete. He has become the pattern of a Stoic hero, a perfect gentleman, "a pair of shoes worn out in the dirt." 
+
+<!--Paragraph 41-->
+Returning to Lear, Kent's king is essentially the same sort of person but, having been seduced by flatterers, he has lost the path. He states: "They told me I was every thing. 'Tis a lie. I am not ague-proof" (4.6.104-5). He passes through Stoic states on his way back to his senses, such as when in the hovel during the storm he discovers that he is no more and no less than a man. In his mad scene with Gloucester he confronts humankind's inherent Yahooism.<ref>For Stoic discourse on this point, see especially ''Ess''. (1.143, 185, 323).</ref> Realizing what he has been and what he has done, and devastated by the knowledge, he throws himself at the feet of Cordelia, who of course forgives him. Nihilistic critics<ref>Notably Brooke.</ref> think that this great step forward is somehow cancelled by Cordelia's subsequent murder, but although the murder cancels a happy father-daughter life ensuing, it does not take away the fact that before she died she knew he asked and he knew she gave forgiveness. If one imagines the play without the reconciliation, one can see immediately that it saves the ending from total negation.
+
+<!--Paragraph 42-->
+In fact Stoicism, which looks at disaster in a way opposite from ours, discovers a positive element in misfortune. In the first place, disaster strengthens the virtuous to meet bigger challenges; and in the second, it highlights their virtues, so that they become beacons of virtue to the rest of the world. Therefore, the Gods reserve the worst ills for their finest human specimens. This is the burden of Seneca's "Essay on Providence" (''Ess''. 1). In this light Cordelia becomes a beacon of virtue, and Lear is tempered in a crucible of misery. And since her death is the worst thing that can possibly happen to him ("the oldest hath borne most"), it enables us to see his full greatness and majesty: his eagerness to learn the truth, his acceptance of his common humanity, his perception of its baseness and of his participation therein, his capacity to reciprocate love, and his courage against all odds. "He who has struggled constantly with his ills becomes hardened through suffering; and yields to no misfortune; nay, even if he falls, he still fights upon his knees" (''Ess''. 1.11). "He is slaine, but not conquered" (''Mont''. 1.252). Seen Stoically, the universe of ''King Lear'' is something like Keats' "vale of Soul-making" (Letter to George and Georgiana Keats, April 21, 1819). It reminds one of Arnold's "Dover Beach": 
+
+<blockquote>
+The world . . .<br/>
+Hath really neither joy, nor love, nor light,<br/>
+Nor certitude, nor peace, nor help for pain;<br/>
+And we are here as on a darkling plain<br/>
+Swept with confused alarms of struggle and flight,<br/>
+Where ignorant armies clash by night.<br/> 
+</blockquote>
+
+Facing such a world, the play counsels as Arnold does: "Love, let us be true / To one another!" In the absence of a grand design, our only solace lies in personal relationships.
+
+<!--Paragraph 43-->
+We have all sorts of explanations, almost as many as there are explainers, of the ending of ''King Lear''. Does he die happy or unhappy? redeemed or unredeemed? Does the play finally express a meaningless and cruel universe or a providential one? Is it about something wrong with the state, or something wrong with its chief executive? Or does it end at all; does it leave all questions open: is it without what we term ''closure''? Critics have increasingly, since the sixties, leaned toward the view that Lear dies unhappy, a victim "more sinned against than sinning" (3.2.60),<ref>See Leggat (xxi, 28-9, 31, 66-8).</ref> and anyone who presumes to blame the victim is demonstrably lacking in compassion.
+
+<!--Paragraph 44-->
+This is not the picture which is presented when ''Lear'' is viewed through a Stoic lens. There is still a meaningless and cruel universe, sure enough, and a Lear who dies unhappy, but there is not a victimized Lear, or an evil system, or a failure of closure. All the negativism of modern criticism is directed against providential, just-universe interpretations; the Stoic approach rules these out.<ref>Wherever did the critical establishment get the idea that Christianity is optimistic? See Myrick for a definitive refutation of this error.</ref> In the real world of arbitrary cause and effect, it was inevitable that by empowering his bad daughters and banishing his good one, Lear invited trouble; nobody but Lear committed this error and he therefore should not be considered a victim. This victim, if anything, blames himself.
+
+<!--Paragraph 45-->
+Despite speculation to the contrary, it seems unlikely, in the light of the accumulated wisdom in 1605, that Lear was wise to divide his kingdom, especially in order to ease the burden of rule. A king does not belong to himself, any more than a president does. In Cicero's opinion, "The citizen who is patriotic, brave, and worthy of a leading place in the state . . . will dedicate himself unreservedly to his country" (''Off''. 89). In fact, Seneca says, "ruling [is] a service, not an exercise of royalty" (''Epis''. 2.399). Sir Thomas Elyot echoes these sentiments, saying "that auctorite, beinge well and diligently used, is but a token of superioritie, but in very dede it is a burden and losse of libertie."<ref>''Gov''. (140; see also 120, 204); ''Ess''. (3.71).</ref> King James warned his son that "being borne to be a king, ye are rather borne to onus, than honos."<ref>James (3); see also James (55, 292); Hall (100).</ref> Lear's first abdication of responsibility was to consider his own comfort.
+
+<!--Paragraph 46-->
+On the question of dividing a kingdom, the authorities are unanimously opposed. In his final section of the Republic, on the dissolution of the state, Plato deplores plural administration (see also James [37]). Thomas Elyot ransacks history for examples divided kingdoms that fail: the successors of Moses, the 2 kingdoms of Israel, the two bishoprics of Judea, the tetrarchs, democracy in Athens, the tribunes in Rome, Florence, Genoa, Ferrara, and England before King Edgar. Such considerations as these also prompted King James' strong desire to unify England, Scotland, and Ireland.<ref>''Gov''. (8-14); James (292); see also ''Gov''. (241) and Robertson (140) on early modern warnings against plural rule.</ref>
+
+<!--Paragraph 47-->
+The Stoic perspective also illuminates a strand of discourse thatappears to lead us directly to closure in the play. It was the great Greeklawgiver Solon who said "no man can truly be counted happy before his death" (''Mont''. 1.16). Montaigne devotes a whole essay to this ultimate truth (XVIII), beginning with the story of how Croesus, once the richest man in the world but now on the point of being put to death, cried out "Oh Solon, Solon." This thought may inform Edgar's curious wonderment about whether the most recent disaster is "The worst" (4.1.1-9, 4.1.24-9, 4.6.137), and the play repeatedly dashes any hopes it may temporarily raise.<ref>See Matchett for the pattern of dashed hopes. </ref> When Lear enters bearing the corpse of Cordelia we know the answer to Edgar's question. ''This'' is the worst. Trying to fend it off, Lear stubbornly refuses to believe she is dead. He imagines that her lips move as if she is saying something, and his final words are 
+
+<blockquote>
+Do you see this? Look on her! Look her lips,
+Look there, look there! [He dies.] (5.3.311-12) 
+</blockquote>
+
+As long as he can postpone the certainty that she is dead, he can postpone the recognition that he himself set in motion the chain of events that killed her--on that fateful day when she said "Nothing, My Lord." Now, what does Cordelia's corpse say to him? Does it not say again, "Nothing"? Does he not arrive now, after searching the whole play long for an answer, at the full knowledge of his own complicity in the disaster that constitutes the play? Is it better to die ignorant?
+
+<!--Paragraph 48-->
+This is beyond the worst. At the same time, it is borne in upon us that Lear has, through intense suffering, undergone a spectacular improvement in character. The hard heart of the man who sent away the only daughter that loved him is now so generous as to break over her loss. Lear has changed for the better.
+
+<!--Paragraph 49-->
+At death, says Montaigne, "Whatever the pot containeth must be shown." In a death-oriented Stoical view, what does King Lear's pot contain? More, I think, than we pragmatists are able see in it. To the Stoic it shows Montaigne's "constancie [which] is valour, not of armes and legs but of minde and courage." It shows us a man who is "slain, but not vanquished" (1.71, 252). Lear's "immortal part" stands forth now, because one's virtue is one's only possession that is not subject to fortune (Ess. 1.63, 65). The Stoic has no problem with the much discussed ending of ''King Lear'', because death is the end of the story; death itself is closure. 
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+
+* Aristotle. ''Nicomachean Ethics''. Trans. H. Rackham. Cambridge, MA: Harvard UP, 1945.
+* Barish, Jonas A., and Marshall Waingrow. "Service in ''King Lear''." ''Shakespeare Quarterly'' 9 (1958): 347-57.
+* Bellah, Robert N., et. al. ''Habits of the Heart: Individualism and Commitment in American life''. Berkeley: U of California P, 1985.
+* Bradley, A. C. ''Shakespearean Tragedy [1904]''. New York: Meridian, 1955.
+* Braudel, Fernand. ''Civilization and Capitalism, 15th-18th Century''. Trans. Sian Reynolds. London: Collins, 1981.
+* ---. ''The Structures of Everyday Life: the Limits of the Possible''. Trans. Sian Reynolds. New York: Harper & Row, 1981.
+* Bray, Alan. "Homosexuality and the Signs of Male Friendship." ''Queering the Renaissance''. Ed. Jonathan Goldberg. Durham, NC: Duke UP, 1994. 40-61.
+* Brooke, Nicholas. "The Ending of ''King Lear''." ''Shakespeare 1564-1964''. Ed. Edward A. Bloom. Providence: Brown UP, 1964. 71-87.
+* Brower, Reuben A. ''Hero and Saint: Shakespeare and the Graeco-Roman Heroic Tradition''. Oxford: Clarendon, 1971.
+* Calderwood, James L. "CreativenUncreation in King Lear." ''Shakespeare Quarterly'' 37 (Spring 1986): 5-19.
+* Castiglione, Baldassare. ''The Book of the Courtier''. Three Renaissance Classics. New York: Scribner, 1953.
+* Cavell, Stanley. ''Disowning Knowledge in Six Plays of Shakespeare''. Cambridge: Cambridge UP, 1987.
+* ---. "The Avoidance of Love." ''Must We Mean What We Say?'' Cambridge UP, 1976.
+* Cicero, Marcus Tullius. ''De Officiis''. Trans. Walter Miller. Cambridge: Harvard UP, 1968.
+* Cohen, Walter. "King Lear and the Social Dimensions of Shakespearean Tragic Form, 1603-1608. ''Shakespeare: Contemporary Critical Approaches''. Ed. Harry Garvin. Lewisburg, Pa.: Bucknell UP, 1980. 106-118.
+* Eliot, T. S. "Shakespeare and the Stoicism of Seneca." ''Selected Essays''. New York: Harcourt, Brace, 1950. 107-120.
+* Elton, William R. King Lear'' and the Gods''. San Marino: Huntington Library, 1966.
+* Elyot, Sir Thomas. ''The Boke Named the Governour''. 2 Vols. London: Dent, 1907.
+* Epictetus. ''Discourses of Epictetus with the Encheiridion and Fragments''. Trans. George Long. London: George Bell, 1877.
+* Graham, Kenneth J. E. "'Without the Form of Justice': Plainness and the Performance of Love in ''King Lear''." ''Shakespeare Quarterly'' 42 (Winter 1991): 438-461.
+* Hall, Joseph, Bishop of Exeter. "Characters of Virtues and Vices." ''Works''. Ed. Philip Wynter. New York: AMS, 1969. 6.89-125.
+* James I. "Basilikon Doron." ''Political Works of James I''. Ed. C. E. McIlwain. Cambridge: Harvard UP, 1918. 3-52.
+* Kott, Jan. "''King Lear'' or ''Endgame'' (1964)." ''Shakespeare, ''King Lear'': A Casebook''. Ed. Frank Kermode. London and Basingstoke: Macmillan, 1975. 
+* Knights, L. C. "Shakespeare's Politics: with Some Reflections on the Nature of Tradition." ''Proceedings of the British Academy'' 43 (1957): 115-132.
+* Laslett, Peter. ''The World We Have Lost''. New York: Scribner, 1965.
+* Leggatt, Alexander. ''King Lear''. Boston: Twayne, 1988. 
+* L'Estrange, Sir Roger. ''Tully's Offices''. London: 1681.
+* Machiavelli, Niccolo. ''The Prince, and Other Works''. Trans. Allan H. Gilbert. Chicago: Packard, 1946.
+* MacIntyre, Alasdair. ''After Virtue: A Study in Moral Theory''. Notre Dame, IN: U of Notre Dame P, 1981.
+* Mack, Maynard. King Lear'' in Our Time''. Berkeley: U of California P, 1965.
+* Matchett, William H. "Some Dramatic Techniques in ''King Lear''." ''Shakespeare: the Theatrical Dimension''. Ed. David A. Samuelson. New York: AMS, 1979. 185-208.
+* Montaigne, Michel de. ''The Essays of Michael Lord of Montaigne''. Trans. John Florio. World's Classics. London: Frowde, 1904. 
+* Myrick, Kenneth. "Christian Pessimism in ''King Lear''." ''Shakespeare 1564-1964''. Ed. Edward A. Bloom. Providence: Brown UP, 1964. 56-70.
+* Plato. ''The Republic''. Ed. F. M. Cornford. New York and London: Oxford UP, 1959.
+* Robertson, D. W. Review. ''Shakespeare Quarterly'' 37 (1986): 139-141.
+* Rosenblatt, Roger. "An Inescapable Need to Blame." (Review of Russell Banks. ''The Sweet Hereafter''. New York: Harper Collins, 1991.) ''New York Times Book Review'' leading article, 15 Sept. 1991.
+* Sacks, Claire, and Edgar Whan, eds. Hamlet: ''Enter Critic''. New York: Appleton-Century-Crofts, 1960.
+* Schneider, Ben Ross, Jr. ''The Ethos of Restoration Comedy''. Urbana: U of Illinois P, 1971.
+* ---. "Granville's Jew of Venice: a Close Reading of Shakespeare's Merchant." ''Restoration'' 17 (Fall 1993): 111-134.
+* Seneca, Lucius Annaeus. ''Moral Epistles''. 3 Vols. Trans. Richard M. Gummere. Cambridge, Mass: Harvard UP, 1917-25.
+* ---. ''Moral Essays''. 3 Vols. Trans. John W. Basore. London: W. Heinemann, 1928-1935. 
+* Shakespeare, William. ''King Lear''. ''The Riverside Shakespeare''. Ed. Blakemore Evans. Boston: Houghton Mifflin, 1974.
+* Strier, Richard. "Faithful Servants: Shakespeare's Praise of Disobedience." ''The Historical Renaissance: New Essays on Tudor and Stuart Literature and Culture''. Ed. Heather Dubrow. Chicago: U of Chicago P, 1988.
+* Wells, Charles. ''The Wide Arch: Roman Values in Shakespeare''. New York: St. Martin's P, 1993.
+
+{{BookCat}}
