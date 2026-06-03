@@ -1,0 +1,225 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/"This innocent worke": Adam and Eve, John Smith, William Wood and the North American Plantations}}
+''This essay was written by Graham Roebuck''.
+
+<!--Paragraph 1-->
+This paper enters the "labyrinth" (John Smith's word) of complex relationships unfolded in the works of two promoters of the English colonization of the territories they named "New England": Smith and William Wood. Captain John Smith, sometime Governor of Virginia, and Admiral of New England, as he styled himself, wrote ''New Englands Trials'' (London, 1620) and ''Advertisements for the Unexperienced Planters of New England'' (London, 1631) as inducements for colonists, to warn against the mistakes committed in Virginia, and as exercises in apologetics for the English providential destiny. The commencement of the latter facet of his work provides the title of this paper. Cited as a primary reason for plantation is that "Adam and Eve did first begin this innocent worke to plant the earth to remaine to posterity, but not without labour, trouble, and industry."<ref>A facsimile edition of a copy in the British Library, ''ADVERTISEMENTS For the Unexperienced Planters of New England, or any where [etc.]'' (Amsterdam: Da Capo Press, 1971) 10. </ref>
+
+<!--Paragraph 2-->
+Late twentieth-century criticism has not looked kindly on the ascription of innocence to the colonial projects of early-modern times. Subjugation and victimization of colonised peoples are more readily stressed than, say, the benefits of the Gospel brought to savage societies, thus reversing the dominant view of an earlier age. Feminist perspectives frequently link the evils of colonisation with the perceived subjugation of women in early-modern western societies, and both to the inherent evils of hierarchy. An instance—one to serve for many—is Mary Ann Radzinowicz's interrogation of John Donne (closely connected to the Virginia Company). He is silent, she finds, on a number of incriminating issues, silences which are "actions . . . politically instructive," and they include "Donne's silence about England's colonization of America, about her pacification of Ireland, about the socio-political role of exceptional women."<ref>"The Politics of John Donne's Silences," ''John Donne Journal'' 7.1 (1988): 2. </ref>
+
+<!--Paragraph 3-->
+In what follows, a close reading of William Wood's pamphlet on New England (''New Englands Prospect'' [1634]) in the context provided by Smith's experience of Virginia, and his hopes (unrealised) for a leading role in the new New England sphere, shows how complex the issues of colonisation and of male-female relations were recognised to be by the participants. The essay attempts to be as free as possible from doctrinal criticism, even if the consequence is to render modern attitudes to the past more problematical. Detailed studies of the North American plantations remove the need for more than cursory treatment of the historical contexts, though several recent studies of John Smith are drawn upon.<ref>In general, the Massachusetts Bay Company comes in for more sympathetic treatment than the Virginia colony, for obvious reasons. One of these is, of course, the recognition by American scholars, particularly, of the keen sense of constitutionality among the Massachusetts settlers, seen as leading to the foundation of the American Constitution. A condensed and classical account along these lines is Edmund S. Morgan, "The Massachusetts Bay Company and the People," ''Puritanism in Seventeenth-Century Massachusetts'' ed. David D. Hall (New York: Holt Rinehart and Winston, 1968) 43-48.</ref>
+
+<hr/>
+
+<!--Paragraph 4-->
+Smith's boisterous enthusiasm for the colonial project does not conceal the tangle of contradictions, ethical and practical, in which the project is enmeshed. The work of Adam and Eve is simultaneously carried forward and obstructed by flawed, incompetent, rapacious and villainous humans. His rider to the work of Adam and Eve—that it is not without trouble—turns out to be a mild understatement.
+
+<!--Paragraph 5-->
+William Wood's 1634 treatise, ''New Englands Prospect'', written in a context established by Smith, whom Wood honours as "thrice memorable," adds yet another layer of complication—male-female relationships. Its ninety-eight pages of text (to which are added epistles dedicatory, a map of the Massachusetts Bay region, a commendatory poem to the author by his friend "S.W.," and a table of words gathered from the native Indian tongues) make a substantial pamphlet. It is intended as promotional material for a colony of doubtful viability, which has been unfavourably reported at home, as Wood reveals in stating his purpose: 
+
+<blockquote>
+I did it the rather, because there hath some relations heretofore past the Presse, which have beene very imperfect; as also because there hath beene many scandalous and false reports past upon the Country, even from the sulphurious breath of every base ballad-monger.<ref>A facsimile edition of a copy in the Bodleian Library, ''NEVV ENGLANDS PROSPECT'' (Amsterdam: Da Capo Press, 1968) sig. A3v.</ref>
+</blockquote>
+
+<!--Paragraph 6-->
+Nevertheless, Wood's attempt at restoration of the New England plantation's reputation studiously avoids Smith's tone of vexation, and his sense of despair, while taking into account the former Governor of Virginia's analysis of the evils which beset his colony. An instance of Smith's mood, which might strike a responsive chord among us, is his exasperation with the timorousness of those who have failed to follow his own bold example in colonisation: 
+
+<blockquote>
+I neuer had power or meanes to do anything (though more hath beene spent in formall delayes then would haue done the businesse) but in such a penurious and miserable maner, as if I had gone a begging to builde an Vniuersity.<ref>A facsimile edition of a copy in the Bodleian Library, ''NEW ENGLANDS TRIALS'' (Amsterdam: Da Capo Press, 1971) sig. C. This is a "slightly revised version of a letter Smith had written to Francis Bacon" after his elevation to the peerage. See J. A. Leo Lemay, ''The American Dream of Captain John Smith'' (Charlottesville and London: UP of Virginia, 1991) 48. Lemay describes also the second, enlarged, edition of 1622. </ref>
+</blockquote>
+
+<!--Paragraph 7-->
+Once the Virginia colony was founded, its continuation was jeopardised by the home merchants' habit of sending out not useful workmen, but "Officers . . . Masters, Gentlemen, Gentlewomen," craftsmen to work the anticipated hoard of gold and precious gems, gallants, loiterers, spies—"all the trash" of London; and, while blaming Smith and his associates for not "converting the Salvages," they sent men "little better, if not worse," than the savages themselves. With bitter irony, Smith recalls the 1622 massacre of 347 colonists in Virginia by Indians whom the home merchants regarded as "their bosome friends," even to the point of accusing Smith of having oppressed them.<ref>''Advertisements'' 4-7.</ref>
+
+<!--Paragraph 8-->
+No doubt Captain Smith's relationship with the native inhabitants was one of labyrinthine complexity. For instance, Lemay plausibly presents a Smith who "sympathized with the plight of the Indians - and even with their reasons for wanting to kill the whites".<ref>Lemay 127.</ref> Although Smith does not mention it in either ''Advertisements'' or ''Trials'', the most famous episode of his life is his salvation from imminent death by Pocahontas (a.k.a. Matoaka), twelve-year old daughter of the Indian the chief, Powhattan. In 1612 she had been seized as a hostage by the English to ensure the return of colonists made captive by the natives, and subsequently converted to Christianity, married to John Rolfe, and taken to England, where she died in 1616.<ref>Karen Ordahl Kupperman, ''Captain John Smith: A Select Edition of his Writings'' (Chapel Hill, N.C. and London: U of North Carolina P, 1988) 57, notes the increased elaboration of Smith's story with each telling. Lemay observes that Smith probably "was being ritualistically killed. Reborn, he was adopted into the tribe, with Pocahontas as his sponsor. But Smith, of course, did not realize the nature of the initiation ceremony" (51-52).</ref>
+
+<!--Paragraph 9-->
+However ambivalent Smith may have been, he is clear—at least in 1630 he is clear—about the providential right of the English to own the land mass from Florida to Virginia to New England to Canada. He raises the question posed by "good devout religious men" about the right to possess the lands of the "poor Salvages." Smith answers with certainty, both in general, that this is the "innocent worke" begun by Adam and Eve, and in particular, that here is an immense stretch of land largely uninhabited: 
+
+<blockquote>
+And here in ''Florida'', ''Virginia'', ''New-England'', and ''Cannada'', is more land than all the people in Christendome can manure, and yet more to spare than all the natives of those Countries can use and culturate.
+</blockquote>
+
+The natives are only too happy to share: 
+
+<blockquote>
+If this be not a reason sufficient to such tender consciences; for a copper kettle and a few toyes, as beads and hatchets, they will sell you a whole Countrey . . . the ''Massachusets'' have resigned theirs freely.<ref>''Advertisements'' 10.</ref>
+</blockquote>
+
+He points out the advantages that the Gospel and civilization bestow on "barbarous and inhumane Nations," and that this work follows in the steps of the great empires, which ruled "as fathers, not as tyrants; their people as children, not as slaves." Had it not been for the Fathers "even we our selves had at this present beene as Salvages, and as miserable as the most barbarous Salvage, yet uncivilized" (11). This opinion is a slight variation on a topos of the savagery of the Britons before the Romans civilised them by sword, which is sometimes invoked by Virginia colonisers.<ref>Stephen Orgel, "Shakespeare and the Cannibals," ''Cannibals Witches and Divorce: Estranging the Renaissance'', ed. Marjorie B. Garber (Baltimore: Johns Hopkins UP, 1987) 41-66, discusses pictorial representations of British and American savages, showing the replication of motifs. He quotes Thomas Harriot in his account of Virginia: "the inhabitants of the Great Britain have been in times past as savage as those of Virginia" (42-44).<br/>
+That the Irish situation was similar to the American has often been asserted. Mary Ann Radzinowicz concedes: "The political and historical parallel between America and Ireland as subjects of English expansion . . . has become something of a new historical commonplace" (18 n. 20)<br/>
+For a full account of how English common law managed to destroy the legitimacy of Irish land-holding custom, especially "tanistry," see Hans S. Pawlisch, ''Sir John Davies and the Conquest of Ireland: A study in Legal Imperialism'' (Cambridge: Cambridge UP, 1985) ''passim''. See also W. G. Roebuck, "Legal Imperialism," ''Canadian Journal of Irish Studies'' XIII.1 (June 1987): 137-143, which touches upon the contribution of Davies' legal dexterity in Ireland to the making of the British Empire.</ref> Another justifying sign is that "it seemes God hath provided this Country for our Nation, destroying the natives by the plague, it not touching one Englishman though many traded and were conversant amongst them."<ref>''Advertisements'' 9. </ref>
+
+<!--Paragraph 10-->
+I return to Wood from this excursion with Smith by remarking that what Smith observed in his many adventuresome years in the New World is not very much tinged with doubt about the enterprise. The labyrinth of despair is for him principally a consequence of the vexatious obstruction of his schemes and the aspersions cast upon his honour (which include an accusation of mutiny). But it is a real labyrinth nonetheless. Smith, as Kupperman and Lemay have shown, recognized in Powhattan's empire an effective hierarchical structure through which the great chief, or "King," as Smith often terms him, exercised his power. In the colonists' society, by contrast, Smith recognised an etiolated hierarchical structure which favoured "drones" over workers, thus weakening the real locus of its power: technology. Kupperman asserts that Smith coined the term "technological" (16), and the ''OED'' ascribes it to Smith's ''Seaman's Grammar'' (i.e. ''A Sea Grammar''). The coinage itself is not as important (the ''OED'' reports "technologie" a dozen years earlier) as Smith's remarkably clear grasp of the political power of the new European technology. For Smith it was necessary, therefore, to retain the power to overawe his shrewd antagonist, and folly to cast it away for delusory magnanimity or tender conscience.
+
+<!--Paragraph 11-->
+Wood, writing a few years later from his experience of the New England of the tender consciences (Smith refers disparagingly to the Brownists at Plymouth, and to the deleterious effects of sectarians), stumbles into the heart of the matter.
+
+<!--Paragraph 12-->
+We have a strong impression of Smith's extroverted character, his vivid adventures, and of the kind of circles in which he aspired to move. His ''Advertisements'' is dedicated to both the Archbishops, for instance, and it concludes with ringing praises of the great Elizabethan sea dogs, and of Elizabeth herself. Of Wood, by contrast, we know little.<ref>J. Franklin Jameson, ed., ''Johnson's Wonder-Working Providence 1628-1651'' (New York: Charles Scribner's Sons, 1910) 91 n., remarks that Wood left New England on August 15, 1633. He gives no source for this information.</ref> His book seems to be his sole published work. It is dedicated to Sir William Armine, one of the Puritan gentry of Boston, Lincolnshire. We do not know what became of him, but he did live at Salem both before and after his book came out.<ref>See Samuel Eliot Morison, ''The Intellectual Life of Colonial New England'' (New York: New York UP, 1936) 178 n.</ref> Sir William Armine's wife, we are told, was greatly interested in proselytizing the Indians, and in the project of translating Scripture into Indian tongues. Wood's fairly extensive word list, or ''Nomenclator'', may bear witness to such a connection.
+
+<!--Paragraph 13-->
+To achieve his end of renewing faith in the New England colony, Wood employs an admirably cool rationality, (contrasted with Smith's hasty exasperation), coupled with a confident way of refraining from gross credulity; he scrupulously maintains the separation of his own experiences from reports of others, even when the latter could be construed as favourable to the colony's reputation. In this way he accumulates a fund of credibility which, as we shall see, he will need to spend.<ref>Wood's factual and empirical reliability is the main point in the very few references to him in scholarship. Jameson (91 n.) takes Wood's testimony that good English grain had been grown in New England.<br/>Samuel Eliot Morison, ed., ''Of Plymouth Plantation 1620-1647 by William Bradford Sometime Governor Thereof'' (New York: Alfred A. Knopf, 1959) 122 n., mentions Wood's description of striped bass, and, Wood's praise of the good water of New England (143 n.).</ref> He falters very rarely. One possible instance is in the case of lions: "I will not say that I ever saw any my selfe" he says, but notes that others have seen them not six leagues from Boston, and he knows that there was some Plymouth trade in lion skins. Then he credits a Virginian's eyewitness report and concludes, "But sure it is that there be lyons on that Continent".<ref>19. Of course, several native members of the cat family could be easily mistaken for lions.</ref>
+
+<!--Paragraph 14-->
+He is also diligent in mensuration. Perhaps excessively so, for a reader hindsighted with Swift's spectacles may catch a glimpse of Lemuel Gulliver in Wood, pacing things out, measuring the large by the small, delighting in the larger dimensions of the New World with a certain grave smugness, alternated with breezy patriotism. But this is only a glimpse or a hint, for, as this further digression from my theme of sexual relations is intended to suggest (to make a proof of it being beyond the scope of this paper), Wood writes as a man who deserves to be believed.<ref>He scores far higher than most modern public-relations practitioners even attempt to score on the measure of honesty.</ref>
+
+<!--Paragraph 15-->
+We may also conclude that he was successful—or at least, that his project succeeded, there being now more than the "four thousand souls" he then numbered in the Massachusetts colony. Seeing the numbers of those at length attracted to settle in Massachusetts, and their economic triumphs, Wood might well rejoice. From another point of view, however, if he could look down from the hill of history, he might, like Milton's Adam, weep over the catastrophe, at the outcome of the project, of the "innocent worke" begun by Adam and Eve, as Smith puts it. I refer to Wood's vision of an English colony co-existing in perpetuity with the several Indian nations of the region in a kind of harmony induced by English polity. He, like Smith, recognizes that such a condition, in the first instance, rests on the superior technology and power of the English, but he does not follow this line of thought much further. His account has many instances of the exchange of knowledge between the Indians and colonists, but does not envisage any ultimate equality of power. Smith was especially alert to the necessity for his English colonists to learn the technology of the natives.<ref>Smith was fully alert to the ability of the natives to learn the use of European technology, as his scathing contempt for the London merchants of the Virginia Company shows: "they regarded nothing but Tabacco; a commodity then so vendable, it provided them all things; and the loving Salvages their kinde friends, they trained so well up to shoot in a Peece, to hunt and kill them fowle, they became more expert than our owne Country-men" (''Advertisements'' 3).</ref>
+
+<!--Paragraph 16-->
+Not quite the "honest man sent abroad to lie for his country," as his contemporary, Sir Henry Wotton, defines the ambassador, nor yet a Mr. Kurtz seeing only "the horror, the horror," Wood is touched a little with these complexions in his split-personality role as New England apologist to the Old, and Old England explorer in the wilderness. Still, he retains his bottom of good sense in judicious estimates of what can and cannot be expected of, and by, new immigrants, in advising what commodities to bring, what prices prevail, and what, realistically, the dangers are which threaten to obliterate this toe-hold English colony.
+
+<!--Paragraph 17-->
+Wood addresses the practical problems of colonizing—setting up and maintaining households in all seasons—at a level with which Smith does not really concern himself. Certainly, Smith talks about the gentlemen and gentlewomen who arrived in Virginia whining about how inferior the comforts were to those of home, and he has no sympathy with them: "more Masters, Gentlemen, Gentlewomen, and children, than you have men to worke, which idle charge you will finde very troublesome, and the effects dangerous."<ref>''Advertisements'' 5.</ref> In New England, however, he remarks approvingly, the settlers will use "no superfluity" of officers, but will oversee their own estates, and practise good husbandry.
+
+<!--Paragraph 18-->
+It takes twos to colonize: male and female must go forth, multiply, be fruitful and have dominion. What in Wood reads at first like an inventory of the commodities necessary to lure the poor, the greedy, or the rich—or, indeed, the adventurous in spirit—to New England, is rendered vastly more complex and more interesting by Wood's eventual confrontation of the problem of sexual duality.
+
+<!--Paragraph 19-->
+It is well known that, in the course of exposing, denouncing, and rejecting the male-female hierarchy, and "patriarchy," which is perceived as underpinning aggression in Western civilization, some voices in the current feminist resurgence have had much to say about colonization. Sometimes it is treated as a metaphor or paradigm of the fundamental element of male activity, namely, the need to dominate and subjugate. Some feminist academics would agree with Carol Neely's conclusions when she interrogates "contradictions in Phallogocentric discourse," that even though they cannot colonize physically and geographically any more, male scholars (especially those who study the Renaissance) will not—or cannot—give up their culturally and textually constructed gender roles. Rather, under whatever guise of critical approaches, including those of seemingly feminist-friendly aspect, they just carry on "re-producing patriarchy—the same old master plot."<ref>"Constructing the Subject: Feminist Practice and the New Renaissance Discourse," ''English Literary Renaissance'' 18 (Winter, 1988): 5-18.</ref> Perhaps Professor Neely thinks that true of Stephen Greenblatt, who, in his ''Renaissance Self-Fashioning'', would seem to want to be Neely's friend, recommending texts which represent "women's unruliness . . . not as the exception, but as the rule."<ref>''Renaissance Self-Fashioning'' (Chicago: U of Chicago P, 1980) 18.</ref>
+
+<!--Paragraph 20-->
+Is "Come, live with me and be my love" essentially the same invitation as "Come colonize with me, and then be colonized"? When females are themselves colonists, acting out the imperatives of the Western Civilization project, are they subverted, or do they subvert? When Eve viewed the tree, delightful to sight, good for food and desirable for wisdom, and gave some of its fruit to Adam (Gen 2:6), was she fulfilling the earlier dominion imperative to males and females of Genesis 1:28? As I am no theorist of feminism, or of politics, I must refrain from attempting any less superficial probing of the question, and proceed to describe the dilemma William Wood ineluctably encountered while he was embarked on what he might have thought was a straight-forward public relations venture.
+
+<!--Paragraph 21-->
+To describe his problem, it is necessary to take a swift prospect of his pamphlet. He divides his work into two parts, but there is a third part, which hints at the way in which he will construct his account, namely, his letters dedicatory. They are of a familiar kind in the travel and navigational literature of the period, and constitute a simple hierarchy: one up, one down. The first is to his noble patron, in which he uses, neatly, a trope of imitation and example (later in the pamphlet he renews his interest in how exemplary behaviour works), in the following words: 
+
+<blockquote>
+And as it is reported of that man whose name was ''Alexander'', being a cowardly milke-sop by nature, yet hearing of the valiant courage of that magnificent ''Hero'', ''Alexander'' the Great, whose name hee bore, he thenceforth became stout and valorous. (sig. A2) 
+</blockquote>
+
+Here is the typical hierarchical relationship of richer to poorer, in which the petitioner (actually, the able, experienced, not-wealthy author) proposes, under his guise of timidity, to take on the noble character of his patron.
+
+<!--Paragraph 22-->
+The second letter is to the Reader. In this case, the Alexander trope is beautifully adapted by reference to Diogenes, whom Wood uses as an instance of one who could not take upon himself the nobler mantle: 
+
+<blockquote>
+[Diogenes] ''contemned the Port and Pallace of'' Alexander, ''which he knew not''. ''So there is many a tub-brain'd Cynicke, who because any thing stranger than ordinary, is too large for the straite hoopes of his apprehension, he peremptorily concludes it is a lye: But I decline this sort of thicke-witted readers.'' (sig. A3)
+</blockquote>
+
+<!--Paragraph 23-->
+Throughout the work, in lively and crisp animadversions on his slothful, unadventurous or idle Old England readers, Wood strikes out the authentic notes of what was to become later the American Democracy, which is not for him the slavish subservience to authority. New England, he intimates, is where men are rewarded for their labours, and admired for their skill, with no mere deference to power or influence. The clergy are active members of the colonizing enterprise, rather than entrenched establishment. Smith, on the other hand, preferred his prelates to stay home, and regarded missionaries as interferences. But Smith does not reject the established Church.<ref>In ''Advertisements'', Smith desires settlers who are "good Catholike Protestants according to the reformed Church of ''England''" (2).</ref>
+
+<!--Paragraph 24-->
+After the letters dedicatory, which suggest Wood's subtle understanding of social hierarchies, follows a sober account of commodity and supply, acreage, provision, profit and loss, and the like aspects of New England life, guaranteed thus in his letter "To the Reader": 
+
+<blockquote>
+''my conscience is to me a thousand witnesses, that what I speake is the very truth, and this will informe thee almost as fully concerning it, as if thou wentest over to see it.''
+</blockquote>
+
+He proceeds to itemize (sometimes celebrating in verse) the riches of New England, inviting Old Englanders to come and possess the land. There are some discouraging aspects cited, such as the perilous journey, insufficient provision, too high expectations, the climate, the natives, and wild beasts. They are deftly disposed of in optimistic mode. Only at the conclusion of Part I does he reveal a serious threat: Spaniards. This problem discussed, he concludes on a high note. Settlers well-provided with arms and exemplary military training can withstand any Spanish adventure.<ref>Wood refers to the loss of St. Kitts (54). In 1629 a Spanish fleet took the island after the English garrison under George Donne, the poet's son, was forced to surrender. In his "Virginia Reviewed" Donne expressed the view that Virginia could be successfully defended, but he also comments on "delinquent" planters in Virginia, and characterizes New Englanders as "desperate Enthusiasticks." See R. C. Bald, ''John Donne: A Life'' (Oxford: Oxford UP, repr. with corrections 1986) 520, 552-53.</ref>
+
+<!--Paragraph 25-->
+The second half of Wood's pamphlet is titled "Of the ''Indians''." This proves to be an altogether different kind of account, as Wood has promised in his letter "To the Reader": 
+
+<blockquote>
+''Now whereas I have written the latter part of this relation concerning the'' Indians, ''in a more light and facetious stile, than the former; because their carriage and behaviour hath afforded more matter of mirth, and laughter, than gravity and wisdome; and therefore I have inserted many passages of mirth concerning them, to spice the rest of my more serious discourse, and to make it more pleasant''. 
+</blockquote>
+
+Wood's "facetious stile," however, is a higher style than that which he uses for commodity, the verse passages notwithstanding. It is as if, inverting the hierarchy, he advertises his high style as low. The subject matter is also altogether more intriguing: no longer is New England a just source of commodity—other people live there, and they prove to be various and puzzling. Are they in a state of Nature, or, like the European intruders, subject to custom, law and national interest? At one point, Wood plays with the conjecture that "they might be of the dispersed ''Iewes'', because some of their words be neare unto the ''Hebrew''" (91).
+
+<!--Paragraph 26-->
+The author takes pains to distinguish from each other the attitudes of the several Indian nations in the area. Some are inhuman cannibals (horrible instances are given), some warlike, others tractable and "noble." It is on the latter—adherents of the English, not of the French or of the Dutch—that Wood bases his case. As the first part concentrates on commodity, and comes to focus on the greatest threat to it, Spaniards, so the second part, dealing with the political relationships of the community, comes to focus on women.
+
+<!--Paragraph 27-->
+By means of a kind of comparative anthropology of his native hosts and the colonists, he is able to probe the significance of male-female relationships in the future of the colony. Wood's valiant striving in his "facetious stile" with the complex set of relationships he discovers resembles the actions of a man caught in a net: each effort to tug free engages the next more intractable strand. The rest of this paper, therefore, attempts to describe and account for the strands of Wood's argument.
+
+<!--Paragraph 28-->
+There are many Indian nations in contact with the colony, most of them savagely inhospitable. These are, of course, characterized as wild beasts, and contrasted with "our Indians" (56-7), the Aberginians and their allies such as the Pequants and Narragansets. These are exemplars of the noble savage: 
+
+<blockquote>
+straight bodied, strongly composed, smooth skinned, merry countenanced, of complexion something more swarthy than ''Spaniards'', black hair'd, high foreheaded, blacke ey'd, out-nosed, broad shouldred, brawny arm'd, long and slender handed, out brested, small wasted, lanke bellied, well thighed, flat kneed, handsome grown leggs, and small feete: In a word, take them when the blood briskes in their veines, when the flesh is on their backs, and marrow in their bones, when they frolick in their antique deportments and ''Indian'' postures; and they are more amiable to behold (though only in ''Adams'' livery) than many a compounded phantasticke in the newest fashion. (62-3)
+</blockquote>
+
+Indeed, Wood's appreciation leads him to use these Indian men as a glass wherein the deformity of many English types may plainly be seen. They are, in a word, masterful.
+
+<!--Paragraph 29-->
+Wood must now face the question of why this ''Übermensch'' of nature would choose subjugation to the English. This is his answer: 
+
+<blockquote>
+[These Indians] had rather be servants to the ''English'', of whom they were confident to receive no harme, and from whom they had received so many favours, and assured good testimonies of their love, than equals with them [the bestial Indians], who would cut their throates upon the least offence. (70)
+</blockquote>
+
+Having painted this portrait of simple majesty thus complicated by the image of a superior species choosing inferior status because of love, Wood must now depict the bestial, "heartlesse" (77) Indians. They once plotted a violent treachery against some English traders resident among them. The plot was exposed by their own women, who did so, we read, out of "pitty" (76) for the foreign men. The outcome is swift and brutal. The King of the "heartlesse" Indians is dragged forth by the "long haire" and shot to death by the English, who demand the return of their trading commodities and impose a peace settlement. The question left hanging concerns the actions of the pitying women.
+
+<!--Paragraph 30-->
+A king of the friendly Indians, who, as we have learnt, live in agreeable, loving subservience to the English, expresses a decidedly masterful view of the place of women, when he witnesses 
+
+<blockquote>
+an ''English'' woman scold with her husband, her quicke utterance exceeding his apprehension, her active lungs thundering in his eares, expelled him the house; from whence he went to the next neighbour, where he related the unseemelinesse of her behaviour; her language being strange to him, hee expressed it as strangely, telling them how she cryed Nannana Nannana Nannana Nan, saying he was a great foole to give her the audience, and no correction for usurping his charter, and abusing him by her tongue. (73)
+</blockquote>
+
+<!--Paragraph 31-->
+The beast of a dilemma with many horns may be glimpsed stirring in Wood's facetious narratives. Just how should women comport themselves in order both to prevent injustice and live a stable protected life? What should men, in order to live the good life, allow or suppress in the behaviour of women? The kind "pitty" of the "heartlesse" Indian women leads to the subjugation of their nation while preventing a treacherous injustice to the foreigners. The "thunder" of the English woman leads to the top-dog colonist losing his "charter" and becoming an object of derision to the subjugated Indian king. He, in his turn, while evidently reigning supreme over his women becomes a servant of the English. The first confident picture, the Adamic splendour of the Indian male has, on inspection, dissolved. What, then, of his Eve?
+
+<!--Paragraph 32-->
+Several passages describe the stoical, patient industry of Indian women, which turns out to have as its necessary corollary the idle, childish, vain slothfulness of the Indian male, who had earlier been compared favourably with English "phantistickes" in the latest fashions. Now, like the idle gallants of Smith's Virginia, the Indian male 
+
+<blockquote>
+had rather starve than worke, following no employments, saving such as are sweetened with more pleasures and profit than paines or care, and this is indeed one of the greatest accusations that can be laid against them, which lies but upon the men, (the women being very industrious) but it may be hoped that good example, and good instructions may bring them to a more industrious and provident course of life. (78)
+</blockquote>
+
+There, in the question of example, is the rub. When writing admiringly of the easy manners and magnanimity of the Indian men, Wood has presented their squaws as a low under-class. Wives are mere servants who "dance a Spaniell-like attendance" (68).
+
+Keen to tell all he knows and to explore as many aspects of social relationship as possible, Wood tells a cautionary tale of a squaw who was not entirely spaniel-like behind her husband's back. It calls forth his most elaborate rhetorical effects. The husband in question is even given a name; "There was one ''Abamoch''<ref>It is notable that this is the only Indian named by Wood (as distinct from being given a title), and the name closely resembles "''Abamocho''" or "''Abbamocho''" which Wood uses repeatedly in his account, and glosses in his word list as "the divell" (sig. O2).</ref> married a Wife, whom a long time he intirely loved above her deservings" (81). There follows a familiar story, prefaced by some underlining of the sanctity of marriage in Indian life. It is mutually contracted, sealed with a dowry, solemnized by the king, and intended for the duration of life. The patiently magnanimous Abamoch is at last compelled to make trial of his wife because of the persistence of rumours and hints from his friends about her conduct: 
+
+<blockquote>
+[He] makes a light to discover what hee little suspected; but finding his friends words to bee true, hee takes a good bastinado in his hand brought for the same purpose, dragging him [the lover] by the hair from his usurped bed, so lamentably beating him, that his battered bones and bruised flesh made him a fitter object for some skilfull Surgeon, than the lovely obiect of a lustfull strumpet; which done he put away his wife, exposing her to the curtesie of strangers for her maintenance, that so curtesan-like had entertained a stranger into her bosome. (82)
+</blockquote>
+
+Thus he ends the chapter with balanced clauses and satisfying symmetry. It is interesting to compare this story with that of the pitying women and the heartless king, who is dragged forth by the hair for his treachery, revealed by women. Here the treacherous woman is revealed by male tongues, and like the king severely punished. But although achieving a balance here, Wood cannot end his narrative on a domestic fable, for his discourse is about New England's prospect—necessarily a colonial story, and more complex than his neat exemplum of violent retributive justice.<ref>It is worth noting that the Massachusetts colony in its "Body of Liberties" legislated two matters in respect of the rights of women. The first was to provide for fair inheritance rights, and the second acknowledged the right of women to be free from bodily correction by their husbands, except in the case of husbands exercising self-defence against wifely assault. See Edmund S. Morgan, ''Puritan Political Ideas 1558-1794'' (New York: Bobbs-Merrill, 1965) 194. These laws, adapted by John Cotton in 1636, whom Morgan describes as a bringer of Mosaic Law to Massachusetts, were encoded in 1641. They must have been in Wood's thoughts as he composed his pamphlet.</ref>
+
+<!--Paragraph 34-->
+He must say more about Indian Eve, for she has become, ineluctably, the linchpin of his account, as heroine supplanting the former Adamic male. And what he has to say concerns the sweat of her brow more than the labour of childbirth. The latter, it seems, serves scarcely to punctuate her laborious life: "a bigge bellie hinders no businesse, nor a childebirth takes much time" (96). Her business is described at length: a lyrical eclogue by the admiring male colonist. Women's business includes (and this is a brief summary) building houses, weaving cloth, acting as beasts of burden, cooking, food-curing, gathering, storing grain, diving for lobster, digging for clams, drawing and carrying water and—in a term preserving its rich irony—husbandry. Wood remarks that in their gardening and farming "they exceede our English husband-men" (95). All this they perform with a sweet grace and a modest civility, bearing their pappouses on their backs, and singing so well that "a goode ear might easily mistake their untaught voyce for the warbling of a well tuned instrument. Such command have they of their voices" (96).
+
+<!--Paragraph 35-->
+It is little wonder that Wood is moved, as if charmed by the Graces, to reveal the inner truth of the matter: these women, for all their hierarchical subordination to their noble savage menfolk (whose behaviour is described as "customarie churlishnesse and salvage inhumanitie" (97), are superior. So much more are they to be esteemed because they do not even presume "to proclaime their female superiority to the usurping of the least title of their husbands charter" (97). It is interesting to recall that the sole other use of the expression "usurping a husbands charter" is where Wood, as we have seen, reports the Indian king's scorn for the Englishman with his thunder-lunged wife.
+
+<!--Paragraph 36-->
+The purpose of the final chapter<ref>Chapter XX. A printer's error numbers it XIX. </ref> Wood declares to be: "to satisfie the curious eye of women-readers, who otherwise might thinke their sex forgotten, or not worthy a record" (94). Wood's breezy discourse of profit, loss, dominion and war, and the Spanish threat, has been, in effect, the prelude to his feignedly-facetious afterthought of women. Many events have transpired in the short history of the colony—events fit for comic or heroic discourse, but probably none more significant than this, part of his continued account of the Indian women: 
+
+<blockquote>
+since the ''English'' arrivall comparison hath made them miserable, for seeing the kind usage of the ''English'' to their wives, they doe as much condemne their husbands for unkindnesse, and commend the ''English'' for their love. As their husbands commending themselves for their wit in keeping their wives industrious, doe condemne the ''English'' for their folly in spoyling good working creatures. These women resort often to the ''English'' houses where ''pares cum paribus congregatk'', in Sex I meane, they do somewhat ease their miserie by complaining and seldome part without a releefe. (97)
+</blockquote>
+
+Where equal meets equal in sex, what ensues? And in what respect are they equal—in superiority? in needing relief? Wood has faced the dilemma, but, not surprisingly, cannot wrestle it to the ground. But he does finish the account: 
+
+<blockquote>
+If her husband come to seeke for his ''Squaw'' and beginne to bluster, the ''English'' woman betakes her to her armes which are the warlike Ladle, and the scalding liquors, threatening blistering to the naked runnaway, who is soon expelled by such liquid comminations. (97)
+</blockquote>
+
+What price male warriors in such warfare?
+
+<!--Paragraph 37-->
+Wood's pamphlet has been addressed to his English reader, male and female. The latter is either the real key to his future success or, analogue of the Spaniard, the potential cause of the colony's demise. Virginia has provided an object lesson in the consequences of a superfluity of idle gallants and fantasticks, and a dearth of industrious women. The English woman with the warlike ladle, ally by nature (or is it custom?) to the superior squaw, must be pacified and entreated to the colonial enterprise. To achieve this the author symbolically surrenders to her his entire commodity of credibility—in effect, his stake in the enterprise. His writing is a mirror of truth, he says, in which "let them peruse these few lines" and women "may see their owne happinesse, if weighed in the womans ballance" (94). He adds to this his experience, his credit and reputation, to "out-ballance an ill- grounded scandalous rumour" (97) that English women who emigrate to Massachusetts shall be subjected to drudgery, made drawers and carriers of water, like the Indian women. On the contrary, he writes, "women finde there as much love, respect, and ease, as here in old ''England''" (98).
+
+<!--Paragraph 38-->
+Notwithstanding Wood's best efforts, questions remain. This, for instance, may be placed in the "womans Ballance": if she makes all equal, ''pares cum paribus'', who will draw the water? The author flies from this to fresh woods and pastures new of his imagined paradise with this idyllic trope: in England "poore people may carrie their owne water, but in New England "every one hath a Spring at his doore." He bids farewell: "Thus much for the satisfaction of women" (98). 
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Bald, R.C. ''John Donne: A Life''. Oxford: Oxford UP [repr. with corrections], 1986.
+* Greenblatt, Stephen. ''Renaissance Self-Fashioning''. Chicago: U of Chicago P. 1980.
+* Jameson, J. Franklin. ''Johnson's Wonder-Working Providence 1628-1651''. New York: Charles Scribner's Sons, 1910.
+* Kupperman, Karen Ordahl. ''Captain John Smith: A Select Edition of His Writings''. Chapel Hill, N.C. and London: U of North Carolina P, 1988.
+* Lemay, J.A. ''The American Dream of Captain John Smith''. Charlottesville and London: UP of Virginia, 1991.
+* Morgan, Edmund S. ''Puritan Political Ideas 1558-1794''. New York: Bobbs-Merrill, 1965.
+* ---. "The Massachusetts Bay Company and the People." ''Puritanism in Seventeenth-Century Massachusetts''. Ed. David D. Hall. New York: Holt Rinehart and Winston, 1968.
+* Morison, Samuel Eliot. ''The Intellectual Life of Colonial New England''. New York: New York UP, 1936.
+* ---. ed. ''Of Plymouth Plantation 1620-1647 by William Bradford Sometime Governor Thereof''. New York: Alfred A. Knopf, 1959.
+* Neely, Carol. "Constructing the Subject: Feminist Practice and the New Renaissance Discourse." ''English Literary Renaissance'' 18 (Winter, 1988): 5-18.
+* Orgel, Stephen. "Shakespeare and the Cannibals." ''Cannibals, Witches and Divorce: Estranging the Renaissance''. Ed. Marforie B. Garber. Baltimore: John Hopkins UP, 1987. 41-66.
+* Pawlisch, Hans S. ''Sir John Davies and the Conquest of Ireland: A Study of Legal Imperialism''. Cambridge: Cambridge UP, 1985.
+* Radzinowicz, Mary Ann, "The Politics of John Donne's Silences." ''John Donne Journal'' 7.1 (1988): 1-19.
+* Roebuck, W.G. "Legal Imperialism." ''Canadian Journal of Irish Studies'' XIII No. 1 (June 1987): 37-143.
+* Smith, John. ''New England Trials''. London, 1620. Amsterdam: Da Capo Press, 1971. 
+* ---. ''Advertisements for the Unexperienced Planters of New England''. London, 1631. Amsterdam: Da Capo Press, 1971.
+* Wood, William . ''New Englands Prospect''. London: Printed by T. Cotes for I. Bellamie, 1634. Amsterdam: Da Capo Press, 1968.
+
+{{BookCat}}
