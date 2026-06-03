@@ -1,0 +1,166 @@
+''This essay was written by David R. Carlson''.
+
+Early Tudor literature was done in distinct circles, the centres of which were not coincident, and which overlapped little: the humanist circle, around More and Erasmus; in the later decades of the reign of Henry VIII, the "new company" of courtier-poets, in Puttenham's phrase, around Wyatt; and earlier, the less well-defined group of vernacular makers, professional or nearly professional English writers, comprising John Skelton, Alexander Barclay, and Stephen Hawes.<ref>This paper was originally presented at a session of the 1993 ''Kalamazoo International Congress on Medieval Studies'', on "John Skelton: The Medieval and Classical Heritage," to the organizer and other participants of which I am grateful: Ann Deno, M. J. Tucker, and Frank Brownlow.</ref> Within these circles, relations varied. Generally, they were amicable and supportive amongst the courtier-poets and the humanists, though intergenerational and other quarrels occurred. Amongst the vernacular makers, however, things were otherwise. Evidence of friendship or shared respect is wanting. The courtier Hawes stood apart, as far as can be confirmed, and Skelton and Barclay fought.<ref>On Skelton, the best single treatment of his life and works remains Nelson's ''John Skelton, Laureate''; and for Skelton's writings the basic source of information, as well as the quotations herein, is Scattergood's edition. On Barclay, still the best source of biographical information, incorporating also basic bibliography and information about Barclay's sources, is White (i-liv). Since White's work was published, a number of significant biographical studies of Barclay have appeared, including Colchester, Nelson (ed. ''The Life of St. George by Alexander Barclay'' xi-xiii; Lyall ("Alexander Barclay"); and Orme. On Hawes, the basic work is Edwards (''Stephen Hawes''). Except as indicated otherwise, biographical and bibliographical information in this paper comes from these sources. In quoting writings of Skelton and Barclay from the editions of others, I have felt free to make minor adjustments to punctuation without comment.</ref> There is something to be said for finding in their quarrel symptoms of the epochal clash, between modern and medieval, difficult as these terms can be to define agreeably, and even though the terms would have meant little to the antagonists. Neither Skelton nor Barclay fits easily in either category, however, and in the end it appears their quarrel would have come less of their differences than of their likeness: they were similarly situated in the Tudor literary system.
+
+In December 1509, Barclay saw printed a stanza at the conclusion of his ''Ship of Fools'' ([ed. Jamieson] II: 331), characterizing his own work as inducing "unto vertue and goodnes," while charging Skelton, somewhat obliquely, with "vyciousnes" and "wantones." "Holde me excusyd," Barclay wrote, 
+
+<blockquote>
+for why my wyll is gode<br/>
+Men to induce unto vertue and goodnes.<br/>
+I wryte no Jest ne tale of Robyn hode,<br/>
+Nor sawe no sparcles ne sede of vyciousnes;<br/>
+Wyse men love vertue, wylde people wantones.<br/>
+It longeth nat to my science nor cunnynge<br/>
+For Phylyp the Sparowe the Dirige to synge. 
+</blockquote>
+
+This would not have been withering vituperation, perhaps, when addressed to Skelton, a man who made his name out of rude remarks uttered in public about other people. From one end of his career to the other, from the "Manerly Margery Mylk and Ale" to ''A Replycacion agaynst Certayne Yong Scolers Abjured of Late'', the list of persons whom Skelton attacked and insulted, not exempting even the dead, is a lengthy one, and the terms Skelton chose show a Bach-like inventiveness when it came to invective. For Skelton, in other words, on a scale from one to ten, Barclay rated a two, maybe: small beer.
+
+Nevertheless, Skelton replied to Barclay. As Barclay's stanza castigating Skelton and the poem ''Phyllyp Sparowe'' had concluded his "Brefe addicion of the syngularyte of some newe Folys," so Skelton cast his reply in the form of "An Addicyon" to the ''Phyllyp Sparowe''. This Skeltonic addition—with its exaggeratedly long conjuration of all the impotent demons and heroes of the pagan underworld on Skelton's behalf—is such as to suggest that Skelton did not take Barclay altogether seriously. He neither names him nor singles him out for characterization. The substance of Skelton's reply is summed up in the final (Latin) line of the addition, where Skelton imputes invidia to his detractors ("Est tamen invidia mors tibi continua": "Your ceaseless envy will be the death of you"): envy of Skelton's poem, of Skelton's talents, and of Skelton's success, 
+
+<blockquote>
+The gyse now a dayes<br/>
+Of some janglynge jayes<br/>
+Is to discommende<br/>
+That they cannot amend,<br/>
+Though they wold spend<br/>
+All the wyttes they have. (''Phyllyp Sparowe'' 1268-1273) 
+</blockquote>
+
+John Bale, in his list of Barclay's writings, attributes to him a work entitled "Contra Skeltonum," which is not known to survive and about which nothing more can be said (Bale 19). Bale's claim suggests, though, that squabbling between Barclay and Skelton may have extended beyond the 1509 exchange. Skelton republished his addition to the ''Phyllyp Sparowe'' as part of the 1523 ''Garland of Laurel'' (1261-1375), with a further remark about "sum" who "grudge" at the ''Phyllyp Sparowe'' "with frownyng countenaunce" (1254- 1260)—possibly with reference to Barclay, though not pointedly so, and not with exclusive reference to Barclay: 
+
+<blockquote>
+Of Phillip Sparow the lamentable fate,<br/>
+The dolefull desteny, and the carefull chaunce,<br/>
+Dyvysed by Skelton after the funerall rate;<br/>
+Yet sum there be therewith that take grevaunce<br/>
+And grudge therat with frownyng countenaunce;<br/>
+But what of that? Hard it is to please all men;<br/>
+Who list amende it, let hym set to his penne. 
+</blockquote>
+
+For his part, in his Eclogues and in his life of St. George, Barclay offered up a few (characteristically bland, generalized) castigations of "laureates," which may have been jabs at Skelton: 
+
+<blockquote>
+No name I chalenge of Poete laureate.<br/>
+That name unto them is mete and doth agree<br/>
+Which writeth matters with curiositee.<br/>
+Mine habite blacke accordeth not with grene.<br/>
+Blacke betokeneth death, as it is dayly sene;<br/>
+The grene is pleasour, freshe lust and jolite.<br/>
+These two in nature hath great diversite.<br/>
+Then who would ascribe, except he were a foole,<br/>
+The pleasant laurer unto the mourning cowle? (Eclogue I: 104-112 [ed. White 4]) 
+</blockquote>
+
+<blockquote>
+Another thing yet is greatly more damnable:<br/>
+Of rascolde poetes yet is a shameful rable,<br/>
+Which voyde of wisedome presumeth to indite<br/>
+Though they have scantly the cunning of a snite;<br/>
+And to what vices that princes moste intende,<br/>
+Those dare these fooles solemnize annd commende.<br/>
+Then is he decked as poete laureate,<br/>
+When stinking Thais made him her graduate.<br/>
+When muses rested, she did her season note,<br/>
+And she with Bacchus her camous did promote.<br/>
+Such rascolde drames promoted by Thais,<br/>
+Bacchus, Licoris, or yet by Testalis,<br/>
+Or by suche other newe forged muses nine<br/>
+Thinke in their mindes for to have wit divine.<br/>
+They laude their verses, they boast, they vaunt and jet,<br/>
+Though all their cunning be scantly worth a pet. (Eclogue IV: 679-694 [ed. White 165]) 
+</blockquote>
+
+<blockquote>
+Let raylynge poetes for help on Venus call,<br/>
+Which hath in Venus theyr pleasour and delyte,<br/>
+Whose wrytynge uttreth theyr lyvynge bestyall.<br/>
+With barayne termys, suche thynges they indyte<br/>
+Which may the reders to vicious lyfe excyte<br/>
+And nat to vertue. He which is lawreat<br/>
+Ought nat his name with vyce to vyolate. (Life of St. George 113-119 [ed. Nelson 14]) 
+</blockquote>
+
+While Skelton was among the writers attached to the early Tudor court who styled themselves "laureate"—others included Bernard André, Pietro Carmeliano, and Andrea Ammonio—they were a pretty bad lot, all of them probably guilty of the faults (frivolity and vanity, chiefly) that Barclay charges to laureates in general. Here too, Barclay by no means singles Skelton out or unequivocally refers to him; Barclay's scattered remarks about laureates are different from the passage in his ''Ship of Fools'' in this regard.
+
+It has been suggested that Barclay became "Wolsey's poet" at some point and would therefore have attracted Skelton's ire (Kinney 132-3, 194; cf. Webb 300-305); and it has been maintained that Barclay was the amanuensis employed by Christopher Garnesche for his lost half of the c. 1514 "flyting" with Skelton, whose half survives as the five-part serial ''Agenst Garnesche'', in which Skelton answers Garnesche's provocations and imputes employment of a ''scriba'' to him (Fox 42-5). As attractive as these suggestions may be in their own ways, the evidence supporting both is equivocal or slight and so they remain speculative. Given the present state of the primary evidence, the 1509 exchange between Barclay and Skelton, with the addition to the ''Ship of Fools'' in which Barclay accuses Skelton of "wantones" and Skelton's answering addition to the ''Phyllyp Sparowe'' in which he charges envy, remains the sole definite evidence for their quarrel.
+
+The evidence of this 1509 unpleasantness between Skelton and Barclay can be enlisted as support for constructing an image of a deeper, more substantive antipathy between them. They were bound to clash because they were fundamentally different as writers, and in their quarrel can be discerned the lineaments of the major shift taking place in English literary history in the early Tudor period, from medieval to modern. Defined empirically, this can be seen in terms of the writers' affiliations with traditions and institutions, literary and social, that had flourished in the Middle Ages but would cease to matter early in the modern period (monasticism, for example, or Chaucerian dream-vision) and with other characteristically modern practices and institutions that were substantively new at the time (publication in print, most saliently, or humanism).
+
+In this perspective, Barclay's attack on Skelton can be used to corroborate other evidence indicating that Barclay was medieval: pious, clerical, conservative, fundamentally backward. The tendency of the critical heritage to depreciate Barclay as medieval, in order to praise Skelton as modern, is most pronounced perhaps in Ian Gordon's book, where Barclay is characterized as "deeply immersed in didactic and mediaeval morality": "the cast of his mind is essentially mediaeval" (Gordon 8-9). To some degree, for Gordon as for others, "medieval" is code for "bad," only "a vague pejorative term meaning 'outmoded,' or 'hopelessly antiquated,'" as Fred Robinson showed (Robinson 745). On the other hand, Barclay's affiliations with characteristically medieval institutions and literary traditions that would not long outlive him lends substance to the image of an "essentially mediaeval" Barclay, the sort of person who would attack "modern" Skelton.
+
+Barclay was a priest and later became a monk of the Benedictine Order—he was of the last generation of English Benedictines, for it was during his life that the order was dissolved in England. Moreover, he wrote saints' lives at a time when the genre, having enjoyed a brief revival in the sometimes odd, always oxymoronic form of humanist hagiography, was finally moribund: lost lives of Etheldrede (who founded the monastic community at Ely in which Barclay lived), Catherine, and Margaret (Bale 19), and a surviving life of George. Barclay also wrote moralities—a disquisition on the cardinal virtues (his ''Mirror of Good Manners''), for example, and a hortatory ballad "Of Sapience," made up of sage precepts: "Spende not on women," "All wealth is transitory," and so on ([ed. White] 167-168). As his castigation of Skelton as wanton and vice-prone would suggest, Barclay's writings tend be explicitly, unremittingly righteous. For example, his best-known work, the ''Ship of Fools'', with the attack on Skelton, is a translation, to which Barclay's chief original addition is the series of translator's envoys put at the end of each chapter of the work, in which he spells out the already clear moral of each chapter still more clearly.
+
+By contrast with this old-fashioned, medieval Barclay—myopically, pedantically monkish and moral—John Skelton looks wantonly, amblingly modern: sceptical, irreverent, and idiosyncratic. To quote Gordon again, whereas "the verse of his contemporaries is dead, Skelton's has a restless, bustling energy that can vitalize even the formulae of allegory" (Gordon 9). Here too, there is much to be said in favour of such a characterization. Important recent work on Skelton as a "transitional" figure, by Halpern, Walker, and Blanchard, has emphasized that Skelton is intractably difficult to classify as a literary-historical specimen. Unlike Barclay, Skelton evidently defied the various contemporary categories that might have applied to him. At court, he was a figure of learning and piety, by turns a royal tutor of humanist proclivities and a local Jeremiah, inveighing against sin and corruption. The story that he kept women is not going to go away, however (Fox 44), with its implication that Skelton was also roguish for a priest if not dissolute. More to the point, Skelton's best writings have also evaded categorization. In metrical, stylistic, generic, and topical terms, Skelton's most characteristic work is wholly unlike anything else being done at the time, before or since, and such idiosyncracy is unmedieval all by itself.
+
+Much can be said for the opposition of a medieval Barclay and a modern Skelton. It can also be a false, misleading opposition, however. In Skelton's work, for all its idiosyncracy, there is also a persistence of medieval traditions, as A. R. Heiserman and A. C. Spearing have established. For example, Skelton had frequent recourse to personification allegory—at the beginning and end of his career, in the ''Garland of Laurel'' that he seems to have published and later republished (Brownlow, ''Book of the Laurel'' 17-36), and in such important works as the ''Bowge of Court and Magnificence''—a tradition with roots in antiquity, of course, though it flourished most widely in the Middle Ages, beginning with Prudentius. Skelton was likewise deeply traditional in his use of liturgical schemes to frame and orient his writings—the salient example being the ''Phyllyp Sparowe'' (Brownlow, "''Phyllyp Sparowe'' and the Liturgy"; Kinney)—and, as also proper for the priestly poet that Skelton was, he wrote effective, affecting devotional lyrics, drawing knowingly on his Middle English antecedents (Scattergood, "John Skelton's Lyrics"). Finally, as John Scattergood has recently shown, Skelton's rhyme-royal dream-visions—the ''Garland of Laurel'' and the ''Bowge of Court'' again—are self-consciously in a medieval, Chaucerian tradition (Scattergood "Skelton's ''Garlande''"; cf. Spearing 234-247).
+
+In the light of these aspects of Skelton's work, Barclay's writings appear modern. Barclay responded more quickly and knowingly to recent developments of continental literature, especially those taking place in Italy. Barclay's "Tower of Virtue and Honour" ([ed. White] 170-179) is the one clear, successful effort to render in English the conventions Franco-Burgundian allegory—a peculiar amalgam of classicism and neo-feudalism that Stephen Hawes also tried but Skelton never did (Lyall "Tradition and Innovation"). However, Barclay is best known for having written eclogues in English. While there had been medieval eclogues—Theodulus and other poets of the Carolingian classical revival supplying the chief examples—the eclogue was an ancient genre revived only recently, along with much else, amongst the Italians. In bringing the genre into English, Barclay was bringing the Renaissance (Cooper, esp. 100-123). The same impulse evidently informed his choice of sources to translate: Dominico Mancini for the ''Mirror of Good Manners'', Eneo Silvio Piccolomini for ''Eclogues'' I-III, and Mantuan—the chief neo-Latin poet of the Renaissance—for the life of St. George and for ''Eclogues'' IV and V. For translating and adapting in his characteristic way, Barclay chose the work of recent, even modish exponents of the Italianate New Learning.
+
+For his living, Barclay evidently was dependent on patronage, including peculiar ecclesiastic forms of patronage that ceased to be available with the reformation: Barclay's priestly and monastic vocations left him time to write. Skelton too was a priest, enjoying ecclesiastic incomes, and he too had royal and aristocratic patrons. The difference here is that, while Skelton seems to have avoided printers, Barclay had important ties with one and may have derived income from the relationship. Barclay's writing circulated in the new medium with a consistency unparalleled among living writers at the time, including Hawes.<ref>The discussion of Skelton's and Barclay's relations with printers that follows is abbreviated from a paper with the title "Alexander Barclay and Richard Pynson: A Tudor Printer and his Writer," forthcoming in ''Anglia'', where the evidence is discussed in somewhat greater detail.</ref>
+
+A small portion of Skelton's work was printed during his life. These publications in print appear to have been of two kinds. First, there are a few items of propaganda—the ''Ballade of the Scottyshe Kynge'' written and printed, as a broadside, by Fakes, in 1513, and the ''Replycacion'' written and printed, by Pynson, in 1528—which rushed into print, probably at the behest of the printers or possibly officers of the court at Westminster, the chief printer of such propaganda being an officer of the court, the royal printer Richard Pynson. Barclay too saw print on such occasions, as did others. The second sort of publication in print that Skelton's work saw while he lived was the piratical, printerly speculation: writings leaked into print, belatedly, after Skelton's name was made, evidently without his authorization or involvement. The best examples are the two collections of poems known as ''Agaynste a Comely Coystrowne and Dyvers Balettys'', both printed by John Rastell c. 1527, within a year or two of Skelton's death, at a time when he had all but stopped writing, although the poems date from Skelton's first period at court, in the late fifteenth century (Kinsman "The Printer and Date of Publication")<ref>Rastell evidently printed more of Skelton than has survived, as is confirmed by the inventory published by Rogers (34-42) and Boffey (24) suggests that Skelton and Rastell may have been working together.</ref> Probably similar in origin are the editions of the ''Bowge of Court'', printed by de Worde, c. 1499 and c. 1510, though the poem itself is as early as the early fourteen-eighties (Brownlow "The Date of The Bowge"), and the edition of the ''Elynour Rummynge'', printed c. 1521 by de Worde again, though possibly written a few years earlier, c. 1517 (Kinsman "Eleanora Rediviva"; Schulte). About the dates and circumstances of these last two publications much is uncertain; in none of these cases, however, is there evidence to suggest that Skelton co-operated with the printers. These appear to be instances, instead, in which the printers, having come by a literary property, indirectly, from the pen of a writer with a marketable reputation, sought to make money by exploiting it, without the writer's participation.
+
+The 1523 ''Garland of Laurel'', printed by Fakes, is an exception. Neither simple propaganda nor a printer's belated speculation, this work appears to have been printed at least with Skelton's co-operation, if not at his behest. The printed book contains materials that Skelton can be believed to have passed recently, directly into the printer's hands (Erler 19-23, 28). However, this kind of co-operation between printer and living writer that occurred in the exceptional case of the 1523 ''Garland of Laurel'' was the rule in relations between Pynson and Barclay. For a period of fifteen years or so, from 1508 or 1509 to the early fifteen-twenties, Barclay seems to have worked for or with Pynson, as Hawes may have worked for Wynkyn de Worde, albeit on a reduced scale (Edwards "Poet and Printer"). The relationship between Pynson and Barclay began with the ''Ship of Fools'', what Barclay called "meorum primicias laborum qui in lucem eruperunt," which Pynson printed and signed 14 December 1509 ([ed. Jamieson] I: cxv). Barclay's letter dedicating his work to Thomas Cornish, Bishop of Tyne and Suffragan of Bath and Wells, is signed at its conclusion "Ex Impressoria officina Richardi Pynson. iij. Idus Decembris" ([ed. Jamieson] I: cxv), and in the final stanza of the Ship ([ed. Jamieson] II: 337), Barclay takes his leave of his audience by directing those wanting to buy copies of the work to Pynson's shop: 
+
+<blockquote>
+Our Shyp here levyth the sees brode<br/>
+By helpe of God almyght, and quyetly<br/>
+At Anker we lye within the rode.<br/>
+But who that lysteth of them to bye<br/>
+In Flete strete shall them fynde truly,<br/>
+At the George, in Richarde Pynsonnes place,<br/>
+Prynter unto the Kynges noble grace.<br/>
+Deo gratias. 
+</blockquote>
+
+Finally, most tellingly, at one point in the middle of the ''Ship'', Barclay claims to admit another group of fools even though Pynson had directed him to keep the work brief, as if Pynson were exercising some editorial control over Barclay's writing: "To you [sc., ironically, 'Ye blaberynge folys'] of Barklay it shall nat be denayde,/ How be it the charge Pynson hathe on me layde/ With many folys our Navy not to charge" ([ed. Jamieson] I: 108).
+
+Beginning with this 1509 publication, Pynson was always the first to print new writing by Barclay, with a characteristic woodcut author portrait of Barclay that he used over and over, and a characteristic, peculiar bilingual layout for Barclay's translations from Latin that must have been worked out between printer and writer (Smith 333-338). Because of the disappearance of all the earliest editions of Barclay's most popular, commercially successful work, the five ''Eclogues''—the earliest surviving is a c. 1520 edition of the fifth ''Eclogue'', printed at least five years after the work's initial appearance—it is not possible to say much about the circumstances of the ''Eclogues''' first appearances in print. With this exception, Pynson evidently printed first editions of all of Barclay's later writings, doing so without delay, always shortly after the writings' completion. One of the last signs of literary activity on Barclay's part, before he ceased to write, about 1523, twenty-five years before his death, was signed editorial work on a grammar book issued by Pynson.
+
+By comparison with Skelton, Barclay was the better informed about recent continental literature, and he did more to put the products of Italianate literary fashions before English audiences; likewise, Barclay worked regularly with a printer, seeing to the circulation of his writing by the newly invented means of printing, whereas Skelton remained aloof, sticking to manuscript circulation, except in limited, unusual circumstances. In these respects, Barclay was the more forward-looking, the more modern, of the two. By this light, Barclay's attack on Skelton in the ''Ship of Fools'', albeit couched in monkish, moralistic terms, appears to have been the attack of a newcomer, publishing his first work, against an old, established figure, well-known, with a substantial body of writing already behind him. Evidently, these are the terms in which Skelton understood the attack, as his counter-charge of envy indicates. "Medieval" Barclay was a young upstart; "modern" Skelton was the old guard.
+
+Finally, however, aside from this generational difference—apparently, Skelton was ten to fifteen or twenty years older—the similarities between Skelton and Barclay probably outweigh the differences. Each was medieval in characteristic ways, Barclay in his monkish moralism and generic pieties, Skelton in his allegorism and Chaucerian affiliations; at the same time, each was also modern, Skelton in ways still unique to him, Barclay in his affiliations with humanism and printing. However, by contrast with the professional humanists active and influential in England at the time—André, Carmeliano, Polydore Vergil, Erasmus, and the rest—and by contrast with the amateur, aristocratic courtier poetry soon to emerge, Skelton and Barclay look much alike. For both, ordination to the priesthood seems to have been initially a rung on a careerist ladder; both began their careers as pedagogues, Barclay in a collegiate church, and Skelton in an aristocratic or the royal household; both enjoyed (or sought) the patronage of the Howards and of the royal family; both wrote works of pedagogy and translations of ancient historians; both worked with the allegorical "ship of fools" topic; and both wrote pro-English propaganda, and political and social satire, in English. Skelton and Barclay occupied—or sought to occupy (Skelton, in addition to being the older, was also the more successful)—the same niche in the transitional literary economy of the late fifteenth and early sixteenth centuries, between medieval and modern. They competed with one another, and, not surprisingly, they clashed. The clash was the result of professional, generational competition, however, not a fundamental, inevitable difference of outlook or allegiance. 
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Bale, John. ''Index Britanniae Scriptorum''. Ed. R. L. Poole and Mary Bateson, intr. Caroline Brett and James P. Carley. Cambridge: Brewer, 1990.
+*Blanchard, W. Scott. "Skelton: The Voice of the Mob in Sanctuary." ''Rethinking the Henrician Era''. Ed. Peter C. Herman. Urbana: U Illinois P, 1994. 122-144.
+*Boffey, Julia. "Early Printers and English Lyrics: Sources, Selection, and Presentation of Texts." ''Papers of the Bibliographical Society of America'' 85 (1991): 11-26.
+*Brownlow, F.W. "The Book of Phyllyp Sparowe and the Liturgy." ''English Literary Renaissance'' 9 (1979): 5-20.
+*---. "The Date of The Bowge of Courte and Skelton's Authorship of 'A Lamentable of Kyng Edward the IIII.'" ''English Language Notes'' 22 (1984): 12-20.
+*---, ed. ''The Book of the Laurel: John Skelton''. Newark: U Delaware P, 1990.
+*Colchester, L. S. "Alexander Barclay." ''Modern Language Review'' 37 (1942): 198.
+*Cooper, Helen. ''Pastoral: Medieval into Renaissance''. Ipswich: Brewer, 1977.
+*Edwards, A.S.G. "Poet and Printer in Sixteenth Century England: Stephen Hawes and Wynkyn de Worde." ''Gutenberg Jahrbuch'' (1980): 82-8.
+*---. ''Stephen Hawes''. Boston: Twayne, 1983.
+*Erler, Mary C. "Early Woodcuts of Skelton: The Uses of Convention." ''Bulletin of Research in the Humanities'' 87 (1986-1987): 17-28.
+*Fox, Alistair. ''Politics and Literature in the Reigns of Henry VII and Henry VIII''. Oxford: Blackwell, 1989.
+*Gordon, Ian A. *John Skelton Poet Laureate*. 1943. New York: Octagon, 1970.
+*Halpern, Richard. "John Skelton and the Poetics of Primitive Accumulation." ''Literary Theory / Renaissance Texts''. Ed. Patricia Parker and David Quint. Baltimore: Johns Hopkins UP, 1986. 225-256.
+*Heiserman, A. R. ''Skelton and Satire''. Chicago: U of Chicago P, 1961.
+*Jamieson, T. H., ed. ''The Ship of Fools Translated by Alexander Barclay''. 2 vols. 1874. New York: AMS, 1966.
+*Kinney, Arthur F. ''John Skelton, Priest as Poet: Seasons of Discovery''. Chapel Hill: U of North Carolina P, 1987.
+*Kinsman, Robert S. "The Printer and Date of Publication of Skelton's ''Agaynste a Comely Coystrowne and Dyvers Balettys''." ''Huntington Library Quarterly'' 16 (1953): 203-10.
+*---. "Eleanora Rediviva: Fragments of an Edition of Skelton's ''Elynour Rummyng'', ca. 1521." ''Huntington Library Quarterly'' 18 (1955): 315-27.
+*Lyall, R. J. "Alexander Barclay and the Edwardian Reformation 1548-1552." ''Review of English Studies'' ns 20 (1969): 455-461.
+*---. "Tradition and Innovation in Alexander Barclay's 'Towre of Vertue and Honoure.'" ''Review of English Studies'' ns 23 (1972): 1-18.
+*Nelson, William. ''John Skelton, Laureate''. New York: Columbia UP, 1939.
+*---, ed. ''The Life of St. George by Alexander Barclay''. EETS OS 230. London: Early English Text Society, 1955. 
+*Orme, Nicholas. "Alexander Barclay, Tudor Educationalist." ''Education and Society in Medieval and Renaissance England''. London: Hambledon, 1989. 259-270. 
+*Roberts, R. J. "John Rastell's Inventory of 1538." ''The Library 6th'' ser. 1 (1979): 34-42.
+*Robinson, Fred C. "Medieval, the Middle Ages." ''Speculum'' 59 (1984): 745-756.
+*Scattergood, John, ed. ''John Skelton: The Complete English Poems''. New Haven: Yale UP, 1983.
+*---. "John Skelton's Lyrics: Tradition and Innovation." ''Acta'' 12 (1988): 19-39.
+*---. "Skelton's ''Garlande of Laurell'' and the Chaucerian Tradition." ''Chaucer Traditions''. Ed. Ruth Morse and Barry Windeatt. Cambridge: Cambridge UP, 1990. 122-138.
+*Schulte, Edvige. "John Skelton nella tradizione poetica inglese." Annali Istituto Universitario Orientale Napoli - Sezione germanica 4 (1961): 166-171.
+*Smith, Julie A. "Woodcut Presentation Scenes in Books Printed by Caxton, de Worde, Pynson." ''Gutenberg Jahrbuch'' (1986): 322-43.
+*Spearing, A. C. ''Medieval to Renaissance in English Poetry''. Cambridge: Cambridge UP, 1985.
+*Walker, Greg. "'Ordered Confusion'?: The Crisis of Authority in Skelton's Speke, Parott." ''Spenser Studies'' 10 (1989): 213-228.
+*Webb, Geoffrey. "The Office of Devisor." ''Fritz Saxl 1890-1948: A Volume of Memorial Essays''. Ed. D. J. Gordon. London: Nelson, 1957. 297-308.
+*White, Beatrice, ed. ''The Eclogues of Alexander Barclay''. EETS OS 175. London: Early English Text Society, 1928.
+
+{{BookCat}}
