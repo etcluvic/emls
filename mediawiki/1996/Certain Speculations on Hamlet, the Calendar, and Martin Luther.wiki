@@ -1,0 +1,635 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Certain Speculations on ''Hamlet'', the Calendar, and Martin Luther}}
+''This essay was written by Steve Sohmer''.
+
+<!--Paragraph 1-->
+The recognition that ''Hamlet'' owes something to the life and theology of Martin Luther is hardly a novelty. Edmond Malone noted in his edition of 1821,
+
+<blockquote>
+In Shakespeare's time there was an university at Wittenberg, to which he has made Hamlet propose to return. The university of Wittenberg, as we learn from Lewkenor's Discourse on Universities, 1600, was founded in 1502, by Duke Frederick, the son of Ernestus Elector: "which since in this latter age is growen famous by reason of the controversies and disputations there handled by Martin Luther and his adherents." Luther and Melancthon, he adds, were both bred there (Malone 7: 200).<ref>Malone appends two of his predecessors' speculations as to how Shakespeare might have become familiar with Wittenberg. "Our author may have derived his knowledge of this famous university from The Life of Iacke Wilton, 1594, or The Hystory of Doctor Faustus, of whom the ''second report'' (printed in the same year) is said to be 'written by an English gentleman, ''student'' at Wittenberg, an University of Germany in Saxony.' —Ritson." Boswell speculated Shakespeare might have learned about Wittenberg "from Marlowe's Doctor Faustus, or a multitude of other publications of that period."</ref>
+</blockquote>
+
+In our time, too, there have been many ''excursi'' on the connections between ''Hamlet'', Luther, and the Reformation. In 1941, John Hankins interrogated Hamlet's biblical allusions, and the play's obsessive concern with repentance. Roy Battenhouse saw Old Hamlet's ghost as a spectre of old Catholicism, and Young Hamlet as his reluctant scourge. Fredson Bowers perceived Hamlet as heaven's instrument, both scourge and minister. Likewise did Sister Miriam Joseph. In ''The Question of Hamlet'', Harry Levin explored Shakespeare's extended pun on the "diet" of worms. Georgia Christopher detected allusions to the Old Testament in "Hamlet's Devotional Reading." Roland Frye ambitiously contextualized the play in ''The Renaissance Hamlet'', and examined its portrayal of Protestant penitence. In 1973, Dawn Amott produced an ingenious survey of correlations between Shakespeare's play and the life and theology of Luther. David Kaula produced a brief typological reading of the play's "apocalyptic" passages. Bridget Lyons looked at the typology of Ophelia, and Michael MacDonald and Maurice Quinlan at Ophelia's Catholicism. In 1989, Raymond Waddington published "Lutheran Hamlet," identifying Hamlet's "conversion" with Luther's ''sola fide, sola gratia''. By contrast, Charles Cannon took the view that ''Hamlet'' was Shakespeare's sally at Calvinist dogma, while Lisa Gim traced Hamlet's faith in predestination to the Gospel of St. Matthew. Both Jerah Johnson and Stephen Greenblatt have examined the possible connection between the transubstantiation debate and Hamlet's "The body is with the king, but the king is not with the body, etc." In 1994, David Daniell explored the influence of the language of Tyndale's Luther-based Bible on Shakespeare's diction. In the same year our leading expert on the cultural impact of the Renaissance church calendar, R. Chris Hassel, Jr., examined the play's interrogation of original sin. Finally, one must acknowledge the indefatigable Linda K. Hoff, whose ''Hamlet's Choice'' provides a virtual line-by-line exegesis of the play before settling on an allegorical reading. The many recent scholarly publications which examine the theological dimensions of ''Hamlet'' suggest there is a wealth of religious significance yet to be mined from Shakespeare's play. The present essay takes the view that Shakespeare linked the principal events in ''Hamlet'' to particular holy days, and that the play's first audiences could identify these holy days from cues in the text.
+
+== Performance Dates and Holy Days ==
+
+<!--Paragraph 2-->
+Scholars have long been aware that Shakespeare's acting company consulted the church calendar when selecting performance dates for their repertoire. Occasionally, the company matched plays to dates with what appears to be a conscious sense of irony. For example, we know that ''Twelfth Night'' was performed before Queen Elizabeth on 2 February 1602, the Feast of Candlemas. This Catholic holy day celebrated the purification of the Blessed Virgin Mary. But in ''Twelfth Night'' a virgin referred to as 'Madonna' attempts a seduction—an irony which could not have escaped an audience comprising the Virgin Queen and her court. This instance of an ironic wedding of play-with-date is not unique. The company performed ''Henry VIII'', which deals with the circumstances leading to that monarch's break with Rome, on the feast of the papacy, St. Peter's Day, 29 June 1613. Dates in the secular calendar were apparently fair game, too. Thomas Platter's famous letter tells us that ''Julius Caesar'', Shakespeare's play about the man who decreed the Julian calendar, was performed on 21 September 1599. This was the "official" date of an autumnal equinox which Londoners had observed on 11 September because the English were still living under Caesar's scientifically discredited Julian calendar, which was then ten days in error.<ref>Pope Gregory XIII had given the Catholic world a reformed calendar in 1582. The English stubbornly continued to live by the scientifically discredited Julian calendar until Lord Chesterfield's reform in 1751.</ref>
+
+<!--Paragraph 3-->
+Thanks to recent publications by Francois Laroque, Richard Wilson, David Wiles, and others, we are beginning to understand that the calendar also plays a defining, structural role ''within'' Shakespeare's plays. For example, Laroque argues that in ''Romeo and Juliet'', "when the nurse refers to the Lammastide festival [1 August] to work out Juliet's age, the Elizabethan public would, as it counted back nine months, immediately arrive at the implied festival of Hallowe'en as the likely date of Juliet's conception" (205). Of course, Elizabethan poets routinely exploited the calendar as a structural device. Edmund Spenser's ''Shepheard's Calendar'' (1579) comprises twelve eclogues which follow the months of the year, and his ''Epithalamion'' (1595) digests the 24 hours of Midsummer Day. But Laroque argues that the built-in religious and cultural resonances of the calendar were more useful to a dramatist who must find "visual and gestural equivalents to the abstract categories of thought and speech" (203). According to Laroque, Shakespeare exploited "the various traditions and games of the major festivals [to] endow his plays with the extra semantic dimension of temporal symbolism" (203).
+
+<!--Paragraph 4-->
+Elizabethan audiences had reason to be more alert to temporal symbolism than we are. Their dominant calendar was the church calendar, a consecrated state document which regulated the uniform observance of an authorized, precomposed national liturgy. The ''Book of Common Prayer'' begins
+
+<blockquote>
+with elaborate calendars which prescribe biblical readings not only for each of the Sundays and festival days of the year, but for every single day. So important are these calendars that the two great pulpit Bibles of the day, the Bishops (1568) and the King James (1611), include them in red letters just before Genesis. (Hassel, ''Church Year'' 8)
+</blockquote>
+
+In a manner of speaking the calendar was the invisible finger turning the pages of the liturgy. Along with the Bible, the Homilies, and the ''Book of Common Prayer'', the Elizabethan church calendar constituted "a coerced formulary of worship intended for 'soul control'—that is, to force the parson and people in a direction predetermined by their sovereign and Council . . . . The very life of the Elizabethan, his sense of the calendar year as well as his doctrinal and liturgical orientation, was inevitably touched by this dominant cultural force" (Hassel, ''Church Year'' 7-8). Correspondence, contracts, leases, liens, and tenancies—all were dated with reference to the church calendar. "In fact, so extensive is this influence that to many [Elizabethans] distinctions between secular and religious calendars would have been unnecessary" (Hassel, ''Church Year'' 10).
+
+<!--Paragraph 5-->
+Like Scripture itself, the church calendar was revelatory. Its orderly succession of lunar- and solar-based holy days "revealed a profound logic of resonances and connections. The meaning of these may escape the modern mind, but their ancient significance was perfectly familiar" to Elizabethans (Laroque 202). "In the liturgy and in the [seasonal] celebrations which were its central movements . . . people found the key to the meaning and purpose of their lives" (Duffy 11). Laroque argues that Shakespeare infused the action in his plays with religious and cultural overtones by connecting scenes with particular holy days which were recognizable to Elizabethan audiences.
+
+== Encountering Old Hamlet's Ghost ==
+
+<!--Paragraph 6-->
+As the first scene of ''Hamlet'' unfolds, Shakespeare is at pains to provide a series of diminutive clues to the time and date on which the opening action takes place. As to the hour, Barnardo tells us "'Tis now struck twelve." It is after midnight, and deeply dark. Though we can see Barnardo and Francisco, they cannot see each other. They identify each other by sound of voice.
+
+<blockquote>
+<poem>
+''Bar''. Who's there?
+''Fra''. Nay, answer me. Stand and unfold yourself.
+''Bar''. Long live the King!
+''Fra''. Barnardo?
+''Bar''. He. (1.1.1-5)<ref>Text and lineation after Shakespeare, William. ''Hamlet''. Ed. Harold Jenkins. London: Arden-Metheun, 1987.</ref>
+</poem>
+</blockquote>
+
+When Horatio and Marcellus enter, Francisco again identifies the arrivals not by sight but by voice:
+
+<blockquote>
+<poem>
+''Fra''. I think I hear them. Stand ho! Who is there?
+''Hor''. Friends to this ground.
+''Mar''. And liegemen to the Dane. (1.1.13-15)
+</poem>
+</blockquote>
+
+As Francisco makes his exit, Horatio and Marcellus ''still'' cannot see Barnardo. Marcellus must ask "who hath relieved you?" and Francisco must explain "Barnardo hath my place" (1.1.18-19). Marcellus then calls out "Holla, Barnardo!" (1.1.20). Even now Barnardo cannot see the arrivals and replies, "Say, what, is Horatio there?" (1.1.21). Such emphasis on overwhelming darkness suggests a moonless night.
+
+<!--Paragraph 7-->
+It is also cold. Franciso has told us "'Tis bitter cold" (1.1.8). When Hamlet comes to the parapet in 1.4, he will tell us "The air bites shrewdly, it is very cold" (1.4.1). Successive frosty nights suggest a wintry season, perhaps the months September through March. We can be more precise about the season from clues which Shakespeare provides. For example, Marcellus reflects
+
+<blockquote>
+<poem>
+Some say that ever 'gainst that season comes
+Wherein our saviour's birth is celebrated
+The bird of dawning singeth all night long;
+And then, they say, no spirit can walk abroad,
+The nights are wholesome; then no planets strike,
+No fairy takes, nor witch hath power to charm,
+So hallowed and so gracious is the time. (1.1.163-9)
+</poem>
+</blockquote>
+
+That is, a ghost cannot be encountered during the season of Advent. So the dates on which Old Hamlet's ghost walks must fall during the cold days prior to 27 November, or after Christmas (Leduc and Baudot 47).<ref>Advent marks the beginning of the ecclesiastical year, and engrosses the four Sundays prior to Christmas. Advent can begin no earlier than 27 November and no later than 3 December. However, in medieval France Advent began on the Feast of St. Martin (11 November), and encompassed forty days and six Sundays.</ref>
+
+<!--Paragraph 8-->
+Barnardo also makes reference to a celestial object:
+
+<blockquote>
+<poem>
+Last night of all,
+When yon same star that's westward from the pole
+Had made his course t' illume that part of heaven
+Where now it burns, Marcellus and myself,
+The bell then beating one— (1.1.38-42)
+</poem>
+</blockquote>
+
+The very offhandedness of Barnardo's reference—"yon same star that's westward from the pole"—suggests the star is conspicuous enough to be identified by Horatio and, perhaps, by members of the audience who were versed in astronomy or astrology.<ref>The possibility that Bernardo's "star" is a planet is discussed below in Note 14.</ref> There are a variety of reasons to conclude the star to which Barnardo refers is Deneb, a bright second magnitude star in the constellation Cygnus, the Swan. Modern readers may be unfamiliar with this constellation. But English Christians knew it as "The Northern Cross" from the time of the Venerable Bede, and held it in awe. Because the Cross stands erect over Europe at 9 p.m. on the night before Christmas, the constellation was regarded as a divine portent of the crucifixion. In the night sky above London, the Northern Cross stands erect, and Deneb lies precisely "westward from the pole," circa 1 a.m. during the period 30 October - 10 November.
+
+[[File:Northern Cross night sky graphic.jpg|right|frameless]]
+
+The adjacent graphic depicts the western sky above London, England, at 1 a.m. on the night of 2 November 1601 (D=Deneb, V=Vega, P=Polaris).<ref>Prepared by the author from "Distant Suns" software (c) Virtual Reality Laboratories (1991-2) on an ALR 2X100Mhz.</ref> No one who views the sky from the northern hemisphere in this season can fail to be struck by the prominence of this constellation.
+
+<!--Paragraph 9-->
+The Northern Cross not only signifies the death and resurrection of Christ, but has an even more ancient association with a myth of recrossing the bourne separating the living and dead. Under its pagan designation, Cygnus, the constellation was dedicated to Orpheus—perhaps because of its close proximity to Lyra, the harp or ''cythera''. The lyre was the instrument Orpheus used to enchant the creatures of the underworld in his quest for Euridice.<ref>''Alpha Lyrae''—Vega—the fifth brightest star in all the sky is visible from London and northern Europe year-round. However, at 1 a.m. during the period 30 October - 10 November, Vega was visible from London only a few degrees above the northern horizon, which does not sort with the description "westward from the pole."</ref> A third, nearby, and related constellation is Draco, the Great Northern Serpent. Orpheus' beloved Euridice died from the poisonous bite of a snake, as did Old Hamlet: "The serpent that did sting thy father's life Now wears his crown" (1.5.38-9). Together, the three constellations present an eternal ''tableau vivant'' of the archetypal myth of contact between living and dead.
+
+<!--Paragraph 10-->
+As the Swan, Cygnus also has a mythological connection with a story of adulterous love. Zeus, king of the gods, desired Leda, wife of Tyndareus. In order to couple with her, Zeus transformed himself into a swan. One issue of this union was Helen, wife of Menelaus, who was abducted by Paris and became his adulterate concubine. ''Hamlet'' centers on the adultery of Gertrude and Claudius (1.5.42). The other issue of Zeus-Leda were twins Castor and Pollux. ''Hamlet'' is populated with numerous "twins."<ref>The play's "twinned" males include: Old Hamlet with Old Fortinbras; Young Hamlet with Young Fortinbras; the "impotent" Old Norway with the childless Claudius; Hamlet and "my brother" Laertes (5.2.189); Cornelius with Voltemand; Rosencrantz with Guildernstern.</ref> In astrology, Cygnus is the patron of persons born with an "adaptable, intellectual, contemplative, and dreamy nature. It generates disorderly and unstable relationships" and "causes talents to mature late . . . ." (Sesti 324), qualities which read like a horoscope of Prince Hamlet.
+
+<!--Paragraph 11-->
+The hypothesis that Barnardo alludes to Deneb and the encounters between sentinels and ghost take place during the period 30 October - 10 November, is supported by a definitive clue, i.e. the name Shakespeare gives to Horatio's companion: Marcellus. In the prevailing Catholic church calendar the feast of "Marcellus the Centurion" fell on 30 October. This Marcellus was a soldier who was converted to Christianity and subsequently refused to engage in violence. He was martyred in AD 298.<ref>Marcellus is not the only namesake of a early convert found in ''Hamlet''. In 1.2, Shakespeare introduces a character named Cornelius. In Acts 10, St. Luke tells the story of the conversion of a Roman centurion named Cornelius. This persuaded Peter that God intended Christianity to be preached to the Gentiles. Shakespeare pairs his Cornelius with another character named Voltemand, i.e. the "turned" or "changed man."</ref>
+
+<!--Paragraph 12-->
+To Shakespeare's series of seasonal, astronomical, and calendrical clues—1 a.m., a cold and perhaps moonless night, not in Advent, Deneb westward from the pole signifying the Northern Cross erect, and a namesake of Marcellus—we may add one other. As the action unfolds, we learn the ghost has already walked twice: "this dreaded sight twice seen of us" (1.1.28). In 1.2. Horatio tells us these appearances occurred on successive nights:
+
+<blockquote>
+Two nights together had these gentlemen, Marcellus and Barnardo, on their watch In the dead waste and middle of the night Been thus encounter'd . . . . (1.2.196-9)
+</blockquote>
+
+Horatio also tells us that the ghost appeared again on a third successive night: "And I with them the third night kept the watch" (1.2.208). On the fourth night the ghost appears again, and discourses with Hamlet (1.4.38ff). In this oblique way Shakespeare informs us that the ghost has walked on four nights in succession. It is no coincidence that the Feast of Marcellus precedes a sequence of successive holy days on which Elizabethans might well have expected unquiet souls to prowl the earth:
+
+:{| class="wikitable"
+|-
+! Date !! Holy Day
+|-
+| 30 October || Marcellus the Centurion (feast)
+|-
+| 31 October || All Hallows' Eve
+|-
+| 1 November || All Saints' Day
+|-
+| 2 November || All Souls' Day<ref>An unspoken pun may be encoded here. Shakespeare's sentinel, Marcellus, holds the vigil on the Catholic church's vigil of Marcellus. Each holy day began on the previous evening with Vespers. The "vigil" of Marcellus began at dusk on 29 October, of All Hallows' on 30 October, of All Saints' on 31 October, and of All Souls' on 1 November. This may explain the uncertainty about the time of the Ghost's appearance to Hamlet on the fourth night, i.e. whether Horatio is correct that "It lacks of twelve" or Marcellus is correct that "No, it is struck" (1.4.4-5). Hamlet has said he would arrive on the platform "'twixt eleven and twelve" (1.2.254). Given his eagerness to see the Ghost it's hard to believe he would arrive behind his time. In order to make its fourth appearance on All Souls' Day, the Ghost would have to appear before midnight.</ref>
+|}
+
+Each of the three holy days which follow the Feast of Marcellus is associated with the bond between the living and the dead. The vigil of All Hallows' Eve derived from the Celtic festival of Sambain, on which night the spirits of the dead were thought to return to visit their earthly homes. The first of November was All Saints' Day, an observance which dates from the 7th century and celebrated all dead saints known and unknown.<ref>November was commonly regarded by Elizabethans as the month of the dead. In ''The Shepheardes Calendar'', Spenser's November eclogue characterizes the month as this "sullen season." Dennis Kay has noted: "November, the eleventh month, is traditionally associated with the commemoration of the dead. Further, the connection of the number eleven with mourning goes back to Sparta in the time of Lykourgos, when eleven days became established as the period of mourning . . . . In accordance with these ideas, presumably, Colin's elegy [in Spenser] consists of eleven stanzas of lament . . . . a meaning apparently accepted by Thenot, whose final words are 'Up Colin up, enough thou mourned hast . . . .'" (Kay 30, 36-7). [Spelling modernized.]</ref> All Souls' Day observances remember baptized Christians believed to be in purgatory because they died without benefit of Extreme Unction.<ref>This holy day was established in the time of Isidore of Seville (d.636).</ref> Old Hamlet's ghost appears to speak of purgatory when he describes his circumstances:
+
+<blockquote>
+<poem>
+I am thy father's spirit,
+Doom'd for a certain term to walk the night,
+And for the day confin'd to fast in fires,
+Till the foul crimes done in my days of nature
+Are burnt and purg'd away. (1.5.9-13)
+</poem>
+</blockquote>
+
+He declares the cause of his punishment is that he died unshriven:
+
+<blockquote>
+<poem>
+Cut off even in the blossoms of my sin,
+Unhousel'd, disappointed, unanel'd,
+No reck'ning made, but sent to my account
+With all my imperfections on my head. (1.5.75-9)
+</poem>
+</blockquote>
+
+Of course, Shakespeare offers a further cue to his audience by providing Horatio's companion with the name "Marcellus." Likewise, the "inky cloak" (1.2.77) which Hamlet wears in 1.2 is appropriate All Souls' Day attire for a son mourning a father who died without benefit of Extreme Unction.
+
+== Dating the Principal Composition of ''Hamlet'' ==
+
+<!--Paragraph 13-->
+The identification of the four ghost-walking nights with 30 October - 2 November has intriguing implications for dating the principal composition of ''Hamlet''. Scholars differ over whether the play should be referred to 1600 or 1601. All editors have noted the entry in the Stationers' Register of 26 July 1602 which refers to the play as having been "latelie acted" by the Lord Chamberlain's Men, and there are passages commonly cited which appear to date the play's composition to 1601.<ref>Rosencrantz' allusion to "the late innovation" (2.2.331) is considered by some to refer to the attempted Essex ''putsch'', and the reference to "eyrie of children, little eyases" (2.2.337) to the Children of the Chapel who began to act at the Blackfriars in late 1600.</ref> On the other hand, Gabriel Harvey's praise of ''Hamlet'' in his copy of Speght's Chaucer (1598) appears in association with a reference to the Earl of Essex being alive (he was executed in February 1601). But calendrical indicators may support the arguments for 1601 as the year of principal composition (or substantial revision) of the text.
+
+<!--Paragraph 14-->
+The four-day sequence of holy days 30 October - 2 November did not, however, unfold sequentially in every year. When All Souls' Day fell on a Sunday, the sequence was suspended. Thus, in 1600, the other year suggested for the principal composition of ''Hamlet'', 2 November was a Sunday, and the observance of All Souls' Day was postponed to Monday 3 November. That is, the church calendar for 1600 ran:
+
+:{| class="wikitable"
+|-
+! Weekday !! Date !! Holy Day
+|-
+| Thursday || 30 October || Marcellus
+|-
+| Friday || 31 October || All Hallows' Eve
+|-
+| Saturday || 1 November || All Saints' Day
+|-
+| Sunday || 2 November ||
+|-
+| Monday || 3 November || All Souls' Day
+|}
+
+On the other hand, in 1601 the four feast days succeeded one another in an uninterrupted sequence:
+
+:{| class="wikitable"
+|-
+! Weekday !! Date !! Holy Day
+|-
+| Friday || 31 October || Marcellus
+|-
+| Saturday || 1 November || All Hallows' Eve
+|-
+| Sunday || 2 November || All Saints' Day
+|-
+| Monday || 3 November || All Souls' Day
+|}
+
+This perhaps lends weight to the argument that the principal composition of ''Hamlet'' and the play's first performances took place in 1601.<ref>2 November 1601 was a moonless night, both in London and at Elsinore. The planets Mars, Neptune, Venus, and Jupiter were ''east'' not west of Polaris. In any case, Barnardo speaks of a time when "no planet strikes," suggesting he knows the difference between a star and a planet. </ref> The relation of the play to this sequence of holy days may also imply a more intense engagement with theological issues than has previously been supposed.
+
+== ''Hamlet'' and the Purgatory Debate ==
+
+<!--Paragraph 15-->
+The controversy surrounding the existence of Purgatory was certainly not new in 1601. It had been energetically argued since at least the time of Erasmus. The name most notably associated with this debate was that of Martin Luther. In ''Hamlet'', Shakespeare takes pains to stress the Danish setting of the play (Sjogren). Denmark had been a Lutheran country since the accession of Christian III after the civil war of 1534-6.<ref>The question of Denmark's "elective" monarchy is considered in Note 34.</ref> Luther, we know, nailed his Ninety-Five Theses, which principally concern indulgences and Purgatory, to the door of the Castle Church in Wittenberg on All Hallows' Eve, 31 October 1517. Shakespeare's Hamlet and Horatio were fellow-students in Wittenberg.<ref>As were Rosencrantz and Guildernstern, whose namesakes were found among the Wittenberg student body in the decade 1586-95.</ref> There are four references to Wittenberg in ''Hamlet'', which are unique in the Shakespeare canon. It is, therefore, perhaps more than coincidence that 1517 and 1601 share a common calendar. In both 1517 and 1601 the four feasts fell on these same four weekdays:
+
+:{| class="wikitable"
+|-
+! Year !! Weekday !! Date !! Holy Day
+|-
+| rowspan="4" | 1517,1601 || Friday || 30 October || Marcellus
+|-
+| Saturday || 31 October || All Hallows' Eve
+|-
+| Sunday || 1 November || All Saints' Day
+|-
+| Monday || 2 November || All Souls' Day
+|}
+
+This concordance of weekdays and holy days is ''extremely'' rare. It occurred only four times in the 175 years 1517-1691, and only once during Shakespeare's working lifetime: in 1601.<ref>And again in 1612, after he had retired to Stratford.</ref> This phenomenon raises a series of intriguing questions: Is the 1517-1601 correlation coincidence? Or did Shakespeare take this into account when he undertook the principal composition of ''Hamlet''? Or, perhaps, did Shakespeare turn (or return) to the writing of ''Hamlet'' in 1601 ''because'' the calendar of holy days was the same as 1517? Before addressing this question, let us first ask whether Shakespeare could have known 1517 and 1601 shared a common calendar. While this knowledge may seem arcane to us, it was easily accessible to literate Elizabethans.
+
+<!--Paragraph 16-->
+Neither 1517 nor 1601 is divisible by 4. Therefore, neither was a leap year. Both were common years of 365 days. The church calendar for any year can be described by cataloguing the dates and weekdays of the solar and lunar holy days. The solar holy days recur on the same dates each year, e.g. Christmas on 25 December. Therefore, the weekdays on which the solar holy days fall in any common year may be determined by finding the "Dominical Letter." This is the date of the first Sunday in January. Tables of Dominical Letters were provided by the popular almanacs. The Dominical letter for both 1517 and 1601 is D. That is, the first Sunday in both years fell on 4 January, and the solar-based holy days on the same weekday in both years.
+
+<!--Paragraph 17-->
+To determine the calendar of lunar holy days for a year, it is necessary to identify the date of Easter Sunday from which all other lunar holy days are reckoned. Since the time of the Council of Nicea (A.D. 325), Easter has been observed in the West on the first Sunday following the Paschal moon, i.e. between 22 March and 25 April. To facilitate the dating of Easter, in A.D. 525 the monk Dionysius Exiguus published a table of "Golden" numbers which identify the moon's position in its nineteen-year cycle. To find a year's Golden number, add 1 to the year and divide by 19. The remainder is the Golden number. For 1517 and 1601 the computations are:
+
+* 1517 + 1 = 1518 / 19 = 79 and 17; Golden number = 17
+* 1601 + 1 = 1602 / 19 = 84 and 6; Golden number = 6
+
+With Dominical Letter "D" and Golden numbers 17 and 6 in hand, an Elizabethan would next consult the Easter tables in the popular almanacs. Here one would find that Easter Day fell on Sunday 12 April in both 1517 and 1601. Consequently, the calendars for 1517 and 1601 were identical.
+
+<!--Paragraph 18-->
+As noted, scholars since Malone have detected the glimmer of a connection between ''Hamlet'' and Luther from Shakespeare's four allusions to Wittenberg (1.02.113, 119, 164, 168). But—even if Shakespeare knew that 1517 and 1601 had identical calendars—can we demonstrate that the playwright had Martin Luther in mind when he drew his audience's attention to the four ghostly days 30 October - 2 November 1601?
+
+== Luther at Elsinore ==
+
+<!--Paragraph 19-->
+Martin Luther posted his Ninety-Five Theses on 31 October 1517, the day ''before'' All Saints' Day. Our analysis of the four ghost-walking days suggests Hamlet encounters his father's ghost on 2 November, the day ''after'' All Saints' Day. To reconcile this apparent anomaly, we need to know what information Shakespeare might have had about the life of Martin Luther.
+
+<!--Paragraph 20-->
+In fact, there were several "lives" of Luther in print in Shakespeare's lifetime. The earliest in English appears in ''Sleidanes Commentaries'' by Johannes Phillipson, published in London in 1560 (STC 19848). Phillipson gives no date for the posting on the Castle Church, but only records that Luther sent "certen questions which he had lately set up at Wittenberg" to the Archbishop of Mainz on the first of November (Fol. B1). Another life of Luther appeared in Foxe's ''Acts and Monuments'' (1563). Intriguingly, Foxe gets the date of Luther's posting wrong. He writes that Luther
+
+<blockquote>
+published certaine propositions concerninge indulgences, which are in the fyrst Tome of his worckes, and set them openly on the temple that joyneth to the castel of Wittenberg, the morrow ''after'' the feast of al sainctes, the yere 1517 (403).
+</blockquote>
+
+I have added italics to emphasize that Foxe erroneously states that Luther nailed up his Theses on 2 November, the day ''after'' All Saints' Day. In his preamble to his life of Luther, Foxe acknowledges his source:
+
+<blockquote>
+The laborious travayles, and the whole processe, and the constant preachinges of this worthy man [Luther], because they are sufficiently and at large in the history of Johannes Sleidane, and shall not neade to stande thereupon, but onely to runne over some briefe touchying, of his life and acttes, as they are briefly collected by Philippe Melanthon (402).
+</blockquote>
+
+Philip Melancthon (1497-1560) was Luther's close associate, sometime amanuensis, and successor as leader of Lutheranism. The obscure book to which Foxe refers (STC 1881), is a translation from Melancthon's life of Luther, by one Henry Bennet of Calais, entitled:
+
+<blockquote>
+A famous and godly history, contaynyng the Lyves and Actes of three renowned reformers of the Christian Church, Martine Luther, John Oeclampadius, and Huldericke Zuinglius. The declaracion of Martin Luthers faythe before the Emperoure Charles the fyft, and the illuste Estates of the Empyre of Germanye, wyth an Oration of hys death, all set forth in Latin by Phillip Melancthon, Wolfangus Faber, Capito. Simon Grincus and Oswald Miconus, Newly Englished by Henry Bennet Callesian.<ref>Printed by John (Sampson) Awdelie or Awdley (d.1575; Plomer 23). In the same year, Awdley printed George North's ''The Description of Swedland, Gotland, and Finland, etc''. (STC 18662). In the prior year, Awdley had printed two editions of ''The Epistles and Gospels in Englishe'' (STC 2980.2, .4).</ref>
+</blockquote>
+
+On signature C2r of Bennet's translation, Melancthon recalls that Luther
+
+<blockquote>
+published certain proposicions of Indulgences, whych are in the fyrst Tome of hys woorkes, and fixed them openlye on the Temple that joyneth to the Castell of Wittenberg, the morrowe ''after'' the feast of all Saynctes, the yeare. 1517.
+</blockquote>
+
+I have added italics to emphasize that Bennet gives the wrong date for Luther nailing up his Ninety-Five Theses. Bennet writes that Luther nailed his Theses to the door of the Castle Church of Wittenberg on 2 November, the day ''after'' All Saints'. Bennet's source, Melancthon, had written
+
+<blockquote>
+edidit Propositiones de Indulgentiis, quae in primo Tomo monumentorum eius extant, & has publice Templo, quod Arci Vuitebergensi contiguum est, affixit ''pridie'' festi omnium Sanctorum, Anno 1517 (B2r).
+</blockquote>
+
+I have italicized ''pridie'' to emphasize Melancthon wrote the correct date, i.e. 31 October, the day ''before'' All Saints'. Bennet mistranslated ''pridie'' as ''after''. Foxe parrots Bennet's error.
+
+<!--Paragraph 21-->
+To suggest that Shakespeare set Hamlet's encounter with the Ghost on 2 November because his source(s) provided an erroneous date for the posting of Luther's Ninety-Five Theses implies an intimate negotiation between Shakespeare's knowledge of Luther and his creation of Prince Hamlet. This hypothesis may not be as far-fetched as it first appears. Commentators have already identified numerous parallels between Luther's conversion and Hamlet's (Waddington, Hassel, Hoff; Amott 69-74). Young Martin Luther suffered a long period of guilt and depression ''(anfechtung)'', and eventually found conversion through humble surrender to God and His preordained providence.<ref>A selection of useful biographies of Luther follows. Of the historical: Heiko A. Oberman, ''Luther'' (New York: Doubleday, 1989). Of the psychological: Erik H. Erikson, ''Young Man Luther'' (New York: Norton, 1982). Of the theological: David C. Steinmetz, ''Luther in Context'' (Bloomington: Indiana UP, 1986).</ref> Hamlet undergoes a similar course of spiritual development, from lamenting his "too sullied flesh" to believing there's "a special providence in the fall of a sparrow." After returning to Denmark, Hamlet declares he was led by a "divinity that shapes our ends" to discover the perfidious commission of Rosencrantz and Guildenstern. Hamlet writes to Claudius that he has returned to Denmark "naked" (4.7.50). In this word which so puzzles the king and Laertes, Lutherans of the Elizabethan era and our own recognize an allusion to the keyword Luther employs to describe his conversion through humble surrender to God: ''nackt''.<ref>One must not ignore the numerous parallels between Horatio and Melancthon. Both were Renaissance men with antique names (Melancthon="black earth" in Greek). Both were at Wittenberg. Luther was critical of Melancthon's philosophical approach to religion, just as Hamlet stresses the limits of Horatio's "philosophy." Hamlet asks Horatio to write his "history." Melancthon says he writes his life of Luther because "hys [Luther's] fatal day hath prevented the publicacion of such an history" as Luther had promised to write of himself. Hamlet knows a lot about flutes ("recorders"), and Luther was an excellent flautist. Horatio's name comprises both "ora = pray" and "ratio = reason." Melancthon was principally known for his logical confession of the Lutheran faith in ''Loci Communes'', which ran through several editions beginning in 1521. </ref>
+
+<!--Paragraph 22-->
+Elizabethans of all religions would also have recognized another and perhaps more obvious parallel between Hamlet and Luther. In Shakespeare's play, Hamlet confronts a king who has married his dead brother's wife. It was widely remembered that Martin Luther had an exchange of rancorous pamphlets with a king who had married his dead brother's wife, Henry VIII.<ref>In 1520, Luther published ''Of the Babylonian Captivity of the Church'', a polemic against the pope and Roman rite, which denied five of the seven sacraments. Luther argued that the Scriptures provided for two sacraments only: baptism, and the Lord's Supper (communion). Luther deplored and dismissed the other five so-called sacraments (marriage, confirmation, ordination, penance, and extreme unction) as man-made "custom." In response, and with an eye to currying favor with the pope, Henry VIII published his ''Assertio septem sacramentorum adversus M. Lutherum'' (1521, STC 13078), defending the sanctity of all seven Catholic sacraments. In 1522, Luther replied to Henry with a vitriolic pamphlet published in both Latin and German, ''Contra Henricum Regem Angliae''. Luther vilified Henry, repeatedly deplored "custom," and affirmed only Scripture could designate sacraments. This broadside of Luther's is so scurrilous that it went unpublished in English until 1928, and does not appear in the English edition of Luther's ''Werke''. (See S.E. Buchanan, ''Martin Luther's reply to Henry VIII, etc'' [New York, 1928].) Among the many linguistic details in Luther's reposte which find correlatives in ''Hamlet'', "custom" is one of the most intriguing. Melancthon-Bennet-Foxe emphasized Luther's disdain for "custom" as superstition, folly, and fashion: "Nevertheles it is certain, ther were seedes of supersticion in the tyme of the Fathers and auncient Doctors, & therefore S. Austen ordeyned some thyng of vowes, although he wrote not therof so straungely as other: for both ye best some tymes shal be spotted wyth the blemysh of the follyes that reygne in theyr age. For as naturally we love our Country, so fondly we favour the present fashions, wherin we be trained & educated. And very wel alludeth Euripides to thys. 'What cusomtes we in tender youth by Natures love receave: The same we love & lyke alwayes, and lothe our lust to leave'" (Melanchton C.8v-D1r). The word "custom" appears more frequently in ''Hamlet'' than in any other Shakespeare play. (M. Spevack, ''The Harvard Concordance to Shakespeare'' [Hildesheim: Olms, 1969, 259].) Looking at each appearance of the word, one sees that "custom" appears in conjunction with references to holy days, or parodies of religious rituals, e.g. when Hamlet seeks to "purify" Gertrude. Though Luther's ''Contra Henricum'' was not published in English until our century, it was available to Shakespeare in Latin. When Henry VIII and Luther exchanged salvos in 1525, Henry published a book containing both letters, ''Literarum, quibus invictissimus princeps, Henricus octavus, respondit, ad quandam epistolam M. Lutheri, etc''., (1526, STC 13084). The same was published two years later in English: ''Answere unto a Certaine Letter of Martyn Luther, etc''., London, 1528. Tantalizing linguistic details in these pamphlets will suggest to scholars that Shakespeare was familiar with at least the first exchange between Luther and the king. Rarities such as "''videlicet''" and "perpend" appear in Melancthon and Bennet, as they do in ''Hamlet''.</ref>
+
+== Three Disputed Holy Days ==
+
+<!--Paragraph 23-->
+In his preface to ''Hamlet'', Harley Granville-Barker wrote that in performance the five-act play divides itself into three "movements" (1: 73). The first movement, which comprises two days, begins at the opening of the play, and ends after Hamlet's encounter with the ghost and his decision to put on an antic disposition (1.5). According to our calendrical analysis, these scenes unfold in the period 1-2 November.
+
+<!--Paragraph 24-->
+The second movement begins with Polonius' drill of Reynaldo (2.1). From their conversation we cannot determine how long Laertes has been in Paris. But when Ophelia enters we recognize significant time has elapsed since Polonius enjoined her from sharing Hamlet's company:
+
+<blockquote>
+<poem>
+''Pol''. What, have you given him any hard words of late?
+''Oph''. No, my good lord, but as you did command
+I did repel his letters, and denied
+His access to me. (2.1.108-11)<ref>This is not the first time Ophelia has reported Hamlet's advances to Polonius. After her father's warning to her on the day of Laertes' departure (1.3), Ophelia has reported Hamlet's "solicitings, As they fell out by time, by means, and place" (2.2.125-6). Again, this suggests the passage of a substantial period of time.</ref>
+</poem>
+</blockquote>
+
+The anxious Polonius determines immediately to report Hamlet's condition to Claudius and Gertrude: "Go we to the king" (2.1.118). On this day Cornelius and Voltemand return from their embassy to Norway. Rosencrantz and Guildernstern arrive, summoned to the court (perhaps from as far away as Wittenberg) on account of Hamlet's antic behavior. The action proceeds seamlessly through Claudius' and Gertrude's interview with Rosencrantz and Guildernstern, the ambassadors' report, Polonius' reading of Hamlet's Valentine to Ophelia, Polonius' conversation with Hamlet ("You're a fishmonger, etc."), the Prince's confrontation with Ophelia, his welcome to Rosencrantz and Guildernstern, and the arrival of the Players. All this takes place on a single day. As the players exit, Hamlet says, "We'll hear a play tomorrow" (2.2.524). On the following night "The Mousetrap" is performed, Hamlet confronts Gertrude in her closet and slays Polonius. Hamlet is dispatched to England before dawn, and passes the army of Fortinbras (4.4). This movement also comprises two days.
+
+<!--Paragraph 25-->
+The third and final movement of the play begins at 4.5 with Gertrude's interview with mad Ophelia. Again through the agency of Ophelia we learn that significant time has elapsed since the death of Polonius: when Claudius observes Ophelia he demands, "How long hath she been thus?" (4.5.65). A moment later Laertes enters, having journeyed to Elsinore from France seeking revenge. Letters from Hamlet are delivered to Horatio and to Claudius. Claudius and Laertes fall to plotting Hamlet's murder, and Gertrude brings news of Ophelia's death. All this action unfolds continuously on a single day. We know that Ophelia's funeral is held on the following day because Claudius reassures Laertes with a reference to their plotting against Hamlet: "Strengthen your patience in our last night's speech. We'll put the matter to the present push" (5.1.284-5). Claudius and Laertes immediately set the murder plot in motion, and the action runs continuously through to the end of the play.
+
+<!--Paragraph 26-->
+By this analysis each of Granville-Barker's three movements lasts for two days. Calendrical details in the text suggest Shakespeare ties these movements to three holy days which were sacred to Catholics but disdained by Reformation Protestants: All Souls', Candlemas, and Corpus Christi.<ref>Just as 1517 and 1601 shared a common calendar, so did 1518 and 1602.</ref>
+
+=== 1. All Souls' Day ===
+
+<!--Paragraph 27-->
+In the play's first movement we have noted that calendrical and astronomical details coupled with reports of a ghost walking on four successive nights would have drawn the attention of an Elizabethan audience to the interval 30 October - 2 November, and that All Souls' Day was devoted to masses for those who had died without benefit of Extreme Unction. Since Reformation theology denied the existence of Purgatory as having no basis in Scripture, Protestants disdained the holy day of All Souls.
+
+<!--Paragraph 28-->
+I have argued that, for two reasons, the year 1601 is rich in associations with ''Hamlet''. Firstly, because the four ghostly holy days occurred in succession in 1601. Secondly, because 1601 and the first Reformation year, 1517, shared a common calendar. Likewise, it may be significant that the succeeding years, 1602 and 1518, shared a common calendar. In 1602, Candlemas, Good Friday, and the first day of Corpus Christi observances ''all'' fell on the second day of the month:
+
+:{| class="wikitable"
+|-
+! Holy Day !! Date
+|-
+| Candlemas || 2 February
+|-
+| Good Friday || 2 April
+|-
+| Corpus Christi || 2-3 June<ref>Corpus Christi, nominally the Thursday after Trinity Sunday, was celebrated with processions and pageants staged by local "Corpus Christi Guilds." Because of the elaboration of the spectacles over time and the development of "Mystery Play" cycles, in some cities the feasting began as much as three days prior to the holy day. The feast of Corpus Christi fell on 3 June 1602 (Hutton 59).</ref>
+|}
+
+This concordance of holy days and dates is extremely rare. It occurred only twice in Shakespeare's working lifetime—in 1591 and 1602.<ref>And fewer than 40 times in the 1600 years since the birth of Christ.</ref>
+
+=== 2. Candlemas ===
+
+<!--Paragraph 29-->
+If the ghost-walking scenes of the play's first movement are identified with the four ghost-walking days 30 October-2 November, then the play's second movement—which includes "The Mousetrap," the closet scene with Gertrude, the murder of Polonius, the final appearance of Old Hamlet's ghost, and Claudius decision to banish Hamlet to England—must occur on 2 February, the holy day of Candlemas. We can deduce this date as follows.
+
+<!--Paragraph 30-->
+Before "The Mousetrap" Hamlet and Ophelia banter about how long Old Hamlet has been dead. Hamlet says "my father died within 's two hours," and Ophelia responds, "Nay, 'tis twice two months, my lord" (3.2.118-9). Ophelia, who is the reliable reporter in this exchange, declares Old Hamlet dead four months on the night of "The Mousetrap." By our reckoning Horatio, Barnardo, and Franscico encounter the ghost on 1 November. They determine to report what they see to Hamlet, and their scene closes as Marcellus says: "Let's do't, I pray, and I this morning know Where we shall find him most conveniently" (1.1.156-7). Therefore, the scene at the court of Claudius (1.2) must take place on the following day, 2 November. Claudius opens this scene: "Though yet of Hamlet our dear brother's death The memory be green . . . ." (1.2.1-2). Old Hamlet's death is recent. But how recent? Hamlet will shortly tell us that Claudius and Gertrude were married within a month of Old Hamlet's death:
+
+<blockquote>
+<poem>
+But two months dead—nay not so much, not two—
+. . . . . . . . . .
+A little month . . .
+. . . . . . . . . .
+. . . within a month,
+Ere yet the salt of most unrighteous tears
+Had left the flushing in her galled eyes,
+She married. O most wicked speed . . . . (1.2.138~155)
+</poem>
+</blockquote>
+
+Just as Hamlet condemns the brevity of Gertrude's period of mourning ("a beast that wants discourse of reason Would have mourned longer"), Claudius remonstrates against the protraction of Hamlet's grief:
+
+<blockquote>
+'Tis sweet and commendable in your nature, Hamlet,<br>
+To give these mourning duties to your father;<br>
+But you must know your father lost a father;<br>
+That father lost, lost his; and the survivor bound<br>
+In filial obligation for some term<br>
+To do obsequious sorrow. But to perserver<br>
+In obstinate condolement is a course<br>
+Of impious stubbornness, 'tis unmanly grief,<br>
+It shows a will most incorrect to heaven,<br>
+A heart unfortified, a mind impatient,<br>
+An understanding simple and unschooled . . . . (1.2.87-97)
+</blockquote>
+
+When Claudius alludes to a "term" of "filial obligation," an Elizabethan audience would have recognized an allusion to the "Trental," or "month's mind." By the late middle ages, the "term" for which a survivor was "bound In filial obligation" to do obsequies had been conventionally fixed at thirty days. "Corporate intercession for the dead, being one of the most central aspects of late medieval religion, was highly regulated, highly formalized" (Duffy 368).<ref>For a fuller discussion of the Trental, month's mind, and Purgatory, see Duffy 338-76.</ref> Extended obsequies were proscribed, and Claudius chides Hamlet in strong language. Hamlet's mourning beyond the Trental is "impious . . . unmanly . . . incorrect to heaven." When Claudius adds "unfortified" and "impatient" he comes close to pronouncing Hamlet's behavior heretical. Throughout ''Hamlet'' the dead are disposed of with perilous expediency. Old Hamlet's widow remarries before his Trental expires. Polonius is interred "hugger-mugger" (4.5.80). Ophelia is shoveled-under on the day following her questionable death. Claudius' commission had ordered Hamlet be put to death with "no leisure bated, No, not to stay the grinding of the axe" (5.2.24-5). Rosencrantz and Guildernstern are "put to sudden death, Not shriving-time allowed" (5.2.46-7). Like Old Hamlet, all who die in the play go to their graves without shrift. This hasty pace suggests that Old Hamlet's Trental has only just ended when Claudius and Gertrude importune the Prince to give over mourning. Since a Trental commenced on the day after an individual's death, Old Hamlet has been dead 31 days on 2 November. Therefore, Old Hamlet died on 2 October.
+
+<!--Paragraph 31-->
+As noted above, by Ophelia's reckoning Old Hamlet has been dead four months on the night of "The Mousetrap." Four months after 2 October is 2 February, the date of Candlemas. The dialogue on Mousetrap-night is rife with parodic allusions to St. Luke's account of the Presentation and Purification of the Blessed Virgin Mary (Luke 2:22-39), the Gospel for Candlemas. "Lights" are called for. A mother is purified. A small animal ("A rat, a rat") is sacrificed. Most important, a spirit appears whose "form and cause conjoined, preaching to stones, Would make them capable"—a brazen allusion to Christ's admonishment of the Pharisees on Palm Sunday: "And He answered and said unto them, I tell you that, if these [my adherents] should hold their peace, the stones would immediately cry out" (Luke 19:40). Luther rejected the intercession of saints and the Blessed Virgin Mary. Candlemas was the second major Catholic holy day disdained by Reformation Protestants.<ref>Hamlet's sea-voyage and his encounter with the pirates takes place on 3 February, feast of the patron saint of Denmark, St. Anskar.</ref>
+
+=== 3. Corpus Christi ===
+
+<!--Paragraph 32-->
+Hamlet's insistence that his father has been dead "two hours" is significant for identifying the holy day associated with the third and climactic movement of the play. When Hamlet speaks these words (ca. line 2000), an Elizabethan audience would have been approximately two hours into the performance of the play.<ref>I am indebted to M.A. McGrail for this observation.</ref> The striking clock of St. Mary Overy in Southwark could certainly have been heard within the playhouse, and the audience would have been sensible to the time elapsed since the performance had begun. If ''Hamlet'' began circa 2 p.m. as Thomas Platter tells us ''Julius Caesar'' did, the cathedral's tower clock would have just struck four times. A Globe audience must have heard the clock strike, and would have recognized Shakespeare's device.<ref>Hamlet's "dead two hours" is a subtler form of the kind of self-referential moment the playwright injected into ''Julius Caesar'' (1599) when Cassius asked "How many Ages hence Shall this our lofty Scene be acted over, In State unborne, and Accents yet unknowne?" (1326-8). Likewise, Cassius' "The clocke hath striken three" occurs at line 825 in ''Julius Caesar'', i.e. approximately one hour into the performance which began circa 2 p.m..</ref> Hamlet's allusion to "two hours," coupled with Ophelia's allusion to four months, conveys that in the dramatic time of ''Hamlet'' two hours = four months. The balance of the play, which runs another two hours (ca. 1900 lines), spans another four-month interval, which takes us from 2 February to 2 June. As noted above, in 1602 the two- day festival of Corpus Christi was held 2-3 June.
+
+<!--Paragraph 33-->
+This calendrical clue to Corpus Christi is supported by numerous details in the playtext. On the first of the two days which close the play, Ophelia performs her mad scene with songs and herbs, Laertes arrives at the door of Elsinore at the head of a mob, and Ophelia's death is announced. On the second day, Ophelia is buried, Claudius and Laertes contrive an elaborate murder-plot, and Hamlet's swordplay with Laertes and its consequences concludes the action. Corpus Christi celebrated the "real presence" of Christ in the Eucharist. From 4.5 through the end of the play, Shakespeare contrives a series of parodies of the principal rituals of the feast. There are two processions, one of the temporality and another of the spirituality, i.e. the mob of commoners following Laertes, and the priest leading the corpse of Ophelia. A pageant or play is staged in the form of the rigged fencing match. The final catastrophe centers on what Henry VIII defended as "the Altare sacrament," i.e. the mystery of transubstantiation parodied through the onixe/union in the lethal chalice (4.7.135). Not incidentally, the defeat of the elaborate Claudius-Laertes murder plot by Hamlet's faith in providence would have been unmistakable to an Elizabethan audience as a triumph of God's predestination over the planning and plotting of unrighteous men.
+
+<!--Paragraph 34-->
+As noted, these three holy days—All Souls', Candlemas, and Corpus Christi—had a vital connection with the Reformation. These were among the most sacred holy days in the Catholic calendar, but had been discarded by Luther and the Protestants. Just as the four ghost-walking days fell in sequence 30 October - 2 November in the years 1517 and 1601, Candlemas fell on 2 February and Corpus Christi on 2/3 June in both 1518 and 1602.<ref>Candlemas had a particularly poignant connotation for Shakespeare. His son, Hamnet, was christened on Candlemas 2 February 1585.</ref> By this reckoning, the visit of "The Dead Man," Lamord ("two months since" 4.7.80) fell on 2 April, which in 1602 was the anniversary of the death of Christ, Good Friday.<ref>Henry VIII's brother, Arthur, died on 2 April 1502. The 100th anniversary of his death may be remembered in Lamord's visit to Elsinore. There can hardly be any question that the decisive event in English religious history 1500-1600 was the death of Arthur and the subsequent wedding of Henry VIII to Arthur's widow, the Catholic Catherine of Aragon.</ref>
+
+== Testing the Calendrical Design of Hamlet ==
+
+<!--Paragraph 35-->
+Can we test whether this analysis of the calendrical design of ''Hamlet'' is valid, and whether Luther and the Reformation are closely linked to the play? One way might be to examine the event which was the ''sine qua non'' of the drama in ''Hamlet''—that is, the marriage of Old Hamlet to Gertrude. We might ask: is the date of the Old Hamlet-Gertrude marriage recoverable from internal evidence in the play? And, if it were, would it prove relevant to Luther?
+
+<!--Paragraph 36-->
+We are not told anything about the date of the Old Hamlet-Gertrude marriage. However, in "The Mousetrap" Shakespeare provides ''imagunculae'' of Old Hamlet and Gertrude, and alludes to the date of the wedding of these puppets, the Player King and Queen.
+
+<blockquote>
+<poem>
+Full thirty times hath Phoebus' cart gone round
+Neptune's salt wash and Tellus' orbed ground,
+And thirty dozen moons with borrowed sheen
+About the world have times twelve thirties been
+Since love our hearts and Hymen did our hands
+Unite commutual in most sacred bands. (3.2.150-55)
+</poem>
+</blockquote>
+
+The repetitive cadence of this speech—"thirty times . . . thirty dozen moons . . . twelve thirties"—makes it curiously memorable.<ref>Hamlet asks the Player King, "You could, for a need, study a speech of some dozen or sixteen lines which I would set down and insert in't [the play], could you not?" (2.2.528-30). Hamlet would be painfully aware of the date of his parents marriage, and it may be that this speech is his interjection. Its vocabulary certainly sorts well with Hamlet's penchant for classical allusions to Hyperion, satyr, Niobe, Hercules, Nero, Jove, Mars, Mercury, etc. </ref> Its arithmetic tells us that these ''imagunculae'' of Old Hamlet and Gertrude were married one solar month of thirty days plus thirty synodic years on the day of the murder.<ref>Shakespeare may have tuned his auditors' ears to catch this calendar play through the similarly repetitive dialogue ("two hours . . . twice two months") between Hamlet and Ophelia immediately preceding the playlet.</ref> The many obvious parallels between the Player King-and-Queen and Old Hamlet-Gertrude might have tempted Elizabethan auditors to compute the length of this marriage as follows.
+
+<!--Paragraph 37-->
+"Full thirty times hath Phoebus' cart gone round" describes 30 solar days. "And thirty dozen moons with borrowed sheen About the world have twelve times thirties been" describes 360 synodic months. The synodic period of the moon equals 29 days, 12 hours, and 44 minutes.
+
+<blockquote>
+360 X 29.5 days = 10620 days
+</blockquote>
+
+To account for the 44 minutes, add:
+
+<blockquote>
+<poem>
+360 X 44 minutes = 15840 minutes
+15840 minutes / 60 per hour = 264 hours
+264 hours / 24 per day = 11 days
+</poem>
+</blockquote>
+
+Which yields:
+<blockquote>
+10620 days + 11 days = 10631 days
+</blockquote>
+
+To this we must add the 30 solar days:
+
+<blockquote>
+10631 days + 30 days = 10661
+</blockquote>
+
+According to the Player King's speech, on the day of his murder 10661 days have elapsed since the wedding. If this precisely determines the duration of the Old Hamlet-Gertrude wedding, the computation allows us to answer a question which has haunted scholars for centuries and is, perhaps, the greatest mystery in Shakespeare: why didn't young Hamlet succeed to the throne immediately on his father's death?<ref>The received reason why Hamlet did not succeed his late father is that Denmark was an elective monarchy, and the electors had the power to bypass a lineal heir for another claimant. This is not sustained by historical fact. Until the 11th century, the kingship of Denmark was settled by violence. In 1047, Sweyn Estridson was elected king, and his dynasty reigned until 1319. However, when King Erik Glipping was murdered in 1286, his 12-year-old son was forced to sign a charter by the so-called "hof" comprising bishops and magnates. A stricter charter was signed by Christopher II in 1319. The males of this royal line died out in 1375. By then the "hof" had become a permanent institution, the Rigsrade, which proceeded to elect kings for some 70 years with indifferent success. In 1448 the Oldenberg dynasty began with Christian I. This line ruled until 1523, when the unpopular Christian II abdicated in favor of his uncle Fredrick I, who invited the first Lutheran preachers into Catholic Denmark. When Fredrick died in 1533, the election became (momentarily) important. The obvious choice for king was Fredrick's great nephew, Christian. However, the Catholic bishops and nobles who dominated the Rigsrade feared Christian would turn the country Lutheran. In 1534 they tried to invoke the old charter and elect a younger brother, Hans, a reliable Catholic. Denmark was shortly plunged into a brief civil war which ended when Copenhagen surrendered to Christian's forces in 1536. He was named King Christian III, and the Rigsgade sanctioned a Danish Lutheran church the same year. Christian's son Frederick succeeded in 1559, and reigned until 1588. During that period the electoral powers of the Rigsgrade were reduced to a rubber stamp. Christian IV succeeded in 1588 and reigned until 1648, etc.</ref>
+
+== Calculating Hamlet's Nativity ==
+
+<!--Paragraph 38-->
+On the vigil of Corpus Christi, 2 June, Hamlet returns to the precincts of Elsinore and engages a Clown in badinage.
+
+<blockquote>
+<poem>
+''Ham''. How long hast thou been a gravemaker?
+''Clow''. Of all the days I' th' year I came to 't that day that
+our last King Hamlet o'ercame Fortinbras.
+''Ham''. How long is that since?
+''Clow''. Cannot you tell that? Every fool can tell that. It
+was the very day that young Hamlet was born . . . .
+I have been sexton here, man and boy, thirty years. (5.1.138-57)<ref>Dover Wilson (202) recognizes the connection between the Player King's speech and the Clown's. "The repeated insistence upon 'thirty' years of married life [sic] agrees with Hamlet's age given at 1.5.143-57."</ref>
+</poem>
+</blockquote>
+
+According to the Clown, Hamlet is thirty (solar) years old on the day of this encounter. Hamlet has already remarked "How absolute the knave is!" (5.1.130), and Dowden insists "we must accept dates so carefully determined" (195). Dover Wilson declares the passage "fixes the age of Hamlet in so pointed a fashion that . . . Shakespeare clearly attached importance to it" (236). Shakespeare's device becomes transparent when we remember that Old Hamlet and Gertrude had been married 29 years plus 69 days when he died on 2 October of the prior year. The interval from Old Hamlet's death on 2 October to young Hamlet's encounter with the Clown on 2 June is eight months (243 days). Consequently, Old Hamlet and Gertrude would have been married 29 years plus 312 days when Hamlet encounters the Clown. But if Hamlet is 30 years old, he must have been born at least 29 years plus 365 days before his encounter with the Clown. Therefore, Hamlet must have been born at least 53 days ''before'' the Old Hamlet - Gertrude wedding.
+
+<!--Paragraph 39-->
+Now we understand why Shakespeare created a grave-digging Clown who is "absolute." Hamlet is illegitimate—which explains why he did not succeed to the throne on his father's death.<ref>Henry VIII had at least one son who could not succeed to his throne because he was illegitimate: Henry Fitzroy, born in 1519 to Elizabeth Blount, lady-in-waiting to Catherine of Aragon. Fitzroy was created Earl of Nottingham and Duke of Richmond in 1533, and married to Mary Howard, daughter of the Duke of Norfolk. He died at St. James palace in 1536, and suspicion of his poisoning fell on Anne Boleyn and her brother, Lord Rochford. Shakespeare was personally associated with another man thought to be an illegitimate son of Henry VIII, Henry Carey (1524?-1596), son of Anne Boleyn's sister, Mary. Carey was said to have borne a strong resemblance to Henry VIII. He was Queen Elizabeth's favorite cousin, and she created him Baron Hunsdon in 1559. Hunsdon founded a company of players before 1565, and James Burbage claimed to be "Lord Hunsdon's man" in 1584. A year later Hunsdon was named Lord Chamberlain. ''Hamlet'', of course, was acted by the Chamberlain's Men, as the entry in the Stationers' Register for 26 July 1602 testifies.</ref>
+
+== Testing Hamlet's Illegitimacy ==
+
+<!--Paragraph 40-->
+Can Hamlet's awareness of his illegitimacy be supported by internal evidence in the playtext? If we accept that the Player King's speech comprises some of the "dozen or sixteen lines" (2.2.529) Hamlet proposed to interpolate in the existing revenge play perhaps no further support is required. On the other hand, Hamlet may also refer to his illicit conception and pre-marital birth as he stands with Horatio and Marcellus awaiting the appearance of the Ghost in Act One. At 1.4.7 the quiet night is disturbed by the trumpets and ordnance of the king's rouse. Horatio asks, "Is it a custom?" and Hamlet responds
+
+<blockquote>
+<poem>
+Ay marry is't,
+But to my mind, though I am native here
+And to the manner born, it is a custom
+More honoured in the breach than the observance. (1.4.13-16)
+</poem>
+</blockquote>
+
+Harold Jenkins' note on "to the manner born" is useful: "Not merely familiar with the custom from birth, but committed to it by birth. It is part of his heritage" (208, 15n.). In Q1 and the Folio Hamlet's speech ends here and "observance" is the Ghost's cue to enter. But in Q2, Hamlet continues with a speech which picks up the twinned themes of heritage and heredity:
+
+<blockquote>
+<poem>
+So oft it chaunces in particuler men,
+As in their birth wherein they are not guilty,
+(Since nature cannot choose his origin)
+By their o'ergrowth of some complexion
+Oft breaking downe the pales and forts of reason,
+Or by some habit, that too much o'erleavens
+The forme of plausive manners, that these men
+Carrying I say the stamp of one defect
+Being Natures livery, or Fortunes starre,
+His vertues els be they as pure as grace,
+As infinite as man may undergoe,
+Shall in the generall censure take corruption
+From that particular fault: the dram of eale
+Doth all the noble substance of a doubt
+To his owne scandle. (1.4.23-38)
+</poem>
+</blockquote>
+
+In these sixteen lines Hamlet enumerates three ways in which a man's virtue may be corrupted: by accident of birth; by an imbalance of "humours"; by the practice of an offensive habit. Accident of birth is morally the most intriguing mode since the man is "not guilty." A child "cannot choose" his parentage or the circumstances of his nativity. But Hamlet believes the "vicious mole of nature" so pollutes its victim with "the stamp of one defect, Being Nature's livery" that, were all his other virtues "pure as grace," notwithstanding he "shall in the general censure take corruption From that particular fault." 
+
+<!--Paragraph 41-->
+When Shakespeare wrote these lines the word "vicious" had not achieved its savage modern sense. Rather, it was closely related to the notion of vice. When applied to habit and behavior, the word carried the sense of "vice; contrary to moral principles; depraved, immoral, bad" (''OED'' 3625). Applied to persons, the word meant "addicted to vice or immorality; of depraved habits; profligate, wicked." The word "mole" had two principal meanings: a "spot or blemish on the human skin . . . a fault," or the familiar small mammal (''OED'' 1832). In the latter sense it might be applied to persons who exhibited mole-like qualities, i.e. "one whose (physical or mental) vision is defective" or "one who works in darkness." 
+
+<!--Paragraph 42-->
+As to "the stamp of one defect," this figure is related to coining and coinage. Shakespeare routinely applies the term "stamp" to equate counterfeiting with the begetting of illegitimate children, as in ''Measure for Measure'':
+
+<blockquote>
+<poem>
+Ha, fie, these filthy vices! It were as good
+To pardon him that hath from nature stolen
+A man already made, as to remit
+Their saucy sweetness that do coin God's image
+In stamps that are forbid. (2.4.42-46) 
+</poem>
+</blockquote>
+
+Likewise in ''Titus Andronicus'', when the Nurse presents Tamora's illegitimate child to Aaron: "The Empress sends it thee, thy stamp, thy seal, And bids thee christen it with thy dagger's point" (4.2.69-70). There is also a series of echoes of ''Hamlet'' in Posthumus' rant: 
+
+<blockquote>
+<poem>
+We are bastards all,
+And that most venerable man which I
+Did call my father was I know not where
+When I was stamped. Some coiner with his tools
+Made me a counterfeit; yet my mother seemed
+The Dian of that time: so doth my wife
+The nonpareil of this. O vengeance, vengeance! (2.5.2-8) 
+</poem>
+</blockquote>
+
+In Hamlet's mind this counterfeit status—the unshirkable livery of bastardy—confounds a man's other virtues and condemns him to "the general censure," which most editors parse as public odium but may also refer to the Last Judgement.
+
+<!--Paragraph 43-->
+Hamlet's speech concludes with what Jenkins calls "the most famous crux in Shakespeare" (449): 
+
+<blockquote>
+<poem>
+. . . the dram of eale
+Doth all the noble substance of a doubt
+To his own scandale. (1.4.36-38) 
+</poem>
+</blockquote>
+
+No commentator has satisfactorily defined "eale," and "of a doubt" is suspect. But Jenkins conjectures Shakespeare wrote: 
+
+<blockquote>
+<poem>
+The dram of evil
+Doth all the noble substance often dout
+To his own scandal. 
+</poem>
+</blockquote>
+
+"Dout" means "put out, extinguish." Jenkins argues that "the general sense is clear: the small amount of evil in some way gets the better of 'the noble substance'" (451). 
+
+<!--Paragraph 44-->
+Shakespeare's diction becomes unambiguous if we remember these words are the summation of Hamlet's response to Horatio's question about the king's rouse. The theme of Hamlet's speech is wine and excessive drinking, and its language is drawn from associated jargon. "Dram" is a word Shakespeare uses elsewhere in both its senses, as a measure of avoirdupois weight (1/8 ounce) and a measure of fluid (1/8 fluid ounce).<ref>''Cymbeline'', 1.4.135; ''Winter's Tale'', 2.1.138.</ref> He also quibbles with the word in an ethical sense dram=scruple=compunction.<ref>''II Henry IV'', 1.2.130; ''Twelfth Night'', 3.4.79.</ref> At the close of Hamlet's speech Shakespeare is using the word "dram" in the sense of a fluid measure ''and'' quibbling on an unspoken word: "bastard."<ref>See Mahood for other examples of Shakespeare's puns on unspoken words.</ref> In addition to this word's familiar meaning of "born out of wedlock, illegitimate," the homonym "bastarde" described a "sweet kind of Spanish wine, resembling muscadel in flavour; sometimes any kind of sweetened wine" (''OED'' 174).<ref>The quibble has an after-echo at 1.4.40 when Hamlet speculates whether the ghost is a "spirit of health."</ref> Shakespeare uses the word in this sense in ''I Henry IV'': "Score a pint of bastard[e] in the Half-moon" (2.4.30).<ref>There are numerous references to ''bastarde'' in medieval and Renaissance literature, e.g. "The fellows of Merton . . . purchase some bastard in 1399." Rogers, ''Agric. & Prices'' (London, 1866), 1.xxv. 619.</ref>
+
+<!--Paragraph 45-->
+These ''bastarde'' sweetened or fortified wines—in the Elizabethan era the list included sherries, ports, muscatels and numerous other defunct variants—differ from "pure" vintages by what the French call ''dosage''.<ref>"Bastards . . . seeme to me to be so called because they are oftentimes adulterated and falsified with honey." Surflet and Markham, ''Country Farm'' etc., (London: 1616), 642.</ref> That is, the natural wine—the French term is ''nature'', the German ''naturwein''—is adulterated by the addition of a dollop of foreign substance. In the vinification of Falstaff's favorite, sack (modern: sherry), there are two intrusions into the fermentation and aging process. The first is ''flor''—a mold which is peculiar to the Xeres region of Spain which gives the wine its nutlike flavor. Secondly, sherries are aged (and dated) by the ''solera'' method. Small quantities of older sherries are added to young wines. The introduction of a few drams of older wine alters the new wine's character by a remarkable degree—a phenomenon well-known to sherry vintners and drinkers in Shakespeare's time. In an oenological sense then, the ''dosage'' procedure adulterates the natural wine by the intrusion of a small quantity of foreign fluid. Wine adulterated in this way forfeits its varietal appellation. It loses its claim to a "name"—and is left a nameless "bastard(e)." Viewed in this context, Hamlet's "dram of eale" is recognizable as a metaphor for semen.<ref>"Semen" may have been considered too rude a word for the stage in Shakespeare's time. Three detectable references are scrupulously oblique: (1) when Cleopatra refers to her eunuch, Mardian, as being "unseminared" at 1.5.11; (2) when Emelia upbraids Iago at 1.4.149-52 for allowing his wit to be turned "the seamy side without" to suspect her of infidelity with Othello; (3) when Hamlet refers to the "rank sweat of an enseamed bed" at 3.4.92. There's also a concordance in ''King John'': "let wives with child . . . let seamen fear no wreck" (3.1.15-8).</ref>
+
+<!--Paragraph 46-->
+As to the etymology of the mysterious "eale," the word may be a variant derived from "ealdren," an obsolete dialectical form of "elder." "Elder" has two principal meanings. The name of the familiar elder tree, ''Sambucus nigra'', derives from the Old English word "ellfrn," itself derived from an unknown Old Norse word but related to the Danish "hyld" or "hyldetrf" (''OED on CD-ROM'' elder n1). The elder is typically a low tree or shrub, and its young branches are remarkable for their abundance of pith. The qualities of elder wood were well-known to Shakespeare, who refers to its soft, removable pith in ''Henry V'',<ref>" . . . that's a perilous shot out of an elder- gun" (4.1.198). Elder pith could be hollowed out to leave a tube suitable for the making of a toy gun.</ref> and to the tradition that it was the tree upon which Judas was hanged in ''Love's Labour's Lost''.<ref>" . . . Judas was hang'd on an elder" (5.2.606).</ref> We may detect a glance at this quality of the elder tree in Hamlet's "indeede it takes From our atchievements, though perform'd at height The pith and marrow of our attribute" (1.4.20-22). 
+
+<!--Paragraph 47-->
+In the context of Hamlet's speech about excessive drinking, three attributes of the elder are significant. First, the tree produces the elderberry, from which a "wine" has been fermented in England since ancient times. Owing to the low sugar content of elderberries, the juice was "bastardized" with a quantity of sugar or honey as an aid to fermentation. Second, the English vernacular name for the elder is "Danewort," from the tradition that the plant sprang up in places where Danes slaughtered Englishmen or vice-versa.<ref>''OED Disc'' citations: 1538 Turner ''Libellus''; an annoymous ''Herbal'' of 1568, and 1578 Lyte ''Dodoens'', iii. xlv. 380: ''This herbe is called'' . . . ''in Englishe Walwort, Danewort, and Bloodwort''. "While suggested in part by the abundance of the plant at certain spots historically or traditionally associated with slaughter, there was also an element of fanciful etymology in explaining the Latin name ''Ebulus'' from ''ebullire'' to bubble forth, with reference to the flowing of blood." This may also be associated with the plant's diuretic qualities.</ref> Third, the unfermented juice of the elderberry was employed in English folk medicine as a diuretic from at least medieval times.<ref>''OED Disc'' citation: 1398 Trevisa Barth. ''De R''., xvii. cxliv. (1495) 700, ''The Ellern tree hath vertue Duretica''.</ref> That is, the elderberry is unique in that its juice can be associated not only with the consumption of fluid but with effluence.<ref>That Shakespeare was familiar with the diuretic qualities of elderberries may be deduced from a previously overlooked concordance in ''The Merry Wives of Windsor'': "''Host''. What says my Aesculapius, my / Galen, my heart of elder, ha? Is he dead, bully stale, Is he dead? ''Caius''. By gar, he is de coward jack priest of de vorld. He is not show his face. ''Host''. Thou art a Castalion King Urinal Hector of Greece, my boy." (2.3.26-32) Shakespeare begins by quibbling the soft ''heart of elder'' against the traditionally resolute "heart of oak." But the quibble quickly switches focus to the ecclesiastical sense of "elder" with the introduction of "priest," a word derived from "presbyter," which was the literal translation into ecclesiastical Latin from the Greek ''prysbyteros'', meaning church elders (''OED Disc'', elder 3, 4a). Finally, Shakespeare quibbles on the diuretic powers of the elderberry by the introduction of "Urinal" in close concordance with (a) the name of the Greek god of healing, Aesculapius, (b) the celebrated Graeco-Roman physician, Galen, and (c) the word "stale" (urine), as in "Thou didst drink The stale of horses, and the gilded puddle Which beasts would cough at." ''Antony and Cleopatra'' (1.4.61-3). Oliver parses the phrase as a reference to "the urinal used by the hated Philip II of Castile," but overlooks the Galen-elder-stale-urinal quibbling (Oliver 65n).</ref>
+
+<!--Paragraph 48-->
+The second meaning of "elder" which is relevant to the "dram of eale" is the comparative of "old," i.e. "one who has lived longer." The epithets "bastard eigne" and "bastard elder" were employed interchangeably in Elizabethan legal documents to describe "the bastard son of a man who afterwards marries the mother" by whom he begets succeeding issue (OED on CD- ROM bastard n1a).<ref>"Eigne" is a corrupt spelling of "ayne," i.e. "first-born, eldest." Citation: "1528 Perkins Prof. Bk. i.49, A bastard eigne who is mulier in the spirituall law."</ref> Legally, Hamlet would become a "bastard eigne" were a sibling to be born in wedlock to Claudius and Gertrude. A law book of 1536 outlines the prevailing English practice: 
+
+<blockquote>
+A man hath a sonne of a woman before marriage, that is called a bastarde, and unlawful. And after he marrieth the mother of the bastarde, and they have another sonne, the seconde sonne is called ''Mulier'', that is to say lawfull, and shall be heire to his father; but that other cannot bee heire to any man, because it was not knowen for certaine in the judgement of the law who was his father, and for that cause is said to bee no mans sonne or the sonne of the people, and so without father, according to these old beliefs. (Rastell 131-2) 
+</blockquote>
+
+Hamlet may have been legitimated by the subsequent marriage of his parents. But, were the Claudius-Gertrude marriage to produce legitimate issue, that child would take precedence in the succession and Hamlet would be disenfranchised from the crown.<ref>Shakespeare glances at the possibility that offspring of a royal remarriage may disenfranchise an existing heir in ''Two Gentlemen of Verona'' (3.1). Hamlet's illegitimacy may explain why he is so determined that Gertrude abandon her conjugal relationship with Claudius (3.4). We know from ''King John'' and ''Measure for Measure'' that Shakespeare keenly understood the legitimacy laws of England. Under prevailing law, if a step-sibling were born to Claudius-Gertrude in wedlock, that child would take precedence in the succession. Hamlet would be reduced to the legal status of "bastard eigne."</ref>
+
+<!--Paragraph 49-->
+"Eale" may be a lost tipplers' colloquialism, or an Elizabethan nonce-word for an alcoholic drink derived from "ealdern." If so, the tiny and inscrutable "eale" is pregnant with a remarkable concordance of ideas appropriate to Hamlet and his circumstances: wine, bastard(e), Danes, diuretic qualities, effluence of fluid, illegitimate conception, a first-born son whose stigma of bastardy was incompletely moderated by the subsequent marriage of his parents, a bastard eigne's lost entitlements. 
+
+== Hamlet's Illegitimacy, and Luther's ==
+
+<!--Paragraph 50-->
+Hamlet's illegitimacy provides another connection between Shakespeare's prince and Martin Luther. Controversy still surrounds the date of Luther's birth. His leading Catholic opponent, Johannes Cochlaeus (Johannes Dobeneck, 1479- 1552), wrote that Luther was a bastard conceived when his mother copulated with the Devil in a bath-house (Friedensburg v.1.541, 14-18).<ref>The allegation was currency among Luther's detractors as late as the 19th century.</ref> In fact, Luther's mother swore that she could remember the date of Martin's birth but not the year.[52] Melancthon writes: 
+
+<blockquote>
+I have some tyme enquired of her [Margarethe Luther] at what time her sonne was borne: she answered, that she remembred the houre and the day of his nativity but of ye yeare she was ignoraunt. She affirmed he was borne the x [10th] day of November at night, about a leven of the clocke. And ye cause why he was called Martin, was for that the morow after he received Baptisme, was S. Martins day. But his brother James, an honest and upryght man, said: the whole famely held opinion, he was borne the yere after the Nativity, 1483. (Bennet B2r-v) 
+</blockquote>
+
+The date of Luther's parents' marriage is unknown. What is known is that the couple moved house twice in the years 1482-4, first from Eisenach to Eisleben, and thence to Mansfield. A young couple occupying three residences in as many years is remarkable for that era. These movings of house—and the necessity for Luther's mother to conceal the year of his birth—would be understandable if Martin had been conceived out of wedlock. The "official" year of Luther's birth is given as 1483 or 1484. But an earlier birthdate, say 1482, would resolve "definite difficulties in the chronology of Luther's youth, such as his four-year period of schooling in Eisenach, for which it is difficult [i.e. impossible] to account" if a birthdate in 1483 or 1484 is accepted (Brecht 1). Luther's father, George, began his career as a miner. This explains Hamlet's epithet for his own father's ghost: "Well said, old mole. Canst work i'th' earth so fast? A worthy pioner" (1.5.170-1). In Shakespeare's parlance, the term "pioner" or "pioneer" signified a miner. 
+
+== In Conclusion ==
+
+<!--Paragraph 51-->
+Since 1941—and particularly since 1973—there has been a renewal of interest in reading Shakespeare's Hamlet as a Reformation document. If the calendrical design which this essay alleges is integral to Shakespeare's structure for the play's three "movements," scholars may now address the theological dimensions of the text in a broader context. Each of the scholarly works remembered at the outset of this essay has ingeniously interrogated a particular passage or character or theme in Hamlet for its theological content. In a manner akin to literary archaeology, each scholar has described an individual tile which is part of a larger mosaic. Recognizing the calendrical framework of Shakespeare's Hamlet may provide a matrix in which these tiles of meaning find their places, and in time reveal the playwright's grand design. 
+
+== Notes ==
+{{reflist}}
+
+== Works Cited ==
+* Amott, Dawn. "Hamlet's Salvation and Luther's Justification by Faith." Diss. Carleton University, Ottawa, 1973. 
+* Hankins, John. ''The Character of Hamlet and Other Essays''. Raleigh: U North Carolina P, 1941. 
+* Battenhouse, Roy W. "The Ghost in ''Hamlet:'' A Catholic 'Linchpin?'" ''Studies in Philology'' 48 (1951): 180-1. 
+* ---. "Hamlet's Evasions and Inversions," in ''Shakespearean Tragedy''. Bloomington: U of Indiana P, 1969. 244-65. 
+* ---. "Hamlet's Apostrophe to Man." ''PMLA'' 66 (1951): 1073-1113. 
+* ---. "The Significance of Hamlet's Advice to the Players." ''The Drama of the Renaissance''. Ed. Edward Blistein. Providence: Brown UP,1970. 3-26. 
+* Bayer and Schiller. ''Coelum stellatum christianum''. Heidelberg, 1627. 
+* Bennet, Henry. ''A famous and godly history, etc''. [Imprinted at London by John Alwdely, dwellying in lytle Brittaine Streete, by great Saint Bartelmewes, Anno, 1561.] University Microfilms Incorporated, ''Early English Books 1475-1640'', Reel 377. 
+* Bowers, Fredson. "Hamlet as Minister and Scourge." ''PMLA'' 70 (September 1955): 740-49. 
+* Brecht, Heinrich. ''Martin Luther: His Road to Reformation''. Minneapolis: Fortress P, 1993. 
+* Cannon, Charles K. "'As in a Theater': ''Hamlet'' in the Light of Calvin's Doctrine of Predestination." ''Studies in English Literature'' 11 (1971): 203-22. 
+* Christopher, Georgia B. "Carrion That God Kissed: Hamlet's Devotional Reading." ''HamletS'' 5 (1983): 75-79. 
+* Daniell, David. "The Language of ''Hamlet."'' [Hilda Hume Memorial Lecture, 29 November 1994.] London: Senate House Printing, 1995. 
+* Duffy, Eamon. ''The Stripping of the Altars''. New Haven: Yale UP, 1992. 
+* Foxe, John. ''Actes and Monuments, etc''. London, 1563. 
+* Friedensburg, Wilhelm. ''Nuntiaturberichte aus Deutschland 1533- 1559''. Gotha, 1892. 
+* Frey, Roland Mushat. "Prince Hamlet and the Protestant Confessional." ''Theology Today'' 39 (1982): 27-38. 
+* ---. ''The Renaissance Hamlet''. Princeton: Princeton UP, 1984. 
+* Gim, Lisa''."Hamlet'' and Matthew X: Providence in the Fall of a Sparrow." ''University of Mississippi Studies in English'' 4 (1983): 56-61. 
+* Granville-Barker, Harley. ''Preface to Shakespeare: Hamlet''. London: Batsford 1970. 
+* Greenblatt, Stephen. "The Mousetrap." [Unpublished]. 
+* Hassel, R. Chris, Jr. "Hamlet's 'Too too solid flesh." ''Sixteenth Century Journal'' 25 (1994): 609-22. 
+* ---. ''Renaissance Drama & the English Church Year''. Lincoln: U of Nebraska P, 1979. 
+* Hoff, Linda K. ''Hamlet's Choice—A Reformation Allegory''. Lewiston: Mellen, 1988. 
+* Hutton, Ronald. ''The Rise and Fall of Merry England''. Oxford: Oxford UP, 1994. 
+* Johnson, Jerah. "The Concept of the 'King's Two Bodies' in ''Hamlet''." ''Shakespeare Quarterly'' 18 (1967): 430-4. 
+* Kaula, David." ''Hamlet'' and the Image of Both Churches." ''Studies in English Literature'' 24 (1984): 241-55. 
+* Kay, Dennis. ''Melodious Tears''. Oxford: Oxford UP, 1990. 
+* Laroque, Francois. ''Shakespeare's Festive World''. Cambridge: Cambridge UP, 1993. 
+* Leduc and Baudot. ''The Liturgy of the Roman Missal''. London: Burns Oates, [n.d.]. 
+* Levin, Harry. ''The Question of Hamlet''. Oxford UP, 1959. 
+* Lyons, Bridget Gellert. "The Iconography of Ophelia." ''English Literary History'' 44 (Spring, 1977): 60-74. 
+* MacDonald, Michael. "Ophelia's Maim‚d Rites." ''Shakespeare Quarterly'' 37 (1986): 309-17. 
+* Mahood, M.M. ''Shakespeare's Wordplay''. London: Routledge, 1988. 
+* Melancthon, Philip. ''Historia de vita et actis Martini Lutheri . . . MDXLVIII''. [Microfilm: OmniSys Corporation, 211 Second Avenue, Waltham, MA 02154. Roll 130.] 
+* Miriam Joseph, Sister." ''Hamlet'', a Christian Tragedy." ''Studies in Philology'' 59 (April, 1962): 119-40. 
+* ''Oxford English Dictionary''. Compact Edition. Oxford: Oxford UP, 1971. 
+* ---. ''CD-ROM''. 2nd ed. Oxford: Oxford UP, 1992-3. 
+* Phillipson, Johannes. ''A Famouse cronicle of our time, etc''. London, 1560. 
+* Plomer, Henry R. ''Wills of English Printers and Stationers''. London, East&Blades, 1903. 
+* Quinlan, Maurice J. "Shakespeare and the Catholic Burial Services." ''Shakespeare Quarterly'' 5 (1954): 303-6. 
+* Rastell, John. ''An Exposition of certaine Difficult . . . Words and Terms of the Lawes of this Realme''. London, 1536. 
+* Sesti, Giuseppe Maria. ''The Glorious Constellations''. New York: Abrams, 1991. 
+* Shakespeare, William. ''Plays and Poems''. Ed. Edmond Malone. London, 1821. 
+* ---. ''Hamlet''. Ed. Edward Dowden. London, 1899. 
+* ---. ''Hamlet''. Ed. John Dover Wilson. Cambridge: Cambridge UP, 1934. 
+* ---. ''Hamlet: Second Quarto 1604-5''. Ed. W.W. Greg. London: Sidgwick, 1940. 
+* ---. ''Hamlet''. Ed. Harold Jenkins. London: Arden-Metheun, 1987. 
+* ---. ''The Merry Wives of Windsor''. Ed. H.J. Oliver. London: Arden-Methuen, 1990. 
+* Sinfield, Alan."Hamlet's Special Providence." ''Shakespeare Survey'' 33 (1980): 89-98. 
+* Sjogren, Gunnar. "The Danish Background in ''Hamlet''." ''Shakespeare Survey'' 4 (1968): 221-30. 
+* Venerable Bede. ''Rhythmical Version of Bede'' 'De Ratione Temporum.' Paris: Libraire Ancienne Edouard Champion, 1927. 
+* Waddington, Raymond. "Lutheran Hamlet." ''English Language Notes'' 27:2 (1989): 27-39. 
+* Wiles, David. ''Shakespeare's Almanac''. Cambridge: Brewer, 1993. 
+* Wilson, Richard. ''Julius Caesar''. London: Penguin, 1992.
+
+{{BookCat}}
