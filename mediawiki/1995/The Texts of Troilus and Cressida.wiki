@@ -1,0 +1,507 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/The Texts of ''Troilus and Cressida''}}
+''This essay was written by W.L. Godshalk''.
+
+==Part I: Data and Interpretation==
+
+<blockquote>
+Never mix up what you really know with what you think you know. Don't let speculation water down the proven truths. (Meyer)
+</blockquote>
+
+<!--Paragraph 1-->
+This paper attempts to separate what we really know from what we think we know about the texts of ''Troilus and Cressida''. In the past sixty-five or seventy years, a succession of stories that have little or no basis in fact have grown up around the play and its texts. These stories are interesting and, indeed, fascinating as fictions, but they should be carefully distinguished from the very few facts that we really know. In Part I of this paper, I will review and question these stories, and, in Part II, I will offer several hypotheses that concern the copy for the Folio text, the differences between the Quarto and the Folio, and the stage directions in the two texts. I offer these hypotheses as the basis for further research and discussion.<ref>I wish to thank Thomas Berger and George Walton Williams for reading and commenting upon an earlier version of this paper. The present paper grew out of the ''Troilus and Cressida'' Seminar at the 1994 Shakespeare Association of America Convention in Albuquerque.</ref>
+
+===Section A: Evidence===
+<!--Paragraph 2-->
+Let me begin with some of the ''verifiable facts'' (i.e., data) about the early history of ''Troilus and Cressida''. These facts are all well known, and I try to present them here without comment and as free from interpretation as possible. Although my bald presentation may leave some of the facts confusing and unclear, that is, indeed, my point: from these few, sometimes unclear and contradictory, uninterpreted facts we must begin our study.
+
+*(1) On February 7, 1602 [i.e., 1603 present style], Mr. Robertes, i.e., James Roberts, entered ''Troilus and Cressida'' conditionally in the Stationers' Register: "Entred for his copie in Full Court holden this day. to print when he hath gotten sufficient aucthority for yt. The booke of Troilus and Cressida as yt is acted by my lo: Chamberlens Men."<ref>Schoenbaum (216, plate 122) reproduces the entry from the Stationers' Register. The transcription offered here is mine. The entry is also transcribed by Arber (3:226; leaf 91b), and by Greg (''A Bibliography'' 1:18). The transcriptions throughout this essay do not attempt to reproduce the peculiarities of the secretary hand or the particularities of seventeenth century type, e.g., ligatures, the long s. </ref>
+*(2) On January 28, 1608 [i.e., 1609 present style], Ri. Bonion and Henry Walleys, i.e., Richard Bonian and Henry Walley, entered the play in the Stationers' Register: "Entred for their Copy vnder thande of mr Segar deputy to Sr. George Bucke a[nd] mr ward.[en] Lownes a booke called, The history of Troylus a[nd] Cressida."<ref>Schoenbaum (219, plate 131) reproduces the entry from the Stationers' Register. The transcription offered is mine. The entry is also transcribed by Arber (3:400; leaf 178b), and by Greg (''A Bibliography'' 1:25). </ref>
+*(3) In 1609, the Quarto was printed by George Eld for Bonian and Walley.
+*(4) The Quarto exists in one issue with ''two states of issue''.<ref>The following parenthetical references in Section A are to signatures in the Quarto and in the Folio texts. For those readers who need information about signatures and their use in early books and bibliographical description, please see Gaskell (52, 328-333). Throughout, paragraphs marks are represented by the character sequence ''|P''.</ref> (A) The first state (A–L4, M2 [M2 is blank]) has the title "THE / Historie of Troylus / and Cresseida." followed by "''As it was acted by the Kings Maiesties'' / seruants at the Globe." (B) The second state (''|P''2 A2–4, B–L4, M2 [M2 blank]) cancels the first title page with the half-sheet remainder of M. The cancelling title page only partially alters the title page of the first issue: "THE / Famous Historie of / Troylus ''and'' Cresseid./ ''Excellently expressing the beginning'' /of their loues, with the conceited wooing / of ''Pandarus'' Prince of ''Licia''." The rest of the title page is the same in both states.<ref>Philip Williams, "The 'Second Issue' of Shakespeare's ''Troilus and Cressida'', 1609," ''Studies in Bibliography'' 2 (1949): 28: "the interval of time between the printing of the original title-page and the cancelling title-page was so short that the type from the original title-page had not been distributed." Williams assumes (perhaps incorrectly) that type was not left standing for any considerable length of time. </ref> The second state also adds a prefatory epistle or introduction: "A neuer writer, to an euer reader. Newes" (''|P''2).
+*(5) This undated epistle is addressed to "''Eternall reader''," informing this reader, "''you haue heere a new play, neuer stal'd with the Stage, neuer clapper-clawd with the palmes of the vulger, and yet passing full of the palme comicall''" (''|P''2). The epistle writer asks the Eternal reader not to "''like this the lesse, for not being sullied, with the smoaky breath of the multitude; but thanke fortune for the scape it hath made amongst you. Since by the grand possessors wills''<ref>As Nosworthy (56) points out, "possessors" as a legal term means one who takes, occupies, or holds something without ownership, or as distinguished from the owner (OED, b). "Grand" also has a legal meaning: "principal, chief" used for actions or agents (''OED'', adj., A.4). Translated as "principal occupiers," or "chief possessors," the phrase seems to suggest multiple possession, though not ownership. Gurr notes that the "players do not seem to have held copyright in the modern sense" and points to Shirley who published "all the plays he wrote for Queen Henrietta's Men after he left them" (Stage 21-22). Thus the players might well be called the "grand possessors" of a play. </ref> ''I beleeue you should haue prayd for them rather then beene prayd. And so I leaue all such to bee prayd for (for the states of their wits healths) that will not praise it''" (''|P''2v). The epistle writer says, "''So much and such sauored salt of witte is in his [the author's] Commedies, that they seeme (for their height of pleasure) to be borne in that sea that brought forth'' Venus. ''Amongst all there is none more witty then this: And had I time I would comment vpon it, though I know it needs not''" (''|P''2).
+*(6) In the Folio, the first three pages of the text were ''initially'' set directly from the Quarto (or so it may be argued from the evidence). Beginning with the fourth page (''|P''1), the Folio text contains interpolations from another source.
+*(7) In the Folio, ''Troilus and Cressida'' does not appear in the Catalogue (i.e., Table of Contents). With the exception of one leaf, it is unpaginated, and has anomalous signatures. It is now placed between the Histories and the Tragedies, though it had been at one time intended to follow ''Romeo and Juliet''. (One example of the original gg3 survives; see Hinman, ''Folio'' 916-919.) Three pages were set and printed before the initial printing was discontinued; one leaf, numbered 79 and 80, now 2r-v, was preserved from this initial printing and bound with the present Folio text. The first page of the initial text (now 1v) had to be reset, and was reset using the original printing as copy; i.e., the compositor did not return to the Quarto as copy; 1r contains The Prologue, not present in the initial printing, and in larger type than the rest of the play.<ref>George Walton Williams suggests (privately) that compositor attribution might be added to the list of facts. However, compositor attribution is not a matter of fact, but a matter of argument from observable phenomena, and, as Ferguson reveals, the attributions are not firmly settled. </ref>
+
+===Section B: Interpretations: Some Stories===
+<!--Paragraph 3-->
+Now let us look at some of the many stories about the early history of Troilus and Cressida. The purpose of these stories is to make sense of the facts that we have about the publication history of the play.<ref>Ingram, in his chapter "Evidence and Narrative" (12-61), offers a persuasive and cautionary account of the movement from primary data to accepted fact.</ref>
+
+*(1) Roberts "may not have 'gotten sufficient aucthority,' or the entry itself may be a so-called blocking entry, a stratagem by the company to prevent someone else from publishing the play" (Taylor, "Bibliography" 119). Both stories have been suggested by other scholars, but as Taylor himself says, "We do not know why Roberts did not print the play" (119). In fact, is it possible (a la ''Titus Andronicus'')<ref>See Adams (12-13) who points out that this quarto was lost to the scholarly world until 1904. Only Gerard Langbaine in 1691 had listed it before its rediscovery in Sweden.</ref> that Roberts did print and publish the play, and that all the copies are lost? Or censored, confiscated, and burned?
+*(2) "Shakespeare first composed the play specifically with an Inns of Court premiere in mind" (Taylor, "Bibliography" 120, cf. Greg, ''First Folio'' 347). Apparently Alexander was the first to make this suggestion (278). No one has yet to produce incontrovertible evidence for this ''supposed'' premiere. Or as Greg says, "it must be frankly admitted that there is no shred of external evidence with which the conjecture can be supported" (''First Folio'' 340).
+*(2.a) Honigmann asks, "Why not at Cambridge?" (44). He contends that the second part of ''The Retvrne from Pernassus: or The Scourge of Simony'' (a Cambridge University play usually dated 1601) alludes to ''Poetaster'' and ''Troilus and Cressida''. The character Will Kemp says: "Why heres our fellow ''Shakespeare'' puts them all downe, I and ''Ben Ionson'' too. O that ''Ben Ionson'' is a pestilent fellow, he brought vp ''Horace'' giuing the Poets a pill, but our fellow ''Shakespeare'' hath giuen him a purge that made him beray his credit" (lines 1769-1773). Shakespeare's Ajax, of course, is often taken to be a satirical jab at Jonson. Since the Cambridge playwrights were familiar with ''Troilus and Cressida'', Honigmann argues, "Shakespeare's colleagues were no strangers [to the Cambridge audience], were probably recent visitors, so they might well have put on their newest play . . . as a 'try-out,' before launching it at the Globe" (44). But Honigmann merely replaces one hypothetical venue with another, and the evidence is extremely tenuous. J. B. Leishman, for example, does not see the "purge" as a reference to ''Troilus and Cressida''.<ref>See J. B. Leishman, ed., ''The Three Parnassus Plays (1598-1601)'' (336-38, 59-60).</ref>
+*(3) "It is unlikely that this play was ever performed to an audience at the Globe" (Alexander 279). "[T]he company, considering the play not suited to their own repertory, decided to dispense with a formal prompt-copy and make do, for a single performance [at the Inns of Court], with the foul papers" (Greg, ''First Folio'' 348).<ref>Coghill (78-97) argues that the play was "originally performed to public audiences at the Globe in 1602/3" and in 1608 revived for the Christmas Revels at the Inns of Court.</ref> The only evidence for these statements is the preface to the 1609 Quarto. As Taylor ("Bibliography" 118) points out, there is "no mention of a performance of ''As You Like It'' before 1642 either," and Roberts in 1603 claimed that this play "is acted by my lo: Chamberlens Men."
+*(4) "The assurance which the Preface [to the Quarto, second state] gives us that the play was designed for some private occasion or company suggests that transcripts of the play may have been made for certain of those who commissioned it, and that one of these may have been obtained by Bonion and Walley. . . . [T]he Quarto copy was most probably in Shakespeare's own handwriting" (Alexander 279). Greg hesitantly follows Alexander: "an impression of autograph copy remains . . . . [A] fair copy by the author would satisfy what evidence there is, and . . . if the play were written for a particular occasion and a particular audience [i.e., Inns of Court] it is not impossible that such a copy should have been prepared for presentation" (Greg, ''First Folio'' 342). Of course, this is guesswork piled on guesses, no matter how hesitantly Greg states the hypothesis.
+*(4.a) Why does the Quarto have two different title pages? Perhaps "one of the two publishers definitely preferred the original title-page with its reference to performance at the Globe. . . . If so, he could have directed his binder [i.e., sewer] to ignore the cancel in the copies allotted to him."<ref>Thomas Berger suggests (privately) that this would have been the responsibility of the sewer rather than the binder. See Gaskell (147).</ref> Each publisher wanted his own distinctive title page. "Or . . . both publishers, acting jointly, may have deliberately allowed some copies of the book without the cancel to be issued, holding back the cancelled copies with the expectation that the new title-page and preface would stimulate sales at a later date" (Williams, Dissertation 125-26). Williams himself questions the validity of these two hypotheses, and thinks it more likely that, because of some accident, the sewer did not have enough of the cancelling half-sheets (Williams, Dissertation 127). It is also possible that the uncancelled copies were printer's "copy books,"<ref>See F. R. Johnson, "Printers' 'Copy Books' and the Black Market in the Elizabethan Book Trade," ''Library'' 1 (1946): 97-105. </ref> that is, copies that the printer, George Eld, had the right to sell. Nosworthy conjectures that Bonian and Walley received the Epistle after the rest of the copy, "decided to include it, with alterations, as being an integral part of [the play], and . . . finding it contradictory to their existing title-page they altered the latter" (58).<ref>Of the fifteen known copies of Q, three are in the first state; one has both title pages (Daniel-Huth copy); and the rest are second state. Most bibliographers are reluctant to see this proportion (3:1:11) as indicative of the relative numbers of each state originally produced and published. Palmer notes that "while most play-quartos printed by Eld run to an exact number of complete sheets, the Quarto of ''Troilus and Cressida'' runs to an extra half-sheet [i.e., three-quarters of a sheet]" (304). M2 was left as a cover, and the extra half-sheet was used for the second (i.e., cancelling) title page. And the second title page was set before the type from the first title page was (completely) distributed. To my eye, it looks as if Bonian and Walley had planned to issue this play in two states. Perhaps Williams' second conjecture may be correct. </ref>
+*(4.b) John Marston was responsible for the publication of the Quarto. W. R. Elton, on the strength of the second state epistle, believes that the play was first performed at the Inns of Court, and Marston, "[a]s resident of the Inns of Court," would "have known of the existence of the presentation copy, which the author would have been expected to provide the commissioners of his work" (68). Further, Marston was a friend of Henry Walley, one of the publishers (65). "[T]he publishers were likely to have employed the transmitter, rather than to undertake the new title page or Epistle themselves. For this purpose, the talents of Marston who, by procuring a new MS, may have saved his friend from copyright troubles, could have been enlisted" (72-73). Although Marston's friendship with Walley has been documented (65, note 5), the other elements of Elton's reconstruction are pure supposition and conjecture. We do not know that the play was first performed at the Inns of Court; we do not know that a presentation copy was expected by and, indeed, given to the hypothetical commissioner of the work; and we do not know that the "transmitter" is "likely" to have provided the epistle and the second state title page.
+*(5) For Folio copy, an "annotator" collated a manuscript of ''Troilus and Cressida'' "against Q, transferring its variant readings to the printed text, in order to provide printed copy for Jaggard's compositors" (Taylor, "Bibliography" 121). The Folio compositors (beginning with TLN 391)<ref>I use Hinman's through line numbers (TLN) throughout the paper. These are geared to the Folio text, not the Quarto, and so there are some adjustments that must be made. I use the Riverside edition for Act, scene, line references and as a modernized text.</ref> worked "from a copy of Q annotated by reference to a manuscript" (Wells and Taylor, ''Textual Companion'' 425). Wells and Taylor claim that Philip Williams demonstrated the truth of this statement. Williams ("Relationship" 142, and Dissertation 214-215), however, did not hypothesize an annotated copy of Q, merely that certain lines, "all clearly genuine . . . must have been supplied from some outside source, i.e. a manuscript" (142). In fact, no quartos of plays annotated for use as printer's copy have been found, nor is there any external evidence for a collator/annotator or for such an annotated quarto.<ref>But see Greg's "An Elizabethan Printer and his Copy" (''Collected Papers'' 95-109) for manuscript copy annotated for publication, and my "Gabriel Harvey and Sidney's Arcadia," ''Modern Language Review'' 59 (1964): 497-499, for an incompletely annotated copy of Arcadia (1613), possibly for an aborted edition. William B. Long, "A bed / for woodstock" (114-15), lists the 16 surviving manuscript playbooks, and Baskervill carefully describes a quarto copy of ''A Looking Glass for London'' that has been marked and annotated as a theatrical playbook. Leslie Thomson (privately) has been helpful in pointing me toward material.</ref> And how can we be sure that any line is "clearly genuine"?<ref>Andrew Gurr (''Stage 107-11''), using Greg, notes some of the positive effects of an (apparently) improvised reconstruction of a text. The discussion should teach us to hedge our bets (as Greg often does) when we talk about the clearly genuine.</ref>
+
+===Section C: More Interpretations: Foul Papers, Scribal Copies, Promptbooks, Annotated Quartos, and Strange Mistakes===
+<!--Paragraph 4-->
+The basic problem is how to account for the differences — the variants, of which Williams counted approximately 5,000 — between the Quarto and the Folio. And since it seems impossible that both texts were printed from Shakespeare's foul papers (in different states of revision, of course), then presumably one text (''at least'') must be based on a copy, either scribal or authorial. If we accept this hypothesis, then we must ask what kind of manuscript lies behind each text.
+
+<!--Paragraph 5-->
+In 1929, Peter Alexander attempted an answer and argued that the Quarto "''gives a later draft of the play than that in the possession of Heminge and Condell from which it was corrected''" in the Folio (274). And further Alexander argued, from the evidence of spelling, misprints, and punctuation, that the transcript behind the Quarto was made by Shakespeare himself—"or one who could interpret his intentions as no compositor could or would venture to do" (284).
+
+<!--Paragraph 6-->
+In 1965, Nosworthy argued that Alexander's "one who could interpret his intentions" was Ben Jonson (70-71), and that "the transcript underlying the Quarto was, in a small measure, a revision of Shakespeare's original," a revision carried out by the transcriber, whoever he (or she) might be (71). "The Quarto shows that in the transcript, made from what may have been a somewhat untidy set of foul papers at the time of the Revels performance [Nosworthy assumes, 55], the stage-directions were extremely scanty, though doubtless sufficient to meet the needs" (79). But, the Folio must have been "based on matter drawn from those same foul papers" and it "adds more than fifty [stage] directions" which, he assumes, were "not in the foul papers at the time of [the] transcription" used for the Quarto (79). Nosworthy theorizes that the publication of the play in 1609 "led Shakespeare to contemplate a stage revival, or the idea may have come earlier. At any rate, he evidently went through the original foul papers with that end in view" (84). And so for Nosworthy, the Quarto text derives from a transcript of an earlier state of Shakespeare's working papers, while the Folio shows signs of a revision which endeavours "to emphasise the serious and heroic side of the story" (84). Pandarus' epilogue was cut in the revision, and the "insertion at V.iii.113-15. . . transferred the rejection of Pandarus to a suitable point in an earlier scene, and allowed the play to end on a tragic note" (81).
+
+<!--Paragraph 7-->
+In 1982, in a very important essay, Gary Taylor suggests the following scenario: "late in 1602, before . . . [Shakespeare's] foul papers had yet left the possession of the Chamberlain's Men, they had been transcribed by Shakespeare to provide a fair copy; this fair copy was in turn transcribed by someone other than Shakespeare, becoming the company promptbook for the [hypothetical] Inns of Court performance. A few cuts and additions were then made on this promptbook to produce the text acted upon the Globe stage. This promptbook, twenty years later, was supplied to Jaggard late in the preparation of the First Folio; an annotator [hypothetically] collated it against Q, transferring its variant readings to the printed text, in order to provide printed copy for Jaggard's compositors" ("Bibliography" 121).<ref>Taylor (''Shakespeare Reshaped'' 242-3) has partially changed his mind: "I am now inclined to believe that the manuscript behind Folio ''Troilus'' was a non-authorial literary transcript of the prompt-book" (243). Since scene-division is Taylor's test ("the presence of scene-divisions in a Folio text is excellent evidence of a scribal [literary?] transcript" [240]), and since F ''Troilus'' has no scene-divisions, it follows from Taylor's presupposition that ''Troilus'' is not a scribal transcript. I do not understand his change of mind. "Literary" presumably means "reading copy." See Bawcutt (3-93).</ref>
+
+<!--Paragraph 8-->
+Honigmann, in 1985, comments that Taylor's position on the copy for Q and F "argues that all the experts of the last half-century have got the relationship of the two . . . texts the wrong way round. The world has at last accepted the idea that there were two authorial versions, the foul papers (which reached print in the folio) and a fair copy (which became the quarto); and along comes a lynx-eyed young editor [Taylor] who contends that, yes, we have authorial revisions in the play, but it is the quarto that transmits the foul papers, whereas the folio is based on the later text, one prepared for the theater" (47). But Honigmann is having none of this. He suggests the following reconstruction: "By 1601, . . . a new play by Shakespeare would be an eagerly awaited event; one of his influential admirers heard of it before it was produced and wanted to read it. So Shakespeare wrote out a fair copy, the text from which the quarto was later printed, and he took some trouble with it, eliminating verbal repetitions—the sort of thing that gets by in the theater, yet would strike an appreciative reader as carelessness—and, probably, changed some words and phrases ''currente calamo''. He copied from his own foul papers, from the text that later reached print, via a scribal copy, in the folio, and these foul papers were revised for the private production soon afterward. Shakespeare helped when staging was discussed, and stage directions were added to the foul papers, and he may also have changed some readings in this text at this time" (54). Like Taylor's reconstruction, which this was written to replace, Honigmann's is not based on verifiable facts, but on conjecture.<ref>Harold Love (''Scribal Publication'' 68) cites Honigmann's supposition of "scribal circulation," and then includes that play in the literature about the fall of Essex that "was restricted to manuscript circulation" throughout the century. In that case, why don't we have seventeenth-century manuscript copies of this play?</ref>
+
+<!--Paragraph 9-->
+In 1987, Foakes appears to accept Taylor's scenario, but notes that the "Folio also has a number of errors that seem to have been introduced from the prompt-copy, or the printer's misreading of it." And he gives a brief list of these errors (discussed below). Now this situation leads to a curious puzzle: "In these and other instances the Quarto is obviously correct, and no satisfactory explanation has emerged as to why a ''compositor'' should have ''preferred'' manuscript readings that made no sense to ''the correct readings he has in front of him in the printed Quarto''" (232; italics added). Foakes here assumes that the compositors had a choice of readings and actually preferred the "mistaken" readings, and further he seems to suggest that the compositors had two texts with which they worked ''at the same time'': one is "the Quarto corrected against and supplemented by a manuscript marked up for stage use, a prompt-copy, probably made by a scribe"; the other a "manuscript" that the Folio "printers were consulting" which "was not always easy to decipher" (230). I am assuming that Foakes is actually distinguishing between the marked Quarto and the manuscript, though he may be referring to the hypothetical manuscript annotations in the Quarto; in any case, he does not describe how he envisions these two texts being used by the working compositors.
+
+<!--Paragraph 10-->
+Foakes had been anticipated by Harold Hillebrand in the Variorum edition, who contended that "F rests in some degree on a manuscript; many of its errors are explainable on no other ground." Hillebrand produces a brief list of errors. "None of these, or other, errors could possibly have resulted from following even a revised copy of Q" (337). Even though Hillebrand knew the work of Alexander, he concluded—because of these errors—that "F was not set up from Q but from a manuscript" (344). But, as T. W. Baldwin notes, Hillebrand allowed some use of the Quarto, since he notes that "F preserves some passages that had been altered in Q" (344).
+
+<!--Paragraph 11-->
+Taylor was not unaware of these errors, and compiled a conservative list of twenty-eight such variants that seem "to be simply errors . . . most plausibly explained . . . as the result of misreadings of a manuscript" ("Bibliography" 106).<ref>See also Nosworthy (63-64) and the Appendix (below).</ref> Taylor recreates the process that the "Folio annotator" (at times also called the "Folio collator") must have followed to make these twenty-eight mistakes: "he would have to ignore . . . the letter possibilities already in front of his nose, in the print," i.e., in the Quarto; he would have to mis-correct words "without for a moment contemplating the possibility that the former interpretation of the ambiguous letters might be correct, and without even glancing at the context to see if it supported one or the other" (107). As Taylor concludes, this may have happened "occasionally—but not twenty-eight times" (107). Palmer expresses the problem more succinctly: "What is much more disturbing is that occasionally the F reading, in a part of the text which ''ex hypothesi'' is set from Q, displays a graphic error of the kind normally to be expected in setting from MS" (10). This is a common observation of those who have worked with these two texts.
+
+<!--Paragraph 12-->
+The simple conclusion seems obvious, but Taylor thinks that the problem is solved by postulating a "lengthier stemma of transmission" for the Folio than for the Quarto ("Bibliography" 123, 107). He assumes that the scribe who made the fair copy is basically responsible for the twenty-eight errors: we have to remember that his fair copy "would . . . contain an entirely independent collection of misreadings, correctly interpreting words which misled the quarto compositors, misinterpreting words they deciphered properly" (107). One wonders why Shakespeare, who must have had a close connection to the promptbook—if only as actor and shareholder, never noticed or bothered to correct these obvious errors. Even if Gurr is correct about the minimal rehearsals employed by Renaissance companies (''Stage'' 209), one might expect Shakespeare, who had more than his artistic integrity at stake, to prefect the book of the play from which the rolls/roles were copied out. Of course, this is mere conjecture, and Shakespeare was, perhaps, too busy with new plays to worry about correcting minor verbal blemishes. Possibly he loved to have his script mangled by an imperceptive scribe. Perhaps he could hardly contain his laughter at the resulting absurdities.
+
+<!--Paragraph 13-->
+In any case, Taylor's solution merely skirts the problem. Even if the longer stemma led to increased error, as we would expect, the hypothetical annotator/collator accepted these errors, and rejected the correct readings of the Quarto, and he did this at least twenty-eight times—by Taylor's own count. 
+
+==Part II: The Hypothetical-Deductive Method==
+<blockquote>
+... we should normally proceed in our inquiries by the hypothetico-deductive method which welcomes conjectures in the positive knowledge that productive conditions were extraordinarily complex and unpredictable, but which also insists that such conjectures be scrutinized with the greatest rigour and, if refuted, rejected. (McKenzie<ref>McKenzie (6).</ref>)
+</blockquote>
+
+<blockquote>
+... by the hypothetico-deductive method . . . observations are made on the basis of a hypothesis to be tested. But whether the hypothesis is to be used as a rule which further observations must obey, or is recognized as merely the first of several steps in a process which may ultimately discard it, the process of devising it is much the same. Rule or hypothesis, any theoretical framework developed as a guideline must take into account all the available primary evidence. (Blayney<ref>Blayney (35).</ref>)
+</blockquote>
+
+===Section A: Copy for the Folio Text of Troilus and Cressida: Some Hypotheses===
+<!--Paragraph 14-->
+At this point, I will begin to develop two hypotheses that I believe take into account the available primary evidence concerning the copy from which the Folio text of ''Troilus and Cressida'' was set. First, I would like to turn to Peter Blayney's comments on Renaissance proofing procedures, procedures which should, I think, mirror the ''hypothetical'' annotating process. "We speak of reading proof against copy," he writes, "and I suspect that many printers did precisely that. What they ''should'' have done was to read copy against proof—and there is a very distinct difference. For if the printed and more legible proof is read first [as we suspect it would be], the reader will look for its words in the [manuscript] copy. Whether or not they are there, he will often find them unless the discrepancy is very obvious indeed" (Blayney 202). Blayney's description is what I would expect '''''if''''' a collator/annotator had worked with a manuscript and a printed copy of the Quarto before him. The printed copy would be read first and would influence the reading of the manuscript. And, since we do not have the manuscript, perhaps it did have influence in some or, indeed, many cases. Nevertheless, Taylor's list of twenty-eight incorrect changes from the Quarto copy seems counterintuitive. We would expect the printed text to dominate the manuscript text. And that is what we do '''not''' find.<ref>Hinman (''Printing and Proof-Reading'' 2: 528-9) suggests that the printing of ''Troilus'' took about nine days, and that "there is not much basis in fact . . . for the argument that . . . ''Troilus'' was finally, in the eleventh hour, rushed into print with all possible speed." Thus we should expect normal proofreading practices to obtain.</ref>
+
+<!--Paragraph 15-->
+I suggest that this Case of the Strange Mistakes can be explained if we reject the hypothesis of an annotated Quarto, an exemplar that has been collated with, corrected by, and supplemented with a playhouse manuscript or a manuscript closely associated with Shakespeare's foul papers. The puzzle may be solved in three different ways, that is, by three different hypotheses. 
+
+<!--Paragraph 16-->
+'''Hypothesis One''': the printing went forward with two texts before each of the two compositors, a manuscript and an unbound or disbound Quarto – '''not an annotated Quarto'''. In effect, each compositor had two versions of the text in front of him as he composed, and each alternated copy, sometimes reading and printing only from the Quarto text, sometimes referring to the manuscript.<ref>Kenneth Muir ("A Note" 168) argues that two scenes in the Folio seem to lack any manuscript "correction." Muir uses Alice Walker's numbering: II.ii.106-209, and III.iii.1-100, and suggests "missing leaves" from the manuscript.</ref>
+
+<!--Paragraph 17-->
+Although we cannot be sure how the Folio copy was handled, I will hypothesize that the compositors alternated between Quarto text and manuscript in a fairly haphazard fashion. The collating was done—if we wish to call it collating—by the compositors as they printed. They solved what we would call editorial problems in the process of setting the play. The compositors were not always correct or happy in their editorial decisions. We will never know precisely why, but I would suggest that it is because, at particular points, the compositor was setting with an eye on a supposedly incorrect manuscript rather than a supposedly correct quarto, and did not take the time to check his reading. 
+
+<!--Paragraph 18-->
+Let us look at an example. The Quarto at 5.2.8-11 reads: 
+<blockquote>
+<poem>
+''Troy''. Yea so familiar?
+''Vlis''. Shee will sing any man at first sight.
+''Ther''. And any man may sing her, if hee can take her Cliff, she's noted.
+</poem>
+</blockquote>
+
+The Folio reads: 
+<blockquote>
+<poem>
+''Troy''. Yea, so familiar?
+''Vlis''. She will sing any man at first sight.
+''Ther''. And any man may finde her, if he can take her life: shee's noted. (TLN 2984-7)
+</poem>
+</blockquote>
+
+I assume that the Quarto readings are correct; the extended metaphor of singing and music and its double meanings begin with Troilus' question of familiarity. Ulysses indicates that Cressida is an excellent sight reader of a score of music ("any man") which she can sing without familiarity, upon seeing it once ("at first sight"). Thersites comments in the background that indeed any man can "sing" her – with a bawdy reference to oral sex – if he can locate her "cleft" – again with a bawdy innuendo. She's "noted" suggests music notes and the contemporary meanings of "stigmatized" and "spied upon" (cf. ''Much Ado about Nothing''). By its substituting of "finde" for "sing" and "life" for "Cliff" the Folio misses most of this verbal play.<ref>This passage seems related to the earlier passage where Pandarus asks Cressida, "do you know a man if you see him?" She replies, "I, if I euer saw him before and knew him" (TLN 221-3). Pandarus means, "do you know who is a manly man just by looking?" Cressida purposefully mistakes him to mean, "Do you know a man's identity just by looking at him?" And she responds, "Yes, if I've already met him." E. Talbot Donaldson (''The Swan'' 87-88) discusses other possibilities in the passage. </ref>
+
+<!--Paragraph 19-->
+Now, it is difficult to believe that a collator/annotator would take misreadings from a manuscript and substitute them for superior readings in the Quarto, and it is difficult to believe that a compositor coming after, and confronted with both readings in the Quarto, would choose the incorrect or obviously inferior readings. But did the manuscript contain the readings "finde" and "life" for "sing" and "Cliff," or are these merely compositorial misreadings of a passage difficult to decipher? Nosworthy notes "the similarity of graphic outline," and claims that there are "very few Folio readings that cannot be justified" and "the same holds for the Quarto" (Nosworthy 63-64). If Nosworthy's judgment were correct, we would be in a difficult position, but as I've argued above, with sing/Cliff the Folio compositors got it wrong. This is not a matter of ingeniously justifying inferior readings.<ref>I perhaps am being too harsh on Nosworthy's argument. Seventeenth-century compositors and proofreaders may have found a logic in these readings that evades me and other twentieth century readers. See McGann (''A Critique'' 99). But Percy Simpson (''Proof-Reading 1-45'') notes the many "faults of the presse" during the 16th, 17th and 18th centuries. Seventeenth-century compositors did make mistakes that were not corrected at the press. </ref> The question is: why did the Folio compositors get it wrong, because of an ''indistinct'' manuscript or ''distinctly'' wrong readings? (Or, heaven forfend, did the compositor need a new pair of glasses?)
+
+<!--Paragraph 20-->
+Blayney has argued (with admirable clarity and urbanity) that the Folio was carefully proofread against copy and that careful proofing was indeed a traditional practice (188-218). I assume that the use of dual copy was NOT a traditional practice and would be used only on rare occasions since it would make the compositor's work more difficult and would also make reading proof against copy inefficient, if not impossible. It seems to me that this inefficiency is one of the arguments against this hypothesis (Blayney 35; McKenzie 6). 
+
+<!--Paragraph 21-->
+'''Hypothesis Two''': Folio ''Troilus and Cressida'' was set from a scribal transcript of a Quarto that had been used by Shakespeare's company as a promptbook.<ref>See note 16.</ref> Shakespeare had made some revisions and corrections in this Quarto promptbook, possibly for a revival of the play at Blackfriars. In any case, the revised Quarto promptbook was not considered to be "proper" copy for the compositors for several possible reasons. Perhaps the revised Quarto appeared to be too confusing. 
+
+<!--Paragraph 22-->
+'''Hypothesis Three''': Perhaps the "copyright" hypothesis is correct, and Jaggard felt the need to print from a manuscript.<ref>See Hinman (''Printing and Proof-Reading'' 1:27-28, 2:528).</ref> A scribe was given a playhouse manuscript, and the task of preparing a fair copy for the press. For one reason or another, the scribe also obtained an exemplar of the Quarto which influenced his production in both detail and form. The resulting fair copy was a conflation of the Quarto and a playhouse manuscript.<ref>Richard Neuhauser and Elizabeth Armstrong have told me privately that there is a strong theoretical presumption to believe that medieval scribes copied from multiple exemplars: thus the great medieval conflations. If this is indeed the case, perhaps sixteenth and seventeenth century scribes also preferred to copy from multiple exemplars. For the medieval penchant of consulting multiple exemplars, Neuhauser cites J. A. Burrow, ''Medieval Writers and Their Work'' (Oxford: Oxford UP, 1982) 27-28, and Beryl Smalley, ''English Friars and Antiquity in the Early 14th Century'' (Oxford: Oxford UP, 1960) 93. </ref>
+
+<!--Paragraph 23-->
+In either case, a transcript was commissioned ''after'' the initial Folio printing of ''Troilus and Cressida'' was interrupted. The compositors set from this transcript, and the errors may be attributed to both the scribe who made mistakes in transcription and the compositors who made mistakes in reading the manuscript. The contradictory stage directions, discussed below, are what we may expect in a promptbook used for several different productions geared to two or more different venues.
+
+<!--Paragraph 24-->
+Hypothesis Two and Three have several virtues. As far as we know, they do not violate printing house procedures. Percy Simpson collects many contemporary comments on the practice of a printer having a fair copy prepared for his compositors. In 1615, for example, in ''A briefe explanation of the whole Booke of the Prouerbs of Salomon'' by Robert Cleaver, we find the note: "''Be informed, good Reader, of certaine faults which thou shalt meet in the booke: some when the copie was written out, and made ready for the presse, and other committed in the printing''."<ref>Percy Simpson (''Proof-Reading'' 35). Of course, some printers took this opportunity to blame the scribes for the "grosser escapes" in the printing.</ref> Leonard Lichfield, another printer, claims that Gilbert Ironside's manuscript was "not so legible as we could have wished" and thus "we were forc'd to transcribe it" before printing (Simpson 35).
+
+<!--Paragraph 25-->
+With a transcription, proofreading might proceed normally, and the mistakes that we find are the mistakes that Blayney suggests we would find when printed copy is used as a guide in the proofing. T. H. Howard-Hill has already hypothesized a similar manuscript used to set ''King Lear''.<ref>See Howard-Hill (1-24, and esp., 22-23).</ref> In the days before computers, we ordinarily sent our material to a typist; in the days before typewriters, people ordinarily sent their material to a scribe. Blayney's emphasis on traditional method (188-189) would lead us to expect a scribal transcript rather than an annotated Quarto as copy for the Folio. 
+
+===Section B: The Added, or the Missing, Lines: The Hypothesis of the Double Rejection===
+<!--Paragraph 26-->
+There are lines present in the Folio that are missing from the Quarto. Some of these lines may have been dropped from the Quarto by careless composition and proofreading; some may have been missing from the manuscript from which the Quarto was set; some may have been added or cut later as Shakespeare partially revised the play. Several of these passages have been interpreted as having large implications for a reading of the play, and two have been especially selected by Taylor ("Bibliography" 100-3) as significant, signalling a change in the play's conclusion: 
+
+(1)
+<blockquote>
+<poem>
+''Pand''. Why, but heare you?
+''Troy''. Hence brother lackie; ignomie and shame
+Pursue thy life, and liue aye with thy name.
+''A Larum''. ''Exeunt''. (Folio, TLN 3328-3330)
+</poem>
+</blockquote>
+
+And:
+
+(2)
+<blockquote>
+<poem>
+''Pand''. But heare you? heare you?
+''Troy''. Hence broker, lackie, ignomy, and shame
+Pursue thy life, and liue aye with thy name. ''Exeunt''. (Folio, TLN 3569-3971)
+</poem>
+</blockquote>
+
+Quarto 5.3.112 has no lines comparable to F 3328-3330.
+
+Quarto 5.10.32-34 (cf. F 3569-3971): 
+<blockquote>
+<poem>
+''Par''. But here you, here you.
+''Troy''. Hence broker, lacky, ignomyny, shame,
+Pursue thy life, and liue aye with thy name.
+''Exeunt all but Pandarus''.
+</poem>
+</blockquote>
+
+<!--Paragraph 27-->
+Muir believes that these four places in the texts indicate there was "a version of the play in which Pandarus did not reappear" (Muir, ''Troilus'' 198). Even if we reject this assumption, he is right that there are two clear ways to explain the phenomena. (1) If Pandarus' epilogue is a later revision, "Shakespeare borrowed these lines [from 5.3] as a connecting link between Troilus' last speech . . . and the epilogue. They should have been deleted in 5.3. as their absence in Q shows." (2) On the other hand, "if the epilogue belonged only to the first version of the play, then Shakespeare, in meaning to delete it, inserted the lines in 5.3" as in the Folio (Muir, ''Troilus'' 198). Nevertheless, these are not the only possibilities.
+
+<!--Paragraph 28-->
+Honigmann suggests that these two passages are indications that Shakespeare changed his mind in the course of writing: "the lines were first written for act 5, scene 3, the last opportunity for Troilus to renounce Pandar, if Troilus was to die in battle; then, when . . . [Shakespeare decided] not to kill off Troilus, the lines were moved to scene 10, thus creating an opening for Pandar and his 'epilogue,' where a sequel is promised" (45-46). Pandarus' reference to "Some two months hence" Honigmann interprets as a promise of another play.
+
+<!--Paragraph 29-->
+Kenneth Palmer feels that the dismissal at 5.3 "must represent Shakespeare's first design." This arrangement allows Troilus to focus his anger on Pandarus, and to reject both him and the letter at the same time. But much is gained "by allowing Pandarus . . to enjoy the last bitter word at the expense of the audience. Thematically, the end-of-the-play position is better; but as craftsmanship it looks like patchwork" (6). 
+
+<!--Paragraph 30-->
+Another possibility is that both passages were included in the first complete draft of the play. When Shakespeare wrote 5.3 he finished it with the rejection of Pandarus; it seemed like a good idea at the time. But when he got to the final scene, he felt the need for a final rejection of Pandarus—as he earlier felt the need for a final rejection of Falstaff. And this further gave him the opportunity to oppose Troilus' heroic final speech with Pandarus' cynical finale—a jarring note, akin to that in the owl and the nightingale. So, he turned back to the earlier passage, took the three lines, and adapted them for the final scene. He did not cross out the lines in 5.3. He simply repeated them—perhaps for emphasis, as Pandarus twice repeats his former words. In any case, both passages were extant for the Folio compositors.
+
+<!--Paragraph 31-->
+And further, there appears to be '''no reason''' to believe that Pandarus' final speech was either added or deleted at any time during composition or revision. It is the passage in 5.3 that is absent from Q, and its absence may be a compositor's slip<ref>George Walton Williams (privately) notes that such a large compositorial omission is difficult for him to accept. </ref> rather than a deletion, or an indication that the passage had not yet been written when the manuscript that lies behind Q was used as compositors' copy. 
+
+<!--Paragraph 32-->
+I would like to hypothesize that Shakespeare's original intention was the double rejection of Pandarus. In 5.3, Pandarus gets in one "heare you" before he is silenced by Troilus. In 5.10, he returns with "But heare you?" as if this is a continuation of the former rejection scene. Without the earlier scene, Pandarus' "But heare you? heare you." is not well motivated. With the earlier rejection in 5.3, a sympathetic audience would assume that Pandarus has been following Troilus in a vain attempt to be heard. Troilus merely repeats his initial rejection with a few interesting variations. The double rejection fits into the doubleness of the whole play and into the fragmented quality of the final scenes.
+
+<!--Paragraph 33-->
+The most interesting variant is "brother" (5.3) and "broker" (5.10). Peter Alexander points out that "c and t" are "regularly confused" by the Q compositors (280), and he asserts that the word which the compositor read as "brother" was spelled "brocker" (274). That c might be confused for t seems incontestable given the secretary hand, but that "k" was mistaken for "h" is more difficult. And in neither text is "broker" spelled "brocker."<ref>D. Allen Carroll (81) notes a similar, yet different, mistake: "brocher" (i.e., broacher) is printed "brother." (See also 120, note 18). In the secretary hand brocher and brother would look almost exactly alike. I owe this reference to George Walton Williams.</ref> And I would like to entertain the possibility that the first rejection in 5.3 is not perceived by Pandarus as final in that Troilus affirms their brotherhood.<ref>The word "brother" is recurrent throughout the final lines of the play, and it is possible that a scribe or a compositor would be influenced to read "brocker" (i.e. broker) for "brother" by the recurrence. Of course, the mistake, if it is a mistake, may have been made by Shakespeare himself. The ''OED'' does not, however, recognize "brocker" as a variant form of "broker."</ref>
+
+<!--Paragraph 34-->
+Gary Taylor has already argued against this interpretation: "it cannot reasonably be claimed that both versions of the passage were intended to stand: Pandarus' words might be repeated without incongruity, but the exact repetition of Troilus' couplet would be pointless, ridiculous, and flat" (Taylor "Bibliography" 103). (Thus Taylor and Wells cut Pandarus from the final lines of the Oxford edition.) But as Taylor himself admits, this judgment is "subjective and literary" ("Bibliography" 102), and, I may add, not correct in detail. Troilus does not in the unemended text repeat his rejection ''exactly'', as Taylor asserts. In the first rejection, Troilus calls Pandarus "brother lackie," and assuming that this is not a misreading, or a scribal or compositorial error, the phrase may soften the rejection, and certainly links Troilus and Pandarus as brother lackeys, apparently to Cressida. (I am undoubtedly influenced by the Baudelairean ring, in Richard Howard's translation: "hypocrite reader,—my alias,— my twin!") In the final rejection, Pandarus is a "broker," not a "brother." But Hector has been killed between these two rejections, and Troilus' vision has darkened. 
+
+<!--Paragraph 35-->
+That these two rejections take place on the battlefield has become an editorial commonplace (Taylor, "Bibliography" 103). Nosworthy believes that the play was revised, and in this revision Shakespeare "gave the last word to Pandarus, whose appearance on the battle-field is the crowning inconsistency" (75). This charge has often been made (cf. Taylor, "Bibliography" 128), but the assertion of place does not take into account the fluidity of the undifferentiated stage in the seventeenth century. The final scene in the BBC production should illustrate the absurdity of the charge.
+
+<!--Paragraph 36-->
+Although in this section of the paper I offer the hypothesis that Shakespeare may have planned to have Troilus reject Pandarus twice, in the next section I offer an hypothesis that accounts for the differences between the Quarto text and the Folio text in quite a different way. 
+
+===Section C: Stage Directions: The Hypothesis of Two Different Acting Venues===
+<!--Paragraph 37-->
+In his influential ''The Shakespeare First Folio'', Greg describes the Quarto stage directions as "generally meagre" and bearing "on the whole the impress of the author rather than the theatre." Moreover, in Greg's opinion "the directions are inadequate for performance" (341). The Folio "reproduces, with few and presumably accidental exceptions, the stage-directions of Q, but it sometimes modifies them, and it adds a considerable number of its own" (343). The Folio text records an "obvious . . . revision . . . for the stage." These additional stage directions "might have been made on the foul papers, but they are frequent enough to suggest an intention to provide complete directions for performance" (344).
+
+<!--Paragraph 38-->
+Taylor and Wells take Greg's final suggestion a step further; they suggest that a playhouse manuscript derived from an authorial fair copy (with revisions) which was copied by a scribe (i.e., "prompt-book 1") and then "overlaid with revision for the Globe production" (i.e., "prompt-book 2") lies behind the Folio (Wells and Taylor, ''Textual Companion'' 425). In his earlier essay, Taylor had elaborately defended the Folio text against Greg's five minimal criticisms of the Folio stage directions ("Bibliography" 110-17). Taylor concludes that "the directions make sense both in terms of contemporary theatrical practice and in the specific dramatic contexts in which they occur" (117). 
+
+<!--Paragraph 39-->
+Unfortunately, in this historical reconstruction, no evidence from existing prompt-books or playbooks is used. Is there any evidence that a seventeenth-century bookkeeper would have reworked and amplified a playwright's initial stage directions? What should we expect from a bookkeeper? There are eighteen manuscript playbooks and two printed quartos that have been used as playbooks, ''Two Merry Milkmaids'' (at the Folger) and ''A Looking Glass for London'' (at the Regenstein, University of Chicago). In 1932, C. R. Baskervill reported on the latter in detail. His general conclusions are instructive. He emphasizes "the extreme economy of those who prepared the prompt book. In spite of the fact that the copy seems to have been altered by several people over a considerable period, the changes are very few and as brief as possible. Clearly, the printed text was the chief authority even for Sds [stage directions]" (50). Further, "[t]he prompt book completely ignores all errors and misprints, including meaningless words and phrases and even one meaningless line resulting from the printer's having set parts of two lines as one in addition to printing both lines (85-86) correctly" (51). As Baskervill remarks, this prompt book does not "show the type of revision which students of Elizabethan texts have at times assumed to lie back of late editions" (51).
+
+<!--Paragraph 40-->
+At the Shakespeare Association of America meeting in Albuquerque in 1994, William Long, summing up his long and detailed work on the playbooks, described what he sees as the duties of a bookkeeper: (1) The bookkeeper does not regularize the playbook; (2) he only addresses specific problems in specific places; (3) usually he adds only one word in the margins, e.g., offstage noises; (4) he rarely writes in entrances, only when they are unusual; (5) in the margin, he notes upcoming problems; (6) he notes large properties (e.g., a bed), when not carried on by the players; (7) he marks in the initials or names of ''minor'' actors. Long then gave a list of what we should ''not'' expect: (1) the bookkeeper does not clarify the number of attendants; (2) he does not list actors' properties in the playbook; (3) he does not write in directions for getting properties offstage; (4) he does not write in exits, except in unusual cases; (5) he does not regularize speech headings. Long's position was generally confirmed by Leslie Thomson's description of the Folger's ''Two Merry Milkmaids'' (1620). In other words, a playbook does not contain an elaborate description of stage action; it is not a definitive, authoritative text of the play. As Thomson makes clear, there is no scientific procedure for stage directions, and without elaborate, detailed stage directions our access to sixteenth and earlier seventeenth century stage blocking is extremely limited or, indeed, nonexistent.
+
+<!--Paragraph 41-->
+In fact, as both Baskervill and Thomson make clear, a single playbook may be marked by different bookkeepers.<ref>Baskervill deals with the different bookkeepers (46-50). </ref> Thomson identifies three different bookkeepers (A, B, and C) in the ''Milkmaids'', and the bookkeepers are at times in conflict. Bookkeeper B deleted some of the notes made by A, while A was interested in marking the Acts. Unfortunately, we can not be sure how many bookkeepers stand behind a printed text.<ref>Thomson's article on the playbook of ''The Two Merry Milkmaids'' (Greg, ''Bibliography'', item 364) is forthcoming in ''Medieval & Renaissance Drama in England''. </ref>
+
+<!--Paragraph 42-->
+But Folio ''Troilus and Cressida'' TLN 2434-2493 (4.4.48-101) offers an interesting possibility that two bookkeepers' annotations have been retained. In the Q text 4.4.49 reads: "''AEneas within''. My Lord is the Lady ready?" The F text contains the same line, adding only a comma after "My Lord," but has an additional stage direction following 4.4.48 (TLN 2434): "''Enter AEneus''." It seems obvious that AEneas can not call from "''within''" and be on stage at the same time.<ref>George Walton Williams finds a similar problem with stage directions in his edition of ''Rollo, Duke of Normandy'' (forthcoming from Cambridge UP) where V.ii.135 Q1 reads "within" (I2v) and Q2 reads "Sophia, Matilda, Aubrey, and Lords at the doore" (I4). Williams argues that Rollo Q1 is a literary transcription. </ref>
+
+<!--Paragraph 43-->
+Taylor solves this problem by having AEneas "appear at the doorway." "A diplomatic appearance at the door would surely be more discreet and less awkward dramatically [than having AEneas call from offstage]. . . . [T]he combination of the two directions [i.e., ''Enter'' and ''within''] conveniently expresses the idea of an entry which intrudes as little as possible into the playing space" ("Bibliography" 110-11). Taylor's proclaimed purpose is to prove that the "Folio direction is correct" (110).
+
+<!--Paragraph 44-->
+But it seems more likely to me that the two stage directions can be accounted for by assuming two different performances and, perhaps, two different bookkeepers. The Q text has offstage calls at 4.4.49, 98, 99 (TLN 2434, 2488, 2490) by AEneas and Paris with no indication that either character enters. In the performance projected by Q, these voices are heard offstage. In the performance projected by F, AEneas enters at TLN 2434, and thus when Troilus says, "Bid them haue patience: she shall come anon" (TLN 2438), he addresses his words to AEneas who presumably exits. (As Long notes, above, a bookkeeper was not responsible for marking obvious exits.) Evans in the Riverside edition assumes that the words are aimed at Pandarus, and has him exit at 4.4.54. Wells and Taylor in ''Complete Works'' add two stage directions to this passage. "Bid them have patience" is ''To Pandarus'', and Pandarus exits ''with AEneas'' after his speech (Oxford text 4.5.51-53). But it seems just as possible that the Q text assumes that Troilus turns from Cressida, raises his voice, and calls "Bid them haue pacience she shall come anon" to AEneas offstage. The confusion at this point in the F text appears to come from the conflation of stage directions from two different performances.
+
+<!--Paragraph 45-->
+Near the end of this passage (TLN 2488-2493; 4.4.98-101), AEneas and Paris both call from ''within'', but at TLN 2493, after Cressida's "My Lord, will you be true?" the F text has an "''Exit''." Obviously, it cannot be Cressida since Troilus addresses her in his following speech. Wells and Taylor solve the problem by having Paris appear ''at the door'' (Oxford 4.5.99) and ''Exit Paris'' (4.5.100). Evans notes the "''Exit''" in F, but neither uses it in his text, nor comments on its presence. However, if we take the F text as it stands, the exit direction could only apply to Pandarus who has been silently watching Troilus and Cressida since his last speech (TLN 2440).<ref>Compare 3.2 where Pandarus does not exit when a modern audience or editor might expect him to leave the lovers alone. Shakespeare could have picked up this character trait from Chaucer.</ref> On this point, Taylor and I agree: "Pandarus need not exit. It is true that Pandarus has really nothing to say for the remainder of the scene, but as he has said nothing for the preceding twenty-five lines, his silence can hardly be taken as proof of his departure" (Taylor, "Bibliography" 110-11). But, almost as an afterthought, Taylor adds: "Even if he does depart, he could depart ''with'' AEneas" (111), and it is this afterthought that is embodied in the Oxford text. But my major point with regard to this "''Exit''" is that it seems to indicate that the F text and the Q text which has no exit at this point in the action are geared to two different performances. If my argument is accepted, in the Q text, Pandarus does not leave the stage until the general "''Exeu''." at the end of the scene; in the F text, he leaves at TLN 2493. Why he departs at this point, I cannot tell.
+
+<!--Paragraph 46-->
+But I will admit that Taylor's reconstruction of the stage action is possible. Paris actually enters at TLN 2490, an entry analogous to AEneas' at 2434. Troilus says, "Good brother come you hither, / And bring ''AEneas'' and the Grecian with you" (2491-92), and these lines are spoken directly to Paris, rather than called offstage as the Q text seems to demand. But, whichever reconstruction we accept, my basic point remains: the two texts are or appear to be geared to different performances.
+
+<!--Paragraph 47-->
+At TLN 2499, after Troilus' "With truth and plainnesse I doe weare [i.e., copper crown] mine bare," the Folio contains the stage direction: "''Enter the Greekes''." Greg notes that, "in fact, AEneas, Paris, Antenor, Deiphobus, and Diomedes [enter], of whom only the last is a Greek" (''First Folio'' 343-44). Attempting to explain the inconsistency, Taylor argues that Agamemnon's command to Diomed, "Furnish you fairely for this enterchange" (TLN 1883), indicates that "Diomedes is not conceived of dramatically as alone but as part of a Greek delegation" ("Bibliography" 113). "Paris and Antenor [according to Taylor's interpretation] have appeared in the doorway only a few lines before and been sent off by Troilus to fetch the rest; their return, only five lines after their exit, hardly needs prompting. This leaves only Antenor and Deiphobus, and as the former has been brought from the Greek camp, whether he belongs among the Trojan or Greek delegation is a rather fine point" (112-13). At the comparable passage in the Quarto (sig. H4v), there is no stage direction, and we can only speculate why "''Enter the Greekes''" appears in the Folio.
+
+<!--Paragraph 48-->
+Let me suggest a few possibilities: (1) ''Implied Action'': The stage direction indicates that the Greeks enter first, which is indicated by Troilus' greeting, "Welcome sir ''Diomed''" (TLN 2502). Perhaps the stage direction suggests dramatic action: Diomed has waited patiently long enough and pushes through the Trojan escort to enter. If it does suggest such an action, the stage direction may be an indication of a specific production. (2) ''Staging Problem'': The stage direction indicates a problem in staging. The bookkeeper added the direction because he was having a minor problem assembling his Greeks for the entry. This stage direction is a reminder. (3) ''Economy'': Whoever wrote the stage direction was careless in specifying only the Greeks, but since this stage direction posed no problem for the actors, it was not changed.
+
+<!--Paragraph 49-->
+A similar Folio group entry "''Enter common Souldiers''." (TLN 397) is not included in the Quarto (sig. B2), and again may indicate a specific performance. In the Quarto, when Cressida says, "Here comes more" (1.2.240), no one enters. She merely looks off stage, and Pandarus dismisses the unseen soldiers as "Asses, fools doults" and so on (241). No entry is really needed at this point in the action. Whoever added the stage direction to the Folio felt that such an entry was needed, and, indeed, the scene may be acted in either way.
+
+<!--Paragraph 50-->
+Of course, there are points at which both texts agree. The entry at the beginning of 4.5, for example, reads similarly in both Quarto and Folio: "''Enter Aiax armed, Achilles, Patroclus, Agamemnon, Menelaus, Vlisses, Nester, Calcas, &c''." (TLN 2548, cf. Q sig. I1). Most, if not all, modern editors remove Calcas from the entry because Diomed later in the scene says to Cressida, "Lady a word, Ile bring you to your Father" (TLN 2609). These editors apparently assume that Diomed leads Cressida offstage. George Walton Williams, however, has recently explained the stage business implied by the Quarto and Folio: "Diomedes at 2609 conveys Cressida to her father who is standing apart from the high command . . . ; having done so, Diomedes returns to a central position, ready to respond to Agamemnon's line (2649) by which he is introduced to AEneas, Hector's second . . . . The Folio direction for Exeunt (2620) must apply then to the only persons on stage whose departure from the scene will be appropriate: they are Calchas and Cressida" ("Entrance" 5). Williams then draws attention to the absence of this stage direction from the Quarto. Nevertheless, "there is no indication that Calchas and Cressida remain on stage for the rest of the scene, and there is no appropriateness in their doing so" ("Entrance" 5). Given Ulysses and Troilus' dialogue at the end of 4.5, Cressida and Calchas must be off stage well before the final exeunt.
+
+<!--Paragraph 51-->
+But it is not my purpose in this section to examine and explain or rationalize each stage direction present in the Quarto and the Folio; I simply wish to give some reasons for the hypothesis that the two texts contain traces of two different performances in two different venues. Given our present knowledge of the vagaries of early seventeenth century stage directions, I would be misadvised to be more absolute in my deductions. 
+
+==Conclusion==
+<!--Paragraph 52-->
+I have attempted to keep speculation from watering down the proven truths, and, in the first part of this essay, I retell the many stories that have coagulated around this play—only to reject them as narrative fictions. In some ways, this essay impoverishes the scholarly context of this play by emphasizing that many of the accounts of its origins are not supported by the essential data that we now possess.
+
+<!--Paragraph 53-->
+And since my general purpose has been to distinguish between fictions and hypotheses, let me conclude by emphasizing the hypothetical nature of my own conclusions. To account for the anomalies of the Folio text, I offer three hypotheses: in the first, it is hypothesized that the Folio compositors worked from both a manuscript and an exemplar of the Quarto; in the second and third (which are variations of each other), that a scribe was given the task of preparing fair copy for the Folio; he worked with an exemplar of the Quarto and a manuscript before him. Although I offer all three as possibilities, I find the second and third hypotheses more congenial because they accord more closely with verifiable contemporary practice.
+
+<!--Paragraph 54-->
+Dealing with the problem of Troilus' double rejection of Pandarus, I note that there is no bibliographical evidence that either passage was meant to be deleted, that the passages are not identical, and that the double rejection may have been dramatically effective on the seventeenth century stage. I hypothesize that Shakespeare may have planned the double rejection of Pandarus. At the same time, the differences between the Quarto text and the Folio text are significant. This observation leads me to my final hypothesis: the Q and F texts may contain traces of different performances at two different venues. It has been suggested that a good hypothesis is one that contains a method for its own falsification. Unfortunately, I can think of no way to falsify any of my hypotheses using the data that we now have. I tender these hypotheses, then, as ways of accounting for certain observable phenomena in the early texts of ''Troilus and Cressida'', and as starting points for further investigation. 
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Adams, Joseph Quincy, ed. ''Shakespeare's ''Titus Andronicus:'' The First Quarto, 1594''. New York: Scribner's, 1936.
+* Alexander, Peter. ''"Troilus and Cressida'', 1609." ''Library'' 9 (1928-29): 267- 286.
+* Allen, Michael J. B., and Kenneth Muir. ''Shakespeare's Plays in Quarto: A Facsimile Edition of Copies Primarily from the Henry E. Huntington Library''. Berkeley: U of California P, 1981.
+* Arber, Edward, ed. ''A Transcript of the Registers of the Company of Stationers of London 1554-1640 A.D.'' London: 1876.
+* Baskervill, Charles Read. "A Prompt Copy of ''A Looking Glass for London and England''." ''Modern Philology'' 30 (1932): 29-51.
+* Blayney, Peter W. M. ''The Texts of ''King Lear'' and their Origins: Volume I: Nicholas Okes and the First Folio.'' Cambridge: Cambridge UP, 1982.
+* [Bawcutt, N. W.] "Ralph Crane's Transcript of ''A Game at Chess'', Bodleian Manuscript Malone 25," ''Collections Volume XV''. Oxford: Oxford UP [The Malone Society], 1993. 3-93.
+* Burrow, J. A. ''Medieval Writers and Their Work.'' Oxford: Oxford UP, 1982.
+* Carroll, D. Allen, ed. ''Greene's'' Groatsworth of Wit Bought with a Million of Repentance''(1592).'' Binghamton: Medieval & Renaissance Texts & Studies, 1994.
+* Coghill, Nevill. ''Shakespeare's Professional Skills''. Cambridge: Cambridge UP, 1964.
+* Donaldson, E. Talbot. ''The Swan at the Well: Shakespeare Reading Chaucer''. New Haven: Yale UP, 1985.
+* Elton, W. R. "Textual Transmission and Genre in Shakespeare's ''Troilus''," in ''Literatur als Kritik des Lebens: Festscrift zum 65. Geburtstag von Ludwig Borinski''. Ed. Rudolf Haas, et al. Heidelberg: Quelle & Meyer, 1975. 63-82.
+* Ferguson, W. Craig. "Compositor Identification in ''Romeo'' Q1 and ''Troilus''," ''Studies in Bibliography'' 42 (1989): 211-18.
+* Foakes, R. A., ed. ''Troilus and Cressida''. New York: Penguin, 1987.
+* Gaskell, Philip. ''A New Introduction to Bibliography''. New York: Oxford UP, 1972.
+* Godshalk, W. L. "Gabriel Harvey and Sidney's ''Arcadia''," ''Modern Language Review'' 59 (1964): 497-99.
+* Greg, W. W. ''A Bibliography of the English Printed Drama to the Restoration''. 4 vols. London: Bibliographical Society, Oxford UP, 1939-1959. 
+* ---. ''Collected Papers'', ed. J. C. Maxwell. Oxford: Clarendon P, 1966.
+* ---. ''The Shakespeare First Folio: Its Bibliographical and Textual History''. Oxford: Clarendon P, 1995.
+* ---.. ''Dramatic Documents from the Elizabethan Playhouses''. 2 vols. Oxford: Clarendon P, 1931.
+* Gurr, Andrew. ''The Shakespearean Stage 1574-1642''. 3rd ed. Cambridge: Cambridge UP, 1992.
+* Hillebrand, Harold N. and T. W. Baldwin, eds. ''New Variorum Edition of Shakespeare: ''Troilus and Cressida. Philadelphia: Lippincott, 1953.
+* Hinman, Charlton. ''The Printing and Proof-Reading of the First Folio Shakespeare''. 2 vols. Oxford: Clarendon P, 1963.
+* ---, preparer. ''The Norton Facsimile: The First Folio of Shakespeare.'' New York: Norton, 1968.
+* Honigmann, Ernest A. J. "The Date and Revision of ''Troilus and Cressida''," in ''Textual Criticism and Literary Interpretation'', ed. Jerome J. McGann. Chicago: U of Chicago P, 1985. 38-54.
+* Howard-Hill, T. H. "The Problem of Manuscript Copy for Folio ''King Lear''," ''Library'' 4 (1982): 1-24.
+* Ingram, William. ''The Business of Playing: The Beginnings of the Adult Professional Theater in Elizabethan London''. Ithaca: Cornell UP, 1992.
+* Johnson, F. R. "Printers' 'Copy Books'" and the Black Market in the Elizabethan Book Trade," ''Library'' 1 (1946): 97-105.
+* Leishman, J. B., ed. ''The Three Parnassus Plays (1598-1601)''. London: Nicholson and Watson, 1949.
+* Long, William B. "'A bed/for woodstock': A Warning for the Unwary," ''Medieval & Renaissance Drama in England'' 2 (1985): 91-118.
+* ---. "''John a Kent and John a Cumber'': An Elizabethan Playbook and its Implications," in ''Shakespeare and Dramatic Tradition: Essays in Honor of S. F. Johnson.'' Newark: U of Delaware P, 1989. 125-143.
+* ---. "Stage-Directions: A Misinterpreted Factor in Determining Textual Provenance," ''Text'' 2 (1985): 121-37.
+* Love, Harold. ''Scribal Publication in Seventeenth-Century England''. Oxford: Clarendon P, 1993.
+* McGann, Jerome J. ''A Critique of Modern Textual Criticism''. 1983; Charlottesville: UP of Virginia, 1992. 
+* ---. ''The Textual Condition''. Princeton: Princeton UP, 1991.
+* McKenzie, D. F. "Printers of the Mind: Some Notes on Bibliographical Theories and Printing-House Practices," ''Studies in Bibliography'' 22 (1969): 1-75.
+* Muir, Kenneth. "A Note on the Text of ''Troilus and Cressida''," ''Library'' 1 (1979): 168.
+* ---, ed. ''Troilus and Cressida''. Oxford: Oxford UP, 1984. 
+* Nosworthy, J. M. ''Shakespeare's Occasional Plays: Their Origin and Transmission''. London: Edward Arnold, 1965.
+* Palmer, Kenneth, ed. ''Troilus and Cressida''. Arden Shakespeare. London: Methuen, 1982.
+* Schoenbaum, S. ''William Shakespeare: Records and Images''. New York: Oxford UP, 1981.
+* Simpson, Percy. ''Proof-Reading in the Sixteenth Seventeenth and Eighteenth Centuries.'' London: Oxford UP, 1935.
+* Smalley, Beryl. ''English Friars and Antiquity in the Early 14th Century''. Oxford: Oxford UP, 1960.
+* Tannenbaum, Samuel A. "A Critique of the Text of ''Troilus and Cressida''," ''Shakespeare Association Bulletin'' 9 (1934): 55-74, 198-214.
+* Taylor, Gary, and John Jowett. ''Shakespeare Reshaped, 1606-1623''. Oxford: Clarendon P, 1993.
+* ---. ''"Troilus and Cressida'': Bibliography, Performance, and Interpretation," ''Shakespeare Studies'' 15 (1982): 99-136.
+* Walker, Alice. ''Textual Problems of the First Folio''. Cambridge: Cambridge UP, 1953.
+* ---, ed. ''Troilus and Cressida''. Cambridge: Cambridge UP, 1957.
+* Wells, Stanley and Gary Taylor, ''et al.'' ''William Shakespeare: The Complete Works''. Oxford: Clarendon P, 1986.
+* ---. ''William Shakespeare: A Textual Companion''. Oxford: Clarendon P, 1987.
+* Williams, George Walton. "The Entrance of Calchas and the Exit of Cressida," ''Shakespeare Newsletter'' 44:1 (Spring 1994): 5, 18.
+* Williams, Philip, Jr. "Shakespeare's ''Troilus and Cressida'': The Relationship of Quarto and Folio." ''Studies in Bibliography'' 3 (1950-51): 131-143.
+* ---. "The 1609 Quarto of ''Troilus and Cressida'' and its Relation to the Folio Text of 1623." Unpublished Doctoral Dissertation, University of Virginia, 1949.
+* ---. "The 'Second Issue' of Shakespeare's ''Troilus and Cressida'', 1609," ''Studies in Bibliography'' 2 (1949): 25-33.
+
+==Appendix==
+The following list (which is not itself definitive) includes the twenty-eight examples cited by Taylor ("Bibliography" 106), as well as those examples on Nosworthy's list of variants with a "similarity of graphic outline" (63-64). See also Tannenbaum (211-213) who discusses how some of these readings of the secretary orthography may have been made by the compositors. Although I make no judgment as to the correctness of the compositorial readings, in many instances the Quarto readings seem preferable to those of the Folio. The point of the list is that these variants may be construed to suggest that the Folio was set, wholly or in part, from manuscript copy which the Folio compositors occasionally misconstrued because of "similarity of graphic outline." Folio Compositor B set 1018 lines; Compositor H set 2309 lines, and Compositor E 265 lines. H set 2.268 times more lines than B. The Through Line Numbers (TLN) are taken from The Norton Facsimile. The Act, scene, line references are taken from The Riverside Shakespeare. In the following list, the Folio reading is first, the Quarto second. For the Folio, the compositor attributions are taken from William Shakespeare: A Textual Companion. For the Quarto, the compositor attributions are those established by Philip Williams (conveniently reviewed in Ferguson ["Compositor Identification" 214], though I do not find Ferguson's modifications convincing). 
+
+{| class="wikitable" style="text-align: left;"
+|-
+! TLN (A.s.l): words [F/Q]  !! F Compositor  !! Q Compositor
+|-
+| 396 (1.2.239): money/an eye || B || A
+|-
+| 482 (1.3.27): lowd/broad  || B || B
+|-
+| 486 (1.3.31): godly/godlike || B || B
+|-
+| 492 (1.3.36): pacient/ancient || B || B
+|-
+| 551 (1.3.93): the ill Aspects/the influence || B || B
+|-
+| 569 (1.3.110): meetes/melts || B || B
+|-
+| 625 (1.3.165): hum/hem  || B || B
+|-
+| 679 (1.3.219): eares/eyes || B || B
+|-
+| 713 (1.3.252): sence/seat  || B || B
+|-
+| 727 (1.3.263): rusty/restie || B || B
+|-
+| 731 (1.3.267): seekes/feeds || B || B
+|-
+| 740 (1.3.276): compasse/couple || B || B
+|-
+| 765 (1.3.301): pawne this truth/proue this troth || B || A
+|-
+| 766 (1.3.302): forbid/for-fend || B || A
+|-
+| 770 (1.3.305): first/sir  || B || A
+|-
+| 835 (1.3.367): weare/share   || B || A
+|-
+| 901 (2.1.45): thresh/thrash || B || A
+|-
+| 975 (2.1.122): fift/first  || B || A
+|-
+| 1032 (2.2.48): hard/hare || B || A
+|-
+| 1055 (2.2.70): spoyl'd/soild || B || A
+|-
+| 1056 (2.2.71): same/siue || B || A
+|-
+| 1064 (2.2.79): stale/pale || B || A
+|-
+| 1270 (2.3.67): Creator,/Prouer, || H || B
+|-
+| 1282 (2.3.79): sent/sate || H || B
+|-
+| 1303 (2.3.99): counsell/composure || H || B
+|-
+| 1310 (2.3.106): flight/flexure || H || B
+|-
+| 1336 (2.3.131): carriage of this action/streame of his commencement || H || B
+|-
+| 1346 (2..3.141): enter you/entertaine || H || B
+|-
+| 1379 (2.3.172): wroth/worth || H || B
+|-
+| 1401 (2.3.193): titled/liked || H || B
+|-
+| 1409 (2.3.203): pash/push || H || B
+|-
+| 1430 (2.3.223): praises/praiers || H || A
+|-
+| 1450 (2.3.242): Fame/Fam'd || H || A
+|-
+| 1457 (2.3.249): bourne/boord || H || A
+|-
+| 1474 (2.3.264): cull/call || H || A
+|-
+| 1476 (2.3.266): bulkes/hulkes || H || A
+|-
+| 1484 (3.1.6): noble/notable || H || A
+|-
+| 1580 (3.1.108): Lord/lad || H || A
+|-
+| 1654 (3.2.22): reputed/repured || H || A
+|-
+| 1656 (3.2.24): and too sharpe/tun'd to sharp || H || A
+|-
+| 1792 (3.2.160): aye/age || H || A
+|-
+| 1953 (3.3.100): shining/ayming || H || A
+|-
+| 1989 (3.3.137): feasting/fasting || H || A
+|-
+| 1993 (3.3.141): shrinking/shriking || H || A
+|-
+| 2011 (3.3.158): hedge aside/turne aside || H || A
+|-
+| 2013 (3.3.160): hinmost/him,most || H || A
+|-
+| 2036 (3.3.184): out/once || H || A
+|-
+| 2053 (3.3.198): deepes/depth || H || A
+|-
+| 2065 (3.3.210): her Iland/our Ilands || H || A
+|-
+| 2269 (4.2.10): eyes/ioyes || H || B
+|-
+| 2273 (4.2.13): hidiously/tediously || H || B
+|-
+| 2392 (4.4.4): no lesse/violenteth || H || A
+|-
+| 2397 (4.4.9): crosse/drosse || H || A
+|-
+| 2408 (4.4.24): strange/strain'd || H || A
+|-
+| 2427 (4.4.41): our/one || H || A
+|-
+| 2440 (4.4.54): the root/my throate || H || A
+|-
+| 2469 (4.4.79): person/portion || H || A
+|-
+| 2513 (4.4.119): visage/vsage || H || A
+|-
+| 2516 (4.4.122): towards/to thee || H || A
+|-
+| 2563 (4.5.13): yong/yond || H || A
+|-
+| 2618 (4.5.61): tickling/ticklish || H || A
+|-
+| 2625 (4.5.65): you state/the state || H || A
+|-
+| 2634 (4.5.74): disprising/misprising || H || A
+|-
+| 2653 (4.5.92): breach/breath || H || A
+|-
+| 2697 (4.5.133): drop/day || H || A
+|-
+| 2746 (4.5.178): that I . . . Oath/thy . . . earth || B || B
+|-
+| 2827 (4.5.255): stythied/stichied || B || B
+|-
+| 2866 (4.5.290): scarres/skarres || B || A
+|-
+| 2868 (4.5.292): she lou'd/my Lord || B || A
+|-
+| 2875 (5.1.4): core/curre || B || A
+|-
+| 2898 (5.1.31): Sleyd/sleiue || B || A
+|-
+| 2924 (5.1.58): forced/faced || B || A
+|-
+| 2986 (5.2.10): finde/sing || H || A
+|-
+| 2987 (5.2.11): life/Cliff || H || A
+|-
+| 3018 (5.2.41): distraction/distruction || H || A
+|-
+| 3069 (5.2.82): takes . . . rakes/takes . . . doth take || H || A
+|-
+| 3112 (5.2.118): coact/Court || H || A
+|-
+| 3116 (5.2.122): that test/th, attest || H || A
+|-
+| 3130 (5.2.134): soyle/spoile || H || B
+|-
+| 3141 (5.2.144): By foule/By-fould || H || B
+|-
+| 3154 (5.2.157): fiue/finde || H || B
+|-
+| 3170 (5.2.173): Fenne/sunne || H || A
+|-
+| 3297 (5.3.85): distraction/destruction || H || B
+|-
+| 3301 (5.3.89): yes/yet || H || B
+|-
+| 3341 (5.4.10): stole/stale || H || B
+|-
+| 3378 (5.5.7): Polidamus/Polidamas || H || A
+|-
+| 3395 (5.5.22): scaled/scaling || H || A
+|-
+| 3397 (5.5.24): straying/strawy || H || A
+|-
+| 3415 (5.5.41): luck/lust || H || A
+|-
+| 3481 (5.7.11): sparrow/spartan || H || A
+|-
+| 3517 (5.8.20): bed/baite || H || A
+|-
+| 3556 (5.10.20): Coole/Could || H || A
+|}
+
+{{BookCat}}
