@@ -1,0 +1,220 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Personations: ''The Taming of the Shrew'' and the Limits of Theoretical Criticism}}
+''This essay was written by Paul Yachnin.''
+
+<!--Paragraph 1-->
+Many Shakespeareans believe that what counts most in Shakespeare consists in the operations of power. In this essay, I challenge the adequacy of power's retelling of Shakespeare, the idea that literary texts such as ''The Taming of the Shrew'' can achieve no purchase on the ideological complex that "in-forms" the social formation, that literature is itself a product and merely reproductive of that formation. At the same time, however, I challenge the opposite, rationalist view of literary discourse (what I call the position of knowing) which claims for texts such as ''Taming of the Shrew'' a privileged and illuminating vantage point over ideological reproduction. A third position which is put in question here is that of new historicism. New historicism is not a position so much as it is a restless shifting between power and knowing, an approach which oscillates in order to attempt to account for
+both the cultural determinations of literary meaning and literature's capacity to reflect back on the culture which determines it.
+
+<!--Paragraph 2-->
+Here the theoretical positions in question include a materialist-feminist view ("power") which reads ''Taming of the Shrew'' historically for information about early modern, and modern, gender relations (see Boose, Fineman, Garner, Hodgdon). Representative of this view is Kathleen McLuskie's rejection of authorial intention and readerly interpretation and her localizing of Shakespeare's plays within both the all-male institution of the theatre and the visual field of early modern patriarchal culture: "This procedure differs from claiming Shakespeare's views as feminist in refusing to construct an author behind the plays and paying attention instead to the narrative, poetic and theatrical strategies which construct the plays' meanings and position the audience to understand their events from a particular point of view" (92).
+
+<!--Paragraph 3-->
+Roughly opposite to the position of power is the rationalist view ("knowing") which rehabilitates the play in terms of the self-aware consciousness of the author over the constraints imposed on the production of meaning by cultural specificity and historical change (see Kahn 104-18, Bean, Huston). The position of knowing sees Shakespeare's plays as fundamentally vitalized, as depoliticized and transhistorical by virtue of their self-consciousness. The interpretive techniques of the position of knowing include a variety of intentionalist, metatheatrical, and deconstructive approaches. The drive underlying these diverse approaches consists in the desire to discover that Shakespeare's plays are alive in some uncanny way, persistently conscious of their own production of meaning and therefore free of the history in which they were produced and in which their meanings are constantly being revised. "As a heterosexual feminist," Linda Bamber comments, ". . . I have found in Shakespeare what I want to imagine as a possibility in my own life" (43). More than merely a pragmatic investment, Bamber's identification with Shakespeare's articulation of life-possibilities is akin to what Stanley Cavell describes as the skeptic's attentiveness to the objective realm, a fascination that suggests a desire to be gazed back at—"It is not just careful description, or practical investigation, underway here. The philosopher is as it were looking for a ''response'' from the object" (8).
+
+<!--Paragraph 4-->
+Finally there is the new historicist view which oscillates between the rigid determinations of culture and history on the one side and the self-awareness—usually projected onto some hypostatized version of "the text" or "history"—which transcends those determinations on the other (see Newman). At the end of a formidable historicizing analysis of ''Measure for Measure'' which details the stage's contribution to the disciplinary powers of social control, Steven Mullaney allows that Shakespeare's theatre also produced a certain kind of awareness. In Mullaney's account, however, this awareness could be grasped only by future cultures and not by the audiences of Shakespeare's day: "If the apprehensive power of the stage produced what Norbert Elias would call an expanded domain of the superego, and hence an expanded avenue of access for forces of social and cultural control, it also
+produced an expanded cultural and self-awareness that the period in question was not fully equipped to manage or turn to its own advantage" (113-14). While the theatre inculcates a kind of mindless subjection, it also enhances awareness. The difficulty is that this awareness must be a property of the text or of history itself since it seems to be held in suspension over the heads of the spectators in Shakespeare's playhouse.
+
+<!--Paragraph 5-->
+Although my argument might have some general application, I do not intend to develop a master theory of Shakespeare criticism. Much work on ''Taming of the Shrew'' simply cannot be accounted for by my tripartite model. Marianne Novy's 1979 essay on "patriarchy and play" recuperates ''Taming of the Shrew'' for feminist criticism by way of a historical contextualizing analysis, and makes no appeal to transhistorical, authorized meaning (also see Hibbard). This limitation of my theoretical discussion of ''Taming of the Shrew'' criticism connects with one of my central points, which is that theory cannot provide a bedrock interpretive model. On the contrary, theory can never offer a global explanation because theory itself is an analytical practice which operates only at a certain level of generality.
+
+<!--Paragraph 6-->
+In contrast to the usual procedure of bringing theory to bear on the text, I situate current theoretical positions in Shakespeare's drama. That the ground of possibility of Shakespeare criticism is already in his plays might go without saying, but the particular claim I develop is that these strategies are never organized into transpersonal systems in Shakespeare and that they cannot, therefore, account adequately for the production of meaning in his drama. I argue that materialist, rationalist, and new historicist positions are contained within the sphere of the person. In this view, such positions are concerned primarily with the effects of persons rather than the other way round. This is not to suggest that persons, real or imagined, can exercise mastery over language, biology, or society; but it is to claim that feeling, thinking, and intending subjects—as opposed to the operations of discourse and power—constitute the elemental components of actual and Shakespearean life-worlds.
+
+<!--Paragraph 7-->
+There is no doubt that the person was a key element in the social formation of early modern England. Then as now, the operations of power, the configurations of identities in terms of gender, sexuality, rank, race, and age, the construction of the body, the phenomenology of bodily experience, and the pleasures of dramatic texts and theatrical performances are represented and experienced by persons. The pre-Shakespearean theatre tended to favour the production of allegorical meaning in relation to which the characters in plays such as ''Castle of Perseverence'' or ''Everyman'' represent a virtue or a vice or a certain state of becoming in a Christian narrative. Against this background, Shakespeare's drama is remarkable for its elaboration of particularized characters, a new emphasis signalled, as Andrew Gurr suggests, by the emergence in 1599-1600 of the word "personation" (97-98). In her brilliant contextualizing analysis of theatrical personation, Katharine Maus argues for multiple connections between representations of interiority in the playhouse and an intense, new interest in the culture at large in inward personhood. The experiential fact of personal experience, Shakespeare's innovations in the construction of character, and the Renaissance fascination with personhood suggest that recent attempts to read early modern drama in terms of discourse and power—to the exclusion of character analysis—constitute a triple misrepresentation. On historical and theatrical grounds, and in light of the forms of Shakespearean
+characterization, I suggest that the semantic unit—the quantum of theatrical meaning-making in Shakespeare's playhouse—comprised the person rather than the transpersonal formation (or the allegorical theme). In this view, meaning was produced on the early modern stage through personation rather than by developing systems of ideas abstracted from the dramatic action.
+
+<hr/>
+
+<!--Paragraph 8-->
+I survey some of the key positions in recent Shakespeare criticism before considering how the transpersonal positions of power, knowing, and power/knowing have tended to determine interpretation of ''Taming of the Shrew''. My discussion might seem to be doing violence to a number of first-rate studies. In part this is the inescapable violence of categorization, the reductive effects of any attempt to group complex and diverse essays according to one major element that they share. But some sharpness is also appropriate given what I suggest is the failure of much recent Shakespeare criticism to come to terms with its own theoretical assumptions, especially its inability to deal consistently with its vexed investments in personhood. The adequacy of Foucauldian models of power and subjectivity as a linchpin in a liberatory critical discourse has been put in question by Jürgen Habermas (266-93), yet many Shakespeareans continue to deploy Foucault's ideas about depersonalized power in a critical project bent on the enlightenment and empowerment of their readers and themselves. In this criticism, persons count for nothing and for everything. I suggest that the problems in the three approaches of knowing, power, and power/knowing are precisely a consequence of this general project of "depersonalizing" theory, an effect in particular of the attempt to produce internally consistent, abstract analyses of the normal and mundane inconsistencies contained within
+theatrical personations of lived experience.<ref>For theoretical criticism's discomfort with theatre's heterogeneity, see Dawson.</ref>
+
+<!--Paragraph 9-->
+Shakespeare's drama participated in the early modern struggle between the opposite positions of knowing on the one side and power on the other. An adequate account of that drama requires giving back to it the contending twins which I call power and knowing, siblings which were born together in the plays in the theatre, but which are kept separate in theory-driven interpretation. To restore the twofold position of power and knowing to its home within the sphere of the person is to begin to overcome the impasse between power and knowing in terms of a Shakespeare family history—the persons and personations of the actors giving birth to the incomplete and warring twins of power and knowing, the person hollowed out, and its particular powers and knowledge excluded from the divided
+universe of the real, the twins born of the person becoming monstrous in their claims to self-authorship and totality. I follow the suggestion of Barbara Freedman's discussion of ''The Comedy of Errors'' in seeing the theoretical positions taken up by Shakespeare criticism as the Antipholi (84-89); I add the idea of seeing the person in Shakespeare's theatre as the sequestered Aemilia.
+
+<!--Paragraph 10-->
+Shakespeare gathers into his texts the burgeoning skepticism of Renaissance thinking, an interrogation of conventional signifying practices that was one manifestation of the so-called Renaissance "crisis of representation" (see Agnew). In contrast to the Comedies, where skepticism tends to liberate the protagonists, Shakespearean tragedy raises the skeptical interrogation of the world to crisis pitch, pitting the hero's consciousness of his identity against the world which threatens and constitutes (and threatens by constituting) it, producing the hero's knowing as a contentless but absolute position, a radicalized ''cogito'' that splits the Christian-idealist universe (where the omniscience of God underwrites the existence of the world) into two opposing positions—on the one side, the position of mind, "mind" not hypostatized as substance but as the sheer activity of skeptical knowing which empties out the world, the operations of power (including the omniscience of God), the socially constituted identity of the subject, leaving itself, knowing, as exclusively real; on the other side, the
+materialist position, whose operative, power, empties out the position of knowing, leaving itself, power, as exclusively real. In Shakespeare's theatre or text, that is, when we are watching or even reading the tragedies, and in the sphere of the tragic hero's person, the positions of power and knowing persist in complex relationships. Hamlet or Macbeth's absolutist skepticism threatens to reveal power itself as a fantasy, but power nonetheless both surrounds and fills them, pressing upon them its terrors and attractions, and also determines them, putting in question even the autonomy of their knowing. Macbeth is incandescent with the surge of his insight into the nothingness of life, but the voice that articulates that knowledge also bears the burden of the speaker's desiccation, the sound of one whose life "[i]s fallen into the sear, the yellow leaf" (5.3.23).<ref>All Shakespeare quotations are from ''The Riverside Shakespeare''.</ref>
+
+<!--Paragraph 11-->
+Recent Shakespeare criticism has been unable to tolerate this theatrical embodiment of contradictory positions. Driven by theory's longing for totality and for mastery over the personal and the experiential, such criticism has pushed away from the emphases of character analysis and has split into three camps distinguished by each one's particular alignment with the two master-positions of power and knowing. The opposing positions of power and knowing each attempt to overcome contradiction by emptying out the other—power suggesting that the individual's knowing freedom is a mere discursive effect, knowing suggesting that power itself is a fantasy. In contrast, new historicism oscillates between power and knowing, even stages the theoretical impasse between contradictory positions.
+
+<!--Paragraph 12-->
+New historicism might appear at first to be affiliated with the position of power; and indeed in its beginnings, in ''Renaissance Self-Fashioning ''at any rate, there is an attempt to erase the position of knowing. Stephen Greenblatt's well-known reflection on his project makes the case for power against knowing: "In all my texts and documents, there were, so far as I could tell, no moments of pure, unfettered subjectivity; indeed, the human subject itself began to seem remarkably unfree, the ideological product of the relations of power in a particular society" (256). According to Greenblatt, what the subject knows as freedom is, in reality, an effect of power. Importantly, it is the totalizing claims themselves of the position of knowing which seem to make inevitable Greenblatt's either/or radicalism—personhood is fundamentally either "the ideological product of the relations of power" or "pure, unfettered subjectivity."
+
+<!--Paragraph 13-->
+Greenblatt's repressed position of knowing has returned through new historicism's Americanization of deconstruction, a maneuver that has allowed new historicists both to track power's inexorable production of subjectivity, gender and the "free space" of literature, and yet to sweeten their account of such productions by emphasizing the foregrounding of representation in texts such as the ''Henry IV'' plays or ''Taming of the Shrew''. Who it is that is supposed to see and grasp the representation of the production of ideology is never made clear.<ref>Critiques of the new historicist dissolution of intentionality include Patterson and Porter.</ref> In the case of Greenblatt's 1981 "Invisible Bullets," the position of knowing is projected onto a mystified version of the text into which is folded a range of meanings belonging, putatively, to different historical periods. There is no end of knowing, but it belongs to no one and is never of the nature of an insight which a reader might grasp and turn to account in the real world or in present time; instead, if knowing is anywhere at all, it belongs to the text itself as an accident of its travels through history.
+
+<!--Paragraph 14-->
+Louis Montrose's shifting affiliations with the master-positions of power and knowing provide another version of the same struggle. In his 1980 essay, "The Purpose of Playing," knowing was central to Montrose's project. At the same moment that Greenblatt was declaring "pure subjectivity" to be an artifact of power, Montrose was undertaking to historicize metadramatic criticism of Shakespeare in order to make a case for the Renaissance theatre as a site of consciousness-raising rather than as a site of subjection. Montrose wrote: "In the society in which Shakespeare lived, wrote, and acted, the practical effect of performing his plays may have been to encourage the expansion and evaluation of options. Plays are provocations to thought and patterns for action" ("Purpose" 68). Montrose's
+subsequent turn away from an emphasis on knowing towards an emphasis on power produced, as Edward Pechter has noted, some "waffling" in Montrose's 1983 essay on ''A Midsummer Night's Dream'' concerning whether that play reproduced patriarchy or subverted it by foregrounding the constructedness of gender.<ref>Montrose's "waffling" is in "Shaping Fantasies" 74-75. Pechter's comments are on p. 167.</ref> That a rigorous thinker such as Montrose waffled on a crucial point with wide theoretical ramifications suggests the depth of the dilemma that faces new historicism. This dilemma is a consequence of the ways in which new historicists have "disappeared" the persons who wrote, read, and were represented in early modern English literature. That is the case because eliding the person who is the sphere in which power and knowing interact has left new historicists facing the maddening scene of contradiction itself.<ref>Montrose has since adopted ideas of limited autonomy and "internal distantiation" in order to allow back into his accounts of Renaissance drama some measure of the knowing that was central to his view in 1980. See "Professing."</ref>
+
+----
+
+<!--Paragraph 15-->
+In Shakespeare, the positions of knowing and power are always poised in readiness to sever their relations with the person; more important, their rivalry itself tends to have the effect, especially in the view of recent Shakespeare criticism, of occluding the personal ground of what in consequence appears to be an originary contest for mastery between pure and universally applicable theoretical positions. What would happen if we were to resituate power and knowing within the sphere of the person? We would have to relax our claims concerning their totality and purity, and we would have to allow the substantial existence and limited explanatory power of both. What would be lost by virtue of this "personalizing" of theory is theory's claim to mastery over the person. What might be found is an
+ability to see Shakespeare in terms of an embodied dialectic between power and knowing rather than as constituted exclusively by either one or the other, or by an dizzying oscillation between the two.
+
+<!--Paragraph 16-->
+But what, it must be asked, can Shakespeare's characters tell us?<ref>The issue here is not one of stage vs. page, or the "order of the body" vs. the "order of texts" (Berger 147). That is so because my argument is not that the stage delivers the goods and the page does not, but rather that the measure of meaning in Shakespearean drama is the person/character rather than the transpersonal discursive system, and that theatrical performance foregrounds the person/character as the quantum of meaning-making in Shakespeare.</ref> How can theatrical "personations" expand our understanding of the plays or put in question the adequacy of current theoretical positions? What follows is a tentative rethinking, in terms of the embodied, personalized dialectic of power and knowing, of ''The Taming of the Shrew''—a highly visible site of contestation between power and knowing in Shakespeare studies. I suggest that personalizing theory might allow us to hear, in her closing speech, Katherine's expression of many-sided resistance against Petruchio's attempt to dominate her, but also her evocation of her own bodily pleasure—her overall sense of physical well-being, being cared for, made warm and comfortable, being
+erotically delighted. I suggest that by hearing Katherine's voice (the voice must speak always from and of both mind and body) and by attending to her personalized knowing and power, we might productively put in question the adequacy of our present theoretical positions to stand for themselves without people to live them. In other words, hearing Katherine's voice might suggest that power and knowing live in people rather than the other way round.
+
+<!--Paragraph 17-->
+For Christopher Sly, Katherine's counterpart, physical pleasure is consuming. The Lord's joke on Sly, an impractical, playful exercise of power carried out by means of the husbanding of privileged information, simply fails to connect with the Sly body which, evidently, would be happy to adopt any name, rank, or identity in order to "smell sweet savors . . . feel soft things" (Ind.2.71). The Sly body makes a joke of power's joking attempt to practice on the drunken Sly: the body "stands" only for pleasure—olfactory, gustatory, visual, auditory, tactile, erotic—and seems largely unimpressed by name, rank, or identity. Contrary to what the Lord would like to see, Sly's apparent transformation does not necessarily turn on the irresistible attractions of lordly rank in itself;<ref>For the opposite view, see Leggatt 37-38. My claim that the joke on Sly is unsuccessful is based on the fact that it is very unlikely that the Lord's "experiment" could have a negative outcome (i.e., Sly refusing to act like a lord), and that there are two separate explanations as to why it does have a positive outcome (i.e., Sly acting like a lord). One is that Sly is tricked into forgetting himself; the other is that he is not fooled but goes along with the charade anyway because he does not want to impede the flow of food and drink. There is no way to adjudicate between the two explanations, and indeed they tend to blur into each other.</ref> instead, it turns primarily on the sweetness, softness, and erotic excitations which comprise, in Shakespeare's wonderfully satirical version, the day-to-day domestic life of the aristocracy: 
+
+<blockquote>
+<poem>
+Am I a lord, and have I such a lady?
+Or do I dream? Or have I dream'd till now?
+I do not sleep: I see, I hear, I speak;
+I smell sweet savors, and I feel soft things.
+Upon my life, I am a lord indeed,
+And not a tinker, nor Christopher Sly.
+Well, bring our lady hither to our sight,
+And once again a pot o' th' smallest ale.  (Ind.2.68-75)
+</poem>
+</blockquote>
+
+<!--Paragraph 18-->
+Katherine's pleasure is different from Sly's in that it marks power's success rather than its failure. Sly issues from violence, cold, poverty; the Lord's world of pleasure therefore constitutes a goal to which Sly would devote himself in any case, to which indeed he is devoting himself when discovered by the Lord. In contrast, Petruchio produces both Katherine's pain and her pleasure. As a consequence, the satisfactions she expresses in her closing speech suggest the success of Petruchio's brutal exercise of power—the fact that she has succumbed to and been changed by her husband's physical and psychological mistreatment of her.
+
+<!--Paragraph 19-->
+Katherine unknits her resistance to patriarchal marriage in the same way that she instructs the Widow to "unknit that threatening unkind brow." She relaxes into the pleasurable and erotic. Importantly, her first image of woman in the "submission" speech consists in the figure of female erotic power to wound men by means of "scornful glances," a sadomasochistic image of female dominance which is rejected and then replaced by the figure of woman as a fountain from which men sip or do not sip depending upon the clearness and beauty of its water—an image of passivity and nurturing rather than of wounding, but eroticized nonetheless, and keyed to the kiss in the street which closes the previous scene (the moment of the kiss being the turning point at which Petruchio finds Katherine's waters sufficiently clear and beautiful). Further, Katherine's repeated description of women's bodies as "weak" while in line, as Brian Morris has pointed out, with the Second Book of Homilies ("For the woman is a weake creature, not indued with like strength and constancy of minde" [qtd. in Morris 146]), is nonetheless erotically inflected by collocation with "soft" and "smooth"—words reflective of Katherine's knowing her body as a site of pleasure:
+
+<blockquote>
+<poem>
+Why are our bodies soft, and weak, and smooth,
+Unapt to toil and trouble in the world,
+But that our soft conditions, and our hearts,
+Should well agree with our external parts?  (165-68)
+</poem>
+</blockquote>
+
+<!--Paragraph 20-->
+Katherine's allusions to the husband's care for his wife are evocative of the deprivations inflicted
+during the taming process, deprivations which have inculcated a formative bodily dependence and
+gratitude:
+
+<blockquote>
+<poem>
+Thy husband is thy lord, thy life, thy keeper,
+Thy head, thy sovereign; one that cares for thee,
+And for thy maintenance; commits his body 
+To painful labor, both by sea and land;
+To watch the night in storms, the day in cold,
+Whilst thou li'st warm at home, secure and safe  (146-51)
+</poem>
+</blockquote>
+
+<!--Paragraph 21-->
+What Katherine's body knows puts in question the attempt to bring the play in line with the ideal of "the marriage of true minds." More generally, resituating knowing in the personalized sphere of the conjoined mind and body has the effect of dividing the position of knowing against itself and so disallowing it to stand as a totalizing interpretive strategy. However far Katherine knows her inner freedom at a conscious level (and I do not deny the validity of this knowing), her body knows, and is grateful for, the pleasure Petruchio affords her.
+
+<!--Paragraph 22-->
+Katherine's pleasure puts in question the position of knowing, especially its attempt to recuperate Petruchio's exercise of coercion in terms of a model of play which is based on the idea of the subject as interiorized, knowing, and free, and therefore capable of unconstrained  mutuality—Petruchio and Katherine playing at, rather than living in, patriarchy. J. Dennis Huston argues that "[Katherine's] speech is undoubtedly proof of her pronounced debt to [Petruchio], for it takes as its model his own harangues . . . Yet the very nature of Kate's performance as performance suggests that she is offering herself to Petruchio not as his servant, as she claims, but as his equal in a select society which includes themselves, the playwright, and perhaps a few members of his audience: those who, because they know that man is an actor, freely choose and change their roles in order to avoid the narrow, imprisoning roles society would impose upon them" (64). How well can this recuperative version account for the Katherine's sense of physical well-being, a sensation of comfort which arises out of the contrast between the privations inflicted upon her at first and their relief and recompense—in food, sleep, warmth, company, and erotic pleasure shared with Petruchio once she has submitted to his "rule, and right supremacy" (5.2.109)?
+
+<!--Paragraph 23-->
+Outside the classroom and theatre, approaches to ''Taming of the Shrew'' in terms of the position of knowing are not commonplace now. That is because intentionalist interpretive models have been displaced by functionalist models of cultural reproduction and contestation and because
+aestheticizing interpretive practices have been replaced more or less by politicizing practices. It is also
+because theories of subjection have replaced ideas of self-mastery. In the case of ''Taming of the Shrew'', however, the central reason for the present dominance of "power" readings is that feminist Shakespeareans have marked this play off as beyond redemption. Shirley Nelson Garner has argued that history has passed ''Taming of the Shrew'' by (117-18). As such, it can no longer be said to be a work of literature which might be saved in one way or another by virtue of the presence of a knowing author; instead it is of the nature of a joke whose spirit has long since vanished, the dead letter of an outmoded misogynist culture.
+
+<!--Paragraph 24-->
+Even a more theoretically sophisticated approach such as that of Linda Boose restricts the meaning of the play to the historical moment of its original production. Because Boose views ''Taming of the Shrew'' as a document of oppression rather than as a representation of oppression, she is able to reverse recuperative interpretations like Huston's. Boose's version of the play, like Garner's, fixes its meaning in terms of the misogyny of early modern England. She arrests the play's playfulness by connecting it with the horrific practice of "bridling"—the use of a specially-made bridle for the punishment and shaming of women deemed to be "scolds." These iron bridles and Shakespeare's comedy are said to have contributed equally though in different ways to the silencing of women's voices.
+
+<!--Paragraph 25-->
+To contextualize ''Taming of the Shrew'' in relation to material practices of antifeminist oppression is not, however, to deproblematize the play's representation of gender, or indeed to justify reading the play in terms of power rather than knowing.<ref>Hodgdon develops a powerful argument, from the point of view of its history in the theatre, for seeing ''Taming of the Shrew'' as irredeemably antifeminist.</ref>  While the slipperiness of literary discourse in relation to its putative cultural effects or parallel practices cannot guarantee that the play was ''not'' an instrument of patriarchal subjection, there is nevertheless no warrant in these historical accounts to show that it ''was''. Elizabethan attitudes towards female speech were more various than is suggested by the evidence of the scold's bridle or the cucking stool. Indeed, the theatre valorized women's speaking as well as women's silence. Finally, of course, the case against the play cannot be decisive because literary discourse can turn the tables on even the most rigorous contextualizing interpretation and because the claim that ''Taming of the Shrew'' is not literature must be the enabling presupposition rather than the conclusion of any reasoned attack on the play.
+
+<!--Paragraph 26-->
+To resituate power in the sphere of the person is to foreground power's failure to account for the full range of effects produced by the actor's personation of Katherine. Just as attending to the conjoined physical and mental personhood of Katherine disallows the rehabilitation of Petruchio's coercion in terms of role-playfulness, so listening to Katherine's voice, or even imagining it as we read, has the effect of splitting power into contradictory operations while leaving the person intact. Power is over Katherine, but she has power too.
+
+<!--Paragraph 27-->
+The position of power might seem able to account for the idea that Katherine has power. As
+Foucault has argued, "[p]ower must be analysed as something which circulates, or rather as something
+which only functions in the form of a chain. It is never localized here or there, never in anybody's hands"
+(98). This depersonalizing and totalizing idea of subjection is unable to take into account the fact that
+power is indeed in Katherine's hands when she commands the centre of the playing-space, and that it is
+also in her voice and body. Three leading actors who have recently played the role comment that
+Katherine's "submission" speech is the scene of her, and their, greatest theatrical power—"the play
+lands back in Kate's hands. It's her play at the end" (see Rutter 21-25). So while there is no doubt that
+Katherine is subjected to power, it is also true that she wields an irreducible force of her own.
+
+<!--Paragraph 28-->
+In the sphere of the person, moreover, Katherine's power is bound up with her knowing. While what Katherine's body knows puts in question the humanist recuperation of the play, her knowledge of her history, her analysis of her present position and her articulate act of choosing all lend her power. It is not clear, in her closing speech, whether Katherine is confessing her discovery of the "naturalness" of patriarchy or acknowledging its sheer coercive power. "My mind hath been as big" suggests the former since it implies her recognition of her overweening unworthiness; "My heart as great, my reason haply more" points in the opposite direction by suggesting her awareness of the value of her own moral and intellectual capacities:
+
+<blockquote>
+<poem>
+My mind hath been as big as one of yours,
+My heart as great, my reason haply more,
+To bandy word for word, and frown for frown;
+But now I see our lances are but straws,
+Our strength as weak, our weakness past compare,
+That seeming to be most which we indeed least are.
+Then vail your stomachs, for it is no boot,
+And place your hands below your husband's foot.  (170-77)
+</poem>
+</blockquote>
+
+<!--Paragraph 29-->
+In view of the complexity of Katherine's character, new historicism's oscillations between power and knowing might seem to offer an adequate interpretive model. New historicists find innovative ways of suggesting how English Renaissance theatre both reinscribed and made visible the operations of power. In spite of her spirited argument for the oppressive social function of the play, Boose indicates her affinity with new historicism by including suggestions of the liberating capacity of representation: "By means of constructing so precarious and controversial a resolution, the play works ever so slightly to unsettle its own ending" (184). But by whom, for whom, and in whose interests is the ending unsettled? Power/knowing, because of its systematic elision of the person, can neither speak about the power or knowing that belongs to persons nor identify whose consciousness it is that is
+supposed to be raised by the theatre's visible representations of power. In 1980, Montrose was able to refer that function to the theatre-going audience in general. But that audience now are seen to have lost their minds. In Karen Newman's essay on ''Taming of the Shrew'', knowing is projected onto an amalgamation of Renaissance audience, modern readership, and text itself. The subliminal promotion of a transhistorical, depersonalized knowing of power which might rehabilitate the play as a feminist text is carried out here in the unchecked play of past and present tenses:
+
+<blockquote>
+The ''Shrew'' both demonstrated and helped produce the patriarchal social formation that
+characterized Elizabethan England, but representation gives us a perspective on that system that
+subverts its status as natural. The theatrically constructed frame in which Sly exercises patriarchal
+power and the dream in which Kate is tamed undermine the seemingly eternal nature of those structures
+by calling attention to the constructed character of the representation rather than veiling it through
+mimesis. . . . Kate would have been played by a boy whose transvestism . . . emblematically embodied
+the sexual contradictions manifest both in the play and Elizabethan culture. The very indeterminateness
+of the actor's sexuality . . . foregrounds its artifice and therefore subverts the play's patriarchal master
+narrative by exposing it as neither natural nor divinely ordained, but culturally constructed.  (42, 49-50)
+</blockquote>
+
+<!--Paragraph 30-->
+What is the relationship in Newman's analysis between early modern playgoers and modern scholars? ''Taming of the Shrew'' "helped produce the patriarchal social formation" of Elizabethan England, yet representation "gives us" a view that subverts that formation. ''We'' are aware of the framing device that foregrounds "the constructed character of the representation." Was the view of Shakespeare's first audience as enlightened as our understanding of the play? At first, Newman suggests that we see more clearly than they. But the word "demonstrated" connects with the Elizabethan boy-actor whose sexual indeterminateness "foregrounds its artifice," and that leads to the implication that there is no difference between our enlightenment and theirs. The play is an instrument of patriarchal oppression, but it is also an agent of liberation in the eyes of a floating, transhistorical readership. The floating audience of the play is nothing more than the critic's projection onto a pseudo-historical screen of a certain idea of the text's enlightened self-consciousness.
+
+<!--Paragraph 31-->
+I suggest that the contradictions in the characterization and story of Katherine are not difficult to grasp in the theatre where they are always rooted in the persons of the actors. These contradictions are not inaccessible even in play-texts so long as readers work to contain power and knowing within the spheres of the imagined persons of the play. The complex personhood of Katherine is, however, impossible to grasp in the terms of the totalizing, transpersonal positions of either power, knowing, or power/knowing, the first two because they disallow contradiction, the third because it attempts to lift contradiction out of the bodies and minds in which contradiction happens and transform it into the site where bodies and minds happen. In other words, with regard to ''The Taming of the Shrew'', the position of power/knowing attempts to abstract, hypostatize, and universalize, as the place where Katherine happens, the thoughts, emotions, and physical sensations which make up the theatrical personation of a particular person whose complexity we confront in the theatre and even in the book. 
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Agnew, Jean-Christophe. ''Worlds Apart: The Market and the Theater in Anglo-American Thought''. Cambridge: Cambridge UP, 1986.
+* Bamber, Linda. ''Comic Women, Tragic Men: A Study of Gender and Genre in Shakespeare''. Stanford: Stanford UP, 1982.
+* Bean, John. "Comic Structure and the Humanizing of Kate in ''The Taming of the Shrew''."  In ''The Woman's Part: Feminist Criticism of Shakespeare''. Ed. Carolyn Ruth Swift Lenz, Gayle Greene, and Carol Thomas Neely. Urbana: U of Illinois P, 1980. 65-78.
+* Berger, Harry. "Bodies and Texts." ''Representations'' 17 (1987): 144-66.
+* Boose, Lynda E. "Scolding Brides and Bridling Scolds: Taming the Woman's Unruly Member." ''Shakespeare Quarterly'' 42 (1991): 179-213.
+* Cavell, Stanley. ''Disowning Knowledge in Six Plays of Shakespeare''. Cambridge: Cambridge UP, 1987.
+* Dawson, Anthony B. "Performance and Participation: Desdemona, Foucault, and the Actor's Body." In ''Shakespeare, Theory, and Performance''. Ed. James C. Bulman. London: Routledge, 1996. 29-45.
+* Fineman, Joel. "The Turn of the Shrew." In ''Shakespeare and the Question of Theory''. Ed. Patricia Parker and Geoffrey Hartman. London: Methuen, 1985. 138-60.
+* Foucault, Michel. ''Power/Knowledge: Selected Interviews and Other Writings, 1972-1977''.  Ed. Colin Gordon. Trans. Colin Gordon, et al. Brighton: Harvester, 1980.
+* Freedman, Barbara. ''Staging the Gaze: Postmodernism, Psychoanalysis, and Shakespearean Comedy''.  Ithaca: Cornell UP, 1991.
+* Garner, Shirley Nelson. "''The Taming of the Shrew'': Inside or Outside of the Joke?" In ''"Bad" Shakespeare: Revaluations of the Shakespeare Canon''. Ed. Maurice Charney. London: Associated UP, 1988. 105-19.
+* Greenblatt, Stephen. "Invisible Bullets." Rpt. in ''Shakespearean Negotiations: The Circulation of Social Energy in Renaissance England''.  Berkeley: U of California P, 1988. 21-65.
+* ---.  ''Renaissance Self-Fashioning: From More to Shakespeare''.  Chicago: U of Chicago P, 1980.
+* Gurr, Andrew. ''The Shakespearean Stage, 1574-1642''. 2nd ed. Cambridge: Cambridge UP, 1980.
+* Habermas, Jürgen. ''The Philosophical Discourse of Modernity: Twelve Lectures''. Trans. Frederick Lawrence. Cambridge, Mass.: MIT, 1987.
+* Hibbard, G. R. "Introduction."  ''The Taming of the Shrew''. Penguin Shakespeare. Harmondsworth: Penguin, 1968. 15-40.
+* Hodgdon, Barbara. "Katherina Bound, or Pla(k)ating the Strictures of Everyday Life." ''PMLA'' 107 (1992): 538-53.
+* Huston, Dennis J. "Enter the Hero: The Power of Play in ''The Taming of the Shrew''." In ''Shakespeare's Comedies of Play''. London: Macmillan, 1981. 58-93.
+* Kahn, Coppélia. ''Man's Estate: Masculine Identity in Shakespeare''.  Berkeley: U of California P, 1981.
+* Leggatt, Alexander. ''Shakespeare's Comedy of Love''.  London: Methuen, 1974.
+* Maus, Katharine Eisaman. ''Inwardness and Theater in the English Renaissance''. Chicago: U of Chicago P, 1995.
+* McLuskie, Kathleen. "The Patriarchal Bard: Feminist Criticism and Shakespeare: ''King Lear'' and ''Measure for Measure''." In ''Political Shakespeare: New Essays in Cultural Materialism''. Ed. Jonathan Dollimore and Alan Sinfield. Manchester: Manchester UP, 1985. 88-108.
+* Montrose, Louis Adrian. "'Shaping Fantasies': Figurations of Gender and Power in Elizabethan Culture." ''Representations'' 1 (1983): 61-93.
+* ---.  "Professing the Renaissance: The Poetics and Politics of Culture." In ''The New Historicism''. Ed. H. Aram Veeser. New York and London: Routledge, 1989. 15-36.
+* ---. "The Purpose of Playing: Reflections on a Shakespearean Anthropology." ''Helios'' ns 8 (1980): 51-74. 
+* Morris, Brian. "Introduction," ''The Taming of the Shrew''. Arden Shakespeare London: Methuen, 1981.
+* Mullaney, Steven. ''The Place of the Stage: License, Play, and Power in Renaissance England''.  Chicago: U of Chicago P, 1988.
+* Newman, Karen. "Renaissance Family Politics and Shakespeare's ''Taming of the Shrew''." In ''Fashioning Femininity and English Renaissance Drama''.  Chicago: U of Chicago P, 1991. 33-50.
+* Novy, Marianne L. "Patriarchy and Play in ''The Taming of the Shrew''." ''English Literary Renaissance'' 9 (1979): 264-80.
+* Patterson, Annabel. ''Shakespeare and the Popular Voice''. Oxford and Cambridge: Blackwell, 1989. 
+* Pechter, Edward. "Teaching Differences." ''Shakespeare Quarterly'' 41 (1990): 160-73.
+* Porter, Carolyn. "Are We Being Historical Yet?" ''South Atlantic Quarterly'' 87 (1988): 743-86.
+* Rutter, Carol, with Sinead Cusack, Paola Dionisotti, Fiona Shaw, Juliet Stevenson and Harriet Walter.  ''Clamorous Voices: Shakespeare's Women Today''. Ed. Faith Evans. London: The Women's Press, 1988.
+* ''The Riverside Shakespeare''. Ed. G. Blakemore Evans. Boston: Houghton Mifflin, 1976.
+
+{{BookCat}}
