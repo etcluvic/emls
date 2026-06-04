@@ -1,0 +1,181 @@
+''This essay was written by Robert Viking O'Brien''.
+
+<!--Paragraph 1-->
+Many readers of ''The Comedy of Errors'' notice that Egeon's possible execution provides a dark frame around what appears to be one of Shakespeare's most light-hearted comedies. Yet the threat of death that hangs over Egeon in the frame plot also hangs, in the main plot, over his Syracusan son. This threat results from Antipholus' Syracusan origins, of course, but also—less obviously and more significantly—from the possibility that Syracusan Antipholus is losing his mind. The Elizabethans believed that, without correction, insanity usually led to death; for Shakespeare's audience, the deaths of Lear and Ophelia probably seemed inevitable as soon as the characters went mad. I shall argue in this essay that, in ''The Comedy of Errors'', Shakespeare uses the possibility that Syracusan Antipholus is genuinely threatened by madness, and therefore death, to manipulate his audience's anxieties. I shall also show how, despite the play's dependence on a classical source, Syracusan Antipholus' descriptions of his "transformed" mind draw on specific, Elizabethan ideas about both supernatural and natural causes of madness.
+
+<!--Paragraph 2-->
+The character's first appearance on stage, as a wanderer newly disembarked from a ship, draws on strong cultural associations between wandering, water, and insanity. Michel Foucault explores these associations in ''Madness and Civilization'' when he investigates a reality behind the imaginary Ship of Fools. Boats of mad people did in fact ply European rivers, for boatmen were often charged with removing the insane to the countryside or to another city.<ref>For the transportation of the insane during the Middle Ages, see also Rosen 140-41.</ref> Foucault sees these mad boats both as a practical solution to the social threat posed by the insane, and as a ritual laden with significance. The water over which the mad are carried purifies them at the same time it excludes and confines them (7-12). He relates this ritual to older cultural material relating madness and sea-borne passengers.<ref>Foucault believes that the relationship had special significance for Europeans "on the horizon of the Renaissance" (18), when madness to some extent replaced death as a theme for meditation (13-15). Foucault briefly traces the literary use of madness from Erasmus' ''Praise of Folly'' to Cervantes and Shakespeare (12-17, 27-32). Curiously, Foucault's description of this development has been blamed for the relative lack of new work on madness in Tudor and Stuart England. Carol Thomas Neely claims that, in ''Madness and Civilization'', Foucault's "Renaissance" has few distinguishing characteristics: it is merely a continuation of his "Middle Ages" (779). This has led younger scholars to focus on the late seventeenth and eighteenth centuries, the period of Foucault's "great confinement," when the older view of madness is replaced by one continuous with the present view. It seems to me that Foucault does distinguish between notions of madness before the late seventeenth century. In any event, we can hardly blame him for inadequately describing those differences: as its subtitle indicates, ''Madness and Civilization'' focuses on "Insanity in the Age of Reason," not earlier periods.</ref>
+
+<!--Paragraph 3-->
+When Syracusan Antipholus arrives in Ephesus "stiff and weary" from his long journey over the sea, he gives his money to his servant and sends the servant away. He says that he plans to wander the town and look at its buildings and inhabitants. When the only other person in Ephesus who knows his identity leaves, Syracusan Antipholus is in the position of a lunatic released from one of the ships of fools described by Foucault. Antipholus soon discovers that he is incapable of interpreting what is said to him, and the city's inhabitants see him as mad.
+
+<!--Paragraph 4-->
+His situation is the same as the parallel character's in Plautus' ''Menaechmi'', Shakespeare's primary source. If the resemblance between Syracusan Antipholus and Foucault's released madmen stopped there, it would be difficult to claim that features of the scene resemble the cultural pattern described by Foucault. Antipholus' first soliloquy reinforces that pattern, however, by using water as its central metaphor:
+
+<blockquote>
+<poem>
+He that commends me to mine own content
+Commends me to the thing I cannot get.
+I to the world am like a drop of water
+That in the ocean seeks another drop,
+Who, falling there to find his fellow forth,
+(Unseen, inquisitive) confounds himself. (1.2.33-38)<ref>Quotations from ''The Comedy of Errors'' come from the New Arden edition. All other Shakespeare quotations come from ''The Riverside Shakespeare''.</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 5-->
+We find the metaphor of water dissolving into water elsewhere in Shakespeare as an expression of "losing one's self." It appears, for example, in ''Richard II''<nowiki>'</nowiki>s deposition scene, when Richard describes himself as melting "away in water drops!" (4.1.263), in ''Hamlet''<nowiki>'</nowiki>s famous soliloquy, "O that this too too sallied flesh would melt,/Thaw, and resolve itself into a dew!" (1.2.129-30), and in ''Antony and Cleopatra'', when Antony describes himself as being like the shapes one sees in the clouds: "That which is now a horse, even with a thought/The rack dislimns, and makes it indistinct/As water is in water" (4.14.9-11).<ref>See Foakes' note on 1.2.33-38 in the New Arden edition of ''The Comedy of Errors''. In his list of water-into-water metaphors, Foakes also includes the Duke's comment in ''The Two Gentlemen of Verona'' that "love is as a figure/Trenched in ice, which with an hour's heat/Dissolves to water, and doth lose his form" (3.2.6-8).</ref> If these characters associate their own unsettled identities or extreme melancholy with water, the great mad characters immerse themselves in it. Lear tears off his clothes in the driving rain and asks for the land to be submerged: "You cataracts and hurricanoes, spout/Till you have drench'd our steeples, drown'd the cocks!" (3.2.3-4). Ophelia enters the water of the weeping brook "like a creature native and indued/Unto that element" (4.7.179-80). The connection between water and madness does not, of course, originate with Shakespeare. According to Foucault, it either begins with the ritual of the mad ships, or the ships themselves reflect an older cultural pattern: "One thing at least is certain, water and madness have long been linked in the dreams of European man" (12).
+
+<!--Paragraph 6-->
+Wandering and madness are similarly linked. Foucault outlines how the wandering madmen of pre- and early-modern Europe typify this connection, which reflects a reality similar to that found in the late twentieth-century United States. In Elizabethan England, mentally-disturbed vagrants were a "ubiquitous presence" (Rosen 153) represented in ballads by the figure of Tom o' Bedlam, who wanders in search of his "stragling sences" (Lindsay 35). Edgar's soliloquy in ''King Lear'' reflects this presence as well:
+
+<blockquote>
+The country gives me proof and president<br>
+Of Bedlam beggars, who, with roaring voices,<br>
+Strike in their numb'd and mortified arms<br>
+Pins, wooden pricks, nails, sprigs of rosemary;<br>
+And with this horrible object, from low farms,<br>
+Poor pelting villages, sheep-cotes, and mills,<br>
+Sometimes with lunatic bans, sometime with prayers,<br>
+Enforce their charity. (2.3.13-20)
+</blockquote>
+
+<!--Paragraph 7-->
+Syracusan Antipholus also connects mental confusion and wandering when he bids farewell to the merchant in the second scene: "I will go lose myself,/And wander" (1.2.30-31). "Lose myself" and "wander" mean much the same thing here, but the first phrase hints at a loss of identity, an unsettling of the psyche that is more explicitly described in Antipholus' first soliloquy. Significantly, this soliloquy ends by describing the effect of Antipholus' wanderings: "So I, to find a mother and a brother,/In quest of them, unhappy lose myself" (1.2.39-40).
+
+<!--Paragraph 8-->
+Wandering defines Syracusan Antipholus' character. Indeed, the first Folio uses Syracusan Antipholus' status as a wanderer to distinguish him from his twin. The Folio's stage directions call him "Antipholis Erotes" (1.2.S.D.), while his brother is called "Antipholis Sereptus" (2.1.S.D.). ''Surreptus'', or "stolen away," was a common Renaissance epithet for Plautus' town-dwelling twin. ''Erotes'', on the other hand, appears only in Shakespeare's play. Textual scholars have suggested several meanings for the name, but most see it as a corruption of ''Erraticus'', formed from the verb ''errare'', to wander (Foakes, xxvi-vii). The epithet fits the Syracusan twin, who, like his father, has presumably traveled "in farthest Greece,/Roaming clean through the bounds of Asia" (1.1.132-33). Ephesian Antipholus, on the other hand, has had a settled life.
+
+<!--Paragraph 9-->
+If we take "wandering" as a mental rather than physical state, the distinction applies to the play's present action as well. Ephesian Antipholus' wife may believe that he is wandering mentally, but despite this diagnosis and his treatment by Dr. Pinch, the Ephesian twin remains "settled" in his sense of reality. His situation is thus safely in the realm of error as "mistaking." Just as various characters mistake him for his twin, his wife and Dr. Pinch mistake him for a madman. He knows they are wrong. The Syracusan twin's situation is altogether different. The state of mind described in the first soliloquy becomes more unsettled in the confusing confrontations that follow. Syracusan Antipholus never thinks the characters he meets are mistaken or mad—instead, he doubts his own sense of reality. When confronted by the raging, jealous Adriana, for example, Syracusan Antipholus wonders if he married her and was unaware of it, or if he is now dreaming: "What, was I married to her in my dream?/Or sleep I now, and think I hear all this?" (2.2.181-82). This kind of questioning continues to the very end of the play: even after most of the problems of mistaken identity have been cleared up, Syracusan Antipholus alludes to the possibility that he is still dreaming (5.1.376).
+
+<!--Paragraph 10-->
+These are the questions of a madman, for as Robert Burton, citing Avicenna, says, madmen "wake as others dream" (335). The wandering twin in the ''Menaechmi'' does not ask such questions. Unlike Shakespeare's Syracusan Antipholus, Plautus' Syracusan Menaechmus never doubts his own sense of reality. He pretends to be insane, "adsimulem insanire" (831), rather than thinking he is insane. Unlike Hamlet's "antic disposition," this pretence is never ambiguous: Plautus continually shows us the character's sanity. When confronted with someone's inexplicable words or behavior, Menaechmus assumes that the other character, not he, is mad.
+
+<!--Paragraph 11-->
+A comparison of the confused-identity scenes in the ''Menaechmi'' and ''The Comedy of Errors'' reveals the difference. In the ''Menaechmi'', the humor in these scenes often results from arguments over who is insane. For example, in the first such scene, a cook mistakes the wandering twin for the settled one. Syracusan Menaechmus immediately decides that the man is insane—"certe hic insanust homo" (283)—and when the cook insists that he knows Menaechmus well, Menaechmus gives him money to be purified by a priest, "nam equidem insanum esse te certo scio" (292). An argument follows over who is sane. Neither character doubts his own sanity for a moment.
+
+<!--Paragraph 12-->
+In Shakespeare's play, scenes involving the settled twin provide similar humor, as do some scenes involving the wandering one. Yet when Syracusan Antipholus is mistaken for his brother, he is bewildered in a way that Syracusan Menaechmus never is. Shakespeare's wandering twin rarely argues with characters who confuse him with his brother, and even when he does argue, the exchange has an unsettling quality not found in Plautus. In ''The Comedy of Errors''' first scene of mistaken identity, for example, Syracusan Antipholus meets his servant's twin and asks how he has completed his errand so quickly:
+
+<blockquote>
+<poem>
+How chance thou art return'd so soon?
+''Eph. Dro.'' Returned so soon? Rather approached too
+late . . . . (1.2.42-43)
+</poem>
+</blockquote>
+
+The exchange is the first in a series of unsettling disruptions of Antipholus' sense of time. The period's "faculty psychology," which derives ultimately from Aristotle's ''De Anima'', associates such disruptions with the decay of the sensitive soul's perceptive faculties, a decay that, like the decay of the intellective soul, signals the onset of madness (Park 465-73).
+
+<!--Paragraph 13-->
+G. R. Elliot describes how disrupted time gives the play a feeling of "weirdness" absent in Plautus (95-106). While Elliot explores this feeling as a feature of the ''Comedy'''s atmosphere, more recent scholars have seen the play's strangeness as a representation of psychological states. For example, in an essay on the relation of the frame plot to the interior plot of mistaken identity, Barbara Freedman asks what it means to be recognized as someone else. She sees Syracusan Antipholus' situation as representing "a present persona confused with a past, denied persona—a part of the self with which [one] no longer identifies" (367). In Freedman's reading, the play's mistaken identities realize repressed parts of the psyche. This realization can be frightening, and Freedman sees the play as a kind of nightmare. That the play does not have what Harry Berger calls a "green world" (3-40) makes it all the more terrifying: "By not removing the play's action to a magical island or forest, Shakespeare stresses the essence of nightmare: the imagined fulfilment of repressed fears and desires in everyday reality" (Freedman 363).
+
+<!--Paragraph 14-->
+The threat of death hangs over this "farce," as does the threat of madness that appears again in ''Hamlet'' and ''King Lear''. Syracusan Antipholus struggles with this threat throughout the play. When the first confusions arise, he tries to determine their nature and includes the possibility that he has lost his senses: "Am I in earth, in heaven, or in hell?/Sleeping or waking, mad or well advis'd?" (2.2.212-13). In the third act, he decides he is on earth and that witches are twisting his mind (3.2.155). He generally adheres to this explanation for the rest of the play. When he falls in love with Luciana, he believes he is surrendering his mind to a witch's power (3.2.161-63). In the fourth act, he attributes various confusing offstage encounters to "Lapland sorcerers" (4.3.11).
+
+<!--Paragraph 15-->
+Antipholus has been prepared for this explanation by stories he has heard about Ephesus, which is said to be inhabited by "Dark-working sorcerers that change the mind" and "Soul-killing witches that deform the body" (1.2.99-100). Significantly, no such association exists in the ''Menaechmi''. Like Shakespeare's Ephesus, which "is full of cozenage,/As nimble jugglers that deceive the eye,/ . . . Disguised cheaters, prating mountebanks" (1.2.97-98, 101), Plautus' Epidamnum is filled with tricksters of various kinds (260-61). None of these is said to be practicing black magic, however, and scholars have suggested that Shakespeare changed the play's setting to allow for the possibility of such magic (Foakes xxix).
+
+<!--Paragraph 16-->
+For Shakespeare's audience, the city would have been most familiar as a center of pagan worship. In Acts, devotees of Diana drive Paul from of the city. Before his expulsion, however, Paul performs a number of exorcisms. When these exorcisms are unsuccessfully imitated by "vagabond Jews," the failed exorcists are attacked by a possessed madman: "the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded" (19.16). This failure and Paul's successes lead to conversions and the burning of magic books: "Many of them also which used curious arts brought their books together, and burned them before all men" (19.19). In the Bible, Ephesus is associated with magic—"curious arts"—and with madness caused by possession.
+
+<!--Paragraph 17-->
+Both in the first-century Near East and in Elizabethan England, people commonly attributed madness to possession that in turn was often attributed to black magic. In both places, people tried to exorcise madness-inducing demons with different degrees of success, and the successes were often conscious frauds. Shakespeare uses an account of such frauds to create Edgar's pretended madness in ''King Lear'': the names of Poor Tom's demons come from Samuel Harsnett's ''Declaration of egregous Popish Impostures, to withdraw the harts of her maiesties Subiects from their allegeance, and from the truth of Christian Religioun professed in England, vnder the pretence of casting out devils'' (1603).<ref>In ''Shakespearean Negotiations'', Stephen Greenblatt explores the political and cultural implications of Shakespeare's use of Harsnett (94-128). For a different reading of those implications, see Murphy.</ref> If, in ''King Lear'', Shakespeare used pretended exorcisms to create pretended madness, in ''Twelfth Night'' he had one of his characters use pretended exorcism to harass another character. Feste's exorcism of Malvolio—"Out hyperbolical fiend! how vexest thou this man!" (4.2.25-6)—remains comic as long as the audience feels certain that Malvolio is sane: the scene's sinister undertone results from a vague fear that he may lose his sanity. The parallel scene in ''The Comedy of Errors'' lacks this undertone because, as mentioned earlier, Ephesian Antipholus' sanity is never in doubt. The audience is free to laugh at what might otherwise be a frightening exorcism:
+
+<blockquote>
+<poem>
+I charge thee, Satan, hous'd within this man,
+To yield possession to my holy prayers
+And to thy state of darkness hie thee straight;
+I conjure thee by all the saints in heaven.
+(4.4.52-53)
+</poem>
+</blockquote>
+
+<!--Paragraph 18-->
+This passage may allude to the fraudulent exorcisms described later in Harsnett's ''Declaration''. The earliest dates given for ''The Comedy of Errors''' composition, 1584-89 (Foakes xvii), would make those exorcisms contemporary events; the latest would make them recent history. Even if Shakespeare is not alluding to fraudulent exorcisms, his audience probably saw Doctor Pinch much as Ephesian Antipholus does, as "a mountebank,/A thread-bare juggler and a fortune-teller" (5.1.239-40). We should note, however, that although Shakespeare's audience may have regarded Pinch as a fraud or a quack, they would have seen nothing unusual in his treatment of Ephesian Antipholus' supposed madness: "They fell upon me, bound me, bore me thence,/And in a dark and dankish vault at home/There left me" (5.1.247-49). The "dark-room treatment," which also appears in ''Twelfth Night'' (4.2), was "one of the chief methods for the treatment of the insane in both Elizabethan and seventeenth-century England" (Reed 11). Shakespeare's audience probably took its efficacy for granted. The problem with this treatment in ''The Comedy of Errors'' results from the sanity of the patient and the (possible) fraudulence of the practitioner. The same is true of Pinch's attempted exorcism. Its ridiculousness should not lead us to conclude that Shakespeare and his audience did not believe in genuine exorcisms or in madness caused by possession. Even a thinker as relentlessly skeptical as Thomas Hobbes, writing in the middle of the next century, felt compelled to take possession-induced madness seriously, if only to dispute it (142-46). Before Hobbes, supernatural causes for mental illness were taken for granted, even by those who favoured explanations based on physical humours. In ''The Anatomy of Melancholy'', for instance, Robert Burton departs from his description of humor-induced melancholy for a lengthy "Digression of the nature of Spirits, bad Angels, or Devils, and how they cause Melancholy" (157-79).
+
+<!--Paragraph 19-->
+As the preceding example shows, belief in supernatural causes for mental illness was not limited to the illiterate, who were less familiar with "physical" explanations based on the theory of humours. The learned explanation for madness was in fact more likely to be supernatural than natural (Porter 30). Even medical doctors who ordinarily pointed to "natural" causes would, in extreme cases, point to supernatural ones (Rosen 146). For the Elizabethans, these causal categories were not contradictory. The Bible lent authority to supernatural interpretations; the classics lent authority to natural ''and'' supernatural interpretations: in the ''Phaedrus'', for example, Plato describes both kinds of madness (265A). Throughout the Middle Ages, the idea of natural causes coexisted with that of supernatural intervention (Clarke 82). By the late sixteenth century, learned discussions of madness often focused on distinguishing between the two explanations (Kocher 297-305).
+
+<!--Paragraph 20-->
+In his struggle to understand what is happening to him, Syracusan Antipholus wavers between the two explanations. Generally, he provides a supernatural explanation, but this explanation is itself bound up with the physical, for the play continually connects mental transformations to physical ones. Syracusan Antipholus' initial description of the inhabitants of Ephesus—"Dark-working sorcerers that change the mind,/Soul-killing witches that deform the body" (1.2.99-100)—makes this connection, as does the following exchange between Syracusan Antipholus and Dromio:
+
+<blockquote>
+<poem>
+''Syr. Dro.'' I am transformed, master, am I not?
+''Syr. Ant.'' I think thou art in mind, and so am I.
+''Syr. Dro.'' Nay, master, both in mind and in my shape.
+''Syr. Ant.'' Thou hast thine own form.
+''Syr. Dro.'' No, I am an ape. (2.2.204)
+</poem>
+</blockquote>
+
+<!--Paragraph 21-->
+Dromio's words foreshadow his later questioning of Syracusan Antipholus: "Do you know me sir? Am I Dromio? Am I your man? Am I myself?" (3.2.72). In this scene, Dromio's fear of transformation results from his encounter with his twin's lover, the hideous kitchen wench who knows various "privy marks" on his body, so "that I, amazed, ran from her as a witch./And I think if my breast had not been made of faith, and my heart of steel,/She had transformed me to a curtal dog" (3.2.143-45). Dromio's description of this comically terrifying encounter immediately follows Antipholus' wooing of Luciana. Like Dromio's encounter, this wooing also involves transformation, but what Dromio feared, Antipholus desires: "Are you a god? would you create me new?/Transform me then, and to your power I'll yield" (3.2.39-40).
+
+<!--Paragraph 22-->
+Antipholus repudiates this wish after he hears Dromio's story. He realizes that his desire is leading him toward madness and suicide, so "lest myself be guilty to self-wrong,/I'll stop mine ears against the mermaid's song" (3.2.161-63). Antipholus here wards off the enchantments of a woman he believes to be a witch (3.2.155). At the same time, he resists the love-induced madness that could lead him to commit the sin of self-murder.
+
+<!--Paragraph 23-->
+Madness brought on by love appears so frequently in the period's literature that we tend to think of it as a convention—something Cervantes could mock, for example, by having Don Quixote, in the Sierra Morena, imitate Orlando Furioso (197-203). Yet these literary madnesses reflected a reality. In ''The Anatomy of Melancholy'', Robert Burton supplies a long list of mad, suicidal lovers from literature and then tells his readers to
+
+<blockquote>
+Go to Bedlam for examples. It is so well known in every village, how many have either died for love, or voluntarily made away themselves, that I need not much labour to prove it; Death is the common catastrophe to such persons. (763-64)
+</blockquote>
+
+Burton, who devotes almost a third of his ''Anatomy'' to love melancholy (see Reed 106), provides what may strike us as a strangely physical description of how such love is engendered: the beloved infects the lover through the eyes, for "rays, . . . sent from the eyes, carry certain spiritual vapours with them, and so infect the other party" (681). Once the infection has occurred, Burton says, the passion lodges in lower regions of the psyche, from whence it rises to distort the lover's senses, and, in extreme cases, drive him or her mad.
+
+<!--Paragraph 24-->
+A similarly physical idea of madness appears in ''The Comedy of Errors''. After Syracusan Antipholus' confusing encounter with Adriana, he asks "What error drives our eyes and ears amiss?" (2.2.184). On one level, his question suggests a possibility not thought of by other characters in the play: mistaken identity is responsible for their confusion. On another level, Antipholus' question suggests an actual disordering of the senses. Shakespeare is playing on a meaning of "error" largely lost to us, that of "fury" or "extravagance of passion" (OED). As in Burton's ''Anatomy of Melancholy'', in Elizabethan physical psychology, extreme passion—an upsurge from the lower regions of the psyche—destroys the higher faculties (DePorte 115-18). Timothy Bright's ''Treatise of Melancholy'' (1586), for example, describes how "vehement contemplations" disorder the senses (35).
+
+<!--Paragraph 25-->
+Bright says this disordering can "cause horrible and fearfull apparitions" (131). If not corrected, it leads to madness and death. Indeed, Elizabethan parish records often list, as causes of death, mental states like "frenzy" and "thought" (Forbes 117-18). Shakespeare's drama reflects the idea that uncorrected madness is ultimately fatal; as Foucault notes in ''Madness and Civilization'', "In Shakespeare . . . madness . . . occupies an extreme place, in that it is beyond appeal. Nothing ever restores it either to truth or reason. It leads only to laceration and thence to death" (31-32).
+
+<!--Paragraph 26-->
+''The Comedy of Errors'' is not ''King Lear''. Nevertheless, as I have argued here, this seeming farce touches upon what would have been a genuine anxiety for the Elizabethan audience. Syracusan Antipholus is struggling for his mind and his life when he cries out, near the end of the play,
+
+<blockquote>
+<poem>
+The fellow is distract, and so am I,
+And here we wander in illusions—<
+Some blessed power deliver us from hence! (4.3.40-43)
+</poem>
+</blockquote>
+
+Such outcries are comic because the audience is aware of the cause of Syracusan Antipholus' confusion. But however faint, the anxiety produced by fear of madness remains, darkening the play's entertaining confusions.
+
+== Notes ==
+{{reflist}}
+
+== Works Cited ==
+
+* Aristotle. ''Aristotle's De Anima, Books II and III''. Trans. D. W. Hamlyn. Oxford: Oxford UP, 1968.
+* Berger, Harry, Jr. ''Second World and Green World: Studies in Renaissance Fiction-Making''. Berkeley: U of California P, 1988.
+* Bright, Timothie. ''A Treatise of Melancholie. Containing the causes thereof, & reasons of the strange effects it worketh in our minds and bodies: with the physic cure, ad spirtuall consolation for such as have thereto adjoined an afflicted conscience''. London: Thomas Vautrolier, 1586. Facsimile. The English Experience 212. Amsterdam: Da Capo P, 1969.
+* Burton, Robert. ''The Anatomy of Melancholy''. Ed. Floyd Dell and Paul Jordan-Smith. New York: Tudor Publishing Company, 1927.
+* Cervantes Saavedra, Miguel de. ''The Ingenious Gentleman Don Quixote de la Mancha''. Trans. Samuel Putnam. 2 vols. New York: Viking P, 1949.
+* Clarke, Basil. ''Mental Disorder in Earlier Britain: Exploratory Studies''. Cardiff: U of Wales P, 1975.
+* DePorte, Michael V. ''Nightmares and Hobbyhorses: Swift, Sterne, and Augustan Ideas of Madness''. San Marino: Huntington Library, 1974.
+* Elliott, G. R. "Weirdness in ''The Comedy of Errors''." ''University of Toronto Quarterly'' 60 (1939): 95-106.
+* Foakes, R. A. Introduction. ''The Comedy of Errors''. William Shakespeare. London: Methuen, 1962. xi-lv.
+* Forbes, Thomas Rogers. ''Chronicle from Adgate: Life and Death in Shakespeare's London''. New Haven: Yale UP, 1971.
+* Foucault, Michel. ''Madness and Civilization: A History of Insanity in the Age of Reason''. Trans. Richard Howard. New York: Vintage Books, 1973.
+* Freedman, Barbara. "Egeon's Debt: Self-Division and Self-Redemption in ''The Comedy of Errors''." ''English Literary Renaissance'' 10 (1980): 360-83.
+* Greenblatt, Stephen. ''Shakespearean Negotiations: The Circulation of Social Energy in Renaissance England''. Berkeley: U of California P, 1988.
+* Hobbes, Thomas. ''Leviathan''. Ed. C. B. Macpherson. Harmondsworth, Middlesex: Penguin, 1951.
+* Kocher, Paul H. ''Science and Religion in Elizabethan England''. New York: Octagon Books, 1969.
+* Lindsay, Jack, ed. ''Loving Mad Tom: Bedlamite Verses of the XVI and XVII Centuries''. New York: Augustus M. Kelley, 1970.
+* Murphy, John L. ''Darkness and Devils: Exorcism and "King Lear"''. Athens: Ohio UP, 1984.
+* Neely, Carol Thomas. "Recent Work in Renaissance Studies: Did Madness Have a Renaissance?" ''Renaissance Quarterly'' 44:4 (Winter 1991): 776-91.
+* Park, Katharine. "The Organic Soul." ''The Cambridge History of Renaissance Philosophy''. Eds. Eckhard Kessler, Charles B. Schmitt, Quentin Skinner. Cambridge: Cambridge UP, 1988. 464-84.
+* Plato. ''The Dialogues of Plato''. Trans. B. Jowett. 4 vols. Oxford: Oxford UP, 1953.
+* Plautus. ''Menaechmi''. In ''Plautus'', 2: 364-487. Loeb Classical Library. London: William Heinemann, 1917.
+* Porter, Roy. ''Mind-Forg'd Manacles: A History of Madness in England from the Restoration to the Regency''. Cambridge: Harvard UP, 1987.
+* Reed, Robert Rentoul, Jr. ''Bedlam on the Jacobean Stage''. Cambridge: Harvard UP, 1952.
+* Rosen, George. ''Madness in Society: Chapters in the Historical Sociology of Mental Illness''. Chicago: U of Chicago P, 1968.
+* Shakespeare, William. ''The Comedy of Errors''. Ed. R. A. Foakes. Arden Shakespeare 4. London: Methuen, 1962.
+* ---. ''The Riverside Shakespeare''. Ed. G. Blakemore Evans. Boston: Houghton Mifflin, 1974.
+
+{{BookCat}}
