@@ -1,0 +1,418 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Renaissance Dictionaries and Shakespeare's Language: A Study of Word-meaning in ''Troilus and Cressida''}}
+''This essay was written by Mark Catt''.
+
+<blockquote>
+<poem>
+'''Mysteries: thinges plaine in wordes, but secret and hidde in sense.'''
+Thomas Thomas, ''Dictionarium Linguae Latinae et Anglicanae'', 1587
+</poem>
+</blockquote>
+
+==1. Introduction==
+<!--Paragraph 1-->
+In her study of lexical meaning in Shakespeare's plays, Hulme writes of "the gradual and piecemeal discovery of relevant information" that characterizes the search for evidence about Renaissance English. As much concerned with the manuscript records of the period as with printed books, Hulme describes the painstaking labour involved in locating and interpreting handwritten texts from Shakespeare's time, and muses wistfully about the comparatively straightforward task of investigating the printed books of the period, evidence from which is documented in "our greatest of dictionaries," the ''OED'' (Hulme 8–10).
+
+<!--Paragraph 2-->
+Nowadays scholars approach the ''OED'' with more scepticism. As researchers like Schæfer have shown, the ''OED'' is far from complete and accurate. Much of the evidence from the available data was simply overlooked in the preparation of the dictionary (Schæfer).
+
+<!--Paragraph 3-->
+Among the texts imperfectly reflected in the ''OED'' are Renaissance dictionaries, including bilingual works, of which Cotgrave's monumental contribution is an important example. The bilingual dictionaries provide a wealth of information about Renaissance English, but, as Lancashire observes, scholars have been hindered in their efforts to exploit these resources since most of the dictionaries are organized by foreign-language lemma (Lancashire "Bilingual Dictionaries").
+
+<!--Paragraph 4-->
+The Early Modern English Dictionaries Database (EMEDD) at the University of Toronto (searchable by means of Patterweb) remedies some of the problems that have plagued researchers investigating the language of Shakespeare and his contemporaries. Providing the texts of many Renaissance dictionaries in electronic form, and augmenting them with computerized search tools, the EMEDD gives scholars (and amateurs, for that matter) a World Wide Web-based dictionary database easily searchable for the first time by English language keyword. It is now possible to search for words in the dictionaries of Cotgrave, Blount, and Elyot as easily as it is to consult a print dictionary like the ''OED''. And although (as Lancashire stresses) the EMEDD will not play a "revisionist role" in our understanding of Early Modern English, it will undoubtedly provide evidence for great numbers of antedatings, new words and new senses of words from the period (Lancashire "Early Modern English Dictionaries Corpus"). Its potential for the study of Renaissance literature is thus clear. There is reason to hope that the "gradual and piecemeal" search for information about Shakespeare's language can be accelerated with the aid of electronic resources such as the EMEDD.
+
+<!--Paragraph 5-->
+An investigation of some problems of interpretation in the text of ''Troilus and Cressida'' will illustrate the value of the EMEDD as a resource for the study of Renaissance word-meaning. And while the principal aim of the research is a better understanding of Shakespeare's play, it will be worthwhile to note instances where information gleaned from the EMEDD can supplement that of the ''OED''.
+
+==2. Methodology==
+<!--Paragraph 6-->
+Never a popular or critical favourite, ''Troilus and Cressida'' shares with other plays of the Shakespeare canon a range of textual and interpretive problems. The debate surrounding the relative authority of the Folio and Quarto texts rages unabated, while the problem of the play's genre continues to provoke critical commentary. Modern editors of the play weigh in on various sides of these questions. But while disagreement on such complex issues is to be expected, it is perhaps more remarkable when editors differ sharply on seemingly basic questions of word-meaning in the play. The editors disagree, for example, on how we are to understand Ulysses' use of ''wantonness'' in his address to Achilles:
+
+<blockquote>
+<poem>
+"How one man eats into another's pride,  
+While pride is fasting in his wantonness!" (III.3.136–37)
+</poem>
+</blockquote>
+
+Seltzer proposes ''self-satisfaction'', Muir ''perversity'', and Evans ''capriciousness'' or ''arrogance''. It may be that each of these readings is appropriate in the context; but the recurring disagreements among informed commentators invites further investigation and analysis.
+
+<!--Paragraph 7-->
+Taking the glosses of modern editors as a point of departure, and focusing on words, phrases and passages that receive differing interpretations from the various commentators, a natural strategy is to search for occurrences of these ambiguous words and phrases in each of three major sources of information on Renaissance word-meaning: the ''OED'', the EMEDD, and other Shakespeare texts. All these sources are available in electronic form (although the electronic ''OED'' and its associated search tools must be purchased).<ref name="note1">All ''OED'' citations are from the electronic edition on-line at the Centre for Computing in the Humanities and Social Sciences, University of Toronto (proprietary).</ref> The EMEDD can be consulted on the World Wide Web with Patterweb. The public-domain electronic Shakespeare is made available by Project Gutenberg; there are also several Web sites that support on-line searching of Shakespeare's works. The present study used standard UNIX utility programs (like ''grep'') for searching a local copy of the Gutenberg Shakespeare texts (see Kernighan and Pike).
+
+==3. Problems of Interpretation in Renaissance Dictionaries==
+<!--Paragraph 8-->
+The task of locating occurrences of English words in the EMEDD is straightforward; that of interpreting them is not. Unlike their modern counterparts, Renaissance dictionaries are not systematically organized. In particular, the practice of distinguishing fixed, distinct ''senses'' of words is not observed in the dictionaries of the sixteenth and seventeenth centuries. Rather, a dictionary entry for a given headword often simply provides a list of synonyms or translational equivalents, with no attempt at distinguishing among various senses of the word, as is the case with the ''OED''. This striking feature of Renaissance dictionaries has led Lancashire to question whether "Shakespeare and his contemporaries employed, or even understood, the idea of referential definition as practised by the ''OED'' . . . ." (Lancashire, "Early Modern English Dictionaries Corpus" 79).
+
+<!--Paragraph 9-->
+Needless to say, this lack of "organization" presents difficulties for modern interpreters of the dictionaries. An example from Minsheu's Spanish-English dictionary will illustrate the problem.
+
+<!--Paragraph 10-->
+The phrase "against the hair" occurs at least three times in the plays of Shakespeare (e.g., ''Wiv.'' II.iii.40, ''Rom.'' II.iv.95–96, ''Troil.'' I.ii.27).<ref name="note2">All citations are from the Riverside edition. Abbreviations are those of Onions.</ref> In ''Troilus'', it occurs in Alexander's description of Ajax as
+
+<blockquote>
+<poem>
+". . . a man  
+into whom nature hath so crowded humors that his  
+valor is crush'd into folly, his folly sauc'd with dis-  
+cretion. There is no man hath a virtue that he hath not  
+a glimpse of, nor any man an attaint but he carries  
+some stain of it. He is melancholy without cause, and  
+merry against the hair . . . ." (I.ii.24–27)
+</poem>
+</blockquote>
+
+Evans, Muir, and Palmer all equate "against the hair" with "against the grain," a reading supported by the ''OED''. But a search for "against" near "hair" in the EMEDD turns up an intriguing entry from Minsheu:
+
+<blockquote>
+''a pelo ariba'': against the haire, crossely, vntowardly.
+</blockquote>
+
+Is it possible that "against the hair" could have been synonymous with "crossly" in Early Modern English? There is no such suggestion in the ''OED''. But if so, the definition would be appropriate to Alexander's speech, in which Ajax is depicted as the apotheosis of paradox and contradiction. A tendency for being "merry crossly" would suit his character perfectly.
+
+<!--Paragraph 11-->
+Unfortunately, we cannot infer that Minsheu means to equate "against the haire" with "crossely." They may simply be alternative (and non-synonymous) definitions of the Spanish phrase "a pelo ariba," the first a more or less literal translation, the second an idiomatic one. Without further evidence, a claim of synonymity cannot be justified.
+
+<!--Paragraph 12-->
+Fortunately, the dictionary entries in the EMEDD are often less ambiguous. Some of the Renaissance lexicographers, Cotgrave especially, provide illustrative examples of word usage that remove any doubt as to their interpretation. But even where such explicitness is lacking, it is frequently possible to observe recurring patterns of word and sense associations that strongly suggest implicit meanings. And with a suite of computerized text-searching tools, the task of locating and identifying such patterns has become possible in ways that could not have been imagined even a few decades ago.
+
+==4. ''Troilus and Cressida'' (Act III, Scene 3)==
+<!--Paragraph 13-->
+The central figure of the third scene of Act Three of ''Troilus'' is Ulysses, celebrated (or notorious) for his speech on "degree" earlier in the play. In this scene he confronts the recalcitrant Achilles, and chides the moody warrior for "entombing" himself in his tent. As elsewhere in the play, Ulysses' language is notable for its formality and latinity; and the speaker evinces a marked tendency to neologize. In this scene alone Ulysses adds two words to the language: ''unplausive'' (l.43) and ''uncomprehensive'' (l.198). Although unfamiliar, their meanings can be (more or less) readily inferred from their etymologies.
+
+<!--Paragraph 14-->
+But there are more problematic questions of lexical semantics to be considered, as the play's editors have observed. Some of the most vexing of these involve words whose current meaning diverges from that of Shakespeare's time. Here the potential for misinterpretation is enormous. Hulme advocates a strategy for combatting the urge to impose twentieth-century interpretations on Renaissance texts:
+
+<blockquote>
+<poem>
+[We] need to squeeze out of our memories all that has happened to the 
+English language since, let us say, 1616 (the year of Shakespeare's 
+death) or 1623 (when the First Folio was published), and to soak 
+ourselves afresh in the language that Shakespeare heard in Stratford 
+and in London." (Hulme 7–8)
+</poem>
+</blockquote>
+
+This is not possible in practice, of course. But one way to approximate its effects is to gather linguistic and lexicographical evidence from the texts of the period and compare it against the data of modern resources like the ''OED''.
+
+===4.1 "a woman's longing" (III.iii.237)===
+
+<!--Paragraph 15-->
+After Ulysses's exit Patroclus encourages Achilles to follow the advice he has been offered. Concurring, Achilles proposes me
+eting with Hector after the Trojan's planned contest with Ajax:
+
+By expressing "a woman's longing" to see Hector Achilles echoes the suggestions of homo-eroticism evident in Patroclus' previous speeches. But, as the ''OED'' observes (citing this passage), the metaphor relates to the "fanciful cravings of pregnant women" (''longing'' vbl.sb.^1 2).
+
+<!--Paragraph 16-->
+Of the editors who comment on the phrase, only Muir endorses the ''OED'''s interpretation wholeheartedly. Seltzer tentatively advances the proposal that "woman's" = "pregnant woman's." Foakes claims that the phrase evokes "the love-hate relationship of the enemy warriors."
+
+<!--Paragraph 17-->
+An analysis of EMEDD dictionary entries, and of Shakespeare's own writings, support the ''OED''{{'}}s reading. Evidence from Renaissance sources indicates that the "straunge longing" of pregnant women has a quasi-proverbial resonance in the period. Moreover, the frequent collocation of "woman" or "women" with forms of the verb "to long" show patterns of association that imply specific allusions not captured in the ''OED'''s definition, allusions that colour Shakespeare's imagery.
+
+<!--Paragraph 18-->
+Shakespeare himself refers to the "longing of women" on several occasions. In the ''Winter's Tale'' Camillo uses Achilles' exact words: "I have a woman's longing" (''Wint.'' IV.iv.667). In both instances the phrase suggests not only a strange but a powerful impulse. There is a passage in ''Measure for Measure'' in which Mistress Elbow, "great with child," is comically described as "longing" for "stew'd pruins" (''Meas.'' II.i.89 ff.). Here the longing is linked specifically to food, an association not noted in the ''OED''.
+
+<!--Paragraph 19-->
+The EMEDD provides even more examples. By Cotgrave's time (1611) the idea seems to be proverbial; he equates the French "femme envieuse" simply with "a woman that longeth." Similarly, Minsheu speaks of "longing, as a woman with childe." As early as 1530 Palsgrave alludes to the phenomenon:
+
+<blockquote>
+<poem>
+I Longe as a woman [with] chylde longeth or lusteth for a thynge 
+that she wolde eate or [drink] of . . . . Women with chylde longe for 
+many straunge thynges . . . .
+</poem>
+</blockquote>
+
+Thomas not only observes the longing, but diagnoses its cause:
+
+<blockquote>
+<poem>
+[Malacia] . . . the straunge listing and longing of women, 
+especiallie of such as be with childe, by reason of humours gathered 
+about the mouth of the stomack.
+</poem>
+</blockquote>
+
+Florio emphasizes the strangeness of the appetite:
+
+<blockquote>
+<poem>
+[Cissa] the longing or lust of a woman with childe. But properly a 
+corrupt appetite or desire to eate earth, coles, candles, or such 
+things.
+</poem>
+</blockquote>
+
+<!--Paragraph 20-->
+The data from the EMEDD make it clear that Shakespeare's phrase carried connotations for the speaker of Early Modern English that the ''OED'' does not reflect. The "longing of pregnant women" was evidently a commonplace of anthropological lore; it was noted for its strange quality; and it was linked chiefly to odd cravings for food. Achilles' likening it to "an appetite" that he is "sick withal" exploits these associations. An editor of ''Troilus'' will therefore be in little danger of misrepresenting Shakespeare's poetic aims by calling attention to them.
+
+===4.2 "slippery standers" (III.iii.84)===
+<!--Paragraph 21-->
+Prior to his exchange with Ulysses, Achilles ruminates on the vagaries of fortune and the fleeting nature of fame. Perceiving an unwonted coolness in the addresses of his compatriots, he ponders (momentarily) whether his own reputation has begun to decline:
+
+<blockquote>
+<poem>
+"And not a man, for being simply man,  
+Hath any honor, but honor for those honors  
+That are without him, as place, riches, and favor—  
+Prizes of accident as oft as merit,  
+Which when they fall, as being slippery standers,  
+The love that lean'd on them as slippery too,  
+Doth one pluck another down, and together  
+Die in the fall." (III.iii.80–87)
+</poem>
+</blockquote>
+
+<!--Paragraph 22-->
+The drift of the passage is clear enough, however "tortive and errant" its syntax may be. But what precisely does Shakespeare mean by "slippery standers"? Scholars have supplied various explanations. Walker suggests that "slippery" connotes "precarious" and "unstable." Foakes likens "standers" to "supporters." Evans and Palmer speak of "uncertain" or "unstable" footing. Shakespeare himself elsewhere uses the word "stander" only in the form "stander-by," a sense clearly not implied in this passage.
+
+<!--Paragraph 23-->
+The ''OED'' cites the passage in definitions of both "slippery" and "stander," the latter in the sense of "one who stands" (''stander'' sb. 1.a). "Slippery" is described as "liable or prone to slip; readily giving way" (''slippery'' a. 6). However, there may be reason to believe the author had other meanings in mind for each of these words.
+
+<!--Paragraph 24-->
+Shakespeare applies the adjective "slippery" explicitly to "standers" and the "love" that leans against them, not to the ground they metaphorically stand on. This accords with data from the EMEDD, which suggest a Renaissance understanding of "slippery" quite different from our own. The current sense of "having a smooth or slimy surface which renders foothold insecure" can be found, but other meanings are recorded as well. In the EMEDD, "slippery" is often applied simply to objects prone or ready to fall or collapse, without reference to the stability of the ground they occupy. (Early in the sixteenth century, the form "slipper" [or "slypper"] is common.) So Elyot:
+
+<blockquote>
+[Labilis] vnstable, whyche wylle soone falle, slypper.
+</blockquote>
+
+Thomas evidently refers to Elyot's dictionary:
+
+<blockquote>
+[Labilis] Vnstable, slipperie, whiche wil soone fall.
+</blockquote>
+
+Minsheu has the same meaning in mind:
+
+<blockquote>
+<poem>
+[Deleznable] slipperie, fraile, weake, that which is not stable, 
+easie to be subuerted and ouerthrowen.
+</poem>
+</blockquote>
+
+<!--Paragraph 25-->
+That Shakespeare exploits this sense of "slippery" is suggested also by his use of "pluck down." In Renaissance English this phrase can connote violent overthrow, subversion, or destruction. As Foakes observes, it may mean to "pull down or demolish [a building]." In the EMEDD, to "pluck down" takes on a range of senses, including to "infeble" (Elyot), to "destroy" (Bullokar), and to "humble" (Cotgrave). Thomas provides a definition of "pluck down" that recalls Minsheu's entry above:
+
+<blockquote>
+[Impello] . . . to plucke down, to ouerthrow or subuert
+</blockquote>
+
+There is thus no reason to infer (''pace'' Evans and Palmer) that Shakespeare uses "slippery" to evoke an image of unstable or uncertain ''footing''; and although the ''OED'''s interpretation of "standers" may support such a reading, this interpretation too is open to question.
+
+<!--Paragraph 26-->
+Foakes's suggestion that "slippery standers" = "slippery supporters" is not without merit. It is consistent with the sense of "upright support" noted in the ''OED'' (''stander'' sb. 6). The interpretation is especially apt in that "love" is depicted as "leaning" on the standers. However, the reading runs into difficulty with the suggestion that the inanimate standers "die" in a fall.
+
+<!--Paragraph 27-->
+But to accept the ''OED'''s claim that "standers" = "ones who stand" is to be satisfied with rather bland poetry. We should perhaps consider Hulme's advice:
+
+<blockquote>
+<poem>
+If . . . any particular word seems somehow meagre, muted, 
+inartistic, contributing only an ordinary degree of sense or 
+feeling, the evidence for its meaning should be scrutinized 
+again—both the internal evidence, the evidence within the text, 
+and the external evidence, the information available from other 
+sources (Hulme 20–21)
+</poem>
+</blockquote>
+
+<!--Paragraph 28-->
+The passage from ''Troilus'' represents the only place where Shakespeare uses the term "stander" other than in the phrase "stander-by." The EMEDD likewise provides little variety in its data on "standers." With the exception of one sense of "stander" recorded in Cotgrave, every instance of the term in the EMEDD occurs in one of three collocations: "by-stander," "stander by," or "stander about" (or a plural form of one of these). The exception from Cotgrave, appearing at least four times, is (essentially) that recorded in the ''OED'' (''stander'' sb. 8.a): "a tree left standing for timber." What Cotgrave says is:
+
+<blockquote>
+<poem>
+[Baliveaux] Standers; trees left in a wood for th'increase, and 
+preseruation thereof.
+</poem>
+</blockquote>
+
+<!--Paragraph 29-->
+There is little in the immediate context of the passage to suggest an arboreal metaphor. But ''Troilus'' is filled with imagery of the forest and the garden, as in Agamemnon's first speech (I.iii.5 ff.), and later in Ulysses' reference to the "seeded pride" of "rank" Achilles and its potential for breeding a "nursery" of evil (I.iii.316–19). And if, as Hulme suggests, "when Shakespeare is writing at his best, no word in his text is meaningless or muted—put in to fill up a space" (Hulme 29), we are justified in applying the evidence supplied by the EMEDD to the interpretation of what seems a curiously muted word in the Shakespearean text. It is possible to imagine frail, unstable trees leaning one against the other, and ultimately dragging each other down to destruction.
+
+==4.3 "skittish Fortune" (III.iii.134)==
+<!--Paragraph 30-->
+As the example of "slippery standers" shows, the EMEDD does not always provide definitive solutions to problems of word-meaning in Shakespeare's texts. There are cases, however, when its information can help to uncover meanings not recognized by modern editors, and to offer insight into the interpretation Shakespeare intended.
+
+<!--Paragraph 31-->
+In the course of his debate with Achilles, Ulysses chides the warrior for his refusal to engage in combat. Contrasting Achilles' idleness with Ajax's inclination for bold action, Ulysses suggests that Fame and Fortune favour the latter. He drives his argument home in a series of antitheses:
+
+<blockquote>
+<poem>
+. . . O heavens, what some men do,  
+While some men leave to do!  
+How some men creep in skittish Fortune's hall,  
+Whiles others play the idiots in her eyes!  
+How one man eats into another's pride,  
+While pride is fasting in his wantonness! . . . (III.iii.132–37)
+</poem>
+</blockquote>
+
+<!--Paragraph 32-->
+The passage provides ample grist for the commentator's mill. But modern editors have offered unsatisfactory explanations as to what it means to "creep in skittish Fortune's hall," and what to "play the idiots" in her eyes. On these points the EMEDD supplies intriguing data.
+
+<!--Paragraph 33-->
+A key element of the metaphor is the portrayal of Fortune as a royal figure, an implication not always recognized by modern commentators. Walker and Palmer perhaps acknowledge this nuance in stating that Fortune's favours are being "courted." But the wording of the passage will have left no doubt for a Renaissance audience.
+
+<!--Paragraph 34-->
+It is clear firstly that by "hall" Shakespeare means nothing as mundane as "a large or stately room in a house" (''OED'' ''hall'' sb. 2.a). What is implied here is a "palace, court, royal residence" (''hall'' sb. 1). Entries from the EMEDD spanning over a hundred years from Elyot (1538) to Blount (1656) indicate that this sense of "hall" was in current usage throughout Shakespeare's time. A few samples will suffice to illustrate this:
+
+<blockquote>
+<poem>
+[Basilica] . . . it maye be taken for a halle, or other large place, 
+where suiters do attende, or men do wayte on rulers. (Elyot)
+
+[Aula] An hall, or Princes court, a kinglie or royall house. (Thomas)
+
+[Salle] Any Hall . . . wherein a Soueraigne Court is kept. (Cotgrave)
+
+[Aulick] . . . belonging to the Hall, or Court, courtly. (Blount)
+</poem>
+</blockquote>
+
+<!--Paragraph 35-->
+Failure to note this sense of "hall" may have led editors to misinterpret the verb with which it is associated. The mistaken consensus of commentators who gloss "creep" is that the verb implies ''stealth''. So Seltzer ("creep into"), Evans ("move so as to attract no notice"), Muir ("[move] without drawing attention to [oneself]"), and Palmer ("advance surreptitiously"). In fact, the passage demands an interpretation of "to creep" more like "to proceed humbly, abjectly, or servilely" (''OED'' ''creep'' v. 3.b). Fortune's subjects must observe the demands of courtly decorum.
+
+<!--Paragraph 36-->
+Shakespeare himself uses "creep" in a similar sense earlier in ''Troilus'':
+
+<blockquote>
+<poem>
+. . . They were us'd to bend,  
+To send their smiles before them to Achilles,  
+To come as humbly as they us'd to creep  
+To holy altars." (III.iii.71–74)
+</poem>
+</blockquote>
+
+It likewise occurs in ''Two Gentlemen of Verona'':
+
+<blockquote>
+<poem>
+. . . for you know that love 
+will creep in service where it cannot go. (''Gent.'' IV.ii.19–20)
+</poem>
+</blockquote>
+
+And this usage is reflected in the dictionaries of the EMEDD:
+
+<blockquote>
+<poem>
+[Venerabundus] That doth worship or honour: full of capping, 
+crowching, and creeping. (Thomas)
+
+[Humilde] . . . humble, lowly, meeke, creeping, crouching. (Minsheu)
+
+[Humblement] Humbly, submisly, lowly, alow; with creeping, and crooching; with great reuerence. (Cotgrave)
+</poem>
+</blockquote>
+
+It seems clear that for the Renaissance speaker, "creeping" was equally appropriate in church and at court.
+
+<!--Paragraph 37-->
+Modern editorial commentary on the passage is divided as to whether it describes how best to court Fortune's favour or how best to avoid her unwelcome gaze. Evans implies that by not calling attention to himself (and thereby risking falling victim to "fickle" Fortune), Ajax does better than Achilles, who invites disaster with foolish behaviour. Palmer seems to suggest that Ajax, advancing "surreptitiously," will be seen by Fortune as a more deserving suitor than Achilles, who "[does] nothing to court Fortune's favours." Muir, unlike other commentators, and perhaps swayed by Ajax's portrayal in ''Troilus'' as a buffoon, believes it is Achilles who should be seen as creeping before Fortune, with Ajax playing the fool. He claims that Ajax attracts "the attention of Fortune, even by behaving absurdly." Walker sees creeping Ajax as a successful suitor for "Fortune's favour," and Achilles as foolishly scoffing at the favour he already enjoys.
+
+<!--Paragraph 38-->
+None of these readings quite captures the force of Shakespeare's metaphor. The task for Fortune's subjects is neither actively to court her favour nor purposely to escape her gaze; it is simply to avoid incurring her displeasure with indecorous behaviour. She is a powerful sovereign who commands respect by virtue of her estate; but she also has a reputation for displaying her power in devastating and arbitrary ways. It is wise to creep in ''this'' hall.
+
+<!--Paragraph 39-->
+For the modern reader, such a reading seems hardly consistent with our understanding of the phrase "skittish Fortune." After all, as the ''OED'' informs us, a "skittish" ruler must be "characterized by levity, frivolity, or excessive liveliness" (''skittish'' a. 1), or at worst, "fickle, inconstant, changeable; tricky, difficult to deal with or manage" (''skittish'' a. 3), the interpretation assigned by the ''OED'' to Shakespeare's "skittish Fortune." But the ''OED'' fails to recognize a range of meanings associated with "skittish" in Renaissance usage, meanings that suggest a more dangerous Fortune than we will find discussed in modern editions of ''Troilus''.
+
+<!--Paragraph 40-->
+Editors who gloss "skittish" follow the ''OED'' fairly closely: "volatile; fickle" (Palmer); "fickle" (Foakes, Evans); "unreliable" (Seltzer). But evidence from the EMEDD reveals that "skittish" may have evoked quite different connotations for speakers of Early Modern English, including suggestions of dangerousness and malice.
+
+<!--Paragraph 41-->
+The link between "skittishness" and "dangerousness" derives from the language of the animal world. According to the ''OED'', creatures given to "skittish" behaviour are "disposed or apt to start or be unruly without sufficient cause" (''skittish'' a. 3). But many entries in the EMEDD make it clear that in Renaissance English "skittish" applies to animals whose behaviour is more than merely "unruly." A "skittish" animal is "fierce," "wilde," "currish," "wood" (crazed, rabid), "daungerous to be dealt with":
+
+<blockquote>
+[Effero] To make wood, skittish or wilde as beastes are. (Thomas)  
+[Incagnire] to become currish, doggish, skittish, or churlish. (Florio)  
+[Effaroucher] To mad, make wood, skittish, wild, fierce, cruell. (Cotgrave)  
+[Sauvagement] Sauagely, wildly, hagardly, harshly, skittishly. (Cotgrave)  
+[Scabreux] . . . skittish, daungerous to be dealt with. (Cotgrave)
+</blockquote>
+
+Although not recorded in the ''OED'', these connotations of "skittish" may well inform Shakespeare's usage.
+
+<!--Paragraph 42-->
+But there are other senses of "skittish" not recognized in the ''OED''. These are illustrated in EMEDD dictionary entries relating to French and Italian words that correspond etymologically to English "perverse," "perversity," and so on. The entries are from Florio and Cotgrave:
+
+<blockquote>
+<poem>
+[Peruersare] to become or make peruerse, froward, malicious, skittish, 
+or mischieuous. (Florio)  
+
+[Peruersita] peruersenes, skittishnes, frowardnes, crabbednes, 
+waywardnes, maliciousnes of nature, ouerthwartnes, doing 
+or seeking to do that which one ought not to do. (Florio)  
+
+[Pervers] Peruierse, crosse, aukeward, ouerthwart, skittish, froward, 
+vntoward. (Cotgrave)  
+
+[Perversite] . . . a skittish, giddie, or vntoward humor to doe an 
+vnlawfull, or ill, thing. (Cotgrave)
+</poem>
+</blockquote>
+
+It is difficult to accept the ''OED'''s judgment that Cotgrave's "skittish" is limited to behaviour "characterized by levity, frivolity, or excessive liveliness" (''skittish'' a. 1). The term seems to suggest, at the very least, "mischievousness," and at worst, "malice." It appears likely that Shakespeare's "skittish Fortune" is a figure who, apart from being fickle, takes a perverse and malicious pleasure in dealing her blows.
+
+<!--Paragraph 43-->
+If it behoves the prudent to "creep in skittish Fortune's hall," what must await those who "play the idiots in her eyes"? The implied antithesis between "creeping" and "playing the idiot" is somewhat opaque, though "playing the idiot" is undoubtedly meant to seem as inappropriate in the context of a royal audience as reverentially "creeping" is proper.
+
+<!--Paragraph 44-->
+The ''OED'' offers no information on the expression "to play the idiot," although it occurs explicitly in Shakespeare and Florio and elliptically in other EMEDD authors (where it is synonymous with "to play the fool"; cf. Thomas, "[Fatuor] to play the foole or idiot").
+
+<!--Paragraph 45-->
+The EMEDD provides evidence that the phrase would have served as an appropriate "opposite" to humble "creeping" in the language of Shakespeare's time. Interestingly, the ''OED'' gives similar indications in its entry for "to play the fool" (which it defines as "to act like a fool" [''fool'' sb. 2.b]); the earliest cited quotation provides the clue:
+
+<blockquote>
+He playeth the foole with that bable. (Fulke 1579)
+</blockquote>
+
+The quotation illustrates the association of "playing the fool (or idiot)" with babbling, raving, or simply talking too much or too loudly, an association that seems to have been proverbial in Renaissance England. (We recall immediately Macbeth's describing a tale told "by an idiot, full of sound and fury" [''Mac.'' V.v.27].) There are many examples of this motif in the EMEDD:
+
+<blockquote>
+<poem>
+[Insanare] to be mad . . . to raue, to play the idiot. (Florio)  
+
+[Atronar] . . . to thunder, to skar or make afraide with thunder, 
+to play the foole, to become an idiot or dizzard . . . . (Minsheu)  
+
+[Basteler] . . . to play the buffoone, or foole; to talke verie much, 
+and verie idly . . . . (Cotgrave)
+</poem>
+</blockquote>
+
+Minsheu's entry is especially relevant, as it resonates with Macbeth's celebrated line, and illustrates the idiot's proverbial tendency for raucous behaviour. Whereas we might liken "playing the idiot" to merely acting silly or foolish, in Renaissance English the role seems to call for loud and irritating chatter, behaviour diametrically opposed to the presumably hushed reverence displayed by Fortune's creeping subjects. Those who play the idiots in Fortune's hall court only disaster.
+
+==5. Conclusion==
+<!--Paragraph 46-->
+The interpretation of Shakespeare's texts will never be an exact science. There will always be room for debate on the meaning of words and phrases that belong to a language and culture at many centuries' remove from our own time, and for which accurate reference materials are discouragingly scarce. But the recent addition of easily searchable Renaissance dictionaries to the suite of editorial resources available for the study of Early Modern English puts new power into the hands of those studying Renaissance authors. And the EMEDD, with its simple and easily accessible World-Wide-Web-based interface, imparts this power to researchers everywhere, bringing them, in Hulme's words, "a step or two nearer to the language world in which Shakespeare's plays were written and first performed."
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Blount, Thomas. ''Glossographia: or a Dictionary, Interpreting all such Hard Words.'' London: T. Newcomb, 1656.
+* Bullokar, John. ''An English Expositor: teaching the interpretation of the hardest words in our language''. [London:] J. Legatt, 1616.
+* Cotgrave, Randle. ''A dictionarie of the French and English tongues''. [London:] A. Islip, 1611.
+* Elyot, Thomas. ''The Dictionary of syr Thomas Eliot''. [London:] T. Berthelet, 1538.
+* Evans, G. Blakemore and others, eds. ''The Riverside Shakespeare''. Boston: Houghton Mifflin, 1974.
+* Florio, John. ''A worlde of wordes, or most copious, dictionarie in Italian and English''. [London:] A. Hatfield for E. Blount, 1598.
+* Foakes, R.A., ed. ''Troilus and Cressida''. The New Penguin Shakespeare. Reading: Penguin, 1987.
+* Hulme, Hilda M. ''Explorations in Shakespeare's Language: Some Problems of Word-meaning in the Dramatic Text.'' New York: Longman, 1962.
+* Kernighan, Brian W., and Rob Pike. ''The UNIX Programming Environment''. Englewood Cliffs: Prentice Hall, 1984.
+* Lancashire, Ian. "Bilingual Dictionaries in an English Renaissance Knowledge Base." In T. R. Wooldridge, ed. ''Historical Dictionary Databases''. CCH Working Papers 2. U of Toronto: Centre for Computing in the Humanities, 1992. 69–88.
+* —. "An Early Modern English Dictionaries Corpus 1499–1659." In Ian Lancashire and T. R. Wooldridge, eds. ''Early Dictionary Databases''. CCH Working Papers 4. U of Toronto: Centre for Computing in the Humanities, 1995. 75–90.
+* Minsheu, John. ''Dictionarie in Spanish and English''. [London:] E. Bollifant, 1599.
+* Muir, Kenneth, ed. ''Troilus and Cressida''. The Oxford Shakespeare. Oxford: Clarendon P, 1982.
+* Onions, C.T. ''A Shakespeare Glossary.'' Second edition. Oxford: Clarendon P, 1919.
+* ''Oxford English Dictionary.'' Second edition. Oxford: Clarendon P, 1989.
+* Palmer, Kenneth, ed. ''Troilus and Cressida''. The Arden Shakespeare, second series. London: Methuen, 1982.
+* Palsgrave, John. ''Lesclarcissement de la langue francoyse''. [London:] J. Haukyns, 1530.
+* Schæfer, Jürgen. ''Documentation in the'' OED: ''Shakespeare and Nashe as Test Cases''. Oxford: Clarendon P, 1980.
+* Seltzer, David, ed. ''Troilus and Cressida''. The Signet Classic Shakespeare. New York: Penguin, 1963.
+* Thomas, Thomas. ''Dictionarium Linguae Latinae et Anglicanae''. Cantebrigiae: T. Thomasii; London: R. Boyle, 1587.
+* Walker, Alice, ed. ''Troilus and Cressida''. Cambridge: Cambridge UP, 1957.
+
+{{BookCat}}
