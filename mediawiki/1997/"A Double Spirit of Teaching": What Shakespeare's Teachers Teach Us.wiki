@@ -1,0 +1,4210 @@
+<blockquote>
+<poem>
+And chid [his] truant youth with such a grace
+As if he mastered there a double spirit
+Of teaching and of learning instantly. <span style="font-size:small;">(''1 Henry IV'' V.ii.63)</span>
+</poem>
+</blockquote>
+
+<!--Paragraph 1-->
+That Shakespeare went to school, we can be fairly sure; exactly how far he went, and what he studied there, is largely a matter of conjecture. What we know about his thoughts on his education is even more tenuous. Educational and lexicographical texts in use during Shakespeare’s time, however, provide some idea of the general tenor of pedagogy in England in the late sixteenth century. With the growth of the vernacular as a vehicle for art and instruction, many Renaissance writers ventured opinions on the desired nature of this expansion. Against the backdrop of these writings, the actual teachers in Shakespeare’s plays show, in a very real way, his rebuttal against these debates. The promotion of Latin, in opposition to the vernacular, forms the core of these arguments.
+
+<!--Paragraph 2-->
+The clash of Latin and English is nowhere more visible than in the hard word debate. By Edmund Coote’s definition, hard words are those derived from Latin roots, as opposed to plain English equivalents. The Humanists and other classicists promoted Latinate words to the exclusion of their Old English counterparts. It is when Shakespeare’s teachers imitate these classicists that they fail. They fail because they do not truly communicate truth or improve the commonweal; they use language solely to promote their own erudition or to exert power.
+
+<!--Paragraph 3-->
+The comic teacher-characters attributed directly to Shakespeare appear in the plays written in the period of time that coincides with those of the pamphlet wars waged by these University Wits. We can learn something of Shakespeare’s attitude to teaching by examining the chronology of the appearance of these teachers in his plays. The Riverside edition of his works (Evans 47-56) shows that Shakespeare’s known output spans some twenty-five years from 1589, the earliest suggested date for his earliest known play, ''1 Henry 6'', to 1613 for ''Two Noble Kinsmen'', his last known play. By dividing the works into seven-year periods, one can observe the progression of Shakespeare’s use of the word “teach” from early work, to middle life and final years.<ref>See the spreadsheet chart on the distribution of “teach” in Shakespeare’s work in Appendix 1.</ref> The early and middle plays employ “teach” sixty-one and sixty-two times respectively. In the final third of his output, Shakespeare uses “teach” only twenty-eight times. The usage peaks in the years of the classicist debates and wanes in the early seventeenth century when the language debate turned in favour of Teutonic roots (Jones 214). Yet the frequent negative contexts of the word abate only marginally. Of fifteen early plays that mention teaching, eleven do so in a negative context; in the middle years the ratio is 13:9 and in the final years, 10:6. The most famous of these negative contexts are Macbeth’s “teaching bloody instructions” and Shylock’s “the villainy you teach me.” Shakespeare shows the positive side of language teaching in the naming of natural things and the service of good manners.
+
+<!--Paragraph 4-->
+An online search of Shakespeare’s plays unearths six actual teachers, only four of whom are solely schoolmasters: Doctor Pinch, a conjuring schoolmaster in ''A Comedy of Errors'' (1592-94); Holofernes, a schoolmaster in ''Love’s Labour’s Lost'' (1594-95); Sir Hugh Evans, a parson and school teacher in ''The Merry Wives of Windsor'' (1597); Artemidorus of Cnidos, a teacher of rhetoric in ''Julius Caesar'' (1599); and Gerrold, a schoolmaster in ''The Two Noble Kinsmen'' (1613). In addition, one cannot overlook the magician, Prospero, in ''The Tempest'' who qualifies as a “schoolmaster” by virtue of the fact that he describes himself as “thy schoolmaster” (I.ii.172) to Miranda, and admits to teaching both her and Caliban. He also uses the language of education, “ignorant” and “knowing” (I.ii.18), in deciding to further Miranda’s education.
+
+<!--Paragraph 5-->
+Curiously, all but two of these teachers play “bit parts,” an overt minimization of their importance. Gerrold, Dr. Pinch and Holofernes appear only near the end of their plays; like Dr. Pinch and Artemidorus, Gerrold has a cameo appearance in but one scene. Likewise Holofernes does not appear until ''Love’s Labour’s Lost'' is almost over, but he has more scenes. Artemidorus enters very briefly in Act II to pass a prophecy to Julius Caesar, and then his role is over. Sir Hugh Evans has a large role, for he is both a parson and a teacher, in essence combining the functions of Holofernes and Nathaniel.
+
+<!--Paragraph 6-->
+For the most part these teachers are caricatures or figures of fun. Only Evans (''Merry Wives'' IV.i.9-85) actually teaches in the way one customarily thinks of teachers doing. Both Gerrold and Holofernes are associated with festive displays. With the exception of Artemidorus, all the teachers are objects of mirth; in fact, four of the five appear in comedies. In three cases (Gerrold, Evans and Holofernes), the teachers are mocked because of the way they talk. Artemidorus, who is a mouthpiece for the gods, and the other teachers are reduced to mere mouths or “parrot-teacher[s]” (''Much Ado About Nothing'' I.i.138). Far from dealing with gods, Dr. Pinch has business with devils; his task is to exorcise Satan from Antipholus of Ephesus. Similarly, Holofernes has diabolical overtones, as will be shown later. Where one would expect wisdom from these learned figures, one paradoxically finds the opposite, for like fools they “babble in vain talk” (Thomas Thomas). In fact, Gerrold is told quite bluntly, “You are a fool” (III.v.79).
+
+<!--Paragraph 7-->
+The epitome of the foolish teacher is Holofernes. In 1594 Shakespeare coined the word “pedant” to describe him. The phrase “domineering pedant” is used for the first time in III.i.177 by Berowne. He borrowed from the Italian, “pedantaggine,” which Florio defines as “one that would fain seem wise and learned, and is but a fool and an ignorant self conceited gull.” All EMEDD definitions of the word, “pedant,” date after ''Love’s Labour’s Lost'' and in the ''OED'', ''Love’s Labour’s Lost'' is the first citation. Holofernes incorporates everything that marks a hypocrite or a false prophet, for he uses his learning and verbal skills to obfuscate and distort reality. Holofernes, “with his scraps of languages, his false etymologies, and his blunders over technical terms,” is an English version of the pedant, Doctor Graxiano, in the Commedia dell’Arte (David xxxvi). Or as Moth says, “They have been at a great feast of languages, and stol’n the scraps” (V.i.36-37). The gift of communication, which ought rather to lead to a greater sense of community with the rest of humankind, instead has become a vain, arrogant and egocentric pursuit.
+
+<!--Paragraph 8-->
+Back in 1913, D. C. Hart, the editor of the Arden edition of ''Love’s Labour’s Lost'', drew the attention of the critics to the contemporary echoes in this play. The inventive wit of Holofernes and the academics, he noted, recalls that of several of Shakespeare’s contemporaries. In spite of over sixty years of searching, the Arden editors admit they cannot solve the puzzle, but they suspect that it would illuminate Shakespeare’s own life and the conditions that shaped him if one could. Others have argued that Holofernes mimics actual educators like Richard Mulcaster, the head of Edmund Spenser’s ''alma mater''; Roger Ascham, the author of ''English Schoolmaister''; or John Florio, a teacher of Italian. Contemporary critics, however, no longer treat the play in this fashion. They dismiss the various theories as to which Wit Holofernes represents. For the purposes of this essay, however, it will be enough to note the conflict between those with book learning and those with life learning, as this is clearly an issue for Shakespeare.
+
+<!--Paragraph 9-->
+Far from caricaturing specific contemporaries of Shakespeare, Holofernes carries Shakespeare’s rebuttal to a much broader philosophical issue, prompting a reconsideration of the nature and purpose of learning. In the debate with the bookmen, Shakespeare seems to prefer common sense over imagination, the natural over the artificial, and the communal good over the egocentric and the divisive. He enters into the dialectic with his contemporaries choosing to show, not tell. Holofernes himself refers to the Italian satirist, Mantuan, who wrote a century before Spenser. His works were a school text through the Renaissance; all school boys knew him. The Mantuanesque strain is satiric, especially in ecclesiastical matters, where the good shepherd or good priest neglects his flock. The metaphor depicts false prophets who deceive and seduce one from the true path. The teacher in Shakespeare’s plays is certainly a wolf in sheep’s clothing.
+
+<!--Paragraph 10-->
+''Love’s Labour’s Lost'' (1594-5) parodies those men who are in love with hard words, with language itself—words that point only to other words and to feelings, images, concepts that can never be grasped by others. The title word “labour,” which means “a case or argument,” establishes at once Shakespeare’s intent to argue the case of Latinate language versus the vernacular.
+
+<!--Paragraph 11-->
+An analysis of Holofernes’ content words shows how heavily he relies on Latinate language.<ref>See Appendix 2 for charts of English content words from Holofernes’ speeches with hard words noted.</ref> Holofernes uses an extremely large percentage of hard words. In many ways he imitates the verbal actions of the Humanists. Like them he favoured Latin models and epigrams. Specifically, he employs a series of synonyms, frequently interjecting “or rather” as he rephrases his words. Yet, in spite of this plethora of language, Holofernes cannot correctly name the things in the world before him. For Coote and William Lyly, the word ''names'' a thing at a very basic level. However, in ''Love’s Labour’s Lost'', words no longer denote things. In many cases, they do not communicate in any real way. In several situations the perfectly adequate, and quite specific, local word is rejected for Latinate circumlocutions. One such is the naming of the deer. While Holofernes, who uses many synonymous terms to refer to it, does not actually succeed in naming it correctly; Dull, in spite of his name, goes right to the point, “’twas a pricket” (IV.ii.12).
+
+<!--Paragraph 12-->
+Holofernes describes his talent with words as “full of forms, figures, shapes, objects, ideas, apprehensions, motions, revolutions” (IV.ii.66-67) and as being “simple, simple.” But it is anything but simple; the unreal mental concepts he infers never become comprehensible or sensible in his inarticulation. In spite of his tendency to say everything twice, meaning never becomes clearer. Holofernes’ convoluted syntax and obtuse word usage serve to complicate meaning to the point of nonsense. The words are disassociated from the world; they point only to other words, to invisibility, to what cannot be shared. He marshals battalions of neologisms, never used again in Shakespeare: “unlearned,” “unpruned,” “undressed” and so on, to say what things are not; but he cannot say what things are. His first appearance in the play is in the role of observer as he watches the deer hunt. He is not a doer, underlining his lack of involvement with real life.
+
+<!--Paragraph 13-->
+Shakespeare disputes the classicists who, like Holofernes, proclaim from their ivory towers, divorced from the dynamics of the living language. Furthermore, Holofernes shares their view of orthography, preferring to have the written word lead the spoken; he wants words to be pronounced the way they are written: include the “b” in “debt,” the “l” in “calf,” the “-igh” of “neighbour.” Unlike the Humanists, Shakespeare and Mulcaster proceed from language as it is used, “for the understanding of writers . . . cums by years and ripenesse of wit, not by rule of grammer” (Mulcaster 228).
+
+<!--Paragraph 14-->
+That grammar is not an end in itself is apparent in the writings on teaching that date from Shakespeare’s time. T. W. Baldwin, in an introductory volume to his larger work, ''William Shakspere’s Small Latine and Lesse Greeke'', writes: “The first objective of literacy had traditionally been a mastery of the minimum religious materials requisite for the soul’s health” (34). Continuing this initiative, Edward VI in 1553 desired that the foundations “both of religion and good letters” should be laid, so that the young learners might acquire “godliness together with wisdom,” and to this end he ordained that teachers “truly and diligently teach this Catechism in your schools” (75). Consequently, teachers were required to be models of good conduct. Under Elizabeth I, the system reached completion with Nowell’s catechism in 1570 (85-6), just in time for six-year-old Shakespeare’s entry into the education system. So Shakespeare knew that the purpose of education was, first and foremost, to serve the Word of God, to have “sweet manners” and “virtuous custom,” to provide “good companions” to their charges, promoting virtuous behaviour and warning of “the dangers of vice.”<ref>Plimpton quotes Sir Thomas Elyot (7).</ref> It is not unreasonable, then, to suppose that his school teachers would operate from the basis of these principles. Yet they do not.
+
+<!--Paragraph 15-->
+On the contrary, Holofernes’ very name conjures up diabolical images in its infernal suffix. When he chose to name his teacher after a character in Rabelais’ ''Gargantua'' (Hart xl), Shakespeare must have been aware that gluttony, Gargantua’s chief claim to fame, was one of the seven mortal sins. Holofernes is not a glutton in the literal sense, but primarily what he has in common with his namesake is the “great throat”<ref>Cf. Cotgrave’s “Gargantuan: Great Throat” (EMEDD).</ref> from which he spews his self-important truths. He overuses words, abusing their sense beyond any capacity to nourish the mind, growing bloated with incommunicable nonsense. Thus by a kind of nominal shorthand, Shakespeare indicates that this figure is associated with vice, in contradiction to the saintly role models for teachers depicted in the works of the pedagogues. After all, what is the point of speech if not to communicate with other human beings?<ref>Teague presents a compelling argument for the comedy as social discourse.</ref>
+
+<!--Paragraph 16-->
+This monstrous portrayal of the teacher has an interesting etymological link. The word “monster” shares its meaning with the word “teacher.” In the context of Shakespeare’s time, “teacher” meant “pointer” or “signer of meaning.” Cotgrave specifically links teachers with pointers or signers, first by defining “enseigneur” as not only a “teacher,” but “also, the first finger, pointing finger.” This meaning persists in the ''OED'' definition of “teacher” as “that which shows or points out.” Like the word “teacher,” “monster” is also defined as “token,” a sign of something from its Latin root meaning “to show.” The way to truth, however, is not through ostentation and vainglory.
+
+<!--Paragraph 17-->
+Shakespeare brings himself very much under scrutiny, when he has Holofernes “devise a play.” It is through this play that Holofernes learns humility. When the fancies of the brain are made manifest, they are seen for the foolishness they are. Rather than “training the intellect” (I.i.) against “vain delights,” intellect itself has fallen in love with itself and become vain. As Holofernes stumbles away through the gathering darkness, he says, “This is not generous, gentle, not humble” (V.ii.629), a commentary as much upon his inglorious demise as it is upon those who exalt in it. Whereas it is often the fool who is the wise man, in Holofernes’ case the converse is true; the wise man is the fool. And, as the Princess remarks, “None are so surely caught, when they are catch’d, /As wit turn’d fool” (V.ii.69-70). Margaret continues, “Folly in fools bears not so strong a note /As fool’ry in the wise, when wit doth dote” (V.ii.75-76). The puffed-up wits are well and truly deflated.
+
+<!--Paragraph 18-->
+Likewise, Shakespeare deflates himself. When he has Holofernes say, “And why indeed ‘Naso,’ but for smelling out the odoriferous flowers of fancy, the jerks of invention” (125), Shakespeare is mocking his own creation. The sonnet in this play talks of “dense wit . . . write pen . . . whole volumes in folio,” which sounds like Shakespeare himself. Thomas includes the word “invention” in his definition of wisdom. So wisdom has something of the “fancy, invention, cunning” as well. “Jerk” applies a counter force to invention as hinted at in Hart’s definition:
+
+<blockquote>
+“jerks of invention,” “strokes or sallies of wit”—a very proper figure for a schoolmaster’s use, since “jerking” was equivalent to whipping. In Greene’s ''Never Too Late'' 1590 (Grosart viii.193), there is a good example: “if they have childrens malladies, twere good to use childrens medicines, and that’s a rod: for be they never so froward, a jerck or two will make them forward” (82).<ref>I wish to acknowledge with gratitude the assistance of the Victoria College Library, University of Toronto, in accessing this text through their Reformation and Renaissance collection.</ref>
+</blockquote>
+
+Shakespeare applies a salutary “jerk” to the reins of his imagination. He uses the word only once, in ''Love’s Labour’s Lost''.
+
+<!--Paragraph 19-->
+A decade and a half later, Shakespeare employs a teacher with a very different aura but with much the same response as Holofernes. The magician, Prospero, is the self-confessed teacher of Caliban. Prospero speaks in harder words than his pupil, but he does not use as many hard words as Holofernes. A comparison of the speeches of Holofernes and Prospero in their opening scenes is very telling.<ref>See Appendix 4.</ref> Prospero’s scene is considerably longer than Holofernes’: ''Love’s Labour’s Lost'' IV.ii is 166 lines long, while ''The Tempest'' I.ii is over 500 lines in length. Within these scenes Prospero has three times as many lines as Holofernes. In an attempt to level out the comparison, only the first 92 lines of Prospero’s are analysed against the same number of lines for Holofernes. Contrary to expectations, Holofernes actually uses twice the number of content words as Prospero does, demonstrating his verbosity beyond a doubt. Within this plethora of words are repetitions, restatements or circumlocutions: eight times he rephrases using “or,” and three times he prevaricates with “as it were.”<ref>Italics are foreign phrases; bold type denotes repetitions; bold italics are negatives.</ref> Then there are the redundancies such as “most infallibly.” A remarkable twenty-two times he uses negatives to state his positives. The most round about is “say not nay.”
+
+<!--Paragraph 20-->
+Although proper names have been deleted from the lists, it is interesting to note how often Holofernes alludes to the pronouncements of antiquity. He invokes Mantuan, Horace, Ovidius Naso and Adam. This practice is characteristic of the Humanists. In his rebuttal against them, Richard Mulcaster singles out their tendency simply to rephrase their predecessors rather than thinking through their material themselves. He advises against citing authors because of their “title and authority” (Oliphant 9), rather than considering “the real value of the argument.”
+
+<!--Paragraph 21-->
+Unlike Holofernes, Prospero does not use any openly foreign words, but he does employ a large percentage of words with foreign derivations that have been absorbed into English. He is clearly at a more evolved stage of language use. Like Holofernes, he has a tendency to repeat himself: he echoes “no harm . . . no harm” (l.15); both, “twelve year since . . . twelve year since” (l. 53) and “both, both my girl” (l. 61). One suspects Prospero does so to entrance and not out of intellectual affectation. Like Holofernes, he uses superlatives liberally. Foster records that such a practice is a feature of the speech of the University Wits. What is more, double superlatives, as in “more better” (I.ii.19), are especially evident in the later plays. That an early play like ''Love’s Labour’s Lost'' uses “most” as often as it does serves to “lampoon” even further “the language of the academe” which is “heavily peppered with superlatives, following the influence of classical models” (109). As Foster says, “But if Shakespeare in ''Love’s Labour’s Lost'' pokes fun at the ‘most vain’ learning, ‘most fine’ figures, ‘most maculate’ thoughts, ‘most singular’ epithets, ‘most serious’ designs (etc.) of academics, he came nevertheless, over a period of years, to adopt the same mannerism without benefit of having attended university” (109). By 1610 his use of “most” was higher than that of most Oxford wits (109).
+
+<!--Paragraph 22-->
+Yet there is no hint of mockery in Shakespeare’s treatment of Prospero. Both of the labels for Prospero’s roles, “sorcerer” and “magician,” are hard words. “Teacher” is not a hard word, but “magician” is. The EMEDD shows that the earliest meaning of “magic” has a connection to knowledge and wisdom, through the root word of “magus.”<ref>Bullokar says of magic: “at first this word signified great learning or knowledge in the nature of things; now it is most commonly taken for inchantment and sorcery.”</ref> Sorcery, to believe Elyot in 1538, was not a positive practice: “socerere: a maker of poison.” That the practice has come some way from its roots is evident from its description as a “liberal art.” Miranda signals by her first words that it is her father’s “art” (I.ii.1) that has caused the tempest.
+
+<!--Paragraph 23-->
+Some of the tricks of Prospero’s trade include his staff and his cloak. His mantle is a visual metaphor for his use of language; there is more to wisdom and goodness than “wearing” foreign words. The cloak is a visible sign of language as unnatural, as we see from Jones’ description of learning as a mantle: “In the eyes of the classicists, propriety demanded that learning be wrapped in an erudite mantle, but Florio holds that it is more fitting for the learned to unwrap knowledge, since if the best is good for some, it should be good for all” (Jones 53).
+
+<!--Paragraph 24-->
+At the moment when Prospero says that it is time that he “should inform” (I.ii.23) Miranda, he takes off his mantle, his “magic garment” (I.ii.24), which he also calls “his art” (I.ii.25). This action is important in signalling that his magic is imposed from without; he can put it on and take it off as one does with an article of clothing. It does not come from within. That Prospero will not wear his cloak when he is about to teach Miranda signals that he is going to talk more honestly and naturally. But a comparison of his words before and after the mantle is doffed would seem to indicate that he continues to talk in hard words.<ref>See Appendix 3 for a comparison of Prospero’s words with mantle versus his words without mantle.</ref> Judging solely by the occurrence of words in Cawdrey, there is no appreciable difference in Prospero’s use of hard words before and after he doffs the mantle. However, an analysis of the occurrence of Latinate versus Old English origins of the words, using the ''Oxford English Dictionary'', yields the opposite of what one would expect. Without his mantle, Prospero uses twice as many words of Latin origin than he does of Old English or Germanic origin. (For the purposes of the count, Middle English with Old French connections is counted as Latinate.) As he continues to speak of Miranda’s origins, he uses simpler and simpler vocabulary. Of forty-two words in his speech at lines 36-41, he uses only six words of more than one syllable: “minute,” “obey,” “attentive,” “remember,” “before,” “unto”—and only four of these are content words. He is indeed becoming more natural as he teaches her. He continues in this fashion until his speech at line 65 when he chooses another hard word, “perfidious,” to describe his brother. A neologism, “signories,” has a distinctly Latin air. The hard words pick up now with “reputed,” “dignity,” “parallel,” and “transported.” One detects a tone of spleen as Prospero recounts how he was wronged, and in his anger he lapses more into the artificial language. He puts his robe back on at I.ii.170 and, wearing it, declares himself “Here in this island . . . thy schoolmaster” (I.ii.171-72).
+
+<!--Paragraph 25-->
+At the end of the play, Prospero resolves to break his staff as evidence of his reformation. By “neglecting worldly ends, all dedicated/To closeness and the bettering of my mind” (I.ii.89-93), Prospero has mimicked the very actions of the academes, with the same sad results. The academes too put away their books and ask the women to teach them how to relate to others. The women have known all along how to accommodate speech to facts and to emotional realities, as opposed to using it as a means of evasion, idle amusement, unthinking cruelty. Miranda asserts early on that she is not hungry for knowledge: “more to know / Did never meddle with my thoughts” ( I.ii.21-22).
+
+<!--Paragraph 26-->
+Whereas the teacher was the monster in ''Love’s Labour’s Lost'', as we have seen, in ''The Tempest'' it is the victim of the language teaching process who is the monster. Frequently in Shakespeare’s works “monster” personifies a vice such as jealousy, ingratitude, ignorance.<ref>It occurs in the context of “ignorance” in ''Love’s Labour’s Lost'', “O monster ignorance.”</ref> The actual word is said by Holofernes, but it takes centre stage in ''The Tempest'', where it invariably refers to Caliban. Caliban never uses the word, but his play has forty-six references to it, far more than any other of Shakespeare’s plays. Although at opposite ends of the learning continuum, both are monstrous in their own way.
+
+<!--Paragraph 27-->
+The monster, Caliban, is described as “savage,” a hard word in Coote’s list meaning “wild”; the word “barbarous” is used by Holofernes. “Barbarous,” like “strange,” has overtones of “foreign.” The word lists in TACT databases of the electronic New Oxford Shakespeare show the later plays (1605-13) use the word “strange” 117 times, almost twice as often as the early plays (1597-1604), which use it 71 times. Shakespeare seems to have been becoming more assertive on the subject of his mother tongue as he grew older.
+
+<!--Paragraph 28-->
+The issue of foreignness and monstrosity comes down to language. Jones makes it clear that barbarous language was in fact English: “That the English language ''per se'' was considered uneloquent may be easily deduced from the adjectives most frequently used to describe it: rude, gross, barbarous, base, vile” (7). He continues that the first three of these adjectives “are practically inter-changeable, and their most frequent meaning is ‘uneloquent’” (7). He supports his definitions with reference to Thomas Thomas, who defines “barbare” as “barbarously, unmannerly, grossly, rudely, strangely, without eloquence” (7). Jones includes Thomas Cooper’s revelation that barbarians, at one time, were any people other than the Greeks because the former did not speak as eloquently as the latter.
+
+<!--Paragraph 29-->
+Prospero, like Holofernes, overcomes his hubris when he admits in the epilogue that what strength he has is all his own for he has forsaken artifice. He admits he is weak and wants to leave the island. He begs the audience’s permission to go back where he came from. Many critics have taken this farewell performance by Prospero as an alter ego for Shakespeare himself, beaten by the shame of some unnamed scandal, who is retiring. What remains at the end of a career of experimentation and promotion of the English language is a decision that there is an honesty in the vernacular of which English speakers can be proud.
+
+<!--Paragraph 30-->
+The spite of his more learned colleagues and the extreme lengths to which many linguists were prepared to go must have made our poet seriously consider the value of book learning ''per se''. How ironic that four hundred and fifty years later we can know Shakespeare as well as we do largely through book learning. He behaved more as “a practical man of the theatre . . . than that of a man with deeply felt literary pretensions” (Evans 28). Shakespeare’s preferred mode of expression was decidedly oral, by dramatic play, song, or sonnet. Let us not forget that Shakespeare writes voices for characters and these characters are found from real people in the real world. His characters speak with the variety of language usage found in England during the sixteenth century because they imitate what Shakespeare sees in the real world. To find out what he thinks about these variable voices, one must look beneath the surface of the words. It is, after all, his characters, his inventions, who speak as he proposes.
+
+<!--Paragraph 31-->
+Let me hasten to add that Shakespeare does not totally denigrate educators; rather he will invite us to reconsider the blind faith we place in them. Great as he became through his dramas, he never lost the common touch. After all, Florio “boldly states that if more honour is paid to one using the learned languages than to one employing English, the reason is that the former is not understood. Moreover, one should write not for his own honour but for the benefit of others” (Jones 53). In the final argument, it is not necessary to be all or nothing. Shakespeare himself writes in hard words, but he avoids the same criticism levelled at his false teachers. It is immediately apparent that Shakespeare’s tone and meaning have nothing in common with Holofernes; he patently does not use words for words’ sake. Furthermore, he pokes fun at himself with his preposterous hard words.<ref>Costard’s “honorificabilitudinitatibus” comes immediately to mind.</ref> Although ''Love’s Labour’s Lost'' is often dismissed as parochial and outdated, in it Shakespeare is in fact demonstrating in a visible and tangible way the arguments of his generation as they apply to language education. What he mocked in ''Love’s Labour’s Lost'' is no more accepted in ''The Tempest''. As Henry VIII observes in the play of the same name, even those with gifts to “furnish and instruct great teachers” (V.ii.113) can create monstrosities if they do not handle their learning with wisdom and humility:
+
+<blockquote>
+<poem>
+When these so noble benefits shall prove
+Not well dispos'd, the mind growing once corrupt,
+They turn to vicious forms, ten times more ugly
+Than ever they were fair (I.ii.111-118). 
+</poem>
+</blockquote>
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Baldwin, T.W. ''William Shakspere’s Petty School''. Urbana: U of Illinois P, 1943.
+*—. ''William Shakspere’s Small Latine and Lesse Greeke''. Urbana: U of Illinois P, 1944.
+*Barnard, Henry, ed. ''Education, The School, and the Teacher in English Literature''. Philadelphia: Lippincott, 1862. 23-76.
+*Bullokar, John. ''An English Expositor.'' London: John Legatt, 1616.
+*Cawdrey, Robert. ''A Table Alphabeticall of Hard Usual English Words (1604)''. Robert A. Peters intro. Gainesville, Florida: Scholars’ Facsimiles & Reprints, 1966.
+*Coote, Edmond. ''The English Schoolmaster, 1596''. Menston: Scolar P, 1968.
+*David, Richard, ed. ''Love’s Labour’s Lost''. Arden Edition. London: Methuen, 1951.
+*Dover Wilson, John, ed. ''Love’s Labour’s Lost''. Cambridge: Cambridge UP, 1962.
+*Elyot, Thomas. ''The Dictionary of syr Thomas Eliot''. [London:] T. Berthelet, 1538.
+*Evans, G. Blakemore, ed., et al. ''The Riverside Shakespeare''. Boston: Houghton, 1974.
+*Florio, John. ''A worlde of wordes, or most copious, dictionarie in Italian and English''. [London:] A. Hatfield for E. Blount, 1598. [STC 11099.]
+*Foster, Donald W. ''Elegy by W.S.: A Study in Attribution''. Newark: U of Delaware P, 1989.
+*Gilbert, Miriam. ''Love’s Labour’s Lost: Shakespeare in Performance''. Manchester: Manchester UP, 1993.
+*Grosart, Alexander B. ''The Life and Complete Works in Verse and Prose of Robert Greene. 1590''. Vol. VIII. New York: Russell and Russell, 1881-86 [repr. 1964].
+*Hart, H.C. ''Love’s Labour’s Lost''. The Arden Edition. London: Methuen, 1903.
+*Jones, Richard Foster. ''The Triumph of the English Language: A Survey of Opinions Concerning the Vernacular from the Introduction of Printing to the Restoration''. Stanford: Stanford UP, 1953.
+*Kerrigan, John, ed. ''Love’s Labour’s Lost''. Harmondsworth: Penguin, 1982.
+*Lancashire, Ian, ed. ''Early Modern English Dictionary Database''. Online. Sept. 1995–April 1996. [http://www.chass.utoronto.ca/english/emed/emedd.html]
+*Lily, William and John Colet. ''A Short Introduction of Grammar 1549''. Menston: Scolar P, 1970.
+*''Love’s Labour’s Lost: A Concordance to the Text of the First Quarto of 1598''. Oxford: Clarendon P, 1970.
+*Mulcaster, Richard. ''The First Part of the Elementary 1582''. Ed. R.C. Alston. Menston: Scolar P, 1970.
+*Oliphant, James. ''The Educational Writings of Richard Mulcaster (1532-1611)''. Glasgow: James Maclehose and Sons, 1903.
+*Onions, C.T. ''A Shakespeare Glossary''. Oxford: Clarendon P, 1911.
+*''Oxford English Dictionary''. Online. Sept. 1995–Apr. 1996.
+*Plimpton, George A. ''The Education of Shakespeare: Illustrated from the Schoolbooks in Use in his Time''. London: Oxford UP, 1933.
+*Sams, Eric. ''The Real Shakespeare: Retrieving the Early Years, 1564-1594''. New Haven: Yale UP, 1995.
+*Schoenbaum, S. ''William Shakespeare: A Compact Documentary Life''. Oxford: Clarendon P, 1977.
+*Shakespeare, William. ''The Complete Works. Electronic Edition for the IBM PC.'' Ed. Stanley Wells and Gary Taylor. Oxford: Oxford UP, 1989. [TACT textbases created by I. Lancashire. April 1996.]
+*Teague, Frances, ed. ''Acting Funny; Comic Theory and Practice in Shakespeare’s Plays''. London and Toronto: Associated UP, 1994.
+*Thomas, Thomas. ''Dictionarium Linguae Latinae et Anglicanae''. Canterbury: R. Boyle, 1587.
+
+==Appendixes==
+{| class="wikitable collapsible" style="width:75%"
+! style="color:#000000;" colspan="6" | Appendix 1: Distribution of "teach*" in Shakespeare's Works
+|-
+! DATE
+! PLAY
+! # OCCURRENCES
+! RE LANGUAGE
+! NEGATIVE CONTEXT
+! LESSON
+|-
+| 1589-90
+| 1 Henry VI
+| 2
+|
+| *
+| malice
+|-
+| 1590-91
+| 2 Henry VI
+| 1
+|
+|
+|
+|-
+| 1590-91
+| 3 Henry VI
+| -
+|
+| -
+|
+|-
+| 1592-93
+| Richard III
+| 6
+| teach me how to curse
+| *
+| scorn, flatter, curse, sin
+|-
+| 1592-93
+| Venus /Adonis
+| 5
+| the fool to speak
+| *
+| decrepit age to tread the measures
+|-
+| 1592-94
+| Comedy/Errors
+| 3
+| teach me how to think and speak
+|
+|
+|-
+| 1593-99
+| Sonnets
+| 4
+|
+| *
+| teachest how to make me twain
+|-
+| 1593-94
+| Rape of Lucrece
+| 4
+|
+| *
+| to sin, curse
+|-
+| 1593-94
+| Titus Andronicus
+| 5
+|
+| *
+| to lay violent hands
+|-
+| 1593-94
+| Taming of Shrew
+| 7
+|
+| *
+| that teacheth tricks
+|-
+| 1594
+| 2 Gents. /Ver.
+| 2
+|
+| *
+| thus I would teach a dog
+|-
+| 1594-95
+| Love's Labor's Lost
+| 6
+| teaches boys the hornbook; accent did they teach
+| *
+| to teach a teacher ill beseemeth me
+|-
+| 1594-95
+| Sir Thomas More
+| -
+|
+|
+|
+|-
+| 1594-96
+| King John
+| 7
+|
+| *
+| sorrow, kill or hang myself, shame
+|-
+| 1595
+| Richard II
+| 6
+| thy tongue to teach
+| *
+| stern murder
+|-
+| 1595-96
+| Romeo and Juliet
+| 1
+|
+|
+|
+|-
+| 1595-96
+| Mid. Night's Dream
+| 3
+|
+|
+|
+|-
+|
+|
+| 62
+| 5
+| 11
+|
+|-
+| 1596-97
+| Merchant/Venice
+| 11
+| I thank thee Jew for teaching me that word
+| *
+| villainy
+|-
+| 1596-97
+| 1 Henry IV
+| 6
+| teach...by telling truth
+| *
+| malevolent; cruelty; to command the devil
+|-
+| 1597
+| Merry Wives
+| 5
+| teach him to hick and hack
+| *
+| scurvy jack-a-napes; ill...words
+|-
+| 1598
+| 2 Henry IV
+| 2
+|
+| *
+| to addict themselves to sack
+|-
+| 1598-99
+| Much Ado
+| 5
+| parrot-teacher
+| *
+| parrot-teacher
+|-
+| 1599
+| Henry V
+| 11
+| teach you...English
+| *
+| how to war
+|-
+| 1599
+| Julius Cæsar
+| 2
+| a teacher of rhetoric
+| *
+| to fight
+|-
+| 1599
+| As You Like It
+| 3
+| teaching all that read to know
+|
+|
+|-
+| 1600-01
+| Hamlet
+| 5
+|
+| *
+| to drink deep
+|-
+| c. 1601
+| Phoenix/Turtle
+| -
+|
+| -
+|
+|-
+| 1601-02
+| Twelfth Night
+| 1
+|
+|
+|
+|-
+| 1601-02
+| Troilus/Cressida
+| 1
+|
+|
+|
+|-
+| 1602-03
+| All's Well
+| -
+|
+| -
+|
+|-
+| 1604
+| Measure/Measure
+| 2
+|
+|
+|
+|-
+| 1604
+| Othello
+| 7
+| teach him how to tell my story
+| *
+| tyranny
+|-
+|
+|
+| 61
+| 8
+| 9
+|
+|-
+| 1605
+| King Lear
+| 6
+| Fool: I'll teach thee a speech
+| *
+| teach thy fool to lie
+|-
+| 1606
+| Macbeth
+| 2
+|
+| *
+| bloody instructions
+|-
+| 1606-07
+| Antony/Cleopatra
+| 3
+|
+| *
+| thy rage
+|-
+| 1607-08
+| Coriolanus
+| 2
+|
+| *
+| a most inherent baseness
+|-
+| 1607-08
+| Timon of Athens
+| 1
+|
+|
+|
+|-
+| 1607-08
+| Pericles
+| 6
+| to use one language in each several clime
+|
+|
+|-
+| 1609-10
+| Cymbeline
+| 1
+|
+| *
+| false teachers
+|-
+| 1610-11
+| Winter's Tale
+| 1
+|
+|
+|
+|-
+| 1611
+| Tempest
+| 2
+| teach me how to name the bigger light
+|
+|
+|-
+| 1612-13
+| Henry VIII
+| 4
+|
+| *
+| new opinions divers and dangerous
+|-
+| 1612-13
+| Cardenio
+| -
+|
+| -
+|
+|-
+| 1613
+| 2 Noble Kinsmen
+| -
+|
+| -
+|
+|-
+|
+|
+| 28
+| 3
+| 6
+|
+|}
+
+{| class="wikitable collapsible" style="width:75%"
+! style="color:#000000;" colspan="6" | Appendix 2: Holofernes' First Scene
+|-
+! align="left" | WORD
+! align="left" | LOCATION
+! align="left" | EMEDD MEANING
+! align="left" | COOTE
+|-
+| deer
+| IV.ii.3
+|
+|
+|-
+| know
+| IV.ii.3
+|
+|
+|-
+| sanguis
+| IV.ii.3
+|
+| Latin
+|-
+| blood
+| IV.ii.4
+|
+| bloud: no definition
+|-
+| ripe
+| IV.ii.4
+|
+|
+|-
+| pomewater
+| IV.ii.4
+|
+|
+|-
+| now
+| IV.ii.4
+|
+|
+|-
+| hangeth
+| IV.ii.4
+|
+|
+|-
+| jewel
+| IV.ii.5
+|
+|
+|-
+| ear
+| IV.ii.5
+|
+|
+|-
+| caelo
+| IV.ii.5
+|
+| Latin
+|-
+| sky
+| IV.ii.5
+|
+|
+|-
+| welkin
+| IV.ii.5
+| Florio: heaven, sky, roof
+|
+|-
+| heaven
+| IV.ii.6
+|
+|
+|-
+| anon
+| IV.ii.6
+|
+|
+|-
+| falleth
+| IV.ii.6
+|
+|
+|-
+| crab
+| IV.ii.6
+|
+|
+|-
+| face
+| IV.ii.6
+|
+|
+|-
+| terra
+| IV.ii.7
+|
+| Latin
+|-
+| soil
+| IV.ii.7
+| filth and ground
+|
+|-
+| land
+| IV.ii.7
+|
+|
+|-
+| earth
+| IV.ii.7
+|
+|
+|-
+| haud
+| IV.ii.7
+|
+| Latin
+|-
+| credo
+| IV.ii.7
+|
+| creede: the belief
+|-
+| most barbarous
+| IV.ii.13
+| without eloquence; ignorant;
+| barbarisme: barbarousnes
+|-
+|
+|
+| of a strange country
+|
+|-
+| intimation
+| IV.ii.13
+|
+|
+|-
+| kind
+| IV.ii.14
+|
+|
+|-
+| insinuation
+| IV.ii.14
+|
+| insinuate: creepe in
+|-
+| as it were
+| IV.ii.14
+|
+|
+|-
+| in via
+| IV.ii.14
+|
+| Latin
+|-
+| in way
+| IV.ii.14
+|
+|
+|-
+| explication
+| IV.ii.14
+|
+| explicate: declare
+|-
+| facere
+| IV.ii.15
+|
+| Latin
+|-
+| as it were
+| IV.ii.15
+|
+|
+|-
+| replication
+| IV.ii.15
+|
+|
+|-
+| or rather
+| IV.ii.15
+|
+|
+|-
+| ostentare
+| IV.ii.15
+|
+| Latin
+|-
+| show
+| IV.ii.16
+|
+|
+|-
+| as it were
+| IV.ii.16
+|
+|
+|-
+| inclination
+| IV.ii.16
+|
+| incline: lean unto
+|-
+| undressed
+| IV.ii.16-17
+| no matches
+|
+|-
+| unpolished
+| IV.ii.17
+| no matches
+| polish: deck
+|-
+| uneducated
+| IV.ii.17
+| no matches
+| education: bringing up
+|-
+| unpruned
+| IV.ii.17
+| no matches
+|
+|-
+| untrained
+| IV.ii.17
+| no matches
+|
+|-
+| or rather
+| IV.ii.18
+|
+|
+|-
+| unlettered
+| IV.ii.18
+| no matches
+|
+|-
+| or ratherest
+| IV.ii.18
+|
+|
+|-
+| unconfirmed
+| IV.ii.18
+| no matches
+|
+|-
+| fashion
+| IV.ii.18
+|
+|
+|-
+| insert again
+| IV.ii.19
+|
+|
+|-
+| haud
+| IV.ii.19
+|
+| Latin
+|-
+| credo
+| IV.ii.19
+|
+| Latin
+|-
+| deer
+| IV.ii.19
+|
+|
+|-
+| twice
+| IV.ii.22
+|
+|
+|-
+| sod
+| IV.ii.22
+|
+|
+|-
+| simplicity
+| IV.ii.22
+|
+|
+|-
+| bis coctus
+| IV.ii.22
+|
+| Latin
+|-
+| monster
+| IV.ii.23
+| a marvellous sign, a token,
+| deformed: ill shapen
+|-
+|
+|
+| a showing, 'montrer' Elyot:
+|
+|-
+|
+|
+| also a beast like an ape...monkey;
+|
+|-
+|
+|
+| minotaur: half beast, half man
+|
+|-
+| Ignorance
+| IV.ii.23
+|
+|
+|-
+| deformed
+| IV.ii.23
+|
+|
+|-
+| look
+| IV.ii.23
+|
+|
+|-
+| goodman
+| IV.ii.36
+|
+|
+|-
+| goodman
+| IV.ii.36
+|
+|
+|-
+| moon
+| IV.ii.39
+|
+|
+|-
+| month
+| IV.ii.39
+|
+|
+|-
+| old
+| IV.ii.39
+|
+|
+|-
+| no more
+| IV.ii.39
+|
+|
+|-
+| raught not
+| IV.ii.40
+|
+|
+|-
+| five
+| IV.ii.40
+|
+|
+|-
+| weeks
+| IV.ii.40
+|
+|
+|-
+| came
+| IV.ii.40
+|
+|
+|-
+| five-score
+| IV.ii.40
+|
+|
+|-
+| allusion
+| IV.ii.41
+|
+| allusion: pointing to
+|-
+| holds
+| IV.ii.41
+|
+|
+|-
+| exchange
+| IV.ii.41
+|
+|
+|-
+| god
+| IV.ii.45
+|
+|
+|-
+| comfort
+| IV.ii.45
+|
+|
+|-
+| capacity
+| IV.ii.45
+|
+|
+|-
+| allusion
+| IV.ii.45
+|
+|
+|-
+| holds
+| IV.ii.45
+|
+|
+|-
+| exchange
+| IV.ii.45
+|
+|
+|-
+| extemporal
+| IV.ii.50
+|
+| extemporall: sodaine
+|-
+| epitaph
+| IV.ii.51
+|
+| epitaph: writing on a tombe
+|-
+| death
+| IV.ii.51
+|
+|
+|-
+| deer
+| IV.ii.51
+|
+|
+|-
+| humor
+| IV.ii.51
+|
+|
+|-
+| ignorant
+| IV.ii.52
+| without knowledge; rude in doing
+|
+|-
+|
+|
+| and speaking, barbarous
+|
+|-
+| deer
+| IV.ii.52
+|
+|
+|-
+| Princess
+| IV.ii.52
+|
+|
+|-
+| kill'd
+| IV.ii.52
+|
+|
+|-
+| pricket
+| IV.ii.52
+|
+|
+|-
+| affect
+| IV.ii.55
+|
+|
+|-
+| something
+| IV.ii.55
+|
+|
+|-
+| letter
+| IV.ii.55
+|
+|
+|-
+| argues
+| IV.ii.55
+|
+| argue: to reason
+|-
+| facility
+| IV.ii.55
+|
+|
+|-
+| preyful
+| IV.ii.56
+|
+|
+|-
+| Princess
+| IV.ii.56
+|
+|
+|-
+| pierc'd
+| IV.ii.56
+|
+|
+|-
+| prick'd
+| IV.ii.56
+|
+|
+|-
+| pretty
+| IV.ii.56
+|
+|
+|-
+| pleasing
+| IV.ii.56
+|
+|
+|-
+| pricket
+| IV.ii.56
+|
+|
+|-
+| sore
+| IV.ii.57
+|
+|
+|-
+| not sore
+| IV.ii.57
+|
+|
+|-
+| sore
+| IV.ii.57
+|
+|
+|-
+| shooting
+| IV.ii.57
+|
+|
+|-
+| dogs
+| IV.ii.58
+|
+|
+|-
+| yell
+| IV.ii.58
+|
+|
+|-
+| sore
+| IV.ii.58
+|
+|
+|-
+| sorel
+| IV.ii.58
+|
+|
+|-
+| jumps
+| IV.ii.58
+|
+|
+|-
+| thicket
+| IV.ii.58
+|
+|
+|-
+| or
+| IV.ii.59
+|
+|
+|-
+| pricket
+| IV.ii.59
+|
+|
+|-
+| sore
+| IV.ii.59
+|
+|
+|-
+| or else
+| IV.ii.59
+|
+|
+|-
+| sorel
+| IV.ii.59
+|
+|
+|-
+| people
+| IV.ii.59
+|
+|
+|-
+| fall
+| IV.ii.59
+|
+|
+|-
+| a-hooting
+| IV.ii.59
+|
+|
+|-
+| sore
+| IV.ii.60
+|
+|
+|-
+| sore
+| IV.ii.60
+|
+|
+|-
+| sore
+| IV.ii.60
+|
+|
+|-
+| fifty
+| IV.ii.60
+|
+|
+|-
+| sores
+| IV.ii.60
+|
+|
+|-
+| sorel
+| IV.ii.60
+|
+|
+|-
+| sore
+| IV.ii.61
+|
+|
+|-
+| hundred
+| IV.ii.61
+|
+|
+|-
+| adding
+| IV.ii.61
+|
+|
+|-
+| gift
+| IV.ii.65
+|
+|
+|-
+| simple
+| IV.ii.65
+| plain; ignorant; medicinal herb
+|
+|-
+| simple
+| IV.ii.65
+|
+|
+|-
+| foolish
+| IV.ii.66
+|
+|
+|-
+| extravagant
+| IV.ii.66
+|
+|
+|-
+| spirit
+| IV.ii.66
+|
+|
+|-
+| full
+| IV.ii.66
+|
+|
+|-
+| forms
+| IV.ii.66
+|
+|
+|-
+| figures
+| IV.ii.66
+|
+|
+|-
+| shapes
+| IV.ii.67
+|
+|
+|-
+| objects
+| IV.ii.67
+|
+|
+|-
+| ideas
+| IV.ii.67
+|
+|
+|-
+| apprehensions
+| IV.ii.67
+|
+| *
+|-
+| motions
+| IV.ii.67
+|
+|
+|-
+| revolutions
+| IV.ii.67-8
+|
+|
+|-
+| begot
+| IV.ii.68
+|
+|
+|-
+| ventricle
+| IV.ii.68
+|
+|
+|-
+| memory
+| IV.ii.68
+|
+|
+|-
+| nourish'd
+| IV.ii.69
+|
+|
+|-
+| womb
+| IV.ii.69
+|
+|
+|-
+| pia mater
+| IV.ii.69
+|
+| Latin
+|-
+| delivered
+| IV.ii.69
+|
+|
+|-
+| mellowing
+| IV.ii.70
+|
+|
+|-
+| occasion
+| IV.ii.70
+|
+|
+|-
+| gift
+| IV.ii.70
+|
+|
+|-
+| good
+| IV.ii.71
+|
+|
+|-
+| acute
+| IV.ii.71
+|
+| acute: wittie
+|-
+| thankful
+| IV.ii.71
+|
+|
+|-
+| sons
+| IV.ii.78
+|
+|
+|-
+| ingenious
+| IV.ii.78
+|
+|
+|-
+| want
+| IV.ii.79
+|
+|
+|-
+| no instruction
+| IV.ii.79
+|
+|
+|-
+| daughters
+| IV.ii.79
+|
+|
+|-
+| capable
+| IV.ii.79
+|
+|
+|-
+| vir [sapit] qui pauca loquitur
+| IV.ii.80
+|
+| Latin
+|-
+| soul
+| IV.ii.81
+|
+|
+|-
+| feminine
+| IV.ii.81
+|
+| feminine: the she
+|-
+| saluteth
+| IV.ii.81
+|
+|
+|-
+| Master
+| IV.ii.83
+|
+|
+|-
+| Person
+| IV.ii.83
+|
+|
+|-
+| quasi
+| IV.ii.83
+|
+| Latin
+|-
+| pers-one
+| IV.ii.83
+|
+|
+|-
+| pierc'd
+| IV.ii.84
+|
+|
+|-
+| piercing
+| IV.ii.87
+|
+|
+|-
+| hogshead
+| IV.ii.87
+| Florio18977076 a filthy but, pipe
+|
+|-
+| good
+| IV.ii.87
+|
+|
+|-
+| lustre
+| IV.ii.87
+|
+|
+|-
+| conceit
+| IV.ii.88
+|
+|
+|-
+| turf
+| IV.ii.88
+|
+|
+|-
+| earth
+| IV.ii.88
+|
+|
+|-
+| fire
+| IV.ii.88
+|
+|
+|-
+| enough
+| IV.ii.88
+|
+|
+|-
+| flint
+| IV.ii.88
+|
+|
+|-
+| pearl
+| IV.ii.89
+|
+|
+|-
+| enough
+| IV.ii.89
+|
+|
+|-
+| swine
+| IV.ii.
+|}
+
+{| class="wikitable collapsible" style="width:75%"
+|-
+! colspan="5" | Appendix 3: Prospero's Language in I.ii.13-24 (mantle on)
+|-
+! align="left" | WORD
+! align="left" | LOCATION
+! align="left" | COOTE/CAWDREY
+! align="left" |
+! align="left" |
+|-
+| collected
+| I.ii.13
+| gather
+| collected
+| Lat.
+|-
+| no more
+| I.ii.14
+|
+|
+|
+|-
+| amazement
+| I.ii.14
+|
+| amazement
+| OE
+|-
+| tell
+| I.ii.14
+|
+|
+|
+|-
+| piteous
+| I.ii.14
+|
+| piteous
+| ME and OF
+|-
+| heart
+| I.ii.14
+|
+| heart
+| OE
+|-
+| no harm
+| I.ii.15
+|
+| harm
+| OE
+|-
+| no harm
+| I.ii.15
+|
+| harm
+| OE
+|-
+| nothing
+| I.ii.16
+|
+| nothing
+| OE
+|-
+| care
+| I.ii.16
+|
+| care
+| OE
+|-
+| dear
+| I.ii.17
+|
+|
+|
+|-
+| daughter
+| I.ii.17
+|
+| daughter
+| OE
+|-
+| ignorant
+| I.ii.18
+|
+| ignorant
+| ME and OF
+|-
+| nought
+| I.ii.18
+|
+| nought
+| OE
+|-
+| knowing
+| I.ii.18
+|
+| knowing
+| OE
+|-
+| whence
+| I.ii.19
+|
+|
+|
+|-
+| nor
+| I.ii.19
+|
+|
+|
+|-
+| more better
+| I.ii.19
+|
+| more better
+| Humanist fashion
+|-
+| master
+| I.ii.20
+|
+| master
+| Lat and OE
+|-
+| full
+| I.ii.20
+|
+|
+|
+|-
+| poor
+| I.ii.20
+|
+|
+|
+|-
+| cell
+| I.ii.20
+|
+| cell
+| OE
+|-
+| no greater
+| I.ii.21
+|
+|
+|
+|-
+| father
+| I.ii.21
+|
+| farther
+| OE
+|-
+| time
+| I.ii.22
+|
+|
+|
+|-
+| inform
+| I.ii.23
+| give notice (to teach)
+| inform
+| ME and OF
+|-
+| farther
+| I.ii.23
+|
+| farther
+| OE
+|-
+| lend
+| I.ii.23
+|
+| lend
+| OE
+|-
+| hand
+| I.ii.23
+|
+|
+|
+|-
+| pluck
+| I.ii.24
+|
+| pluck
+| OE
+|-
+| magic
+| I.ii.24
+| Magician: using witchcraft
+| magic
+| ME and OF
+|-
+| garment
+| I.ii.24
+|
+| garment
+| ME and OF
+|}
+
+{| class="wikitable collapsible" style="width:75%
+|-
+! colspan="5" | Appendix 3: Prospero's Language in I.ii.13-24 (mantle off)
+|-
+! align="left" | WORD
+! align="left" | LOCATION
+! align="left" | COOTE/CAWDREY
+! align="left" |
+! align="left" |
+|-
+| lie
+| I.ii.25
+|
+|
+|
+|-
+| art
+| I.ii.25
+|
+| art (n.)
+| Lat.
+|-
+| wipe
+| I.ii.25
+|
+| wipe
+| OE
+|-
+| eyes
+| I.ii.25
+|
+| eyes
+| OE
+|-
+| comfort
+| I.ii.25
+|
+| comfort
+| Lat. ME
+|-
+| direful
+| I.ii.26
+|
+| direful
+| Lat.
+|-
+| spectacle
+| I.ii.26
+| thing to be looked at
+| spectacle
+| ME/OF
+|-
+| wrack
+| I.ii.26
+|
+| wrack
+| OE
+|-
+| touch'd
+| I.ii.26
+|
+| touch'd
+| ME and OF
+|-
+| virtue
+| I.ii.27
+|
+| virtue
+| ME and OF
+|-
+| compassion
+| I.ii.27
+| pity; fellow feeling
+| compassion
+| Lat ME
+|-
+| provision
+| I.ii.28
+|
+| provision
+| ME and OF
+|-
+| art
+| I.ii.28
+|
+| art (n.)
+| Lat.
+|-
+| safely
+| I.ii.29
+|
+| safely
+| ME and OF
+|-
+| ordered
+| I.ii.29
+|
+| ordered
+| ME and OF
+|-
+| no soul
+| I.ii.29
+|
+| soul
+| OE
+|-
+| no, not
+| I.ii.30
+|
+|
+|
+|-
+| perdition
+| I.ii.30
+|
+| perdition
+| ME and OF
+|-
+| hair
+| I.ii.30
+|
+| hair
+| OE
+|-
+| betid
+| I.ii.31
+|
+| betid
+| ME
+|-
+| creature
+| I.ii.31
+|
+| creature
+| Lat. ME
+|-
+| vessel
+| I.ii.31
+|
+| vessel
+| ME and OF
+|-
+| heardst
+| I.ii.32
+|
+| heardst
+| OE
+|-
+| cry
+| I.ii.32
+|
+| cry
+| ME OF
+|-
+| saw'st
+| I.ii.32
+|
+|
+|
+|-
+| sink
+| I.ii.32
+|
+| sink
+| OE
+|-
+| sit
+| I.ii.32
+|
+|
+|
+|-
+| know
+| I.ii.33
+|
+| know
+| OE
+|-
+| farther
+| I.ii.33
+|
+| farther
+| OE
+|-
+| hour's
+| I.ii.36
+|
+|
+|
+|-
+| come
+| I.ii.36
+|
+|
+|
+|-
+| minute
+| I.ii.37
+|
+|
+|
+|-
+| bids
+| I.ii.37
+|
+|
+|
+|-
+| ope
+| I.ii.37
+|
+|
+|
+|-
+| ear
+| I.ii.37
+|
+|
+|
+|-
+| obey
+| I.ii.38
+|
+|
+|
+|-
+| attentive
+| I.ii.38
+|
+|
+|
+|-
+| remember
+| I.ii.38
+|
+|
+|
+|-
+| time
+| I.ii.39
+|
+|
+|
+|-
+| before
+| I.ii.39
+|
+|
+|
+|-
+| cell
+| I.ii.39
+|
+| cell
+| OE
+|-
+| do not think
+| I.ii.40
+|
+|
+|
+|-
+| not out
+| I.ii.40
+|
+|
+|
+|-
+| three
+| I.ii.41
+|
+|
+|
+|-
+| years
+| I.ii.41
+|
+|
+|
+|-
+| old
+| I.ii.41
+|
+|
+|
+|-
+| house
+| I.ii.42
+|
+|
+|
+|-
+| person
+| I.ii.42
+|
+|
+|
+|-
+| thing
+| I.ii.43
+|
+|
+|
+|-
+| image
+| I.ii.43
+|
+|
+|
+|-
+| tell
+| I.ii.43
+|
+|
+|
+|-
+| kept
+| I.ii.44
+|
+|
+|
+|-
+| remembrance
+| I.ii.44
+|
+|
+|
+|-
+| lives
+| I.ii.49
+|
+|
+|
+|-
+| mind
+| I.ii.49
+|
+|
+|
+|-
+| else
+| I.ii.49
+|
+|
+|
+|-
+| dark
+| I.ii.50
+|
+|
+|
+|-
+| backward
+| I.ii.50
+|
+|
+|
+|-
+| abysm
+| I.ii.50
+|
+|
+|
+|-
+| time
+| I.ii.50
+|
+|
+|
+|-
+| rememb'rest
+| I.ii.51
+|
+|
+|
+|-
+| aught
+| I.ii.51
+|
+|
+|
+|-
+| cam'st
+| I.ii.52
+|
+|
+|
+|-
+| twelve
+| I.ii.53
+|
+|
+|
+|-
+| year
+| I.ii.53
+|
+|
+|
+|-
+| since
+| I.ii.53
+|
+|
+|
+|-
+| twelve
+| I.ii.53
+|
+|
+|
+|-
+| year
+| I.ii.53
+|
+|
+|
+|-
+| since
+| I.ii.53
+|
+|
+|
+|-
+| father
+| I.ii.54
+|
+|
+|
+|-
+| Duke
+| I.ii.54
+|
+|
+|
+|-
+| Milan
+| I.ii.54
+|
+|
+|
+|-
+| prince
+| I.ii.55
+|
+|
+|
+|-
+| power
+| I.ii.55
+|
+|
+|
+|-
+| mother
+| I.ii.56
+|
+|
+|
+|-
+| piece
+| I.ii.56
+|
+|
+|
+|-
+| virtue
+| I.ii.56
+|
+|
+|
+|-
+| said
+| I.ii.57
+|
+|
+|
+|-
+| daughter
+| I.ii.57
+|
+|
+|
+|-
+| father
+| I.ii.57
+|
+|
+|
+|-
+| Duke
+| I.ii.58
+|
+|
+|
+|-
+| Milan
+| I.ii.58
+|
+|
+|
+|-
+| heir
+| I.ii.58
+|
+|
+|
+|-
+| princess
+| I.ii.59
+|
+|
+|
+|-
+| no worse
+| I.ii.59
+|
+|
+|
+|-
+| issued
+| I.ii.59
+|
+|
+|
+|-
+| both
+| I.ii.61
+|
+|
+|
+|-
+| both
+| I.ii.61
+|
+|
+|
+|-
+| girl
+| I.ii.61
+|
+|
+|
+|-
+| foul
+| I.ii.62
+|
+|
+|
+|-
+| play
+| I.ii.62
+|
+|
+|
+|-
+| heav'd
+| I.ii.62
+|
+|
+|
+|-
+| thence
+| I.ii.62
+|
+|
+|
+|-
+| blessedly
+| I.ii.63
+|
+|
+|
+|-
+| holp
+| I.ii.63
+|
+|
+|
+|-
+| hither
+| I.ii.63
+|
+|
+|
+|-
+| brother
+| I.ii.66
+|
+|
+|
+|-
+| uncle
+| I.ii.66
+|
+|
+|
+|-
+| call'd
+| I.ii.66
+|
+|
+|
+|-
+| Antonio
+| I.ii.66
+|
+|
+|
+|-
+| pray
+| I.ii.67
+|
+|
+|
+|-
+| mark
+| I.ii.67
+|
+|
+|
+|-
+| brother
+| I.ii.67
+|
+|
+|
+|-
+| perfidious
+| I.ii.68
+| traitorous; unfaithfull
+|
+|
+|-
+| next
+| I.ii.68
+|
+|
+|
+|-
+| world
+| I.ii.69
+|
+|
+|
+|-
+| lov'd
+| I.ii.69
+|
+|
+|
+|-
+| manage
+| I.ii.70
+|
+|
+|
+|-
+| state
+| I.ii.70
+|
+|
+|
+|-
+| time
+| I.ii.70
+|
+|
+|
+|-
+| signories
+| I.ii.71
+|
+|
+|
+|-
+| first
+| I.ii.71
+|
+|
+|
+|-
+| Prospero
+| I.ii.72
+|
+|
+|
+|-
+| prime
+| I.ii.72
+|
+|
+|
+|-
+| duke
+| I.ii.72
+|
+|
+|
+|-
+| reputed
+| I.ii.72
+| (vb) account; esteem
+|
+|
+|-
+| dignity
+| I.ii.73
+| worthiness
+|
+|
+|-
+| liberal
+| I.ii.73
+|
+|
+|
+|-
+| arts
+| I.ii.73
+|
+|
+|
+|-
+| parallel
+| I.ii.74
+|
+|
+|
+|-
+| study
+| I.ii.74
+|
+|
+|
+|-
+| government
+| I.ii.75
+|
+|
+|
+|-
+| cast
+| I.ii.75
+|
+|
+|
+|-
+| brother
+| I.ii.75
+|
+|
+|
+|-
+| state
+| I.ii.76
+|
+|
+|
+|-
+| stranger
+| I.ii.76
+|
+|
+|
+|-
+| transported
+| I.ii.76
+|
+|
+|
+|-
+| rapt
+| I.ii.77
+|
+|
+|
+|-
+| secret
+| I.ii.77
+|
+|
+|
+|-
+| studies
+| I.ii.77
+|
+|
+|
+|-
+| false
+| I.ii.77
+|
+|
+|
+|-
+| uncle
+| I.ii.77
+|
+|
+|
+|-
+| attend
+| I.ii.78
+|
+|
+|
+|-
+| perfected
+| I.ii.79
+|
+|
+|
+|-
+| grant
+| I.ii.79
+|
+|
+|
+|-
+| suits
+| I.ii.79
+|
+|
+|
+|-
+| deny
+| I.ii.80
+|
+|
+|
+|-
+| advance
+| I.ii.80
+|
+|
+|
+|-
+| trash
+| I.ii.81
+|
+|
+|
+|-
+| overtopping
+| I.ii.81
+|
+|
+|
+|-
+| new
+| I.ii.81
+|
+|
+|
+|-
+| created
+| I.ii.81
+|
+|
+|
+|-
+| creatures
+| I.ii.82
+|
+|
+|
+|-
+| say
+| I.ii.82
+|
+|
+|
+|-
+| chang'd
+| I.ii.82
+|
+|
+|
+|-
+| or else
+| I.ii.83
+|
+|
+|
+|-
+| new
+| I.ii.83
+|
+|
+|
+|-
+| form'd
+| I.ii.83
+|
+|
+|
+|-
+| key
+| I.ii.83
+|
+|
+|
+|-
+| officer
+| I.ii.84
+|
+|
+|
+|-
+| office
+| I.ii.84
+|
+|
+|
+|-
+| set
+| I.ii.84
+|
+|
+|
+|-
+| hearts
+| I.ii.84
+|
+|
+|
+|-
+| state
+| I.ii.84
+|
+|
+|
+|-
+| tune
+| I.ii.85
+|
+|
+|
+|-
+| pleas'd
+| I.ii.85
+|
+|
+|
+|-
+| ear
+| I.ii.85
+|
+|
+|
+|-
+| ivy
+| I.ii.86
+|
+|
+|
+|-
+| hid
+| I.ii.86
+|
+|
+|
+|-
+| princely
+| I.ii.86
+|
+|
+|
+|-
+| trunk
+| I.ii.86
+|
+|
+|
+|-
+| suck'd
+| I.ii.87
+|
+|
+|
+|-
+| verdure
+| I.ii.87
+|
+|
+|
+|-
+| attend'st not
+| I.ii.87
+|
+|
+|
+|-
+| pray
+| I.ii.88
+|
+|
+|
+|-
+| mark
+| I.ii.88
+|
+|
+|
+|-
+| neglecting
+| I.ii.89
+|
+|
+|
+|-
+| worldly
+| I.ii.89
+|
+|
+|
+|-
+| ends
+| I.ii.89
+|
+|
+|
+|-
+| dedicated
+| I.ii.89
+|
+|
+|
+|-
+| closeness
+| I.ii.90
+|
+|
+|
+|-
+| bettering
+| I.ii.90
+|
+|
+|
+|-
+| mind
+| I.ii.90
+|
+|
+|
+|-
+| retir'd
+| I.ii.91
+|
+|
+|
+|-
+| o'er-prized
+| I.ii.92
+|
+|
+|
+|-
+| popular
+| I.ii.92
+|
+|
+|
+|-
+| rate
+| I.ii.92
+|
+|
+|
+|-
+| false
+| I.ii.92
+|
+|
+|
+|-
+| brother
+| I.ii.92
+|
+|
+|
+|-
+| awak'd
+| I.ii.93
+|
+|
+|
+|-
+| evil
+| I.ii.93
+|
+|
+|
+|-
+| nature
+| I.ii.93
+|
+|
+|
+|-
+| trust
+| I.ii.93
+|
+|
+|
+|-
+| good
+| I.ii.94
+|
+|
+|
+|-
+| parent
+| I.ii.94
+|
+|
+|
+|-
+| beget
+| I.ii.94
+|
+|
+|
+|-
+| falsehood
+| I.ii.95
+|
+|
+|
+|-
+| contrary
+| I.ii.95
+|
+|
+|
+|-
+| great
+| I.ii.95
+|
+|
+|
+|-
+| trust
+| I.ii.96
+|
+|
+|
+|-
+| indeed
+| I.ii.96
+|
+|
+|
+|-
+| no limit
+| I.ii.96
+|
+|
+|
+|-
+| confidence
+| I.ii.97
+|
+|
+|
+|-
+| sans bound
+| I.ii.97
+|
+|
+|
+|-
+| lorded
+| I.ii.97
+|
+|
+|
+|-
+| not only
+| I.ii.98
+|
+|
+|
+|-
+| revenue
+| I.ii.98
+|
+|
+|
+|-
+| yielded
+| I.ii.98
+|
+|
+|
+|-
+| power
+| I.ii.99
+|
+|
+|
+|-
+| else
+| I.ii.99
+|
+|
+|
+|-
+| exact
+| I.ii.99
+|
+|
+|
+|-
+| truth
+| I.ii.100
+|
+|
+|
+|-
+| telling
+| I.ii.100
+|
+|
+|
+|-
+| sinner
+| I.ii.101
+|
+|
+|
+|-
+| memory
+| I.ii.101
+|
+|
+|
+|-
+| credit
+| I.ii.102
+|
+|
+|
+|-
+| lie
+| I.ii.102
+|
+|
+|
+|-
+| believe
+| I.ii.102
+|
+|
+|
+|-
+| substitution
+| I.ii.103
+|
+|
+|
+|-
+| executing
+| I.ii.104
+|
+|
+|
+|-
+| outward
+| I.ii.104
+|
+|
+|
+|-
+| face
+| I.ii.104
+|
+|
+|
+|-
+| royalty
+| I.ii.104
+|
+|
+|
+|-
+| prerogative
+| I.ii.105
+|
+|
+|
+|-
+| ambition
+| I.ii.105
+|
+|
+|
+|-
+| growing
+| I.ii.105
+|
+|
+|
+|-
+| no screen
+| I.ii.107
+|
+|
+|
+|-
+| part
+| I.ii.107
+|
+|
+|
+|-
+| play'd
+| I.ii.107
+|
+|
+|
+|-
+| play'd
+| I.ii.108
+|
+|
+|
+|-
+| needs
+| I.ii.108
+|
+|
+|
+|-
+| absolute
+| I.ii.109
+|
+|
+|
+|-
+| Milan
+| I.ii.109
+|
+|
+|
+|-
+| poor
+| I.ii.109
+|
+|
+|
+|-
+| man
+| I.ii.109
+|
+|
+|
+|-
+| library
+| I.ii.109
+|
+|
+|
+|-
+| dukedom
+| I.ii.110
+|
+|
+|
+|-
+| large
+| I.ii.110
+|
+|
+|
+|-
+| enough
+| I.ii.110
+|
+|
+|
+|-
+| temporal
+| I.ii.110
+|
+|
+|
+|-
+| royalties
+| I.ii.110
+|
+|
+|
+|-
+| incapable
+| I.ii.111
+|
+|
+|
+|-
+| confederates
+| I.ii.111
+|
+|
+|
+|-
+| dry
+| I.ii.112
+|
+|
+|
+|-
+| sway
+| I.ii.112
+|
+|
+|
+|-
+| King
+| I.ii.112
+|
+|
+|
+|-
+| Naples
+| I.ii.112
+|
+|
+|
+|-
+| annual
+| I.ii.113
+|
+|
+|
+|-
+| tribute
+| I.ii.113
+|
+|
+|
+|-
+| homage
+| I.ii.113
+|
+|
+|
+|-
+| subject
+| I.ii.114
+|
+|
+|
+|-
+| coronet
+| I.ii.114
+|
+|
+|
+|-
+| crown
+| I.ii.114
+|
+|
+|
+|-
+| bend
+| I.ii.114
+|
+|
+|
+|-
+| dukedom
+| I.ii.115
+|
+|
+|
+|-
+| unbow'd
+| I.ii.115
+|
+|
+|
+|-
+| alas
+| I.ii.115
+|
+|
+|
+|-
+| poor
+| I.ii.115
+|
+|
+|
+|-
+| Milan
+| I.ii.115
+|
+|
+|
+|-
+| most
+| I.ii.116
+|
+|
+|
+|-
+| ignoble
+| I.ii.116
+|
+|
+|
+|-
+| stooping
+| I.ii.116
+|
+|
+|
+|}
+
+{| class="wikitable collapsible" style="width:75%"
+! colspan="2" | Appendix 4: Alphabetical listing of Words by Speaker 
+|-
+! Holofernes
+! Prospero
+|-
+| a-hooting
+| absolute
+|-
+| accent
+| abysm
+|-
+| accidentally
+| advance
+|-
+| acute
+| alas
+|-
+| adding
+| amazement
+|-
+| adieu
+| ambition
+|-
+| affect
+| annual
+|-
+| allusion
+| art
+|-
+| allusion
+| art
+|-
+| anon
+| arts
+|-
+| ape
+| attend
+|-
+| apostraphas
+| attend'st not
+|-
+| apprehensions
+| attentive
+|-
+| argues
+| aught
+|-
+| as it were
+| awak'd
+|-
+| as it were
+| backward
+|-
+| as it were
+| before
+|-
+| beauteous
+| beget
+|-
+| begot
+| believe
+|-
+| beseech
+| bend
+|-
+| bien venuto
+| betid
+|-
+| bis coctus
+| bettering
+|-
+| blood
+| bids
+|-
+| by the way
+| blessedly
+|-
+| cadence
+| both
+|-
+| caelo
+| both
+|-
+| came
+| brother
+|-
+| canzonet
+| brother
+|-
+| capable
+| brother
+|-
+| capacity
+| brother
+|-
+| caret
+| call'd
+|-
+| certain
+| cam'st
+|-
+| certes
+| care
+|-
+| che non te [prechia]
+| cast
+|-
+| Che non te [vede],
+| cell
+|-
+| child
+| cell
+|-
+| colorable
+| chang'd
+|-
+| colors
+| closeness
+|-
+| comfort
+| collected
+|-
+| compliment
+| come
+|-
+| conceit
+| comfort
+|-
+| concern
+| compassion
+|-
+| concludes
+| confederates
+|-
+| contents
+| confidence
+|-
+| crab
+| contrary
+|-
+| credo
+| coronet
+|-
+| credo
+| created
+|-
+| damosella
+| creature
+|-
+| daughters
+| creatures
+|-
+| death
+| credit
+|-
+| deer
+| crown
+|-
+| deer
+| cry
+|-
+| deer
+| dark
+|-
+| deer
+| daughter
+|-
+| deformed
+| daughter
+|-
+| deliver
+| dear
+|-
+| delivered
+| dedicated
+|-
+| desired
+| deny
+|-
+| dine
+| dignity
+|-
+| directed
+| direful
+|-
+| dogs
+| do not think
+|-
+| duty
+| dry
+|-
+| ear
+| dukedom
+|-
+| earth
+| dukedom
+|-
+| earth
+| ear
+|-
+| elegancy
+| ear
+|-
+| employment
+| else
+|-
+| enough
+| else
+|-
+| enough
+| ends
+|-
+| epitaph
+| enough
+|-
+| exchange
+| evil
+|-
+| exchange
+| exact
+|-
+| explication
+| executing
+|-
+| extemporal
+| eyes
+|-
+| extravagant
+| face
+|-
+| face
+| false
+|-
+| facere
+| false
+|-
+| facile
+| falsehood
+|-
+| facility
+| farther
+|-
+| facility
+| farther
+|-
+| fall
+| father
+|-
+| falleth
+| father
+|-
+| fancy
+| father
+|-
+| fashion
+| first
+|-
+| father
+| form'd
+|-
+| father's
+| foul
+|-
+| fear
+| full
+|-
+| feminine
+| garment
+|-
+| fifty
+| girl
+|-
+| figures
+| good
+|-
+| find not
+| government
+|-
+| fire
+| grant
+|-
+| five
+| great
+|-
+| five-score
+| growing
+|-
+| flint
+| hair
+|-
+| flowers
+| hand
+|-
+| foolish
+| heardst
+|-
+| foresaid
+| heart
+|-
+| forgive
+| hearts
+|-
+| forms
+| heav'd
+|-
+| framed
+| heir
+|-
+| full
+| hid
+|-
+| game
+| hither
+|-
+| gentles
+| holp
+|-
+| gift
+| homage
+|-
+| gift
+| hour's
+|-
+| god
+| house
+|-
+| golden
+| ignoble
+|-
+| good
+| ignorant
+|-
+| good
+| image
+|-
+| good
+| incapable
+|-
+| goodman
+| indeed
+|-
+| goodman
+| inform
+|-
+| grace
+| issued
+|-
+| gratify
+| ivy
+|-
+| hand
+| kept
+|-
+| hand
+| key
+|-
+| hangeth
+| King
+|-
+| haud
+| know
+|-
+| haud
+| knowing
+|-
+| hear
+| large
+|-
+| heaven
+| lend
+|-
+| hogshead
+| liberal
+|-
+| holds
+| library
+|-
+| holds
+| lie
+|-
+| horse
+| lie
+|-
+| hound
+| lives
+|-
+| humor
+| lorded
+|-
+| hundred
+| lov'd
+|-
+| ideas
+| magic
+|-
+| Ignorance
+| man
+|-
+| ignorant
+| manage
+|-
+| imitari
+| mark
+|-
+| in via
+| mark
+|-
+| in way
+| master
+|-
+| inclination
+| memory
+|-
+| ingenious
+| mind
+|-
+| insert again
+| mind
+|-
+| insinuation
+| minute
+|-
+| intellect
+| more better
+|-
+| intimation
+| most
+|-
+| invention
+| mother
+|-
+| invention
+| nature
+|-
+| invite
+| needs
+|-
+| jerks
+| neglecting
+|-
+| jewel
+| new
+|-
+| jumps
+| new
+|-
+| keeper
+| next
+|-
+| kill'd
+| no greater
+|-
+| kind
+| no harm
+|-
+| King
+| no harm
+|-
+| King
+| no limit
+|-
+| know
+| no more
+|-
+| Lady
+| no screen
+|-
+| ladyship's
+| no soul
+|-
+| land
+| no worse
+|-
+| lege, domine
+| no, not
+|-
+| letter
+| nor
+|-
+| letter
+| not only
+|-
+| letter
+| not out
+|-
+| look
+| nothing
+|-
+| look
+| nought
+|-
+| loves...not
+| o'er-prized
+|-
+| lustre
+| obey
+|-
+| man
+| office
+|-
+| Master
+| officer
+|-
+| master
+| old
+|-
+| mellowing
+| ope
+|-
+| memory
+| or else
+|-
+| miscarried
+| ordered
+|-
+| miss
+| outward
+|-
+| monster
+| overtopping
+|-
+| month
+| parallel
+|-
+| moon
+| parent
+|-
+| most infallibly
+| part
+|-
+| most barbarous
+| perdition
+|-
+| motions
+| perfected
+|-
+| nay
+| perfidious
+|-
+| neither
+| person
+|-
+| no instruction
+| piece
+|-
+| no more
+| piteous
+|-
+| nomination
+| play
+|-
+| nor
+| play'd
+|-
+| not say
+| play'd
+|-
+| not sore
+| pleas'd
+|-
+| nothing
+| pluck
+|-
+| nourish'd
+| poor
+|-
+| now
+| poor
+|-
+| numbers
+| poor
+|-
+| objects
+| popular
+|-
+| occasion
+| power
+|-
+| odoriferous
+| power
+|-
+| old
+| pray
+|-
+| old
+| pray
+|-
+| old
+| prerogative
+|-
+| old
+| prime
+|-
+| or
+| prince
+|-
+| or
+| princely
+|-
+| or
+| princess
+|-
+| or else
+| provision
+|-
+| or rather
+| rapt
+|-
+| or rather
+| rate
+|-
+| or rather
+| rememb'rest
+|-
+| or ratherest
+| remember
+|-
+| ostentare
+| remembrance
+|-
+| overglance
+| reputed
+|-
+| paper
+| retir'd
+|-
+| pardon
+| revenue
+|-
+| parents
+| royalties
+|-
+| party
+| royalty
+|-
+| pauca verba
+| safely
+|-
+| pearl
+| sans bound
+|-
+| people
+| saw'st
+|-
+| pers-one
+| say
+|-
+| Person
+| secret
+|-
+| person
+| set
+|-
+| pia mater
+| signories
+|-
+| pierc'd
+| sink
+|-
+| pierc'd
+| sinner
+|-
+| piercing
+| sit
+|-
+| please
+| spectacle
+|-
+| please
+| state
+|-
+| pleasing
+| state
+|-
+| poesy
+| state
+|-
+| poetry
+| stooping
+|-
+| pomewater
+| stranger
+|-
+| precor gelida quando
+| studies
+|-
+| pretty
+| study
+|-
+| pretty
+| subject
+|-
+| preyful
+| substitution
+|-
+| prick'd
+| suck'd
+|-
+| pricket
+| suits
+|-
+| pricket
+| sway
+|-
+| pricket
+| tell
+|-
+| Princess
+| tell
+|-
+| Princess
+| telling
+|-
+| privilege
+| temporal
+|-
+| progression
+| thing
+|-
+| prove
+| three
+|-
+| pupil
+| time
+|-
+| pupil
+| time
+|-
+| quasi
+| time
+|-
+| queen's
+| time
+|-
+| ratified
+| touch'd
+|-
+| raught not
+| transported
+|-
+| recreation
+| trash
+|-
+| repast
+| tribute
+|-
+| replication
+| trunk
+|-
+| return
+| trust
+|-
+| revolutions
+| trust
+|-
+| rider
+| truth
+|-
+| ripe
+| tune
+|-
+| royal
+| twelve
+|-
+| ruminat
+| twelve
+|-
+| saluteth
+| unbow'd
+|-
+| sanguis
+| uncle
+|-
+| savoring
+| uncle
+|-
+| sequent
+| verdure
+|-
+| shapes
+| vessel
+|-
+| shooting
+| virtue
+|-
+| show
+| virtue
+|-
+| simple
+| wipe
+|-
+| simple
+| world
+|-
+| simplicity
+| worldly
+|-
+| sky
+| wrack
+|-
+| smelling
+| year
+|-
+| snow-white
+| year
+|-
+| society
+| years
+|-
+| sod
+| yielded
+|-
+| soil
+|
+|-
+| something
+|
+|-
+| sons
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sore
+|
+|-
+| sorel
+|
+|-
+| sorel
+|
+|-
+| sorel
+|
+|-
+| sores
+|
+|-
+| soul
+|
+|-
+| soul
+|
+|-
+| speak
+|
+|-
+| spirit
+|
+|-
+| staff
+|
+|-
+| stanze
+|
+|-
+| stay not
+|
+|-
+| stranger
+|
+|-
+| sub umbra
+|
+|-
+| superscript
+|
+|-
+| supervise
+|
+|-
+| sweet
+|
+|-
+| swine
+|
+|-
+| table
+|
+|-
+| tell not
+|
+|-
+| terra
+|
+|-
+| text
+|
+|-
+| thankful
+|
+|-
+| thicket
+|
+|-
+| tired
+|
+|-
+| to-day
+|
+|-
+| traveller
+|
+|-
+| trip
+|
+|-
+| turf
+|
+|-
+| twice
+|
+|-
+| unconfirmed
+|
+|-
+| understandeth...not
+|
+|-
+| undertake
+|
+|-
+| undressed
+|
+|-
+| uneducated
+|
+|-
+| unlearned
+|
+|-
+| unlettered
+|
+|-
+| unpolished
+|
+|-
+| unpruned
+|
+|-
+| untrained
+|
+|-
+| ut, re, sol, la, mi, fa
+|
+|-
+| ventricle
+|
+|-
+| verse
+|
+|-
+| verses
+|
+|-
+| verses
+|
+|-
+| verses
+|
+|-
+| vir [sapit] qui pauca loquitur
+|
+|-
+| virgin
+|
+|-
+| votaries
+|
+|-
+| want
+|
+|-
+| weeks
+|
+|-
+| welkin
+|
+|-
+| well
+|
+|-
+| wit
+|
+|-
+| womb
+|
+|-
+| written
+|
+|-
+| yell
+|
+|-
+| [pecus omne]
+|
+|-
+| [Venechia, Venechia]
+|
+|-
+| [writing]
+|
+|}
+
+{{BookCat}}
