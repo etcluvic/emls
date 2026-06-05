@@ -1,0 +1,223 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Marlowe, ''Edward II'', and the Cult of Elizabeth}}
+''This essay was written by Dennis Kay''.
+
+==Introduction==
+
+<!--Paragraph 1-->
+I recognise my title may appear an archaic reversion to the critical discourse of the later 1980's: after all, ''Edward II'' is one of a select group of Elizabethan literary performances that has so far failed to arouse much critical interest in such terms. This state of affairs is surprising for several reasons. There was, for instance, a strong and continuing Elizabethan and Jacobean curiosity about the reign of Edward II and the years immediately following his death—I have in mind the writings of Heywood, Jonson, and, above all, Michael Drayton, not to mention the important account of Edward's Queen, Isabel of France, in Foxe's ''Actes and Monumentes'', and Elizabeth Carey's ''Edward II''.
+
+<!--Paragraph 2-->
+On the other hand, the play's relative neglect is understandable. Like Shakespeare's ''Love's Labour's Lost'' or ''King John'', for example, ''Edward II'' represents power relations in ways that may seem, at first sight, to be unassimilable to some contemporary interpretive procedures, or at least inconsistent with some venerable and resilient assumptions. We have only to recall the very powerlessness of the rulers depicted in these plays, together with the scrutiny and questioning to which their words are routinely subjected by other speakers. Claude Summers has located the play's heterodoxy in its "refusal to subscribe to a comforting Tudor political myth": in the words of Marlowe's Edward "Am I a king and must be overruled?" (1.1.134).<ref>Summers, "Sex, Politics, and Self-Realisation in ''Edward II''" (222).</ref>
+
+<!--Paragraph 3-->
+An important element in the context of ''Edward II'' is the widespread 1590's interest in Mortimer and in the Barons' Wars, but I do not wish to elaborate on this phenomenon; rather, I seek to relate ''Edward II'' to the cult of Elizabeth, suggesting that it participates fully in the discursive procedures that surrounded the Tudor monarchy. Let me state my argument at its starkest: I propose that in Marlowe's play the image of the king may be construed as a negative exemplum, being defined negatively in terms of the well established cult of Queen Elizabeth. Similarly, Shakespeare's ''King Lear'' establishes a pointed contrast between the assiduously promoted public image of King James as judge, patriarch and unifier of the kingdoms of Britain, and Shakespeare's depiction of Lear, the last ruler of the whole island, as one who judges foolishly, fragments his family and carves up his realm. Like the world of ''Lear'', that of ''Edward II'' is constructed as an admonitory negative example for the present.<ref>My focus will therefore be rather different from that of such writers as James Voss (522-3), which draws attention to the indications of the development of a money economy, as in the giving Mortimer the seal to raise cash for the ransom, using up treasury fund so that he can't support armies. </ref> Moreover, the parallels extend beyond the age to the more specific question of the ruler as an individual, and that, of course, was a question that could hardly be considered—or even imagined—outside the terms of reference of Elizabeth's cult.
+
+<!--Paragraph 4-->
+Allow me to cite another negative example. In Shakespeare's ''Twelfth Night'' (a text which operates, as Marlowe's does, through gender reversal), Orsino seems designed almost as an anthology of many of the personal inadequacies that might hamstring a ruler. More specifically, his failings are those conventionally associated in Tudor misogynist discourse with a female ruler. He is, as women were held to be by such writers, changeable, governed by his moods and passions. And he falls in love with one of his followers, who thereby becomes specially favoured among his entourage, consequently threatening the political system and the delicate balance of relationships among his subjects. He is therefore, like Edward II, the antithesis of Queen Elizabeth: it is against the ideal of the ruler as enshrined in her cult that he is judged and found wanting.
+
+==Culture of the 1590's==
+<!--Paragraph 5-->
+By the early 1590's, Elizabeth might have been forgiven for thinking that such issues had been thoroughly ventilated a generation before, at the time of her accession and in the question of her marriage. But one of the features of the Elizabethan settlement was that nothing was ever finally settled: there was always room for renegotiation, revaluation, changes of emphasis. Alan Sinfield has argued for an understanding of the Elizabethan state "not as a static totality whose power structure is revealed in the ideology of monarchy, but as diverse and changing, a site of profound contradictions.<ref>"Alan Sinfield, "Power and Ideology."</ref> Certainly, it was a site of conflicts, checks and balances, not just between the aristocracy and an emergent, upwardly mobile "middling sort," but also between groups within the nobility.<ref>See Williams' ''The Tudor Regime'' (428-51).</ref> Elizabeth had evolved a strategy for dealing with the competitive pack of nobles who served her: Sir Robert Naunton observed that "The principal note of her reign will be, that she ruled much by faction and parties, which she herself both made, upheld, and weakened, as her own great judgement advised"—he commented that "we find no Gaveston, Vere, or Spencer to have swayed alone during forty-four years."<ref>See Naunton's ''Fragmenta Regalia'' (40-41).</ref> Elizabeth's cult had a purpose: its central image of singleness and immutability—the Queen's motto was ''Semper eadem'', "always the same"—was constructed in response to threats of fracture, disruption, and rebellion. And its most extreme manifestations in the 1590's imply profound anxieties both about the current political climate and about the unknowable—almost literally unthinkable—future that would unfold after Gloriana's death.
+
+<!--Paragraph 6-->
+Marlowe constantly nudges the spectator to find contemporary parallels. Thus, although the historical Edward had been in his early forties at his death, Marlowe explicitly makes him an old man—he is "aged" at 5.2.118, "Old Edward" at 5.2.23, and is compared to an "old wolf" at 5.2.7. The world of the play is that of the money economy, in which the crown's finances were under increasing strain. It is a site of conflict between an old aristocracy and a new one. It is a world like that of the 1590's, in which financing wars in France empties the treasury coffers. Leah Marcus has recently shown how Shakespeare's Joan La Pucelle in ''1 Henry VI'' is presented as part of critique of the Queen's hesitations in foreign polity, and there is a similar contemporary implication in the depiction of Edward's failure to meet his financial obligations.<ref>In Marcus' ''Puzzling Shakespeare.''</ref> By 1592, there was a disruptive influx of deserters from the French wars, some of whom were reported as "using most slanderous speeches of . . . her Highness": in the following year, these wretched men crowded round the Queen and petitioned her at every opportunity: a contemporary wrote, "The Queen is troubled wherever she takes the air with these miserable creatures."<ref>Somerset (490).</ref>
+
+<!--Paragraph 7-->
+Leicester had died in 1588, Walsingham in 1590, and Burghley was not in good health. It was clear that the Queen would have to listen to the voices of the younger generation, and that the question of the succession would lie beneath her dealings with them, just as the question of marriage had informed her relations with the older generation at the time of her accession. So the controversies and tensions of the 1560's surfaced again a quarter of a century later, in the time of confusion and trepidation that followed the scarcely believable victory over the Spanish Armada.
+
+==Courtly Performances==
+<!--Paragraph 8-->
+The courtly behaviours that we see in the play are recognisably Elizabethan. To cite some relatively trivial instances, early in the second act, Edward compares himself to Danae's lover, Gaveston to the shepherd seeing the first shoots of spring. Their self-presentation relates them to the fashions of Ovidian and pastoral writing in the 1590s. While earlier Mortimer had left the court like a disaffected 1590's melancholic,
+
+<blockquote>
+<poem>
+Unto the forest . . .
+To live in grief and baleful discontent,
+For now my lord the king regards me not . . . .
+</poem>
+</blockquote>
+
+This represents the typical behaviour of the political exile, or disaffected lord—the Earl of Essex regularly acted in this way in the 1590's. Marlowe's Isabella likewise declares—"I will endure a melancholy life, And let him frolic with his minion" (1.2.66-7).
+
+==Gaveston the Elizabethan Courtier==
+<!--Paragraph 9-->
+The most striking example, however, is Gaveston himself, who is figured as the quintessential Elizabethan Courtier. He is praised by Spencer, for instance, as "the liberal earl of Cornwall"—recalling Elyot's observation that liberality "resteth not in the quantity or quality of things that be given, but in the natural disposition of the giver.<ref>"liberality (as Aristotle saith) is a measure, as well in giving as in taking of money and goods. And he is only liberal, which distributeth according to his substance, and where it is expedient . . . liberality taketh his name of the substance of the person from who it proceedeth; for it resteth not in the quantity or quality of things that be given, but in the natural disposition of the giver" (Elyot, ''The Governor'' 130). </ref> When in the first scene of the play Gaveston anticipates the performance of his new role as royal favourite, he uses terms that explicitly echo the behaviours and discourses of royal celebration under Elizabeth. At least one Elizabethan political theorist mounted a defence of Gaveston, arguing that although he may have been personally proud, he did little harm, and was certainly not an argument against the hereditary principle.<ref>Sir Thomas Craig, ''The Right of Succession to the Kingdom of England'' (1603; 1703 ed.; 179); cited by Collins (108).</ref> One recent critic compares the King and Gaveston at their window to courtiers on the Elizabethan stage (1.4.416-8).<ref>Belt (138).</ref> Like Essex and Leicester, Gaveston is characterised as an impresario of courtly entertainments (10). In the early scenes of the play there is a sense that the nobles are mainly moved by snobbery and that Gaveston is in his anarchic way on the crowd's side against entrenched privilege. Complaints about Gaveston's promotion focus on the honour code—"What man of noble birth can brook this sight?" The nobles say the king is "bewitched" (1.2.55); that he is "light-brained" (5.2.2). But what we see and hear paints a rather different picture. Gaveston takes over the property of the Bishop of Coventry—"let him complain unto the see of hell"—and displays, like the Bastard in ''King John'', an obviously crowd pleasing anti-clericalism ("what should a priest do with so fair a house" [190, 205]). What is more, Gaveston is exactly like the favourites of Henry VIII, the fathers and grandfathers of the great men of Elizabethan England.
+
+<!--Paragraph 10-->
+The mythological entertainments he imagines, with Italian masques and water pageants (1.1.60-69)—are wholly characteristic of Elizabethan shows. In 1564 Robert Dudley the Earl of Leicester staged, ostensibly for the Queen's entertainment, a debate between Juno and Diana "on the question of marriage." The Queen's response (gleefully reported by the Spanish ambassador) was "This is all against me." The cruel queen Zabeta in Dudley's Kenilworth entertainment of 1575 was another version of Elizabeth—a type which is found in pageants and shows staged for the Queen throughout her reign. In the last two decades of her reign, Elizabeth was praised increasingly as a type of the Goddess Cynthia/Diana.<ref>See, among others, King, ''Spenser's Poetry and the Reformation Tradition'' (151-2), and also his ''Tudor Royal Iconography'' (259-61). For connections between the cult of Diana and the idea of empire see Knapp's ''An Empire Nowhere'' (pp. 42-3, 47-9, 55, 57, 90).</ref> The irony here of course is that in Elizabethan usage the story of Diana and Actaeon is conventionally told not to arouse the monarch but to warn her subjects against excessive familiarity. An obvious example is the treatment of Faunus in the mutability cantos. Gaveston seems not to perceive the show as a prefiguring of his own fate.<ref>Sometime a lovelie boy in Dians shape<br> 
+With haire that gilds the water as it glides,<br> 
+Crownets of pearle about his naked armes,<br> 
+And in his sportfull hands an Olive tree,<br> 
+To hide those part which men delight to see,<br> 
+Shall bathe him in a spring, and there hard by,<br> 
+One like Actaeon peeping through the grove,<br> 
+Shall by the angire goddesse be transformde,<br> 
+And running in the likenes of an Hart,<br> 
+By yelping houndes pulde downe, and seeme to die.</ref>
+
+==Eroticisation of Politics==
+<!--Paragraph 11-->
+It would be a mistake to view Gaveston in isolation. If Marlowe makes him behave as if he were a version of the typical Elizabethan court favourite, then the stage on which he plays his role was axiomatically fraught with problems and anxieties for those who sought to play it, as well as for those whose lives would be affected by its outcome. The work of Marie Axton, Arthur Marotti, and Louis Montrose, among others, has made us familiar with the Elizabethan phenomenon of the eroticisation of political discourse and the simultaneous politicisation of erotic discourse, and ''Edward II'' clearly exemplifies the inseparability of these discursive modes.
+
+<!--Paragraph 12-->
+Elizabeth's career seems almost to have been designed as a repudiation of the misogynistic commonplaces that had been rehearsed around the time of her accession. A conventional view (articulated by Becon, Calvin, and others) had been that a woman ruler was a sign of divine displeasure. In Bullinger's analysis, the restraining presence of a husband, or else a good assembly of counsellors, was desirable in a woman ruler.<ref>Lindsay had argued that man's natural role was to have "preheminens And wemen vnder obediens" (''Dialogue of Monarchy'' 106).</ref> We should recall that Henry VIII's will provided that if his daughters married without the consent of the Council they would exclude themselves from the succession. Over the course of Elizabeth's reign, the tone of such political courtship underwent several changes. By the 1590's, courtiers—with the exception of Essex—were figured less crudely as the Queen's suitors. Their desire for the Queen, a desire upon which their actions were declared to be predicated, had become redefined, desexualised, and conventionalised.
+
+<!--Paragraph 13-->
+Queen Elizabeth had initially been besieged by royal suitors from all over Europe. Cecil recorded that, "Here is great resort of wooers and controversy amongst lovers . . . . ten or twelve ambassadors competing for her favour . . . courting at a most marvellous rate"<ref>Cited by Williams (70).</ref>; but her apparent infatuation with Robert Dudley was seized upon for scandalised comment. Dudley, of course, was already married, was not royal, and was from a family of whom several had in recent generations been executed for treason. The example of Gaveston was one of those cited against Dudley and the Queen. Much more alarming to contemporaries was the inversion of properties and the distortion of power relations within the council. The Count of Feria said in 1559 that Dudley is so much in favour that "he does whatever he likes with affairs" (that is, he could act without reference to the Council) and that "her Majesty visits him in his chamber day and night"—not the way for a monarch to behave. Throughout her reign, the Queen's sexuality and marital possibilities informed political culture, as factions sought to place a husband with the Queen in order to strengthen their own position.
+
+<!--Paragraph 14-->
+But changes did occur over time. Courtship became more allegorical, and more controlled. An example is found in Lyly's ''Endimion'' (1591). Endimion loves the moon-goddess, and intends to possess her: "Sweet Cynthia," he asks, "how wouldst thou be pleased, how possessed? . . . Desirest thou the passions of loue . . .?" (2.1.4). The play unfolds by teaching him the lesson that his desire can never be achieved. Eventually Cynthia kisses the sleeping Endimion, in a gesture that would have been recognised as chaste, indeed as a token of the absence of sexual desire. When Endimion awakes, his address to the Queen typifies the officially sanctioned, morally defensible, pose of the abject courtier:
+
+<blockquote>
+Such a difference hath the Gods sette betweene our states,
+that all must be dutie, loyalitie, and reuerence;
+nothing . . . be termed loue. My vnspotted thoughts,
+my languishing bodie, my discontented life, let them
+obtaine by princelie fauour impossibilities; with
+imagination of which, I will spend my spirits, and to
+my selfe that no creature may heare, softlie call it
+loue. And if any vrge to vtter what I whisper, then
+will I name it honour. (5.3.170-5)
+</blockquote>
+
+When he came reflect upon Elizabeth's reign, Francis Bacon addressed the question of propriety raised by the eroticisation of political discourse at her court. He observed that although the Queen had "allowed herself to be wooed and courted, and even to have love made to her," nevertheless, such "dalliances detracted but little from her fame and nothing at all from her majesty.<ref>"Francis Bacon, ''In Felicem Memoriam'' (vi. 317).</ref> It is of course in both of these aspects, fame—i.e., reputation—and majesty that Marlowe's Edward is shown to fall down. Where Elizabeth had controlled courtship up to the early 1590's through obliquity, metaphor, indirection, deferral, obfuscation, and systematic denial of satisfaction, Marlowe's play shows what can happen when the control slips.
+
+<!--Paragraph 15-->
+The chief inversion of Marlowe's play, the central deviation from Elizabethan discursive practice, does not reside in figuring the monarch in the male person of Edward, nor indeed in the fact that the relationship between the King and Gaveston is homosexual: rather it is the fact that when Edward falls in love with Gaveston, the King becomes a subject in and to love.<ref>Summers (221-40) argues eloquently for the power and intensity of the relationship between the King and Gaveston as a "world well lost." ... His approach contrasts with Sharon Tyler's simple moralism that "disaster results when politics becomes an extension of sex" (66).</ref>
+
+<!--Paragraph 16-->
+And that was precisely what Elizabethan politicians had feared would happen if the Queen chose one of their number to be her husband. The dreaded inversion would have had the further inevitable consequence of distorting the power relationships. Edward's creation of new peers, his disruption of aristocratic hierarchies ("He that I list to favour shall be great"), would have been a further illustration of the same fear.<ref>In ''Edward II'', the promise of social mobility challenges the traditional assumptions of a natural congruence between social and real identity ... "a world of social fluidity and class conflict . . . ."</ref> In Elizabethan terms, Edward's elevation of Gaveston would have seemed deeply shocking. It was a species of behaviour utterly distinct from Queen Elizabeth's. Her frugality in the matter of honours was reported as an abstemiousness from which the whole body politic might benefit. As Essex discovered just a few years later, when he doled out knighthoods in a way that aroused the Queen's anger at a devaluation of the currency of honours, one of the features of her rule was a parsimoniousness about honours, a restraint or modesty that parallelled her own honour.
+
+'''Leicester and Pembroke'''
+<!--Paragraph 17-->
+An almost incidental contemporary element is found in the hereditary titles and court offices borne by characters in Marlowe's play. What would an Elizabethan theatre audience have made of the fact that both Gaveston and Spencer are created Lord Chamberlain (3.2.146), for example? In two cases, Marlowe seems to take pains to tread very carefully.
+
+<!--Paragraph 18-->
+The play's Earl of Leicester is given a markedly gentle ride. We are told of the regret with which Leicester fulfills his instructions. He declares himself moved to compassion by the sigh of the King:
+
+<blockquote>
+<poem>
+Alas, see where he sits and hopes unseen
+T'escape their hands that seek to reave his lie . . . (4.6.51-2).
+</poem>
+</blockquote>
+
+In the next act, Leicester tries to console the captive monarch, urging him to "Imagine Killingworth Castle were your court." And his words draw praise from the King:
+
+<blockquote>
+<poem>
+Leicester, if gentle words might comfort me,
+Thy speeches long ago had eased my sorrows,
+For kind and loving hast thou always been (5.1.1-4)
+</poem>
+</blockquote>
+
+As the action unfolds, it is Leicester who persuades Edward to abdicate, in the interest of his son—"speak them fair, / For if they go the prince shall lose his right" (5.1.91-2). And then at a crucial moment the queen relieves Leicester of his command (5.1.135), thereby distancing him from direct involvement in Edward's death. It is later reported (5.2.35) that Leicester laments over the king's fate.
+
+<!--Paragraph 19-->
+The Earl of Pembroke, like Leicester, is placed at a remove from actual rebellion, and from the execution of plots against an anointed King. He appears as a peacemaker, as a person trusted by all parties, a stature presumably confirmed by the numerous sententious and semi-proverbial utterances he is given to say (for example, "Can kingly lions fawn on creeping ants?" [1.5.15]), and by the way his words gain acceptance: Pembroke throughout is figured as a representative of an older nobility (in the battle, for example, he fights against Spencer Junior, whom he calls an "upstart" [3.4.20]), but he is made to exhibit none of the class-hostility to Gaveston that the other nobles show. He is punctilious in his greeting to Gaveston at 2.2.68—"Welcome master Secretary."
+
+<!--Paragraph 20-->
+In the space of a few dozen lines we are apprised of (a) Pembroke's support for the crown, when Edward says "Pembroke shall bear the sword before the King," and the Earl replies, "And with this sword Pembroke will fight for you (1.4.352); (b) Pembroke's support for the killing of Gaveston in his taking an oath to that effect (2.2.108); and (c) his sensitivity to popular opinion, "This will be good news to the common sort" (1.4.92).
+
+<!--Paragraph 21-->
+In the debate in 2.5 where the lords consider how they should respond to the King's request for Gaveston's return, it is Pembroke who proposes a solution: 
+
+<blockquote>
+<poem>
+Because his majesty so earnestly
+Desire to see the man before his death,
+I will upon mine honour undertake
+To carry him and bring him back again . . . (78-81).
+</poem>
+</blockquote>
+
+And his disinterest is stressed: 
+
+<blockquote>
+<poem>
+My lords, I will not over-woo your honours,
+But if you dare trust Pembroke with the prisoner,
+Upon mine oath I will return him back. (87-9)
+</poem>
+</blockquote>
+
+Lancaster is given words that confirm the trust reposed in Pembroke's honesty—"I say, let him go on Pembroke's word" (91). Pembroke subsequently rebukes Arundel with a breach of chivalric honour in abducting Gaveston: "Your lordship doth dishonour to your self / And wrong our lord, your honourable friend" (3.1.9-10). Arundel's narrative of these events includes a defence of Pembroke's behaviour—saying he "said least" during the debate on rebellion and then reporting that
+
+<blockquote>
+<poem>
+The Earl of Pembroke mildly thus bespake—. . .
+I will this undertake, to have him hence
+And see him redelivered to your hands. (3.2.108-112)
+</poem>
+</blockquote>
+
+Blame is specifically not attached to Pembroke—Arundel goes out of his way to identify Warwick as the dishonourable and untrustworthy villain.
+
+<!--Paragraph 22-->
+It is at such moments that we recall the words on the title page informing us that Marlowe's play had been "publiquely acted by the right honorable the Earle of Pembrook his seruantes," and there are episodes when this fact is reflected in the script very crudely. So, for instance, when Warwick appears in the first moments of the third act to say: "My lord of Pembroke's men, / Strive you no longer" (3.1.7-8), the words would have had a special resonance in performance.
+
+==Ambiguity==
+<!--Paragraph 23-->
+Spencer's advice to Baldock about how he should turn himself from a scholar into a courtier has some relevance to Marlowe's own situation. It is not servility that gains favour, Spencer says,
+
+<blockquote>
+<poem>
+You must be proud, bold, pleasant, resolute,
+And now and then stab as occasion serves (42-3)
+</poem>
+</blockquote>
+
+<!--Paragraph 24-->
+If we look at the important scene (2.2) which features the devices by Mortimer and Lancaster, Mortimer's device of the diseased cedar may recall the use of a tree to represent the state (''res publica'') during Elizabeth's entry pageant in the City of London in 1559. It is parallelled by Lyly's use of the image in ''Sapho and Phao'', but is also fairly commonplace.<ref>More specifically, the cedar was commonly used by James I (as in ''Cymbeline''). Later Mortimer hubristically asserts "I stand as Jove's huge tree."</ref> Lancaster's emblem of the flying fish that faces death whether it flies or swims is hardly more complex or ambiguous. It may well be the crudity of the images, their lack of teasing ambiguity or subtlety, that makes them unsuitable.
+
+<!--Paragraph 25-->
+As is now widely recognised, ambiguity was a feature of Elizabethan courtly performance. In the ''Arte of Rhetorique'', Thomas Wilson had described how "the miseries of the courtier's life" could be "described" by the use of "similitudes, examples, comparisons from one thing to another, apte translacions, and heaping of allegories." And one of the most famous allegorical performances of Elizabeth's reign occurred at Kenilworth, where the Queen was entertained by Robert Dudley from 9 July 1575.<ref>Berry (95-100); see also Axton and Bates.</ref>
+
+<!--Paragraph 26-->
+Marlowe collapses history, reminding us of this episode when he has Leicester say to the King in the fourth act—"Your majesty must go to Killingworth" (4.4.81). Dudley had collapsed history too, in a way that connects his show with Marlowe's play. When Elizabeth entered the castle precincts, she made her way into the newly-constructed tiltyard by passing under an edifice called "Mortimer's Tower." William Dugdale in his antiquities of Warwickshire reports that Leicester caused the tower to be decorated with "the Arms of Mortimer . . . cut in stone." Now Leicester was clearly invoking the memory of a previous owner of Kenilworth, Roger Mortimer, who had staged a great pageant based on the idea of the round table in 1279, and his own diversions for the Queen explicitly tapped into the same Arthurian myth. But Dugdale—and he cannot have been alone—took the arms to be those of a different Mortimer, grandson of the above, namely our and Marlowe's Mortimer, the Earl of March, lover of a Queen who shared Elizabeth's name, and therefore, in Dugdale's view, a precedent of sorts for Dudley himself.<ref>Dudgale (i.249a).</ref> Perhaps the inscription on the tower participates in the same strategy of obliquity that Marlowe's Mortimer deploys with his letter to the murderers. The application of the inscription could be taken as a powerful declaration of desire, of courtship: but it could equally plausibly be glossed as an act of courtesy, as a fulsome welcome by a generous host.<ref>See Bates' ''The Rhetoric of Courtship in Elizabethan Language and Literature''.</ref>
+
+<!--Paragraph 27-->
+Like most Elizabethan treatments of political questions, ''Edward II'' is necessarily oblique, constructed (like Mortimer's letter or Dudley's inscription) on the basis of what Annabel Patterson in ''Censorship and Interpretation'' (following Pierre Bourdieu) refers to as "functional ambiguity.<ref>"This letter written by a friend of ours<br> Contains his death yet bids them save his life.<br> "Edwardum occidere nolite timere bonum est":<br> "Fear not to kill the king, 'tis good he die."<br> But read it thus, and that's another sense<br> "Edwardum occidere nolite timere bonum est":<br> "Kill not the king, 'tis good to fear the worst."<br> Unpointed as it is, thus shall it go,<br> That being dead, if it chance to be found,<br> Matrevis and the rest may bear the blame,<br> And we be quit that caused it to be done. (5.4). Patterson (Chapter I), Bourdieu (5-9), and Bates (12-14); I also have in mind studies like Marcus' "Textual Indeterminacy and Indeterminacy and ideological Difference: The Case of ''Doctur Faustus''" and Bartels' "Authorizing Subversion: Strategies of Power in Marlowe's ''Doctor Faustus''." </ref> The play's commentators have connected such ambiguity with its tendency to question, to qualify, to undermine.<ref>A recent instance is found in Debra Belt's "Anti-Theatricalism and Rhetoric in Marlowe's ''Edward II''"; she argues for "a play about rhetoric and its effects on audience" (135), and calls it "an examination of how speaking acts on audiences (among whom the King is the principal but not the only target)" (142ff.). Further, she notes that "Practically all the major secular charges levelled against the drama . . . find their way into ''Edward II''" (150). "The play seems deliberately constructed to demonstrate the complexity of the issue and so to challenge the assumptions of all parties to the controversy" (156). "The experience of ''Edward II'' . . . gives the viewer both a felt sense of the need for informed judgement on the part of spectator and an awareness of what that process entails. The viewer's task, deciding which factions to favour and why, bears a striking resemblance to that facing the young Prince; consequence of the critique of antitheatricality through the device of a concession is to discourage symplistic or reductive judgments." </ref> They might also have connected them with Elizabeth's crab-wise journey towards signing the death-warrant of Mary Queen of Scots. The play seems designed to prevent comparisons from hardening into allegory, allusions from implying applications.
+
+<!--Paragraph 28-->
+If Edward is a negative example of Elizabeth, what are we to make of Isabella? Her very name would have had a special resonance for an Elizabethan audience, and there were many attempts in the period to analyse her behaviour, to ask if her rebellion was justified, to investigate the power-relations in her involvement with Mortimer.<ref>See Levin (113-33).</ref> In Marlowe's version, her subjection to Mortimer also constitutes a warning, and involves the danger of a Protectorate: he tells her, "erect your son with all the speed we may . . . that I may be protector over him" (5.2.11-12).
+
+<!--Paragraph 29-->
+The focus of the play is partly on the king himself, of course. And as such it poses a negative example, an opposite model of monarchy from the one Elizabeth was acting out. But it also investigates the predicament of those who have to live under a monarch who thwarts expectations and repudiates convention. Marlowe's play is an anthology of career moves for the Elizabethan courtier: the range stretches from those who are presented as honourably negotiating the conflicts of loyalty implicit in the courtier's life—Pembroke and Leicester—through those who succumb to their pressures—Warwick, Kent, Arundel—to those who are fatally drawn to the centres of power, in order to literalise the metaphoric eroticism of service and duty. For Gaveston, Spencer and Mortimer, the opening allegory of Actaeon is actualised in their experience as a salutary warning to future ages.
+
+<!--Paragraph 30-->
+But as Debra Belt has shown, Marlowe's is a highly self-conscious art, in which acts of speech and of interpretation are shown to be complex and interlocking. If one version of the Elizabethan ideal in the play is the young Edward III, virginal, ruthless, and decisive, then perhaps Marlowe's own ambiguities are understandable. It is as if he has taken to heart Spencer's advice to Baldock "You must cast the scholar off / And learn to court it like a gentleman" (2.1.31-2). Marlowe approaches Diana more obliquely than Mortimer or Gaveston; in so doing he produces in Edward II one of the most charged and subtle dramatic engagements on the public stage with the cult of Elizabeth.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Axton, Marie. ''The Queen's Two Bodies: Drama and the Elizabethan Succession''. London: The Royal Historical Society, 1977.
+*Bacon, Francis. ''In Felicem Memoriam''. [Volume 6 of ''The Works of Francis Bacon''.] London: Longmans, 1870.
+*Bartels, Emily C. "Authorizing Subversion: Strategies of Power in Marlowe's ''Doctor Faustus''." ''Renaissance Papers'' (1989): 65-74.
+*Bates, Catherine. ''The Rhetoric of Courtship in Elizabethan Language and Literature''. Cambridge: Cambridge UP, 1992.
+*Belt, Debra. "Anti-Theatricalism and Rhetoric in Marlowe's ''Edward II''." ''English Literary Renaissance'' 21 (1991): 134-66.
+*Berry, Edward I. ''Shakespeare's Comic Rites''. Cambridge: Cambridge UP, 1984.
+*Bourdieu, Pierre. ''Les regles de l'art: genese et structure du champ litteraire''. Paris: Editions du seuil, 1992.
+*Collins, Stephen L. ''From Divine Cosmos to Sovereign State: An Intellectual History of Consciousness and the Idea of Order in Renaissance England''. New York: Oxford UP, 1989.
+*Dudgale, William. ''The Antiquities of Warwickshire Illustrated''. Vol. 1. Ed. William Thomas. [2 vols.] London, 1730.
+*Elyot, Thomas. ''The Boke Named the Governor''. Ed. S. G. Lehmberg. Everyman 227. London: Dent, 1962.
+*King, John N. ''Spenser's Poetry and the Reformation Tradition''. Princeton: Princeton UP, 1990.
+*—. ''Tudor Royal Iconography''. Princeton: Princeton UP, 1990.
+*Knapp, Jeffrey. ''An Empire Nowhere: England, America and Literature from'' Utopia ''to'' The Tempest. Berkeley: U of California P, 1992.
+*Levin, Carole. "John Foxe and the Responsibilities of Queenship." ''Women in the Middle Ages and the Renaissance: Literary and Historical Perspectives''. 13-33 in Mary Beth Rose, ed. Syracuse: Syracuse UP, 1986.
+*Lindsay, David. ''Dialogue of Monarchy''. Ed. J. Small. London, 1883.
+*Marcus, Leah. "Textual Indeterminacy and Ideological Difference: The Case of ''Doctor Faustus''." ''Renaissance Drama'' 20 (1989): 1-29.
+*—. ''Puzzling Shakespeare: Local Reading and Its Discontents''. Berkeley: U of California P, 1988.
+*Naunton, Robert. ''Fragmenta Regalia or Observations on Queen Elizzabeth, Her Times and Favourites''. Ed. John S. Cerovski. Washington: Folger Shakespeare Library, 1985.
+*Patterson, Annabel. ''Censorship and Interpretation''. Madison: U of Wisconsin P, 1984.
+*Sinfield, Alan. "Power and Ideology: An Outline Theory and Sidney's Arcadia." ''English Literary History'' 52 (1985): 259-77.
+*Somerset, Anne. ''Elizabeth I''. 2nd edition. London: Weidenfeld and Nicolson, 1992.
+*Summers, Claude J. "Sex, Politics, and Self-Realisation in ''Edward II''." 221-40 in K. Friedenreich, R. Gill and C. Kuriyama, eds. "''A Poet and a Filthy Play-Maker'': New Essays on Christopher Marlowe". New York: AMS P, 1989.
+*Tyler, Sharon. "Bedfellows make Strange Politics: Christopher Marlowe's ''Edward II''." 55-68 in J. Redmond, ed. ''Drama, Sex, and Politics''. Cambridge: Cambridge UP, 1985.
+*Voss, James. "''Edward II'': Marlowe's Historical Tragedy." ''English Studies'' 63 (1982): 517-30.
+*Williams, Penry. ''The Tudor Regime''. Oxford: Oxford UP, 1979.
+*Williams, Neville. ''All the Queen's Men: Elizabeth I and Her Courtiers''. 2nd edition. London: Cardinal, 1974.
+
+{{BookCat}}
