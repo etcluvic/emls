@@ -1,0 +1,346 @@
+''This essay was written by Paul Moon''.
+
+<!--Paragraph 1-->
+Many types of single-sheet, or broadside, ballads from the English Renaissance present themselves as didactic works, despite a tendency toward sensationalism worthy of today's tabloid press.<ref>I wish to thank the members of my research group, Benay Blend, Karen Cole, Susan Newton, and especially Jean D'Amato, whose invitation to give a lecture eventually led me to this subject.</ref> Hyder Rollins identifies as the most numerous type the news ballad (''A Pepysian Garland'' xi). Tales of monstrous children (the Renaissance term for deformed babies), an especially sensational type of news ballad, offer varied examples of how ballad makers produce spiritual revelation from sensational events.
+
+<!--Paragraph 2-->
+Although modern critics usually classify such ballads as non-religious, these ballads suggest, first, that Reformation hermeneutic practices quickly filtered from theological circles into popular practice and the popular press and, second, that the nature of interpretation was itself of interest to popular audiences. (Following the ''Oxford English Dictionary'', I distinguish between "hermeneutics" as a science or system of biblical interpretation and "exegesis" as the practice of it.) These broadside ballads offer one example of the widespread Protestant practice of unleashing the power of hermeneutics on objects and narratives other than the Bible; other examples include histories that read national experience typologically and Reformation conduct books that derive instructions for behavior from groups of related Bible verses. Acknowledging the diversity and ubiquity of this hermeneutical practice reinforces the importance of the Reformation in shaping English cultural history. These ballads offer exegetical models for the masses.
+
+<!--Paragraph 3-->
+To cite a concrete example, a 1562 ballad about a "monstrous Chylde, borne at Chychester in Sussex," illustrates some aspects of these ballads, including the interpretation of the child as a text comparable to scripture. The ballad maker cites scriptural examples of warning signs of God's wrath (Noah, Lot) and then compares those texts to the Sussex birth and other such births of this time, human and non-human:<ref>The decade of the 1560s produced an uncommon number of monstrous births. The introduction to one broadside collection notes that "The year 1562 . . . is recorded by the English chroniclers, such as Hollinshed and Stowe, as especially fertile in monsters" (''Collection'' [generally and hereafter referred to as Lilly] xvi).</ref>
+
+<blockquote>
+<poem>
+The Scripture sayth, before the ende
+Of all thinges shall appeare,
+God will wounders straunge thinges sende,
+As some is sene this yeare.
+
+The selye infantes, voyde of shape,
+The calues and pygges so straunge,
+With other mo of suche mishape,
+Declareth this worldes chaunge. (Lilly 202-3; long "s" modernized in this and all quotations)
+</poem>
+</blockquote>
+
+<!--Paragraph 4-->
+Protestant hermeneutics is not unique in the representation of monstrous children as signs from God; the interpretation of deformity as a representation of moral depravity goes back to the early church fathers. Augustine, in ''The City of God'', outlines a link between Cain, who was marked by God for his sin in killing Abel, and other monstrosities (Bandy 238). Only one of the broadsides about monstrous children mentions Cain (Collmann 186-87). Why is Cain not evoked as often as we might expect?
+
+<!--Paragraph 5-->
+One reason may be that the monstrous children, although the result of sin, are not necessarily considered sinful in themselves. In fact, more than one of the ballads reads the monstrous child as itself sinless; for example, a 1562 ballad calls the baby "guiltlesse" despite his exhibition of "his parentes fault" (Lilly 28). A related reason may be a possible distinction between Catholic and Protestant readings of the story of Cain in Genesis. Luther's commentary on Genesis suggests that the mark placed on Cain by God may not have been a physical deformity: "It may have been that Cain's head and all his members constantly trembled . . ." (109). Sinfulness also exists in those without physical deformity. Associating a monstrous child with Cain militates against the interpreters' insistence that the child is a sign of more general sinfulness.<ref>The scientific revolution was beginning to offer non- theological explanations for birth defects. French physician Ambroise Paré, in his ''On Monsters and Marvels'' (first published in 1573), does not mention Cain. At the beginning of his book, he lists thirteen causes of monsters, of which only three are direct acts of God; among the other causes he lists is too much seed, which he says Hippocrates cites as a cause of both multiple births and "a monstrous child having superfluous or useless parts" (8).</ref> Finally, the Reformation shift from emphasis on allegorical biblical interpretation to emphasis on literal interpretation<ref>This shift is widely accepted; see J. W. Blench's ''Preaching in England in the late Fifteenth and Sixteenth Centuries'' (New York: Barnes & Noble, 1964, 1-70) for examples.</ref> may also help explain the relative lack of interest in Cain. The Reformers emphasize not the universal battle between good and evil, of which Cain's descendants or analogues comprise one side, but the monstrous child as yet another example of the word of God calling every individual to repentance and reform.
+
+<!--Paragraph 6-->
+Yet two recent books on broadside ballads classify ballads about monstrous children as non-religious. Tessa Watt defines the religious broadside narrowly, according to whether the broadside title contains one of several key terms: "God, religion, the pope, or papists" (47); Natascha Würzbach differentiates between religious ballads and "ballads of crimes and marvels" (67), although she does note that the "predominately moral-theological interpretation of prodigies in popular literature is clearly reinforced by the homiletic tradition . . ." (154). Despite both Watt's and Würzbach's categorizations, these ballads of monstrous children are religious in their use of standard hermeneutic practices to interpret their subjects. Thus, they represent one of many signs that hermeneutic principles and practices had escaped overtly religious applications; in other words, every aspect of the world—from politics to the weather—could be interpreted using hermeneutic principles. The treatment of these births as texts suggests that the Reformation encouraged a sense of universal textuality. In other words, all Protestants were encouraged to interpret all aspects of God's creation just as they were encouraged to interpret the Bible.
+
+<!--Paragraph 7-->
+In research, I have found fifteen broadsides about monstrous children from the sixteenth and seventeenth centuries, dated from 1562 to 1687. We can not know how many different broadsides about monstrous children were originally produced, but the similarities of this group suggest that fifteen represents an adequate sampling.<ref>Many broadsides are lost, probably forever. The difficulty of knowing how many broadsides were originally devoted to monstrous children is suggested by the following facts: Hyder Rollins's index of broadside ballads in the Stationers' Register includes 16 examples from the sixteenth century, of which only 5 are extant. (My search of the Stationers' Register suggests that Rollins's decision to exclude all citations that are not identified as ballads probably excluded some examples.) Carole Livingston's recent catalog of extant sixteenth-century English broadside ballads includes 9 about monstrous children; 3 do not appear in the Stationers' Register. Livingston believes that more than 4000 broadside ballads may have been produced between 1557 (the earliest year covered in the Register) and 1600, although the Register only lists about 2000 between those dates (32). An appendix lists the ballads and their sources.</ref> This group interprets events that seem true or at least probable in some cases—including a number of cases of conjoined twins—and apocryphal in others, the best example of which is "The Lamenting Lady" (Rollins, ''A Pepysian Garland'' 124-131), who has every reason to lament a multiple birth of 365 babies. For my purposes, whether the broadsides use sensational news as an excuse for religious commentary or religious commentary as an excuse for sensational news is unimportant. The link itself is significant, because the link suggests that nothing is separable from religion.
+
+<!--Paragraph 8-->
+These ballads present no new revelations; they reveal that bizarre—sometimes impossible—events are signs of widely accepted Christian beliefs. The ballad makers attach to tales of monstrous births interpretations that are derived from Reformation Protestant hermeneutic practice in both technique and content. Like Biblical commentaries, these broadsides generally follow a simple pattern of text and commentary. The text is composed of a woodcut of the monstrous child, usually shocking, and a description of the child's birth and monstrous nature (usually in prose), while the commentary is generally in the form of an interpretive ballad (with one exception in the sample of an all-prose broadside).
+
+<!--Paragraph 9-->
+Most of these ballads are not as interesting aesthetically as they are culturally. The presentation is often rudimentary, but the implications are wide ranging. The following ballad stanza instructs readers that stories in the Bible and outside the Bible can be interpreted in the same way—in this case, the message is that abnormalities of "kynde," or species, always signify God's wrath:
+
+<blockquote>
+<poem>
+By readinge stories we shall fynde
+In Scripture and elles-where,
+That when suche thinges came out of kynde,
+Gods wrath it did declare. (Lilly 203)
+</poem>
+</blockquote>
+
+This verse is accessible to a child, but the reader or listener, whether child or adult, will learn not only the latest sensational occurrence but also how interpretation works. Any deviation from what was considered "usual" or "normal" was read as a sign of God's wrath and sometimes also a sign that the end of the world was imminent.
+
+<!--Paragraph 10-->
+To classify ballads about monstrous children as religious rather than non-religious texts, we must recognize in these ballads hermeneutic principles as they were practiced in exegesis during roughly the first century of the English Reformation. The methodology of biblical interpretation in the English Renaissance is, perhaps surprisingly, something on which commentators of all Protestant sects agree. John Milton sums up the steps in biblical interpretation in ''On Christian Doctrine''. Milton's list of steps includes "examination of the context; care in distinguishing between literal and figurative expressions; consideration of cause and circumstance, of antecedents and consequents; [and] mutual comparison of texts" (14.265). Although Milton's list is from the seventeenth century, it is a compact form of earlier lists of the same elements by popular Puritan theologians such as William Perkins and William Gouge. The steps of Protestant hermeneutics clearly have much in common with earlier Catholic hermeneutics, but the Reformation emphasis on literal interpretation is a crucial difference. Also different is the Reformation insistence that every Protestant should interpret for himself, opposed to the Catholic clerical monopoly on interpretation. Broadside ballads about monstrous children reflect both the elements of Protestant hermeneutics and the popular nature of hermeneutics after the Reformation.
+
+<!--Paragraph 11-->
+One of the steps of Reformation hermeneutics, the "mutual comparison of texts," is crucial, both in interpretation of the Bible and in interpretation of Renaissance phenomena in relation to the Bible. As the sixteenth-century theologian Peter Martyr (Pietro Martire Vermigli) explains, "out of manie things severallie told, we understanding them to be alike, may gather thereby some profitable rule, to apply them to things generallie" (Vermigli I.49). In short, Protestants were encouraged not only to collate different scriptural texts as a way of understanding "that piece of scripture which is hard . . . by another part which is more plaine and easie" (Vermigli I.41), but also figuratively to collate scriptural texts with the texts of their lives.
+
+<!--Paragraph 12-->
+A comparison of broadside ballads about monstrous children to Milton's list of hermeneutic steps reveals that the sample ballads illustrate the use of these hermeneutic principles. All of the broadside ballads read monstrous births as signs from God, reflecting examination of the context; all of the texts also read the monstrous births as figurative expressions of human sinfulness, thus distinguishing between literal and figurative expressions. All of the texts either explicitly or implicitly consider cause and circumstance by suggesting that either the parents' sins or all humanity's sins are embodied in the monstrous child. Only six ballads explicitly compare the text of the child to particular biblical passages (a seventh compares the child to monsters in Ovid's ''Metamorphoses''), but all the texts could be said to practice "mutual comparison of texts," both by reading the child as a text in light of biblical passages linking monstrosity and sin and by comparing the text of the child's body to the text of the audience's lives. The ballads may seem like early examples of tabloid journalism, but they contain ample evidence of the extension of Protestant hermeneutics to extra-biblical "texts."
+
+<!--Paragraph 13-->
+The sample ballads reveal that this subgenre offers a limited number of related, and often conjoined, interpretations of monstrous children. Three interpretations are attached to the children in these ballads, although each ballad does not contain all three:
+
+<blockquote>
+'''(1)''' the monstrous child embodies the sins of the parents (if unmarried), and constitutes a specific warning;<br>
+'''(2)''' the monstrous child embodies the sins of the world (independent of the parents' marital state) and constitutes a general warning;<br>
+'''(3)''' the monstrous child embodies the sins of the world (independent of the parents' marital state) and constitutes a lesson about the practice of interpretation.
+</blockquote>
+
+<!--Paragraph 14-->
+The broader the interpretation of the monstrous child—as an embodiment of the sins of the world, not just the sins of the parents—the more clearly the child is a symbol of all humans. To Reformation Protestants, in comparison to unfallen humans or to angels or to the most unmonstrous of children, Jesus, humans are all "monstrous children." Although initially the monstrous child may seem different from the reader, ultimately the two are identified with each other. At the same time, however, the child represents the word of God and thereby is related to scripture.
+
+<!--Paragraph 15-->
+Thus, the child is both sign and text, a way of speaking and the thing said, and therefore an exemplum for interpretation. In this way also the monstrous child is akin to Jesus, as the following quotation from the sixteenth-century Reformation theologian Theodore de Beze suggests: "Christe himself is so geven unto us to be the only teacher of that trew and native wisedome: as that he teacheth himself untoo us. For he is both the teacher and the thing that is taught" (F8v-F9r). De Beze's statement presents Jesus in the same light as the monstrous children of these ballads; both Jesus and the children are the teacher and the thing taught, the sign and what it signifies.
+
+<!--Paragraph 16-->
+As noted above, these ballads display a range of options for interpretation. The number of details provided to create verisimilitude or a basis for interpretation varies dramatically, as does the explicitness of the hermeneutic principles displayed. In some cases, interpretation reflects the type of monstrosity. For example, in two cases writers interpret conjoined twins who face each other and apparently embrace as signifying the potential meaning of an embrace (Collmann 186-7, discussed below, and Rollins, ''The Pepys Ballads'' 3.288-90). In other cases, in which the interpretation is generic, any monstrosity could produce the same interpretation.
+
+<!--Paragraph 17-->
+Ballads that interpret monstrosity generically are like boilerplate documents, composed of standard, interchangeable pieces and interpretations. The extreme case is that of two ballads (Lilly 201-4 and 63-66) from different years (1562 and 1564), attributed to different authors (Jhon D. and John Barkar), produced by different printers (Leonard Askel and Wylliam Gryffith), and yet sharing an almost identical stanza:
+
+{| class="wikitable"
+|-
+! '''1562'''
+! '''1564'''
+|-
+| No caruer can, nor paynter maye,<br>The same so ougly make,<br>As doeth itself shewe at this daye,<br>A sight to make the[e] quake!
+| No caruer can, nor paynter then,<br>The shape more ugly make,<br>As itselfe dothe declare the truthe;<br>A syghte to make vs quake!
+|}
+
+From a modern point of view, this is plagiarism, but the stanzas reflect the relative uniformity of interpretation represented in these ballads.
+
+<!--Paragraph 18-->
+Four early Elizabethan ballads (1564-1568)—two about conjoined female twins and two about male deformed children—illustrate the range of interpretation, from generic comments on monstrosity to interpretations of particular monstrous manifestations. Two of the broadsides are relatively simple in their presentation and their interpretation. One, about conjoined twins born in North Hamptonshire ("The true fourme and shape of a monsterous Chyld," Collmann 113), presents first a prose description of the event that answers the questions a modern journalist would ask, followed by a three-stanza ballad about the necessity for interpretation of the human experience. The type of monstrosity is not significant in the ballad. The last sentence of the prose description introduces the ballad's generic didactic purpose: "[Various people can testify] that it [the monstrous child] is a Trouth and no Fable, But a warninge of/ God, to moue all people to amendment of lyfe" (Collmann 113).
+
+<!--Paragraph 19-->
+The ballad itself highlights both the gift of sight as a tool for observation and interpretation and the power of these conjoined twins as a warning from God, who "can in secretes shew the signe" (Collmann 113). The "secretes" demand interpretation to reveal God's lesson. In the second stanza, the reader/listener is admonished:
+
+<blockquote>
+<poem>
+And we that lyue to see this wonder, howe
+The gase is geuen, to make this meruaile great,
+Let one by one that this beholdeth nowe,
+Be warned as the wonder giues conceate:
+To liue to mende the wonderous shape we see,
+Contrarie much, in all that ought to bee. (Collmann 113)
+</poem>
+</blockquote>
+
+The writer, W[illiam] Elderton, insists on the connection between the power to observe ("The gase is geuen, to make this meruaile great") and the necessity of translating into action the interpretation arising out of observation. In this case, the action required is living righteously, which includes the need to avoid premarital sex. The prose description states that the "Chylde was borne out of Wedlocke"; although the writer does not state the obvious remedy—marry before you have children—the audience readily could draw that conclusion.
+
+<!--Paragraph 20-->
+A ballad about "a monsterous Chylde, borne in the Ile of Wight" in 1564 cites the nature of the monstrosity in the title—"a cluster of longe heare about the nauell" (Lilly 63), but this is also a generic ballad. Like the commentary about the North Hamptonshire conjoined twins, this ballad's commentary is not prompted by the type of monstrosity exhibited by the child: "All ye that dothe beholde and see this monstrous sight so straunge,/ Let it to you a preachyng be, from synfull lyfe to chaunge" (Lilly 65). It does move beyond the previous ballad, however, in urging the audience to see itself in the deformed child:
+
+<blockquote>
+<poem>
+For he that doth this shape beholde, and his owne state will knowe,
+Will make the proude pecocke so bolde, beare downe his tayll full lowe. (Lilly 66)
+</poem>
+</blockquote>
+
+The North Hamptonshire and Isle of Wight ballads present generic interpretations: monstrosity is a warning to reform sinfulness. The fact of monstrosity alone is interpreted, not the type of monstrosity.
+
+<!--Paragraph 21-->
+A broadside more self-conscious in its application of hermeneutic principles is "The true discription of two monsterous Chyldren" (Collmann 186-7), which interprets the birth of conjoined female twins in Kent in 1565. Unlike the North Hamptonshire ballad (but like the Ile of Wight ballad), the Kent ballad sees the birth of conjoined twins not as a unique sign, but as one of a group of signs: "The Monsterous and vnnaturall shapes/ of these Chyldren & dyuers lyke brought/ foorth in our dayes . . . these days of our forgetfulnes of duty" (186). These signs are not merely a judgment against the parents of the conjoined twins (who are not identified by name and marital status), but "lessons/ & scho[o]lynges" for vs all (as the word monster shewith*)/ who dayle offende as greuoufly as they [the child's parents] do . . ." (Collmann 186; italics mine). According to this reading, all humans are monstrous. The Kent ballad reads all the signs as "callyng vs . . . to repen/taunce and correction of manners" (Collmann 186).
+
+<!--Paragraph 22-->
+The 1565 Kent broadside refers to biblical passages, cited in the margins, in part to establish authority and in part to collate texts from the Bible with the text constructed from the birth of these conjoined twins. One biblical passage cited is the narrative in John 9 in which the disciples ask Christ whose sin is responsible for a man's blindness, to which Christ replies, according to the ballad writer, that the man is blind "to/ thend the glory of God myghte be declared on hym,/ and by him" (Collmann 186). This passage is also alluded to in another ballad ("The true discription of two monsterous children," Lilly 217-220). The choice of this passage highlights God's power as much as man's sin.
+
+<!--Paragraph 23-->
+Although this author does not present specific details about the number of limbs or other physical anomalies of the twins, he interprets the physical relation of the twins to each other—their apparent embrace—as a sign that can be read in two ways:
+
+<blockquote>
+And sure to hym that considereth/ as he ought to do, the great decay of harty loue and/ charytie . . . and had vewed and behelde the/ two babes, the one as it were imbrasynge the other,/ and lenynge mouth to mouth, kyssyng (as you wold/ say, one another:) it myght seeme that God by them/ eyther dooth vpbraide vs, for our faulse dyssemblynge/ and Iudas condycyons & countenaunces, in freynd/ly wordes, couerynge Caynes thoughtes and cogy/tacions, or els by theyr semblaunte and example, ex/horte vs to sincere amytie and true frendshyp, voyde/ of all counterfeytinge, or els bothe. (Collmann 186-7)
+</blockquote>
+
+This interpreter's willingness to present two antithetical and yet consistent interpretations as either or both true (a practice also found in other popular works, such as beastiaries) suggests that the link between text and interpretation is not rigid. Either interpretation is acceptable as long as it reflects generally accepted Protestant theology. This particular broadside is revelatory of method as well as matter; it suggests that multiple interpretations, within certain limitations, will satisfy broadside writers and purchasers.
+
+<!--Paragraph 24-->
+The same writer even anticipates that he may be charged with excessive interpretation:
+
+<blockquote>
+Neyther let any/ man thynke thys an obseruacyon ouer curyous, for/ as much as Christ him selfe hath by chyldren taught/ vs, that vnlesse we become lyke Chyldren, wee shall/ not come in the kyngdome of heauen. God make vs/ all chyldren in thys wyse, and perfect and well lerned/ men, to note and obserue to what ende he sendeth vs/ such sightes as these, that hereby (put in remebrauce/ the rather of our duties both to hym and our neygh/bours) we may atteyne to lyfe euerlastyng by Chryste/ our Lord. (187)
+</blockquote>
+
+This writer explicitly requires his audience to be both children and adults—in some sense, perhaps, to see themselves as both ''these'' children and the interpreters and reformers of them. In these broadsides, the monstrous child is a text. If the reader is identified with the child, however, then the reader becomes part of the text and must also read himself. Perhaps this should not be surprising considering that the Christian religion is built on paradox (e.g., the virgin birth, the need to die in order to live) and that these broadsides identify not only subjects of their narrative but also their audience as sinners who should reform themselves.
+
+<!--Paragraph 25-->
+In the 1565 Kent ballad, the writer interprets not only the general notion of monstrosity, but also the particular monstrosity represented by these conjoined twins. A broadside ballad from 1568 about a single monstrous child born in Kent provides a sharp contrast to the generality of the North Hamptonshire and Isle of Wight ballads discussed earlier; its explicitness and particularity have more in common with the 1565 Kent ballad. The 1568 Kent broadside includes an explicit prose description of the deformities of the male child and then, in the ballad itself, ties each anatomical abnormality to a vice in the English population, as the first two stanzas illustrate:
+
+<blockquote>
+<poem>
+This monstrous shape to thee, England,
+Playn shewes thy monstrous vice,
+If thou ech part wylt vnderstand,
+And take thereby aduice.
+
+For waying first the gaspyng mouth,
+It doth full well declare
+What rauine and oppression both
+Is vsed wyth greedy care. (Lilly 195)
+</poem>
+</blockquote>
+
+The writer of this ballad identifies various sins he sees around him (greed, blasphemy, idleness, rebellion against authority) with various defects of the child; although the child is said to have been born to a mother who "played the naughty packe" (Lilly 194) and produced this child out of wedlock, all sinners in England are indicted.
+
+<!--Paragraph 26-->
+Although these sample ballads may not exhaust the genre, they show that hermeneutic practice might lead either to generic or particularized interpretation, or to a combination of the two. This does not mean that misinterpretation was impossible; one ballad cites the mistaken interpretation of monstrous births by some people as a sign of approaching "good lucke" (Lilly 202). As noted above, however, standard interpretations apparently were never unacceptable as long as there was at least some connection between the text (monstrosity, in these cases) and standard Protestant biblical interpretations.
+
+<!--Paragraph 27-->
+Despite what I am claiming to be hermeneutic practices at work in these ballads, most of those I have examined do not explicitly refer to the Bible. Therefore, the six that do are especially interesting. One broadside ballad of that year of monstrous births, 1562, about a child born in Sussex ("A discription of a monstrous Chylde," Lilly 201-204), explicitly compares biblical texts—the stories of Noah, Lot, and Moses—that support the contention that
+
+<blockquote>
+<poem>
+When God for synne to plage hath ment,
+Although he longe defarde,
+He tokens truly straunge hath sent
+To make hys foes afearde . . . . (Lilly 201)
+</poem>
+</blockquote>
+
+The ballad maker calls his text of the Sussex child a "signe" produced "by printing arte" that preaches to each observer, just as all the other monstrosities, including this child, are "tokens now sent foorth/ To preache the later daye" (Lilly 203). Thus, the ballad maker is taking on the work of translating the three-dimensional sign of the monstrous child's body into the two-dimensional sign of a printed text. The writer, then, may be comparable to a writer of scripture.
+
+<!--Paragraph 28-->
+An apocalyptic broadside that uses monstrous children as only a single element in a larger picture is 1661's "News from Hereford" (Rollins, ''The Pack of Autolycus'' 81-6), which transplants from Bohemia to Hereford an older story<ref>The story behind "News from Hereford" is dated 1579 in a pamphlet cited in Rollins's ''The Pack of Autolycus'' (81) and was apparently relocated to Carlstadt, Germany, in a now lost broadside entered in the Stationers' Register on Feb. 13, 1606 (Rollins ''Analytical Index'' #517).</ref> that ties the birth of 3 children—who prophesy as soon as they are born—to other astonishing phenomena. The broadside's full title is
+
+<blockquote>
+<poem>
+News from Hereford.
+
+OR, A wonderful and terrible Earthquake: With a
+wonderful Thunder-clap, that happened on ''Tuesday''
+being the first of ''October'', 1661. Shewing how a
+Church-steeple and many gallant houses were thrown
+down to the ground, and people slain: With a
+Terrible Thunder-clap, and violent Storms of great
+Hailstone, which were about the bigness of an Egg,
+many Cattel being utterly destroy'd as they were
+feeding in the field. Also the wonderful
+Apparitions which were seen in the Air, to the great
+amazement of the Beholders, who beheld two perfect
+arms and hands; in the right hand being grasped a
+great broad sword, in the left a boul full of Blood,
+from whence they heard a most strange noise, to the
+wonderful astonishment of al present, the fright
+caused divers women to fall in Travail; amongst whom
+the Clerks wife, one ''Margaret Pellmore'', fell in
+labour, and brought forth 3 children, who had Teeth;
+and spake as soon as ever they were born, as you
+shall hear in the following relation, the like not
+known in any age. (Rollins, ''Pack'' 82-3)
+</poem>
+</blockquote>
+
+After presenting the tale in all its sensational detail, the ballad writer presents a simple and straightforward interpretation:
+
+<blockquote>
+<poem>
+What man is able in our England Land
+The meaning of these things to understand?
+It doth betoken anger great from God,
+How he will smite us with his heavy Rod. (Rollins, ''Pack'' 85)
+</poem>
+</blockquote>
+
+The writer insists that only prayer and repentance can prevent the commencement of wars (signified by the sword and the bowl of blood), sicknesses (signified by the children's words), and famine. This broadside is one of many of the whole genre of broadside ballads that present an apocalyptic interpretation of unusual events; the book of Revelation in the Bible is even alluded to in the broadside's voice from heaven that calls out: "wo, wo to man that draweth breath/ And the Inhabitants of all the Earth" (85; paraphrased from Revelation 12.12).
+
+<!--Paragraph 29-->
+In this broadside ballad, monstrous children are part of an apocalyptic package, but they differ from the monstrous children presented in the earlier broadsides only in that they speak literally as well as figuratively—with words as well as their forms. However, figuratively the monstrous children in all of these broadsides speak, through the ballad writers, with the voice of God. These broadside ballads are just one of many media through which popular hermeneutics identified and interpreted the word of God and, therefore, placed the audience in the position of being both the text interpreted and the interpreters of that text.
+
+<!--Paragraph 30-->
+One implication is that the writers of these broadsides assumed that anything is a potential text for exegesis using standard hermeneutic principles; therefore, the comparison of texts that is one step in the practice of hermeneutics means not simply comparison of Bible verses and/or of other graphic texts, but also of graphic texts and other objects. Broadsides are not the only medium through which "monstrous children" were read during the Renaissance. In an essay in an exhibition catalog, ''The Age of the Marvelous'', Joy Kenseth describes collections of the rare, the exotic, and the marvelous that were common in the sixteenth and seventeenth centuries and were called cabinets of curiosities or "''Kunst- und Wunderkammern'' (rooms of art and marvels)" (82). They were assembled not only by monarchs and aristocrats, but also by various professionals, including educators. These collections mixed the natural and the artificial, the ridiculous and the sublime, serving as visual representations of the variety of God's creation. The fact that children were taken to view these collections for pedagogical reasons (Kenseth 88) is a sign that the collections not only reproduced the variety of the world, but that they were seen as keys to understanding the world, as a way of fulfilling the Christian impulse to study God through his creation. Among the items Kenseth describes from such collections are "the preserved remains of infant Siamese twins" (90).
+
+<!--Paragraph 31-->
+These "preserved remains," whether literal or figurative texts, affirm that during the English Reformation everything is a sign, and everything is readable in relation to the Bible. All texts are eventually traceable back to God, as the voice in the "News from Hereford" ballad reproduces the words of God in the Book of Revelation. For reformers and for some portion of the population, the world was a three-dimensional text. The source of this universal textuality is, of course, the Bible. Reading a set of conjoined twins as a text is no different from Paul's reading of his followers in 2 Corinthians:
+
+<blockquote>
+<poem>
+You yourselves are our letter of recommendation,
+written on your hearts, to be known and read by all
+men; and you show that you are a letter from Christ
+delivered by us, written not with ink but with the
+Spirit of the living God, not on tablets of stone
+but on tablets of human hearts. (3.2-3)
+</poem>
+</blockquote>
+
+An image from Revelation foreshadows the sign and text of the monstrous children: the word of God issuing as a sword from the mouth of the Son/Word ("and out of his mouth went a sharp two-edged sword" [1.16]; "And out of his mouth goeth a sharp sword, that with it he should smite the nations" [19.15]). This sword issuing from the mouth of the Son/Word represents the same conjunction of text/deformity/warning that is embodied by the monstrous children.
+
+<!--Paragraph 32-->
+The reading of these children might be illuminated by a passage in the gospel of Matthew, in which Jesus responds to a request from the Pharisees for a sign by comparing the text of the book of Jonah to his own life:
+
+<blockquote>
+. . . An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
+
+For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
+
+The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here. (12.39-41)
+</blockquote>
+
+In the Book of Jonah, the sailors who throw Jonah in the sea, where he is swallowed by the monstrous "great fish," believe that Jonah is the sinner, the monstrosity, just as the Pharisees see Jesus as the sinner, and thus the monstrosity. As the Word made flesh of the gospel of John, Jesus is the same type of monstrosity as the monstrous children of the broadside ballads, who are also the word made flesh. Just as the broadsides rely on paradox, the relation between the Word and the monstrous children is also paradoxical; although the monstrous children are like Jesus in being the word made flesh, they are opposed to his perfection in their imperfection.
+
+<!--Paragraph 33-->
+In the essay "Structure, Sign and Play in the Discourse of the Human Sciences," Jacques Derrida describes a new form of interpretation as "the as yet unnameable which is proclaiming itself and which can do so, as is necessary whenever a birth is in the offing, only under the species of the non-species, in the formless, mute, infant, and terrifying form of monstrosity" (154). Perhaps Derrida's choice of monstrosity as the form of a new kind of interpretation is ironic in light of the interpretations practiced on the monstrous children of the broadside ballads; perhaps his choice is ironic in light of the association of the "word" in Revelation with monstrosity. Clearly, however, in these English Renaissance broadside ballads, monstrosity is a form of revelation attached to standard interpretations, and all the ballad writers represented in this sample—whether they wrote for monetary or spiritual reasons—know and use the forms of contemporary Protestant hermeneutics.
+
+<!--Paragraph 34-->
+The practice of interpretation in Reformation England is a more significant issue, finally, than monstrosity. The interest of these ballads—and others about monstrous fish, monstrous pigs, and other anomalies—seems to me heightened because monstrosity comes to stand for human sinfulness. But the most significant conclusion I derive from these ballads is that they present repeated and congruent examples of popular interpretation at work. They show that the standard Reformation system of biblical hermeneutics was part of the popular consciousness as early as the 1560s and that the system was used consistently in popular ballads for more than 100 years. They also suggest, through what we might call their discourse of meta-interpretation, that interpretation itself was a topic of interest to some broad segment of the public.
+
+== Appendix: Broadside Ballads of Monstrous Children ==
+
+{| class="wikitable"
+|-
+| April 1562
+| "The true reporte of the forme and shape of a monstrous Childe borne at Muche Horkesleye" (Lilly 27-30)
+|-
+| May 1562
+| "A discription of a monstrous Chylde, borne at Chychester in Sussex" (Lilly 201-4)
+|-
+| October 1564
+| "The true description of a monsterous Chylde, borne in the Ile of Wight" (Lilly 63-66)
+|-
+| 1565
+| "The true fourme and shape of a monsterous Chyld, Which was borne in Stony Stratforde, in North Hamptonshire" (Collmann 113)
+|-
+| 1565
+| "The true discription of two monsterous Chyldren Borne at Herne in Kent" (Collmann 186-87)
+|-
+| April 1566
+| "The true discription of two monsterous children . . . borne in the parish of Swanburne in Buckynghamshyre" (Lilly 217-20)
+|-
+| June 1566
+| "The true Discription of a Childe with Ruffes, borne in the parish of Micheham, in the countie of Surrey" (Lilly 243-46)
+|-
+| December 1568
+| "The forme and shape of a monstrous Child, borne at Maydstone in Kent" (Lilly 194-97)
+|-
+| 1620(?)
+| "The Lamenting Lady" (Rollins, ''Pepsyian Garland'' 124-131)
+|-
+| 1637(?)
+| "The two inseparable brothers" (Rollins, ''Pack'' 10-14)
+|-
+| 1661
+| "News from Hereford" (Rollins, ''Pack'' 82-86)
+|-
+| 1664
+| "Nature's wonder" (Rollins, ''Pack'' 140-45)
+|-
+| 1677
+| "True wonders and strange news" (Rollins, ''Pack'' 191-94)
+|-
+| 1677
+| "The world's wonder" (Rollins, ''Pack'' 195-99)
+|-
+| 1687
+| "The wonder of this present age" (Rollins, ''Pepys Ballads'' 3.288-90)
+|}
+
+== Notes ==
+{{reflist}}
+
+== Works Cited ==
+
+* Bandy, Stephen C. "Cain, Grendel, and the Giants of ''Beowulf''." ''Papers on Language and Literature'' 9 (1973): 235-49.
+* ''A Collection of Seventy-Nine Black-Letter Ballads and Broadsides, Printed in the Reign of Queen Elizabeth, Between the Years of 1559 and 1597.'' London: Joseph Lilly, 1867.
+* Collmann, Herbert L., ed. ''Ballads & Broadsides chiefly Of the Elizabethan Period''. [Research and Source Works Series 747]. New York: Burt Franklin, 1971.
+* de Beze, Theodore. ''A Booke of Christian Questions and Answers''. Tr. A. Golding. London, 1572.
+* Derrida, Jacques. "Structure, sign and play in the discourse of the human sciences." ''Twentieth- Century Literary Criticism: A Reader''. Ed. K. M. Newton. New York: St. Martin's, 1988.
+* Kenseth, Joy. "'A World of Wonders in One Closet Shut.'" ''The Age of the Marvelous''. Ed. Joy Kenseth. Hanover, NH: Dartmouth College, 1991. 80-102.
+* Livingston, Carole Rose. ''British Broadside Ballads of the Sixteenth Century'': ''A Catalogue of the Extant Sheets and an Essay''. [Garland Reference Library of the Humanities, Vol. 1390]. New York: Garland Publishing, 1992.
+* Luther, Martin. ''Luther's Commentary on Genesis''. Tr. J. Theodore Mueller. 2 vols. Grand Rapids, MI: Zondervan Publishing House, 1958.
+* Milton, John. ''On Christian Doctrine''. ''The Works of John Milton''. Ed. Frank Allen Patterson. 18 vols. New York: Columbia UP, 1931-1938.
+* Paré, Ambroise. ''On Monsters and Marvels''. 1573. Tr. & ed. Janis L. Pallister. Chicago: U of Chicago P, 1982.
+* Rollins, Hyder E., ed. ''An Analytical Index to the Ballad-Entries (1557-1709) in the Registers of the Company of Stationers of London''. ''Studies in Philology'' 21 (1924): 1-324.
+* ---, ed. ''The Pack of Autolycus or Strange and Terrible News Of Ghosts, Apparitions, Monstrous Births, Showers of Wheat, Judgments of God, and other Prodigious and Fearful Happenings as told in Broadside Ballads of the Years 1624-1693''. Cambridge: Harvard UP, 1927.
+* ---, ed. ''The Pepys Ballads''. 8 vols. Cambridge: Harvard UP, 1929-32.
+* ---, ed. ''A Pepysian Garland: Black-Letter Broadside Ballads of the Years 1595-1639 Chiefly from the Collection of Samuel Pepys''. Cambridge: Cambridge UP, 1922.
+* ''Transcript of the Registers of the Company of Stationers of London, 1554-1640 A.D.'' Ed. Edward Arber. 4 Vols. London: 1876; rpt. Gloucester, MA: Peter Smith, 1967.
+* Vermigli, Pietro Martire. ''The commonplaces of the most famous and renowned Divine Doctor Peter Martyr, divided into foure principall parts: with a large addition of manie theological and necessarie discourses''. 4 vols. Tr. Anthonie Marten. London, 1583.
+* Watt, Tessa. ''Cheap Print and Popular Piety 1550-1640''. [Cambridge Studies in Early Modern British History]. Cambridge: Cambridge UP, 1991.
+* Würzbach, Natascha. ''The Rise of the English Street Ballad, 1550-1650''. Tr. Gayna Walls. 1981; Cambridge: Cambridge UP, 1990.
+
+{{BookCat}}
