@@ -1,0 +1,253 @@
+''This essay was written by Huw Griffiths''.
+
+<blockquote>
+… to restore Britain to its Antiquities, and its Antiquities to Britain, to renew the memory of what was old, illustrate what was obscure, and settle what was doubtful, and to recover some certainty in our affairs.<ref>This translation of the original 1586 ''Britannia'' is from Graham Parry, ''The Trophies of Time: English Antiquarians of the Seventeenth Century'', (Oxford: Oxford UP, 1995) 25. Camden repeats these sentiments in his introduction to Philemon Holland’s 1610 English translation of the ''Britannia''—“I hope that it shall be to no discredite, if I now use againe by way of Preface, the same words with a few more, that I used twenty foure yeeres since in the first edition of this worke. Abraham Ortelius the worthy restorer of Ancient Geographie arriving heere in England, above thirty foure yeares past, dealt earnestly with me that I would illustrate this Ile of BRITAINE, or (as he said) that I would restore antiquity to Britaine, and Britaine to its antiquity, which was as I understood, that I would renew ancientrie, enlighten obscuritie, cleare doubts, and recall home Veritie by way of recovery, which the negligence of writers and credulitie of the common sort had in a manner proscribed and utterly banished from amongst us.” ''Britain, or a Chorographicall Description of the Most flourishing Kingdomes, England, Scotland, and Ireland'' trans. Philemon Holland (London: George Bishop and John Norton, 1610) 4.</ref>
+</blockquote>
+
+<!--Paragraph 1-->
+At the beginning of the ''Britannia'', William Camden gives the above as the motivations behind his antiquarian project. These are, in other words, to present Britain or England with an image of its past on which to base a more certain national future, to secure a coherently British identity by way of searching into British origins. Of course what we are more likely to find in such excavations, and Camden is no exception, is precisely the lack of any firm foundation. Camden’s etymologies of the nation are always unsure and the antiquarian project is never quite finished. The ruins and fragments of the past may live on into the present but the stories that they provide us with are never wholly consistent. Early modern antiquarianism, whilst it sets out to discover the truth, to bring the nation’s origins to light, is in fact constantly embroiled in refutations and counter refutations of various accounts of the nation’s ancient past. That Camden is restating an English national identity by referring to “Britannia” is itself indicative of the ironies and inconsistencies that are present in the antiquarian project.
+
+<!--Paragraph 2-->
+To some extent, the poem that is the chief subject of this paper shares Camden’s aims as he states them. It is a reworking of contemporary English history in the light of an older Roman-British inheritance. In fact, in “The Ruines of Time,” Spenser celebrates Camden’s contribution to the national culture in the very terms with which Camden himself presents his own project. “Cambden, the nourice of antiquitie,” he calls a
+
+<blockquote>
+<poem>
+… lanterne unto late succeeding age,
+To see the light of simple veritie,
+Buried in ruines, through the great outrage
+Of her owne people, led with warlike rage,
+Cambden, though time all moniments obscure,
+Yet thy just labours ever shall endure.<ref>Edmund Spenser, “The Ruines of Time” in ''The Yale Edition of the Shorter Poems of Edmund Spenser'' eds. William A. Oram, Einar Bjorvand, Ronald Bond, Thomas H. Cain, Alexander Dunlop, and Richard Schell (New Haven: Yale UP, 1989) lines 170–175. Line numbers will be printed within the text from now on. I have used this particular edition because it is the most convenient printing of Spenser’s shorter poems also to include the poems he wrote in his early career from the ''Theatre for Worldlings'', alongside the emblematic illustrations.</ref>
+</poem>
+</blockquote>
+
+Camden does mention the location of the poem, Verulamium, in the ''Britannia'' and it is likely that Spenser would have used Camden as a kind of source. Camden’s initial assessment of the site matches the sentiment of Spenser’s complaint poem:
+
+<blockquote>
+… there remaineth nothing of it to be seene, beside the few remaines of ruined walles, the checkered pavements, and peeces of Roman coine other whiles digged up there.<ref>''Britain'' 408.</ref>
+</blockquote>
+
+However it is, I believe, significant that in “The Ruines of Time,” Spenser fails to pick up on what, for Camden, was the chief interest of the location:
+
+<blockquote>
+… it was famous for nothing so much as bringing forth Alban a citizen of singular holinesse and faith in Christ, who when Dioclesian went about by exquisite torments to wipe Christian religion quite out of the memory of men, was the first in Britain that with invincible constancy and resolution suffered death for Christ his sake.<ref>''Britain'' 409.</ref>
+</blockquote>
+
+The transformation of Roman Verulamium into British St. Albans is not alluded to in Spenser’s text. This seems particularly odd when placed alongside the other thematic concern of the poem—a celebration of England’s latter-day martyr—Sir Philip Sidney. However, the broadly nationalist project of something like the ''Britannia'' is, I’m going to go on to argue, opened up by two ironic movements in Spenser’s poem. To resolve the difficult hermeneutic problems posed by the Roman ruins which, in both Camden and Spenser, are reduced to nothing and yet are memorable at the same time, would be to resolve the complex ironies that cut right through “The Ruines of Time.” St. Alban was perhaps too easy a way out for Spenser’s uneasy relationship with the nation.<ref>In ''Poly-Olbion'' (1613), Michael Drayton does include the story of St. Alban’s into his chorographical presentation of the area. In the illustrations to Book XVI he writes, “As under the Romans, so in Saxon times afterward it [Verulamium, which Drayton calls Verlamcestre] endured a second Ruine: and, out of its corruption, after the Abbey erected by K. Offa, was generated that of Saint Albons; whither, in later times most of the stone-workes and whatsoever fit for building was by the Abbots translated.” Drayton then quotes Spenser’s “Ruines of Time:” “Now remaines no Memorie,/Nor any little moniment to see.” ''The Works of Michael Drayton,'' ed. J.W. Hebel, Kathleen Tillotson, B.H. Newdigate (Oxford: Blackwell, 1961). Even though it seems that, for Drayton, there is an end to the processes of translation in the formation of St. Alban’s, a monument to the first British martyr, he still operates in the no man’s land occupied by Spenser and Camden in which national history is both obliterated from the landscape, and available to memory at the same time.</ref>
+
+<!--Paragraph 3-->
+The two ironic movements that I want to talk about in relation to “The Ruines of Time” are the trope of the ruin and the troping mechanism of translation. In turn, both these movements will be looked at in relation to the Elizabethan development of a national geography. So, whilst this paper has a particularly narrow focus—one relatively obscure poem by Edmund Spenser—I believe it to have broader significances in a wider project that might seek to interrogate the notion of translation within the national cultures of the early modern period. One way of performing that interrogation of translation within a nationalist context is to rethink translation in spatial terms. Homi Bhabha has written on this in a postcolonial framework in his essay, “How Newness Enters the World.” There he talks about “the disjunctive temporality of translation” which “reveals the intimate differences between genealogies and geographies.”<ref>Homi Bhabha, ''The Location of Culture'' (London: Routledge, 1994) 235.</ref> The movement of a translation across borders reveals the ironies of the nationalist project, rooted in heredity—the ancient history of the nation. Translation’s “disjunctive temporality,” crossing and marking the borders of time and space, renders ironic a national history based on self recognition and continuity. The spatial implications of the word “translation” of course have a history that extends beyond postmodern critique, and the paper will also look at the functioning of the early modern ''translatio imperii'' in Spenser’s poem.
+
+<!--Paragraph 4-->
+Accompanying this movement I want to look at the visual trope of the ruin. Whilst apparently representing a firm indication of the nation’s ancient credentials—its eternal presence in the land—it rather opens up new ironies of interpretation. As Anne Janowitz writes in her ''Ruins in the Landscape'',
+
+<blockquote>
+Though the spectacle of ruins in the landscape offers evidence of a nation possessed of a long history, the materials that ruinists draw on to make figures may produce different meanings within some other group’s imagination. The detritus of a Scottish castle may remind the Scottish viewer most powerfully of a defeat suffered, while Martello towers assert to the Irish the continuous and material presence of English domination.<ref>Anne Janowitz, ''England’s Ruins: Poetic Purpose and the National Landscape'' (Oxford: Blackwell, 1990) 3.</ref>
+</blockquote>
+
+For Janowitz, ruins are no firm foundation on which to build a unified nation. They invite competing and contradictory narratives of national origin. Both ruins and translation then indicate movements beyond borders, both spatial and temporal. Living on into new contexts, they are both anachronistic and ironic. If, as Richard Helgerson says, it is the nation’s “fundamental sense of its distinguishing and enabling self-likeness”<ref>Richard Helgerson, ''Forms of Nationhood'' (Chicago: Chicago UP, 1992) 301.</ref> that is at the heart of any project of national affirmation, then both translation and the ruin disrupt that process of self recognition. The narcissism of national identification is revealed as ironic. The nation’s heritage—its old buildings as well as its works of literature—are revealed as sites of possible invasion, rather than the location of the nation’s self-affirming triumphalism. The ruin places under question the notion of history as a sequential narrative, whilst at the same time insisting on its own historicity. Like translation, the ruin is something that moves beyond its immediate contexts, inviting endless interpretations. If translation crosses spatial borders but inscribes itself in language as a kind of temporal replacement—one text for the other—then the ruin inscribes itself in space as the disturbances attendant on temporality. In forming the space of the nation, the ruin marks and crosses its temporal boundaries, just as translation crosses geographical borders while at the same time marking those borders. They both “pose the question” of the border, interrogating the nation at its supposed origins and in its apparent self-identification.<ref>It is from the work of Derrida that I take the idea of “posing the question of the border.” In his essay, “Living On: Borderlines,” which is explicitly concerned with translation, he writes, “I wish to pose the question of the bord, the edge, the border, and the bord de mer, the shore.” (J. Derrida, “Living on: Borderlines” in ''Between the Lines: A Derrida Reader'', ed. P. Kamuf, New York 1991). Britain’s shoreline, as available in Elizabethan England, is an interesting location in which to place Derrida’s spatial figurations of translation.</ref>
+
+<!--Paragraph 5-->
+At the beginning of “The Ruines of Time,” the narrator comes across a weeping woman by the side of the Thames and fails to recognise her—either a nymph of the river weeping for a lost love, one of the three fates or the ''genius loci'' of the ancient city of Verulamium, which is apparently whereabouts on the Thames the narrator is standing. The position of the narrator is itself an interesting translated geography as the Thames does not flow through where Verulamium stood, something of which Spenser must have been aware through Camden’s research in the ''Britannia''. Camden suggests that the Thames may have changed its course since Roman times, although he eventually rejects this theory. Spenser alludes to it later in the poem claiming that the Thames has deserted the old Roman city as it faded in glory.
+
+<blockquote>
+<poem>
+Seemes that that gentle River for great griefe
+Of my mishaps, which oft I to him plained;
+Or for to shunne the horrible mischiefe,
+With which he saw my cruell foes me pained,
+And his pure streames with guiltles blood oft stained,
+From my unhappie neighbor hood farre fled,
+And his sweete waters away with him led. (141–147)
+</poem>
+</blockquote>
+
+The shifting river seems to imply a comparison between the ancient and glorious city of Verulamium and the modern London. Whereas previously, Verulamium had surpassed Troynovant (London) the situation is now reversed, not necessarily for the better. Where the narrator is standing is unclear—he is both by the Thames, and at the scene of its departure. His position is linked then to the ruins of the Roman past in the English present—they are both obliterated and yet memorable.
+
+<!--Paragraph 6-->
+The ''genius loci'', for that is what she turns out to be,<ref>The identity of the weeping woman is in fact not so fixed as this simple identification suggests. She exceeds the boundaries of her city to encompass alternate identities—the weeping woman in Jerusalem from the Psalms, Petrarch’s mournful and lovelorn sonneteer, a Babylonish representation of Rome, Empire or Church. This is part of the way in which the poem is the production of the translating processes that I want to illustrate. The weeping woman’s constantly shifting identity emerges from the confluence of many textual traces in “The Ruines of Time.”</ref> then takes over the narration for the majority of the poem up until a final section which consists of a series of visionary tableaux in the ''contemptus mundi'' tradition found in “The Ruines of Time,” “The Visions of Bellay” and “Visions of Petrarch,” and of course at the start of Spenser’s publishing career in Jan van der Noot’s ''Theatre for Worldlings'' (1569).
+
+<!--Paragraph 7-->
+As part of her lament for her fallen, ruined city—the central and main part of the poem—the genius figure repeats some of the ''contemptus mundi'' topoi of the other poems in the ''Complaints'' volume, anticipating also the emblematic set pieces at the end of the poem. In doing so, the notion of the ''translatio imperii'' becomes included within an encompassing vision of ultimate ruin and decay.<ref>The ''translatio imperii'' is a medieval idea, developed after the transfer of temporal power, away from Rome to the emperor, under Charlemagne in the ninth century. Its chief theorist was the twelfth century Otto von Friesing. This was re-activated by numerous writers in the Renaissance, but most notably around the figure of the Holy Roman Emperor, Charles V. See Frances Yates, ''Astraea: The Imperial Theme in the Sixteenth Century'' (London: Routledge and Kegan Paul, 1975) and Karlheinz Stierle, “''Translatio studii'' and Renaissance: From Vertical to Horizontal Translation” in Sanford Budick and Wolfgang Iser eds., ''The Translatability of Cultures: Figurations of the Space Between'' (Stanford: Stanford UP, 1996) for a discussion of the ''translatio imperii'' that relates it to the humanist retrieval of classical knowledge and the development of a specifically renaissance understanding of translation.</ref>
+
+<blockquote>
+<poem>
+What nowe is of th'Assyrian Lyonesse,
+Of whome no footing now on earth appeares?
+What of the Persian Beares outragiousnesse,
+Whose memorie is quite worne out with yeares?
+Who of the Grecian Libbard now ought heares,
+That overran the East with greedie powre,
+And left his whelps their kingdome to devoure? (64–70)
+</poem>
+</blockquote>
+
+The standard transfer of temporal power westwards that forms the notion of the ''translatio imperii'' is rehearsed here—from Assyria, through Persia and on to the Greeks and then, of course, to Rome. Spenser moves on to Rome in the next stanza, but the language is conventionally ambiguous as to whether it refers to the Roman Empire of antiquity or to the fallen Roman Church.
+
+<blockquote>
+<poem>
+And where is that same great seven headded beast,
+That made all nations vassals of her pride,
+To fall before her feete at her beheast,
+And in the necke of all the world did ride?
+Where doth she all that wondrous welth now hide?
+With her own weight down pressed now shee lies,
+And by her heaps her hugenesse testifies. (71–77)
+</poem>
+</blockquote>
+
+This is clearly written within a reformation tradition which conflates the Roman Empire with the Church of Rome, associating them both with the imagery of the thirteenth chapter of the Book of Revelation. These connections have already been indicated in the animals associated with the other empires. The notes to the Geneva Bible make the same identifications between animal and empire that Spenser repeats here. These identifications between animal and empire are also made in the Old Testament of the Geneva Bible in Daniel 7:3–7.<ref>The context in which these comparisons are being made is Daniel’s vision in chapter seven. The Geneva Bible makes it explicit that the monster that he sees is the Roman Empire, “which was a monster, and could not bee compared to any beast, because the nature of none was able to expresse it.” It is the mark of the distance between the protestant project of the Geneva Bible and the nationalist protestant contexts of Spenserian verse that in “The Ruines of Time” Spenser is a little more ambivalent about the status of Rome than the vehement commentators in the Geneva Bible.</ref>
+
+<!--Paragraph 8-->
+As well as this though, it is an example of what I want to call a “translated geography,” a term which I use to indicate the irony of a location which lives on beyond its boundaries—boundaries which are both temporal and spatial. The ruins of the Roman empire are the foundations for the Roman church. And yet, as the next stanza of “The Ruines of Time” makes clear, these ruins can always be interpreted differently, leaving an ironic gap in the poem’s treatment of the trope of the ruin. The ''contemptus mundi'' tradition encapsulates a lament for worldly failing, a regret for the passing of time, as well as an invocation to look beyond the worldly and the temporal towards the spiritual and the eternal. From implicit criticism of Rome’s vainglory then, the narrator moves on to express regret for the passing of the Roman empire in the next stanza, bringing that regret within a specifically British context.
+
+<blockquote>
+<poem>
+O Rome thy ruine I lament and rue,
+And in thy fall my fatall overthrowe,
+That whilom was, whilst heavens with equall vewe
+Deignd to behold me, and their gifts bestowe,
+The picture of thy pride in pompous shew:
+And of the whole world as thou wast the Empresse,
+So I of this small Northerne world was Princesse. (78–84)
+</poem>
+</blockquote>
+
+The movement in the ''contemptus mundi'' between regret for the passing of worldly splendour and the denigration of worldliness is analogous here with the attitude towards Rome in the poem. The Roman Empire as origin of and justification for the inheritance of the ''translatio imperii'' on the one hand and, on the other, Rome as the opposition, the Antichrist.
+
+<!--Paragraph 9-->
+The genius of Verulamium links her own city’s fate with that of the Roman empire, whilst at the same time in the final analogue of this stanza, there is an ironic play in the relationship between the two locations. Although within the movement of the poem, Britain is seen here to be part of the ''translatio imperii'' as it moves progressively westwards (Syria–Persia–Greece–Rome–Britain/England), that is also undermined at the same time by the difference between an empress and a northern princess.
+
+<!--Paragraph 10-->
+As Frances Yates made abundantly clear in her book, ''Astraea'', the adoption of the ''translatio imperii'' was clearly part of Elizabeth’s ongoing imperial pretensions and projections. This northern princess, as well as being the ''genius loci'' of Britain’s greatest Roman city, is easily identifiable as Elizabeth at this point in the poem. The idea of the northern Princess is underwritten here by Elizabeth’s imperial Astraean imagery. It has clear links with an example used by Frances Yates in her catalogue of Elizabeth’s Astraean imagery—this time from ''A Midsummer Night’s Dream''. The fact that the reference in that play to “a fair vestal, throned by the West” is so readily understood as Elizabeth is an indication of the all-pervasiveness of Astraean imagery in Elizabethan culture.<ref>''Astraea'' 77.</ref>
+
+<!--Paragraph 11-->
+In conventional usage the ''translatio imperii'' is understood in genealogical terms, over and above the geographical shifts westwards that are also encompassed within its development. It is a temporal “translation,” one empire replacing another as the mantle of empire is inherited. And yet, when we come to the stanza that directly compares the city of Verulamium to Rome, we have a marked spatial displacement—the movement northwards and westwards of the ''translatio imperii'' is exaggerated as it arrives in the island nation of England, cut off from the rest of the world. At the same time, though, Verulamium is within the Roman Empire.
+
+<!--Paragraph 12-->
+It is in the context of a disjunction between temporality and spatiality that I want to understand the island nation as a “translated geography.” In the complex formulation of England and/or Britain as an imperial island nation, those boundaries are always found to be elsewhere, both temporally and geographically. As much as the trope of the island nation helps form the enclosed space of a triumphal national or even imperial unity, it is also already implicated in histories of invasion and of translation. It is the sense of anachronism that is attendant on translation that is important here—England/Britain is an anachronistic Rome. It doesn’t quite fit. Homi Bhabha’s “intimate differences between genealogies and geographies” are all too obvious in England’s inheritance of the imperial crown at this stage of “The Ruines of Time.” Translation’s “disjunctive temporalities” cannot accommodate such an inheritance. It is belated. Thomas Greene’s work in ''The Light in Troy'', which discusses Renaissance ''imitatio'' as an anachronism, is relevant here.<ref>Thomas M. Greene, ''The Light in Troy: Imitation and Discovery in Renaissance Poetry'' (New Haven: Yale UP, 1982). See especially chapter three, “Imitation and Anachronism.”</ref> The sense of historical relativism engendered by the renaissance awareness of anachronism, itself produced in an inability adequately to match a classical inheritance, is what facilitates the kinds of ironies in Spenser’s poem. Translation is one branch of renaissance ''imitatio''—an attempt to recover the past for the present which always fails before it starts. For Greene, the distance between antiquity and the fifteenth century made of Petrarch a “double exile.” At the same time as the renaissance discovers itself in the past, it realises the impossibility of making good on that discovery in the present. The work of ''imitatio'' was to recover identity from the irony of that “double exile”:
+
+<blockquote>
+Renaissance imitation at its richest became a technique for creating etiological constructs, unblocking—within the fiction of the work—the blockages in transmission which created humanist pathos.<ref>''The Light in Troy'' 19.</ref>
+</blockquote>
+
+In Spenser, the emergent sense of national identity that is the stuff of ''imitatio'', is heavily ironised in its failure to materialise. The anachronism of the humanist project receives more weight here than its commitment to stabilising the word in the present.
+
+<!--Paragraph 13-->
+It is then in the area of anachronism that we might want to link the trope of the ruin to translation—they are both structures which live on beyond their proper contexts and in the process they open up opportunities for a critique of the here and now (the self evident presence of the present). They undermine the teleologies of the national narratives of self-recognition and arrival. In England, the British Roman past lives on in its ruins—inadequate monuments though for an imperial future.
+
+<!--Paragraph 14-->
+“The Ruines of Time” does seem to display a particular anxiety around the idea of missing physical reminders of a past national history. These anxieties centre on the poem’s use of the word “moniment.” The word “moniment” is an archaic form of the current word “monument,” but which also encompasses the sense of “admonishment”—a warning sign or guidance. It is also a word that Spenser seems to prefer over the more common “monument” throughout his writing. “The Ruines of Time” makes use of this word throughout the poem, almost as a kind of motif. The initial narrator complains that there is nothing left of Verulamium—“Nor anie little moniment to see” (5). In telling the story of her invasion by the Saxons, the figure of Verulam talks of the killing of the Saxon general, “The moniment of whose sad funerall, / For wonder of the world, long in me lasted; / But now to nought through spoyle of time is wasted” (117–119). The figure goes on to complain that her fame has died as no one recalls her name any longer, except, she says, one man—William Cambden, “the nourice of antiquitie”—“Cambden, though time all moniments obscure, / Yet thy just labours ever shall endure” (174–175). The next stanza goes on to compare the fate of Verulamium with the fate of the Dudleys and Sidneys, also unfairly forgotten.
+
+<blockquote>
+<poem>
+But whie (unhappy wight) doo I thus crie,
+And grieve that my remembrance quite is raced
+Out of the knowledge of posteritie,
+And all my antique moniments defaced?
+Sith I doo dailie see things highest placed,
+So soone as fates their vitall thred have shorne,
+Forgotten quite as they were never borne. (176–182, my emphasis)
+</poem>
+</blockquote>
+
+This refers explicitly to the downfall and death of Robert Dudley, the Earl of Leicester. Leicester’s demise is treated two stanzas later with a level of hyperbole and kitsch that even this poem rarely reaches.
+
+<blockquote>
+<poem>
+I saw him die, I saw him die, as one
+Of the meane people, and brought forth on beare,
+I saw him die, and no man left to mone
+His dolefull fate, that late him loved deare:
+Scarse anie left to close his eylids neare;
+Scarse anie left upon his lips to laie
+The sacred sod, or Requiem to saie. (190–196)
+</poem>
+</blockquote>
+
+Annabel Patterson has written that it is possible to identify two different types of nationalism in Spenser’s ''The Shepheardes Calendar''. One is the whole-hearted celebration of Elizabeth of the April eclogue. The other expresses the “anxieties of Protestant activists grouped around Sidney, Leicester, and Walsingham” who at the time of that earlier cycle of poems were feeling isolated from court during negotiations for the proposed French match.<ref>Annabel Patterson, ''Pastoral and Ideology: Virgil to Valéry'' (Oxford: Clarendon, 1988) 123.</ref> Following on from Sidney’s death and Leicester’s “disgrace” and death, the cause of the “Protestant” activist might look even more isolated, particularly when viewed from the perspective of Spenser’s estate in Ireland. In a poem dedicated to Lady Pembroke and specifically addressed to the problem of revivifying the reputations of Sidney and Leicester, these anxieties surrounding the lack of surviving “moniments” to past histories of the nation must allude obliquely to the failure to include Sidney properly within the image of the island nation, and perhaps more specifically the failure to commemorate Sidney with an actual monument.<ref>Nigel Llewellyn says of Sidney’s funeral, “Such was its success and so powerful were the images produced by de Bry that a permanent monumental body in the form of a sculpted tomb was never erected.” However, as his work on the death ritual, both here and elsewhere, indicates, the funeral is not really a sufficient replacement for the overwhelming importance of the monumental body in the form of the tomb and I don’t really follow his logic in relation to Sidney’s missing tomb. (See ''The Art of Death: Visual Culture in the English Death Ritual c.1500–c.1800'' (London: Reaktion, 1991) 68, and also his essay on Tudor and Stuart royal tombs and the importance of the monumental body in repairing the damage done to the fabric of the state by the fragmentary experience of death, “The Royal Body: Monuments to the Dead, For the Living” in Nigel Llewellyn and Lucy Gent eds., ''Renaissance Bodies'' (London: Reaktion, 1990).)</ref>
+
+<!--Paragraph 15-->
+It is also a part of the ironic displacements that I have associated with the idea of translation. The two nationalisms identified by Patterson are articulated together in “The Ruines of Time.” If the figure of the “ruin” in Spenser’s ruin poems—“The Ruines of Time” and “The Ruines of Rome” is intended as a metaphor or metonymy of the world’s destruction, then the “moniment” is an attempt to transcend the temporal by re-establishing those ruins as a firm part of the contemporary setting, to avoid the ironies and anachronisms that attend the ruin. Whilst of course in the monument as “moniment” or “admonishment,” some of the functions of the ruin are contained within the monument itself—the warnings of the ''contemptus mundi''. Unlike the monument, the “moniment” has a temporal inflection.
+
+<!--Paragraph 16-->
+This secular movement, if we are talking about the desire to monumentalise Sidney, is understood in “The Ruines of Time” within a religious framework as indicated by the very last sonnet of the poem, “the envoy:”
+
+<blockquote>
+<poem>
+Immortal spirite of Philisides,
+Which now art made the heavens ornament,
+That whilome wast the worlds chiefst riches;
+Give leave to him that lov'de thee to lament
+His losse, by lacke of thee to heaven hent,
+And with last duties of this broken verse,
+Broken with sighes, to decke thy sable Herse.
+And ye faire Ladie th'honour of your daies,
+And glorie of the world, your high thoughts scorne;
+Vouchsafe this moniment of his last praise,
+With some few silver dropping teares t'adorne:
+And as ye be of heavenlie off spring borne,
+So unto heaven let your high minde aspire,
+And loath this drosse of sinfull worlds desire. (673–686)
+</poem>
+</blockquote>
+
+The “broken” moment of mourning at Sidney’s funeral is transcended here not by the erection of a physical monument in the form of a tomb but in the monument of Spenser’s verse. Sidney is celebrated within the framework of the ''contemptus mundi'' in a way that also echoes the momento mori tomb with the skeletal reminder of “this drosse of sinfull worlds desire” placed underneath the monumental body of the tomb which is an attempt to repair the ironic disjunctions of death and grief.
+
+<!--Paragraph 17-->
+If the ruin embodies the anachronism of a structure that lives on outside its immediate context—a temporal anachronism in space—then the “moniment” in Spenser’s poem is an attempt to repair this disjunction. In “The Ruines of Time” however, we get a constant anxiety over an inability to read the monuments of past ages—they are no longer there, or they are nameless; they are not a firm foundation. In this way the poem underlines the ironies of England’s position as the inheritor of the ''translatio imperii''. Camden’s stated intention in the ''Britannia'', “to restore Britain to its Antiquities, and its Antiquities to Britain, to renew the memory of what was old, illustrate what was obscure, and settle what was doubtful, and to recover some certainty in our affairs,” may in some senses be shared by “The Ruines of Time.” However, instead of restoring stability, Spenser’s poem seems to disturb the foundations of the nation. Camden is seeking a recognition between the nation and antiquity, yet as we saw at the beginning of the poem the narrator is unable to recognise the ''genius loci'' of the nation’s greatest ancient city—he does not know who she is. The space of the contemporary nation does not match up with the locations of antiquity—even the rivers have moved. The ironic movements in the poem that I have tried to describe—the irony of the isolated western kingdom as the new Rome and the irony of the failure to monumentalise Sidney—seem to illustrate the futility of this nationalist project.
+
+<!--Paragraph 18-->
+In looking at Spenser’s “The Ruines of Time,” this paper has sought to sketch an outline of the relationship between the spatial trope of the ruin, and another process of metaphorisation—translation itself. The relationship between these two concepts or structures—translation and the ruin—is self-evident to most readers within a Judaeo-Christian tradition, harking back as they do to the narrative of the fall of the Tower of Babel in Genesis, chapter ten. Since that narrative, the Tower of Babel has come to signify two largely contradictory notions—a striving for some kind of unity in communication—a universal language, and also, of course, the inevitable failure of any such venture—unity and dispersal.
+
+<!--Paragraph 19-->
+Unsurprisingly, as a writer engaged constantly with the problems of translation, it is Jacques Derrida who has begun to think again about the connections between the ruins of the fallen tower and translation:
+
+<blockquote>
+Telling at least of the inadequation of one tongue to another, of language to itself and to meaning, and so forth, it also tells us of the need for figuration, for myth, for tropes, for twists and turns, for translation inadequate to compensate for that which multiplicity denies us. In this sense it would be the myth of the origin of myth, the metaphor of metaphor, the narrative of narrative, the translation of translation, and so on.
+</blockquote>
+
+The story of the Tower of Babel, then, is not one figure amongst others but can be seen as the condition for figuration itself, whilst indicating at the same time the inadequacy of any act of figuration. Inadequation, or inadequacy—the inability of language to be consistent with itself—is perhaps the condition for language as metaphor. In this way then for Derrida, translation is itself one way of “translating” deconstruction. In his “Letter to a Japanese Friend,” in which he is trying to think through for his friend and colleague, Toshiko Izutsu, how one might translate deconstruction into Japanese, he writes “I do not believe that translation is a secondary and derived event in relation to an original language or text.”<ref>Jacques Derrida, ''Between the Blinds: A Derrida Reader,'' Ed. P. Kamuf. NY: Columbia UP, 1991 (256, 275).</ref> Instead he is suggesting in his work the primacy of translation. This is what the “originary” moment of Babel is mobilised to signify in Derrida’s work—the non-commonsensical notion of an original translation. It is an extension of Benjamin’s notion of “translatability” beyond the realms of the purely literary translation.<ref>Walter Benjamin, “The Task of the Translator” in ''Illuminations'' ed. Hannah Arendt (Glasgow: Collins-Fontana, 1973).</ref> Individual words, and language itself, are always in translation—their meanings not inherent but extrinsic, elsewhere. Although translation is “inadequate to compensate for that which multiplicity denies us,” it is nonetheless inescapable—it has already happened.
+
+<!--Paragraph 20-->
+Translation indicates a movement beyond the word as a location for signification in itself. Translation, thought of in this way, questions the ability of any language, or any speech act, any piece of writing, to maintain its own integrity and as such it can be brought to bear on ideas of nationality and nationhood that rely on the integrity of a national language. Translation reveals only the fraught nature of the boundaries between languages, the inability of a language to close itself off from the rest of the world. No language is an island.
+
+<!--Paragraph 21-->
+At this stage I want to borrow a phrase from Edmund Spenser, and, more recently, from Richard Helgerson. In Spenser’s question to Gabriel Harvey—“Why a God’s name, may not we, as else the Greeks, have the kingdom of our own language?”<ref>In his ''Forms of Nationhood'' Helgerson uses the phrase, “The Kingdom of Our Own Language” as the title heading of his introduction and this question of Spenser’s as an important introduction to his discussion of what he sees as a “generational project” to re-invent England/Britain within the 1590s.</ref>, there is already available the model of a national language that is always in translation. That is, translation is not a secondary event here, but something that is a condition for the existence of English itself as a national language. English is not self-sufficient just as England is not an island. It can only be figured as a national language through the imported metaphor or simile of another language—ancient Greek, just as England can only be figured as an island nation by importing various troping mechanisms—Virgil’s famous formulation in the first eclogue of “et penitus toto divisos orbe Britannos” (and the British quite cut off from the whole world) as well as the ''translatio imperii'' itself. As English is inaugurated as having its own kingdom, at the pen of its resident Virgil, the borders of that kingdom are displaced/translated. They are elsewhere.
+
+<!--Paragraph 22-->
+Spenser’s ''Complaints'' volume becomes interesting then as it brings together the two notions of ruin and translation. It is the interconnections between the two troping mechanisms in which I am interested—perhaps particularly at the moment that it is published. In terms of a position within Spenser’s production of his own career, the volume sits uncomfortably between the two halves of ''The Faerie Queene''.<ref>See Richard Rambuss, ''Spenser’s Secret Career'' (Cambridge: Cambridge UP, 1992) for an elegant and involved discussion of the ways in which Spenser’s texts produce a career for him, and how his position as colonial official in Ireland interrupts at the same time as it strengthens that career.</ref> It is also published in the aftermath of the Armada which saw Elizabeth at the height of her imperial pretensions, pretentions which were ironically indifferent to calls for greater imperial practice in terms of overseas expansion.
+
+<!--Paragraph 23-->
+It is a volume that is certainly concerned very much with translation—it contains four poems which are what we might call conventional translations—“Virgil’s Gnat,” a translation of the Codex traditionally attributed to Virgil; the “Ruines of Rome” and the “Visions of Bellay” which are translations of two parts of Joachim du Bellay’s poem ''Les Antiquitez de Rome'' and also “Visions of Petrarch.” The publisher’s “Preface to the Gentle Reader” advertises the possible future publication of some more of Spenser’s translations—this time of Scripture—“Ecclesiastes, and Canticum canticorum translated” (17). “The Ruines of Time,” written later than these other poems, could also be seen as an extension of this translating impulse. It is in some ways a rewriting of the ''contemptus mundi'' topoi of the other poems within a specifically English/British context. The rewritings of the ''contemptus mundi'' in the ''Theatre for Worldlings'', and elsewhere, are themselves “translations” of the Book of Revelation and implicated in the translating movements of the reformation. The same topoi of ruined buildings, fallen grandeur etc. are used here—but it is specifically a narration of some selected parts of English/British history. “The Ruines of Rome” is in translation—it is a re-writing, in English, of tropes originally found in other languages—but it is also moves those tropes, re-situates them—moving them from Rome to England, from the Tiber to the Thames. An ironic rewriting then of the western movement of the ''translatio imperii''. It does not celebrate an imperial triumph in the one island nation—the triumph of the Tudors—but rather complicates it, renders it ironic, by writing the triumph into the continental protestant ''contemptus mundi'' tradition—a tradition whose stock in trade was translation and exile. The ruins of the translated empire do not necessarily stand as the foundations for a new Rome, a new imperial England under Elizabeth, but indicate the gaps concealed under the unity of the new imperialism.
+
+<!--Paragraph 24-->
+Here I am helped by the primary meaning of translation in the ''OED'', which is not the attempt to match one language for another, but is a physical movement from one place, person or condition to another. (Their example is from Brerewood [1612] “The translation of the imperial seat to Constantinople”—clearly referring to the ''translatio imperii''.) In this process of physical movement, as it is illustrated in “The Ruines of Time,” we may encounter a further related inflection of the word “translation” which is to do with change and alteration, transformation (“Bottom, thou art quite translated”). The definition given in Thomas Cawdrey’s 1604 ''Table Alphabeticall'' is simply, “altering, chaunging.”<ref>R. Cawdrey, ''A Table Alphabeticall of Hard Usual English Words'' (1604) ed. R.A. Peters (New York: Scholars Facsimiles and Reprints, 1976) 124.</ref> It is in the gaps between these variant meanings of the word “translation” that we may wish to situate the irony of the ''translatio imperii'' as it refers to England, that world outside the rest of the world.
+
+<!--Paragraph 25-->
+These gaps are the gaps indicated already in the story of the Tower of Babel—the difference between congruence and alteration, between a process of recognition and what Derrida calls “inadequation.” In playing with these different and sometimes opposing definitions of “translation” I am helped yet again by one further definition of translation. In the scholarly language of renaissance rhetoric, translation indicates metaphor itself, or figurative language in general. In 1538, Sir Thomas Elyot defined “metaphora” in his Latin/English dictionary as “a translation of wordes frome their propre synifycation” (another OED example). One of Cawdrey’s definitions of metaphor in 1604 was “the putting over of a word from his proper and naturall signification to a forraine or improper signification.”<ref>''Table Alphabeticall'' 82.</ref> Translation indicates the movement outside the proper, the indigenous, the “kingdome of our own language”—the ironic space of the trope, inadequate to its referent.
+
+<!--Paragraph 26-->
+As recent work along the interdisciplinary borders between human geography, literary studies and critical theory has made us aware of the uncertainties of representation as it relates to space, we might want to pay attention to the representational strategies of the period in which modern conceptions of space and geography were only just being formed. Historians of early modern cartography have made us aware of the status of the map as rhetorical rather than as transparently mimetic.<ref>I am thinking primarily of the extensive work of J.B. Harley. His understanding of maps as discursive texts is developed with specific reference to early modern maps in the essay “Meaning and Ambiguity in Tudor Cartography” in Sarah Tyacke ed., ''English Map Making 1500–1650: Historical Essays'' (London: British Library, 1983).</ref> It has been the work of this paper to place the new geographical and spatial understandings of the early modern period, one aspect of which was Camden’s chorographical antiquarianism, within the contexts that might have informed that rhetoric of geographical representation. The new geographies of the sixteenth century are implicated in the processes of translation and reformation that also frame Spenserian poetics. That Spenser could employ them in the production of his own space of the nation is not then a deliberate, ideologically informed misreading of a blank map of the nation. Rather, it is one intervention amongst others in the continuing interactions between politics and religion, literature and geography. To refer to these interactions as “translations” is to highlight their status as figurative, inadequate to any idealised or discrete nation space.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Benjamin, Walter. "The Task of the Translator." ''Illuminations''. Ed. Hannah Arendt. Glasgow: Collins-Fontana, 1973. 
+* Bhabha, Homi. ''The Location of Culture. ''London: Routledge, 1994. 
+* Camden, William. "Introduction." ''Britain, or a Chorographicall Description of the Most flourishing Kingdomes, England, Scotland, and Ireland. ''Tr. Philemon Holland. London: George Bishop and John Norton, 1607. 
+* Cawdrey, R. ''A Table Alphabeticall of Hard Usual English Words''. Ed. R.A. Peters. 1604. New York: Scholars Facsimiles and Reprints, 1976. 
+* Derrida, Jacques. ''Between the Blinds: A Derrida Reader''. Ed. P. Kamuf. NY: Columbia UP, 1991. 
+* Drayton, Michael. ''The Works of Michael Drayton.'' Eds. J.W. Hebel, Kathleen Tillotson, B.H. Newdigate. Oxford: Blackwell, 1961. 
+* Greene, Thomas M. ''The Light in Troy: Imitation and Discovery in Renaissance Poetry.'' New Haven: Yale UP, 1982. * Helgerson, Richard. ''Forms of Nationhood''. Chicago: Chicago UP, 1992. 
+* Janowitz, Anne. ''England's Ruins: Poetic Purpose and the National Landscape''. Oxford: Blackwell, 1990. 
+* Llewellyn, Nigel. ''The Art of Death: Visual Culture in the English Death Ritual c.1500-c.1800. ''London: Reaktion, 1991. 
+* --- and Lucy Gent eds. "The Royal Body: Monuments to the Dead, For the Living." ''Renaissance Bodies. ''London: Reaktion, 1990. 
+* Parry, Graham. ''The Trophies of Time: English Antiquarians of the Seventeenth Century''. Oxford: Oxford UP, 1995. 
+* Patterson, Annabel. ''Pastoral and Ideology: Virgil to Valéry. ''Oxford: Clarendon, 1988. 
+* Spenser, Edmund. "The Ruines of Time." ''The Yale Edition of the Shorter Poems of Edmund Spenser''. Eds. William A. Oram, Einar Bjorvand, Ronald Bond, Thomas H. Cain, Alexander Dunlop, and Richard Schell. New Haven: Yale UP, 1989. 
+* Stierle, Karlheinz. "''Translatio studii'' and Renaissance: From Vertical to Horizontal Translation." ''The Translatability of Cultures: Figurations of the Space Between''. Eds. Sanford Budick and Wolfgang Iser. Stanford: Stanford UP, 1996. 
+* Yates, Frances. ''Astraea: The Imperial Theme in the Sixteenth Century. ''London: Routledge and Kegan Paul, 1975.
+
+{{BookCat}}
