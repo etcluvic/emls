@@ -1,0 +1,363 @@
+''This essay was written by Randall Martin''.
+
+<!--Paragraph 1-->
+In two notes published several years ago, R.J. Fehrenbach speculated that the Elizabethan poet Isabella Whitney might have contributed a number of unsigned pieces to Thomas Proctor's ''Gorgeous Gallery of Gallant Inventions'' and Clement Robinson's ''A Handful of Pleasant Delights'', miscellanies published in 1578 and 1584.<ref name="ref1">Fehrenbach, "Isabella Whitney and the Popular Miscellanies of Richard Jones" ''Cahiers Elisabéthains'' 19 (1981): 85-7.</ref> Current efforts to recover works by early modern women, as well as Whitney's distinction of being the first English female author seeking to earn money from her writing and one of only a dozen or so sixteenth-century women to reach print, encourage us to investigate Fehrenbach's suggestions. Of the three titles he proposes, the first two ("The complaint of a woman louer" in ''Pleasant Delights'' and "The Lady beloued exclaymeth of the great vntruth of her louer" in the ''Gorgeous Gallery'') refer to ballads which unfortunately lack any defining authorial traits.<ref name="ref2">The first of these uses the stock language typical of broadside ballads, in which an absence of concrete detail makes connections with Whitney's known work impossible to establish.</ref> A third piece, however, "The lamentacion of a Gentilwoman ''vpon the death of her late deceased'' frend William Gruffith Gent," is more promising. It not only pays tribute to an admired male friend but also decries various social constraints affecting Elizabethan women, from which the poem's gendered speaker attempts to liberate herself by publishing her piece. Some of her arguments recall complaints made by Whitney in her known works about the difficulties of writing publicly as a woman; so if "The Lamentation" can be accepted as hers, it may come to be regarded as her boldest criticism of patriarchal silencing. In this paper I wish first to examine briefly the evidence in favour of her authorship. Fehrenbach's claims can be strengthened in a number of ways to make a case for Whitney that is highly probable, even though it falls short of absolute proof. I shall then consider the poem's protest against society's devaluation of the speaker's non-marital friendship with Gruffith, and its creative resistance to the public hostility she encounters in mourning his death. In the end the poem recognizes a convergence between these several hostile customs and the professional obstacles Whitney faces as a female writer. The decentred and ultimately self-withdrawing persona constructed by the poem can be read as a response to these pressures, as it simultaneously objects and defers to their denial of her will to self-expression.
+
+<!--Paragraph 2-->
+The personal dedication and timely purpose<ref name="ref3">As Rollins argues, there is no reason for believing Gruffith refers to the known Elizabethan printer William Griffith.</ref> of "The Lamentation" set it apart from the other merely conventional, moralizing complaints and love-poems in ''A Gorgeous Gallery'', a volume printed by Richard Jones, publisher of Whitney's two earlier works, ''The Copy of a Letter'' (1567) and ''A Sweet Nosegay'' (1573). Jones seems to have been Whitney's exclusive publisher, and he later issued works by other women writers.<ref name="ref4">''Pace'' Fehrenbach, "Isabella Whitney and the Popular Miscellanies" 86; eg. Jane Anger's ''Protection for Women'' (1989) with Thomas Orwin.</ref> "The Lamentation" also draws attention to itself as one of two "extras" included after the main sequence of ballad and verse selections. These end with a valedictory poem by the editor, "T[homas] P[roctor] his Farewell vnto his faythfull and approoued freend F.S.":
+
+<blockquote>
+<poem>
+Take heede, my woordes let teach thee to be wise,
+And learne thee shun, that leades thy minde to ill:
+Least beeing warnd, when as experience tries,
+Thou waylst to late, the woes, of wicked will. FINIS. T.P. (''Gorgeous Gallery'' N3v).
+</poem>
+</blockquote>
+
+The first "extra" then follows, a verse-history of "''Pyramus'' and ''Thisbie''" (N4r-P2v ), "truely translated" but apparently neither by Proctor nor anybody else in the collection.<ref name="ref5">Rollins says it derives from a French version of the story. ''Gorgeous Gallery'' 198; n. 103.1.</ref> It departs entirely in form and subject from the preceding material, as does "The Lamentation" (P2v -P4v), and in both instances these differences suggest independent provenance. Such a notion seems especially likely for "The Lamentation" because Jones registered it separately on 20 December 1577, having entered ''A Gorgeous Gallery'' itself on 5 June in the same year.<ref name="ref6">''A Transcript of the Registers of the Company of Stationers of London'' ed. Edward Arber, 5 vols., 1875-94 (London: Peter Smith, 1950) 2: 322.</ref> He may have intended issuing "The Lamentation" singly as a broadside, perhaps after it drew favourable attention in the main volume and on the basis of its relatively novel female authorship. The implied popular readership of broadside-publication would correspond with the market for Whitney's earlier collections, both of which Jones printed as cheap pamphlets. Furthermore, "The Lamentation" is ''A Gorgeous Gallery'''s only selection to be preceded by introductory verses (apparently written by Proctor) that deliberately highlight the author's gender; all other pieces in the volume simply receive a brief summary headline:
+
+<blockquote>
+<poem>
+A doutfull, dying, dolefull, Dame,
+Not fearing death, nor forcing life,
+Nor caring ought for flitting fame,
+Emongst such sturdy stormes of strife:
+Here doth shee mourne and write her will,
+Vpon her liked Louers ende . . . (''Gorgeous Gallery'' P2v).<ref name="ref7">The introduction continues: Graunt (Muses nyne) your sacred skill, Helpe to assist your mournfull freend...</ref>
+</poem>
+</blockquote>
+
+For readers curious as to the identity of the author, the last lines may allude to Whitney's "maner of her Wyll, & what she left to London . . . at her departing " in ''A Sweet Nosegay''. Like "The Lamentation," "The Manner of Her Will" also uses the language of mourning and the narrative context of a legacy, forms which Wendy Wall argues, partly on the basis of Whitney's earlier works, "had become part of a cultural script that was frequently linked to female expression," and which provide a permissive pretext for public speech.<ref name="ref8">"Isabella Whitney and the Female Legacy" ''ELH'' 58 (1991) 56.</ref> Perhaps the strongest reason, however, for believing that Whitney wrote "The Lamentation" is the likelihood that "William Gruffith" can be identified with "W.G.", author of "A Loueletter, sent from a faythful Louer: to an vnconstant Mayden" in ''The Copy of a Letter''. This piece follows Whitney's "To her vnconstant Louer " as well as her "Admonition . . . to all yong Gentilwomen: And to al other Maids being in Loue."<ref name="ref9">''Pace'' Fehrenbach, "Isabella Whitney and the Popular Miscellanies" 86, Whitney and W. G. are ''not'' complaining about each other in their respective poems.</ref> Jones presumably included W.G.'s balancing complaint to appeal to his predominantly male buyers, for whom Whitney might not at that stage have been a secure draw. If W.G. and Gruffith are one and the same, it would mean that he and Whitney were colleagues for some time, and could explain her passionate and socially daring defence of their relationship in "The Lamentation."
+
+<!--Paragraph 3-->
+There also appear to be a few minor stylistic links with several of Whitney's known poems. While none of these works exhibits unusual word-choice providing any substantial basis for attribution, there may be one or two connections. The opening lines of "The Lamentation" and of the 49th flower of Whitney's ''Sweet Nosegay''(B7r) both contain the word "preace," a by-form of ''press'' current until the early 1500s but old-fashioned by 1578.<ref name="ref10">Whitney perhaps provides a clue to her authorship of "The Lamentation" in alluding to the "Flowers" of her ''Sweet Nosegay''...</ref> The author also calls "The Lamentation" a "scroule" (50, 63), a term associated with epistolary writings during this period and therefore unusual for an elegy, but perhaps telling for the same reason since Whitney twice uses it to describe her own verse-letters in ''A Sweet Nosegay'': e.g. "To two of her yonger Sisters seruinge iu [''sic''] London" (D1r) and "To her Cosen F.W." (D2v). On the other hand, "The Lamentation"'s rhyme-scheme (ababcc) exactly matches that of "To her Sister Misteris A.B." in ''A Sweet Nosegay'' (D1v -D2r ). One rhyme-formula in particular,
+
+<blockquote>
+<poem>
+But ''William'' had a worldly freend in store . . .
+But ''I.'' and ''H.'' his name did show no more ("Lamentation" 37, 39).
+</poem>
+</blockquote>
+
+appears to recall
+
+<blockquote>
+<poem>
+And when you shall this letter haue
+let it be kept in store? [''sic'']
+For she that sent ye same, hath sworn
+as yet to send no more("To her vnconstant Louer" A5r).
+</poem>
+</blockquote>
+
+and is later varied:
+
+<blockquote>
+<poem>
+Trust not a man at the fyrst sight,
+but trye him well before:
+I wish al Maids within their brests
+to kepe this thing in store ("vnconstant Louer" A6v ).
+</poem>
+</blockquote>
+
+<blockquote>
+<poem>
+But sith thy fortune is so yll
+to end thy lyfe on shore:
+Of this thy most vnhappy end,
+I minde to speake no more ("vnconstant Louer" A8r).
+</poem>
+</blockquote>
+
+Finally, the occasional straining after alliterative effect and rhetorical heightening of emotion in "The Lamentation", while typical of the popular literature of the day, strongly recall general features of Whitney's ''Copy of a Letter'' and ''A Sweet Nosegay''.
+
+<!--Paragraph 4-->
+If we can consider "The Lamentation " to be by Whitney, her favoured term "scroule" not only suggests a link with her own earlier works but also hints at a common source of inspiration identified previously by Ann Rosalind Jones: Ovid's ''Heroides'', familiar to sixteenth-century readers from numerous translations such as George Turberville's ''Heroycall Epistles . . . of Ovidius'' (1567).<ref name="ref11">Ann Rosalind Jones discusses the connections between ''Heroides'' and Whitney's earlier poems in ''The Currency of Eros: Women's Love Lyric in Europe 1545-1620'' (Bloomington: Indiana UP, 1990) 43ff.</ref> Several of these verse-epistles depict famous heroines—Phyllis, Dido, Medea—bewailing their abandonment and humiliation at the hands of unfaithful lovers. "The Lamentation" echoes ''Heroides'''s typical presentation of a single bereft woman but adapts it to a different kind of crisis: the death of the speaker's close friend, and possibly her lover, William Gruffith. The woman in this case is victimized not by the personal treachery of one man (or as a female collectivity by men) but by death itself, defined as a universal, random, and non-allegorized event ("Eche man doth mone when faythfull freends bee dead"). Such a change allows the speaker to present herself as a new kind of subject-persona, no longer subordinated by conventional gender or genre roles. Gruffith's death forces her to confront the depth of her emotional reliance on him, as well as the loss of his validation of her inner life. Initially her response is to mourn him openly as a widow would do. But she soon encounters hostility as an unmarried woman expressing grief and so must seek another mode of release. Paradoxically, being stifled by a socially unspeakable loss impels her towards another kind of forbidden display: writing about her loss. In overcoming this barrier she effectively re-enacts her mourning, thereby not only easing her pain but also legitimizing her position as a female writer, since the poem asserts her right to speak authoritatively about Gruffith as well as her own personal feelings. The public notice announced by the poem also serves a deep need in terms of the speaker's social identity, since it creates a material validation substituting for Gruffith's lost conferral of worth as a fellow writer. Being recognizable as an elegist now fulfills a psychic longing equivalent to the status of widow, and before that of lover, each of which society would seek to forbid. In "The Lamentation" Whitney goes much further than in her earlier verse-letters in reworking the Ovidian heroic model to wrest for the female speaker a degree of self-actualization unavailable to her generic predecessors.
+
+<!--Paragraph 5-->
+Whereas in Ovid the heroine's complaints of cruelty are addressed chiefly to her faithless male lover,<ref name="ref12">A significant variation is the letter of Sappho to Phaon.</ref> here the speaker directs them at contemporary social customs which deny women the opportunity of displaying intense public grief for men who are not their husbands or family relations. She winces at disapproval of behaviour considered to be exclusively the prerogative of widows, and at the implied illegitimacy of deep male-female love expressed outside of marriage:
+
+<blockquote>
+<poem>
+Yet hurtfull eyes doo bid mee cast away
+In open show this carefull blacke attyre,
+Because it would my secret loue bewray
+And pay my pate with hatred for my hyre . . . (19-22).
+</poem>
+</blockquote>
+
+Clearly the speaker feels that if she were married to Gruffith her love and grief would be taken seriously, but as she is not they are discounted. Insofar as marriage is the privileging state, Whitney's poem implies a yearning for the social identity it affords comparable to her earlier verse-letters, though expressed here in a more indirect way. Without a faithful lover or husband she feels herself to be unclassified as a poor unmarried gentlewoman, hence a previous identification with the disenfranchised in her rather bitterly nostalgic "Manner of Her Will." While reluctantly giving up the right to mourn Gruffith, and in the absence of other acceptable roles for bereaved single women, Whitney nonetheless remains determined to defend her right to grieve for and honour Gruffith, so she turns to writing.
+
+<!--Paragraph 6-->
+This carries her into another exclusive domain, however, in which she faces disapproval even greater than that towards public mourning. To prepare the ground for Procter and Jones's male readers (invoked by Anthony Munday's opening poem, "Vnto all yong Gentilmen, ''in commendacion of this Gallery''"), she introduces several conciliatory gestures designed to lessen resistance towards a female author. By recalling the subjected positions of Ovid's plangent heroines, for example, she curtseys towards prevailing gender ideology. She likewise deploys the traditional modesty topos in a triple disavowal of artistic ambition:
+
+<blockquote>
+<poem>
+With Poets pen I doo not preace to write,
+''Mineruaes'' mate I doo not boast to bee,
+''Parnassus'' Mount (I speake it for no spite)
+Can cure my cursed cares . . . (1-4).
+</poem>
+</blockquote>
+
+In the same vein Whitney later cites her "weake wits" and lack of a "grauer stile" (31-2) as reasons for not attempting to write Gruffith's epitaph. Such self-disabling extends her opening gambit, downplays her literary ambitions, and clears away possible complications with other pre-ideologized genres. These self-effacing manoeuvres serve to construct a sense of conventional gender decorum presumably demanded by many of her male readers in ''A Gorgeous Gallery''.
+
+<!--Paragraph 7-->
+On the other hand the urgency of Whitney's crisis demands a less supine persona, which she goes about constructing in several ways. The change in situation from sexual betrayal in ''Heroides'' to bereavement widens the field of possible literary precedents, and as the poem unfolds its generic links diversify to include authorizing models other than Ovid. Like famous women writers of religious lamentations such as Katherine Parr and Lady Jane Grey,<ref name="ref13">Katherine Parr, ''The Lamentation of a Sinner'' (London, 1547); Lady Jane Grey, ''An Exhortation written by the Lady Jane the Night Before She Suffered'' (London, 1554).</ref> she shifts her appeal away from an exclusively male audience: "You Ladyes all, that passe not for no payne . . . / I craue your aydes, to helpe mee mourne amayne" (25, 27). And in a strategy common to many hesitant female writers of the time, Whitney partly excuses her task by citing the overwhelming human need to unburden her grief: "Yet must I needes deplore my ''Gruffithes'' graue . . ./ And wayle my freend who is but lately dead " (12, 18). In contrast to the ventriloquized ladies who supplicate and moan elsewhere in ''A Gorgeous Gallery'', "The Lamentation" speaks to the expectations of both a male and female audience, dually importuned by modesty on the one hand and experiential solidarity on the other.<ref name="ref14">Jones observes Whitney directing her attentions to a similar double audience in "The admonition . . . to all yong Gentilwomen" (''Currency'' 49-50).</ref>
+
+<!--Paragraph 8-->
+Having hedged herself with passive supports, Whitney can begin to challenge more directly the exclusionary customs of contemporary discourse and to promote herself as the authentic custodian of Gruffith's memory. She observes that men have the privilege of "paynting out" the reputations of departed friends as casually as their varying abilities permit ("as well as wits doo serue"), since men wholly define what "native wit" consists of. Women on the other hand must be inventive to the point of being extraordinary, yet always subordinate, simply to be heard: "But I, a Mayde, am forst to vse my head" (9). Later Whitney becomes bolder when she ridicules the inadequacy of I.H., a would-be male eulogist who posted some slap-dash verses to Gruffith at St. Paul's: "One ryme too low, an other rampes too hye . . ./ [he] vttered all the skill that God had sent" (42, 44).<ref name="ref15">Perhaps Jasper Heywood, as Rollins suggests (''Gorgeous Gallery'' n. 117.34, 205).</ref> Rather than demurely seconding I.H.'s opinions and ignoring his limitations, she repudiates the "Rime Ruffe " of this "worldly freend" as insulting to her subject (37, 40). By declaring her intention of replacing its "small effect" with something authentically meaningful, she claims superior competence in speaking for Gruffith and implicitly asserts the value of her own feelings and judgement. At this point the elegy's aims move beyond simply lamenting Gruffith's death (in the end we actually learn very little about him) to something unexpected: a manifesto of the speaker's ability to express herself in print and to influence (predominantly male) public opinion—all the more striking if this ''is'' Isabella Whitney, since then it also becomes a protest by an aspiring female author against the privileged gentleman amateur.
+
+<!--Paragraph 9-->
+The fact that she contests I.H.'s work at St. Paul's where "euery man goes by"—one of London's central places of social, economic, and bibliographic exchange—also challenges cultural restrictions on women circulating themselves and their ideas. We noted earlier that even though the unfamiliar intensity of her loss makes the speaker feel "widowed," she ceases to mourn for fear of being accused of misappropriating behaviour due only in wives to husbands. Partly at issue is the sexual innuendo she risks by revealing any close relationship with a man. Men can initiate love-relationships whether they are married or not; even if the woman offers resistance, they can, as courtly writers, make a conventional virtue of necessity by rebaptizing their desires as spiritual love and recuperating them as stages on a path towards metaphysical enlightenment. Such neo-Platonic remedies offer no potential comfort to Whitney's speaker, however, for the same reason that they later fail for female characters such as Lady Mary Wroth's Pamphilia in ''Pamphilia to Amphilanthus'' (1621). Cultural and class decorum prohibit the latter from openly seizing Amphilanthus's attentions when they wander, let alone imitating the Petrarchan model by inscribing her desires upon apostrophized male body-parts; and since Amphilanthus remains nearly voiceless, Pamphilia's own love remains ungratified, robbed of any subjective agency. By contrast, because Whitney's speaker is not following a courtly, neo-Platonic tradition, she avoids being trapped by the same dilemma. Her poem manages instead to subvert conventional taboos by actively representing her true desires—subtly through its redeployment of gestures of mourning, aggressively in her rivalry with I.H. She also takes advantage of the poem's occasion by declaring herself to be the true public voice of Gruffith, positioning "him" as a corroborator of their personal and professional relationship. By doing so Whitney inscribes the "Manner of Her Will" a second time, but now to more lasting effect. Instead of dramatizing possession and dispersal of an imagined heritage in which nomination and selection of goods serve as a temporary controlling fiction to displace a chronic absence of bodily and mental fulfilment,<ref name="ref16">Wall 46-50. My reading differs from that of Betty Travitsky, who sees the speaker of the "Will and Testament" as virtually carefree and "Bohemian."</ref> here the gulf between will and vacancy is bridged by laying claim to the legacy of Gruffith's public reputation. This has real currency both as a marketable commodity (the recognition value of "By W.G.") and as a cultural warrant (an enabling male colleague). Whitney's strategy recalls the much more extreme case of Anne Askew and John Bale, in which Bale profited from repackaging and, to some degree, distorting the quietly heroic voice of his subject. Whitney's use of Gruffith is substantially different; but by having him "witness" her written performance, she similarly empowers her own agency and vocation.
+
+<!--Paragraph 10-->
+Another important dimension to the speaker's determination to mourn Gruffith is the social disruption she threatens to cause by violating the equivalent of Elizabethan sumptuary laws. Ostensibly these were designed to restrict importation of foreign luxury materials to protect English industry. But their more important purpose was to reflect strict rank in people's clothes and inhibit social mobility.<ref name="ref17">Wilfred Hooper, "Tudor Sumptuary Laws," ''EHR'' 30 (1915): 433-5.</ref> Between 1559 and 1597 the Queen issued nine proclamations specifying colour, quality, quantity, price, and style of material on a graduated scale according to status and means. The final proclamation admitted the failure of these laws to achieve the desired ends: "partly through negligence and partly by the manifest contempt and disobedience of the parties offending, no reformation hath followed."<ref name="ref18">''Tudor Royal Proclamations'' 3.175.</ref> Yet this does not mean the law's force was not felt keenly at certain periods, especially by women. For the proclamations of 1562 and 1566 established a system of public surveillance which was to continue for about 15 years, whereby London officials appointed watchmen at each entrance-gate to the City to supervise the daily wearing of correct apparel. Offenders, who were more often apprentices and servants than citizens, were rountinely brought before magistrates at the Guildhall.<ref name="ref19">Hooper 439-49.</ref> In the proclamation of 1574 separate laws were added regulating women's apparel. As Peter Stallybrass observes, this "tardiness in the statues should be seen as a sign less of women's liberties [prior to 1574] than of the implicit assumption that women's bodies were already the object of policing."<ref name="ref20">"Patriarchal Territories: The Body Enclosed" ''Rewriting the Renaissance: The Discourses of Sexual Difference in Early Modern Europe'' ed. Margaret Ferguson, Maureen Quilligan, and Nancy J. Vickers (Chicago: U of Chicago P, 1986) 126.</ref> And this is confirmed by the fact that in the area of regular and mourning apparel, laws for women had already been set forth in 1503 by Margaret Beaufort, Countess of Richmond and Derby and mother of Henry VII. Like the later Elizabethan laws, they were graduated lists prescribing etiquette, fabrics, and colours that were to remain in force until near the end of the sixteenth century.<ref name="ref21">Phillis Cunnington and Catherine Lucas, ''Costume for Births, Marriages, and Deaths'' (London: Adam & Charles Black, 1972) 211-12.</ref>
+
+<!--Paragraph 11-->
+Overall, then, the 1560s and 70s—the period in which Isabella Whitney is known to have been writing—were a time of maximum enforcement of customary attire, and for women this included mourning apparel in particular. The latter was crucial because it flagged a wife's continuing submission to her dead husband's authority and marked her role as a guarantor of dynastic exchange relations; widow's weeds safeguarded the legitimate transmission of patriarchal property. In this regard even though Whitney's speaker abandons mourning in black—understandable in the context just outlined—and so avoids the appearance of a sexually consummated but patriarchally unregulated relationship which mourning as a single woman might otherwise suggest, she states that prior to Gruffith's death she "wore" green, white, and red as the signs of her inner feelings for him (13-18). Together these colours function as a blazon, recalling the poetic device's origins in heraldic colour-symbolism (modesty again restricting an inventory of physical features, as in the Petrarchan model).<ref name="ref22">M.C. Linthicum, ''Costume in the Drama of Shakespeare and his Contemporaries'' (Oxford: Clarendon, 1936) 17-18.</ref> The speaker's desires are refracted in several facets after being projected on to Gruffith, who stands as a trope, as we have seen, for professional recognition as well as the validity of her emotional life. The colours themselves suggest a mix of passion (red, suggesting suffering as well as amorous feeling) and devotion (green and white)—a combination not dissimilar, in fact, to the overdetermined cultural significance of black alone. Whitney's speaker poetically renegotiates the contentious issue of dress-regulation by retroactively investing her former "apparel" with symbolic value, thereby defeating society's intended erasure of her independent display of desire.
+
+<!--Paragraph 12-->
+The same potential "hatred" she courts by "wearing" these desires publicly also confronts women's writing, which anti-female authors of the time habitually equated with promiscuity: openness in print, like affective behaviour, signalled sexual availability. This cultural marking also considerably increased for women the force of prevailing social prejudices against publication. To counter these negative reactions, the speaker pursues further some of the representational strategies of paradox and ambivalence that mark her persona.<ref name="ref23">Ann Rosalind Jones analyses similar patterns of invention and resistance in the face of "sociotextual restraint" in writings by Pernette du Guillet, Catherine des Roches, and Tullia d'Aragona: "Surprising Fame: Renaissance Gender Ideologies and Women's Lyric," ''The Poetics of Gender'', ed. Nancy Miller (New York: Columbia UP, 1986) 74-95.</ref> One instance is the mixing of terms she uses to describe her relationship with Gruffith: lover, friend, or mate. Though all these may imply "marriage(able) partner," they alternate with the non-sexual sense of well-wisher or close associate (e.g. mate ''OED'' 2), definitions which gain prominence if we assume Gruffith to be the W.G. of ''The Copy of a Letter'', since then they would have shared the experience of being disappointed in love. The speaker apparently also signals the non-sexual nature of their friendship in the comparison to Damon and Pythias (36). On the other hand her multi-layered motives maintain the suggestion of sexually 'will'-ful desires in her diction. Yet since she aims to surpass I.H.'s inadequate efforts in order to advertise her own finer skill and sensibility, it is prudent to maintain a rhetorical degree of "indifference," especially in view of the ever-present liability of being labelled "a maid." By avoiding certainty about a sexual liaison, she deflects absolute charges of partiality and further distances herself from the generic essentialism of her Ovidian predecessors.
+
+<!--Paragraph 13-->
+Recognizing the contradictions of Whitney's ambitious self-disabling also helps explain a pair of obscure lines—declared "unintelligible" by an earlier editor<ref name="ref24">''Gorgeous Gallery'' 206; n.118.4.</ref>—which immediately follows the challenge to I.H.:
+
+<blockquote>
+<poem>
+But I am shee that neuer will refuse,
+But as I am, so will I still bee bent (45-6).
+</poem>
+</blockquote>
+
+Whitney declares her joint responsibility to the memory of her friend and to her own calling as a writer. The first line suggests she will neither "decline challenging" I.H. as a rival (''OED'' refuse 4c) nor "abandon" her friend when inferior tributes threaten his reputation (''OED'' refuse 4b). Nor will she undervalue her own judgement (''OED'' refuse 4) by adopting the false consciousness which prevailing customs and literary models would force upon her. In this regard one more possible sense of "neuer will refuse"—to decline to bear a name (''OED'' 5b)—becomes ironic, since at the end of the poem she withdraws from full self-disclosure ("aske no more of mee"). She does so partly to avoid petty objections but also to prevent detractors from reducing her multivalent speech to the tokenism which Proctor's placement of the poem at the end ''A Gorgeous Gallery'' might otherwise signify. The sense of "bent" in the second line resonates with the same tension between objectified and self-determining personas. As a woman she is familiar with playing a submissive role (''OED'' bend 1, 10), as the poem's opening lines demonstrate. But at the same time she is "resolved" not to devalue either her own creative disposition (a semantic cross-over from bent, sb.), or the emotional and perhaps even spiritual dimensions of her friendship with Gruffith (''OED'' bend 19). The latter she twice characterises by the phrase "lincked loue," whose underlying image of a couple arm-in-arm suggests mutuality, while the alternative of going hand-in-hand signifies devotion (''OED'' link v. 2). Again the virtual equivalence of marriage is insisted upon but not definitively settled.
+
+<!--Paragraph 14-->
+The faintly combative tone of this passage may also clarify the unexpected comparison to Hector in the poem's first stanza, who in retrospect becomes a figure for the speaker's self-presentation overall. In ''The Iliad'' when Hector is being tracked down by Achilles, Minerva (Pallas Athena) tricks him into thinking his brother Deiphobus is coming to his aid. Hector recognizes the goddess's deception too late, and when he dies his body is ignobly mutilated in an attempt to desecrate his legendary stature. In terms of fame, however, there is no loss: Hector's supreme heroism is affirmed by the extremity and pathos of his suffering. Whitney's comparison suggests she seeks renown from the same kind of self-authorizing passion, while rejecting any poetic kinship with Minerva (whose alternative patronage of spinners and weavers some "''Zoylus'' sot" might consider more appropriate occupations for a female writer):
+
+<blockquote>
+<poem>
+So liue I shall, when death hath spit her spight,
+And Lady ''Fame'' will spread my prayse, I know,
+And ''Cupids'' Knights will neuer cease to write
+And cause my name through ''Europe'' for to flow;
+And they that know what ''Cupid'' can preuayle,
+Will blesse the ship that floates with such a sayle (85-90).
+</poem>
+</blockquote>
+
+Though the complaint of being subjected to as "many woes" as Hector is hyperbolic, the cultural barriers ranged against Whitney's successful determination to publish her will (which Proctor commends in his introductory verses) validate her emblematized self-display in terms of classical heroes celebrated for similar acts of suffering and resistance.
+
+<!--Paragraph 15-->
+A second related persona materializes in the reference to Admetus and Alcestis at lines 106-10. Apollo obtained extended life for Admetus from the Fates provided that Admetus could find somebody to die in his place. His wife Alcestis agreed, laying down her life to save her husband, and subsequently she became a type of female conjugal devotion. In the continuing story in Euripides, however, Alcestis is brought back from hell by Heracles, who had been cheerfully entertained by Admetus despite his grief, and in the Renaissance version Heracles becomes allegorized as a Christ-figure, wrestling with Death to resurrect Alcestis.<ref name="ref25">I am indebted to Margaret Arnold for this information.</ref> It is significant that the speaker does not identify herself with the virtuous but self-sacrificing Alcestis, here equated with Gruffith. Instead, by actively salvaging his reputation and perpetuating their intimacy, she reverses traditional gender roles, saving both herself and Gruffith from the cultural and literary nullity Elizabethan society would impose. Moreover as a female Heracles (often figured as a Renaissance emblem of eloquence), the speaker implicitly attributes to her art the same transfiguring power that metamorphosed Narcissus—here too equated with Gruffith—beyond death. Therefore when at the end of the poem she once more sounds the elegiac note of ''Heroides'' ("For as I am, a Louer will I dye"), by this point the distance from the "I" of Ovid's bereft heroines is vast. Along the journey of multiple poetic representations, the speaker has traversed the no-man's-land between self-negation and self-assertion which characterizes other female legacies,<ref name="ref26">Wall 39-42.</ref> achieving in the process a permanently self-defining memorial.<ref name="ref27">An earlier version of this paper was presented at the 1993 meeting of the Shakespeare Association of America.</ref>
+
+== Poem Text ==
+
+'''Isabella Whitney, "The Lamentation of a gentlewoman upon the death of her late-Deceased Friend, William Gruffith, Gentleman" (1578)'''
+
+<div style="font-size:100%; line-height: 1.3em;">
+<poem>
+:With Poets pen I doo not preace to write,
+:''Mineruaes'' mate I doo not boast to bee,
+:''Parnassus'' Mount (I speake it for no spite)
+:Can cure my cursed cares, I playnly see:
+:For why my hart contaynes as many woes [5]
+:As euer ''Hector'' did amongst his foes.
+
+:Eche man doth mone when faythfull freends bee dead,
+:And paynt them out as well as wits doo serue.
+:But I, a Mayde, am forst to vse my head
+:To wayle my freend, whose fayth did prayse deserue. [10]
+:Wit wants to will: alas! no skill I haue;
+:Yet must I needes deplore my ''Gruffithes'' graue.
+
+:For ''William'' white, for ''Gruffith'' greene, I wore,
+:And red longe since did serue to please my minde;
+:Now blacke, I weare, of mee not vs'd before; [15]
+:In liew of loue, alas! this losse I find.
+:Now must I leaue both White and Greene and Red,
+:And wayle my freend who is but lately dead.
+
+:Yet hurtfull eyes doo bid mee cast away
+:In open show this carefull blacke attyre, [20]
+:Because it would my secret loue bewray,
+:And pay my pate with hatred for my hyre;
+:Though outwardly I dare not weare the same,
+:Yet in my hart a web of blacke I frame.
+
+:You Ladyes all, that passe not for no payne, [25]
+:But haue your louers lodged in your laps,
+:I craue your aydes to helpe mee mourne amayne;
+:Perhaps your selues shall feele such carefull claps,
+:Which God forbid that any Lady taste,
+:Who shall by mee but only learne to waste. [30]
+
+:My wits be weake an Epitaphe to write,
+:Because it doth require a grauer stile;
+:My phrase doth serue but rudely to recite
+:How Louers losse doth pinch mee all this while,
+:Who was as prest to dye for ''Gruffithes'' sake, [35]
+:As ''Damon'' did for ''Pithias'' vndertake.
+
+:But ''William'' had a worldly freend in store,
+:Who writ his end to small effect, God knowes;
+:But ''I''. and ''H''. his name did show no more,
+:Rime Ruffe it is (the common sentence goes); [40]
+:It hangs at Pawles as euery man goes by,
+:One ryme too low, an other rampes too hye.
+
+:Hee prays'd him out as worldly freends doo vse,
+:And vttered all the skill that God had sent.
+:But I am shee that neuer will refuse, [45]
+:But as I am, so will I still bee bent:
+:No blastes shall blow my lincked loue awry,
+:O would the Gods with ''Gruffith'' I might dye!
+
+:Then had it been that I, poore silly Dame,
+:Had had no neede to blot this scratched scroule, [50]
+:Then Virgins fist had not set forth the fame,
+:How God hath gripte my ''Gruffithes'' sacred soule;
+:But woe is mee, I liue in pinching payne,
+:No wight doth know what sorowes I sustayne.
+
+:Vnhappy may that drowsie day bee nam'd [55]
+:Wherin I first possest my vitall breath,
+:And eke I wish that day that I was fram'd,
+:In stead of life I had receiued death:
+:Then with these woes I needed not to waste,
+:Which now, alas, in euery vayne I taste. [60]
+
+:Some ''Zoylus'' sot will thinke it lightly doone
+:Because I mone my mate and louer so,
+:Some ''Momus'' match this scroule will ouerronne;
+:But loue is lawlesse, euery wight doth know.
+:Sith loue doth lend mee such a freendly scope, [65]
+:Disdaynfull dogs I may despise, I hope.
+
+:Wherfore I doo attempt so much the more
+:By this good hope to shew my slender arte,
+:And mourne I must (who, neuer marckt before),
+:What fretting force doo holde eche heauy hart; [70]
+:But now I see that ''Gruffithes'' greedy graue
+:Doth make mee feele the fits which louers haue.
+
+:My mournfull Muse, good Ladyes, take in worth,
+:And spare to speake the worst, but iudge the best;
+:For this is all that I dare publish forth; [75]
+:The rest recorded is within my brest,
+:And there is lodg'd for euer to remayne,
+:Till God doth graunt, by death, to ease my payne.
+
+:And when that death is come to pay her due,
+:With all the paynes that shee can well inuent, [80]
+:Yet to my ''Gruffith'' will I still be true,
+:Hap death, holde life, my minde is fully bent:
+:Before I will our secret loue disclose,
+:To ''Tantals'' paynes my body I dispose.
+
+:So liue I shall, when death hath spit her spight, [85]
+:And Lady ''Fame'' will spread my prayse, I know,
+:And ''Cupids'' Knights will neuer cease to write
+:And cause my name through ''Europe'' for to flow:
+:And they that know what ''Cupid'' can preuayle,
+:Will blesse the ship that floates with such a sayle. [90]
+
+:If I had part of ''Pallas'' learned skill,
+:Or if ''Caliope'' would lend her ayde,
+:By tracte of time, great volumes I would fill,
+:My ''Gruffithes'' praise in wayling verse to spread;
+:But I, poore I, as I haue sayd before, [95]
+:Doo wayle to want ''Mineruaes'' learned lore.
+
+:By helpe, I hope, these ragged rymes shall goe,
+:Entituled as louers lynes should bee,
+:And scape the chyding chaps of euery foe,
+:To prayse that man who was best likte of mee. [100]
+:Though death hath shapte his most vntimely end,
+:Yet for his prayse my tristiue tunes I send,
+
+:In hope the Gods, who guide the heauens aboue,
+:His buryed corps aliue agayne will make,
+:And haue remorce of Ladyes lincked loue, [105]
+:As once they did for good ''Admetus'' sake;
+:Or change him els into some flower to weare,
+:As erst they did transforme ''Narscissus'' fayre.
+
+:So should I then possesse my former freend,
+:Restor'd to lyfe, as ''Alcest'' was from Hell: [110]
+:Or els the Gods some fragrant flower would send,
+:Which for his sake, I might both weare and smell;
+:Which flower out of my hand shall neuer passe,
+:But in my harte shall haue a sticking place.
+
+:But wo is mee, my wishes are in vayne; [115]
+:Adue delight, come crooked cursed care!
+:To bluntish blockes I see I doo complayne,
+:And reape but onely sorrow for my share;
+:For wel I know that Gods nor sprites can cure
+:The paynes that I for ''Gruffith'' doo endure. [120]
+
+:Since wayling no way can remedy mee,
+:To make an ende I therfore iudge it best,
+:And drinke vp all my sorrow secretly,
+:And as I can, I will abide the rest.
+:And sith I dare not mourne to open showe, [125]
+:With secret sighes and teares my hart shall flow.
+
+:Some busie brayne perhaps will aske my name,
+:Disposed much some tidings for to marke:
+:That dare I not, for feare of flying fame,
+:And eke I feare least byting bugs will barke. [130]
+:Therfore farewell, and aske no more of mee,
+:For as I am, a Louer will I dye.
+</poem>
+</div>
+
+== Textual Notes ==
+
+I have modernized the punctation of "The Lamentation" (which is often misleading in the text of ''A Gorgeous Gallery'' and probably not authorial), but retained the original spelling. Substantive or debatable changes are recorded below.
+
+::5 why ] why? P2v
+
+::45 I ] I? P3v
+
+::51 fame] sic P3v ''conjecture'' same
+
+::69 (who,...before)] (who) P3v
+
+::98 lines] liues P4r
+
+::111 fragrant] flagrant P4v
+
+::116 delight...care!] delight?...care: P4v
+
+== References ==
+{{reflist}}
+
+== Works Cited ==
+
+* Arber, Edward. ''A Transcript of the Registers of the Company of Stationers of London''. 1875-94. 5 vols. London: Peter Smith, 1950.
+* Cunnington, Phillis and Catherine Lucas. ''Costume for Births, Marriages, and Deaths''. London: Adam and Charles Black, 1972.
+* Fehrenbach, Robert J. "Isabella Whitney and the Popular Miscellanies of Richard Jones." ''Cahiers Elisabéthains'' 19 (1981): 85-7.
+* ---. "Isabella Whitney, Sir Hugh Plat, Geoffrey Whitney, and 'Sister Eldershae.'" ''ELN'' 21 (1984): 7-11.
+* Grey, Lady Jane. ''An Exhortation written by the Lady Jane the Night Before She Suffered''. London, 1554.
+* Hooper, Wilfrid. "Tudor Sumptuary Laws." ''EHR'' 30 (1915): 433-49.
+* Jones, Ann Rosalind. "Surprising Fame: Renaissance Gender Ideologies and Women's Lyric." ''The Poetics of Gender''. ed. Nancy Miller New York: Columbia UP, 1986: 74-95.
+* ---. ''The Currency of Eros: Women's Love Lyric in Europe, 1545-1620''. Bloomington and Indianapolis: Indiana UP, 1990.
+* Linthicum, L.C. ''Costume in the Drama of Shakespeare and his Contemporaries''. Oxford: Clarendon, 1936.
+* Martin, Randall. ''Women Writers in Renaissance England''. London: Longman, 1997.
+* Parr, Katherine. ''The Lamentation of a Sinner.'' London, 1547.
+* Procter, Thomas, et al. ''A Gorgeous Gallery of Gallant Inventions''. ed. Hyder E. Rollins, 1926. New York: Russell and Russell, 1971.
+* Robinson, Clement, et al. ''A Handful of Pleasant Delights''. ed. Hyder E. Rollins, 1924. New York: Dover, 1965.
+* Stallybrass, Peter. "Patriarchal Territories: The Body Enclosed." ''Rewriting the Renaissance: The Discourses of Sexual Difference in Early Modern Europe''. ed. Margaret W. Ferguson, Maureen Quilligan, and Nancy J. Vickers. Chicago: U of Chicago P, 1986. 123-42.
+* Travitsky, Betty S. "The 'Wyll and Testament' of Isabella Whitney." ''ELR'' 10 (1980): 76-94.
+* Turberville, George. ''Heroycall Epistles . . . of Ovidius'' London, 1567.
+* Wall, Wendy. "Isabella Whitney and the Female Legacy." ''ELH'' 58 (1991): 35-62.
+* Whitney, Isabella. ''The Copy of a Letter, lately written in meeter, by a younge Gentilwoman: to her vnconstant Louer''. London, 1567.
+* ---. ''A sweet Nosegay, Or pleasant Posye.'' London, 1573.
+* ---. "The lamentacion of a Gentilwoman vpon the death of her late deceased frend William Gruffith Gent.," ''A Gorgeous Gallery of Gallant Inventions''. Thomas Procter et al. London, 1578.
+* Youngs, Frederic A. ''The Proclamations of the Tudor Queens''. Cambridge: Cambridge UP, 1976.
+
+{{BookCat}}
