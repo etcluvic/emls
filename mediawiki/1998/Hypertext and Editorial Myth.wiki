@@ -1,0 +1,934 @@
+''This essay was written by Paul Werstine''.
+
+<!--Paragraph 1-->
+One of the most persistent features in today’s printed editions of Shakespeare plays whose target audience includes scholars is an extensive discussion and a positive identification of the kinds of manuscript that lie behind the early printed texts.<ref>My essay does not address the generally persuasive editorial strategies for identifying a scribal transcript behind an early printed text, strategies that carry conviction because they demonstrate an incidence of specific spelling patterns or punctuation preferences in particular printed texts that exceed by considerable margins what is to be found in other playtexts set into type by the same printer at about the same time. For the best example of this kind of approach, see T. H. Howard-Hill’s book on the scribe Ralph Crane. Not all attempts to identify scribal transcripts behind printed texts have been equally successful.</ref> Yet this feature is of comparatively recent origin in the long and distinguished history of Shakespeare editing. My contribution to this forum on the possibilities of Shakespeare on the Internet explores how the shift from print to electronic editing may offer an opportunity to reassess editorial positivism about the identification of manuscript copy for early printed playtexts. First, my paper discusses the origins and modifications of this now traditional editorial positivism, and then goes on to propose an alternative editorial approach, one that exploits the unique capability of the Internet and of hypertext links. Through these resources, I will argue, it becomes possible to situate features of the early printings of Shakespeare’s plays in the context of the manuscript culture of the era of their composition and staging, rather than continuing to reproduce the idealizing narratives of the plays’ manuscript origins that appear in scholarly printed editions.
+
+<!--Paragraph 2-->
+Although the Shakespeare editorial tradition is at least three centuries old, it was not until J. Dover Wilson’s New Shakespeare edition, begun in 1921, that any editor felt it within his or her power to identify in the course of detailed discussion the precise nature of the manuscript copy that lay behind an early printed version of a Shakespeare play.<ref>In contrast to Wilson’s efforts to represent the printed text as transparent, thereby offering access to the manuscript that underlay it, his predecessors like the editors of the Cambridge Shakespeare hardly ever hazarded an inference about what kind of manuscript might lie behind a printed playtext, print being, to them, opaque. So the Cambridge editors were utterly silent about what may have been printer’s copy for the first two plays in their edition, ''The Tempest'' and ''The Two Gentlemen of Verona''. When they did address the issue of printer’s copy for the 1623 Shakespeare First Folio printing of their third play, their remarks were brief—“The text of the ''Merry Wives'' given in F was probably printed from a carelessly written copy of the author’s MS”—this particular speculation arising only from the sheer number of individual words they thought might have been omitted from the Folio text (1: 312nIII).</ref> Although Wilson’s speculations on the subject were generally so overextended as to leave his fellow scholars skeptical of any possibility of their validity, his practice of providing hypotheses concerning the nature of printer’s copy for the plays nonetheless entered into editorial culture.<ref>For example, in his 1924 edition of ''A Midsummer Night’s Dream'', Wilson, observing the use in the play’s earliest printing of two different designations for the same character as “Puck” and “Robin,” inferred from the difference that Shakespeare had referred to the character as “Robin” in first composing a version of the play very early in his career and then changed the name to “Puck” when he later revised the play. For Wilson, printer’s copy for the quarto consisted of a fair copy of the revised manuscript, the fair copy being subsequently somewhat further revised by Shakespeare. Even his longtime friend and former collaborator A. W. Pollard gently ridiculed this overextended hypothesis of double revision in reviewing Wilson’s edition: “If we imagine complete plays being written wherever we find traces of early work, [Shakespeare’s] prentice days are in danger of becoming impossibly overcrowded.”</ref> The particular strategy employed by many of today’s editors in their attempts to determine what kind of manuscript served as printer’s copy for an extant early edition derives, like so much else in today’s Shakespeare textual criticism, from R. B. McKerrow and W. W. Greg. McKerrow’s contribution to the simplification of this editorial practice was a note for a 1935 number of his own journal (''Review of English Studies'') entitled “A Suggestion Regarding Shakespeare’s Manuscripts,” in which he speculated on the significance of variations in the naming of particular characters within stage directions and speech prefixes in some early printed Shakespeare plays. He concluded that printed plays in which such variations obtrude were set into type from Shakespeare’s own manuscripts, and that printed plays free of such variation were based on scribal transcripts (especially those created for theatrical use). This conclusion was not founded upon any reference whatsoever to the actual practice of scribes, but simply upon the assumption that while playwrights can afford to be messy, theatrical personnel, involved in the practical task of getting a play on the boards, need a uniform script. In his 1939 ''Prolegomena for the Oxford Shakespeare: A Study in Editorial Method'', McKerrow made no attempt to found anything of his editorial method on his earlier “Suggestion,” referring to it only to correct some of its errors (9n1).
+
+<!--Paragraph 3-->
+While McKerrow apparently abandoned his “Suggestion,” Greg took it up and developed it, even though his development of it brought him into contradiction with earlier and better-informed pronouncements he had made about dramatic manuscripts. In two books entitled ''The Editorial Problem in Shakespeare'' (1942) and ''The Shakespeare First Folio'' (1955), the books that continue to be the bases for many textual introductions to scholarly editions of Shakespeare, Greg not only embraced McKerrow’s “Suggestion,” but extended it. In his treatment of individual Shakespeare plays in these books, Greg implicitly characterized manuscripts used in the theatre (which he anachronistically called “prompt-books”) as a separate class of dramatic manuscripts that were not only, as McKerrow suggested, uniform in their naming of characters, but also complete and accurate in their stage directions.<ref>Greg employed the term “prompt-book” for manuscripts that showed signs of having been used in the theatre, even though the OED records no use of the term “prompt-book” until the nineteenth century. Greg was mistaken to think that such manuscripts were recognized as a separate class for which the term “Booke” was reserved (see Greg, ''Editorial Problem'' [27-28] and ''First Folio'' [100nB], but see Werstine [484]).</ref> Following McKerrow, Greg also conceived of the manuscripts behind printed plays in binary terms, setting against “prompt-books” the category of authorial manuscripts, which Greg termed “foul papers,” a kind of manuscript that he characterized as marked by the diversity, inaccuracy and incompleteness that he imagined would have been banished from the stage directions and speech prefixes of a “prompt-book.”
+
+<!--Paragraph 4-->
+We can find Greg’s binary opposition of “prompt-books” to “foul papers” operating, for example, in his positive identification of the kind of manuscript that underlay the First Quarto of ''A Midsummer Night’s Dream''. Greg began by quoting a number of stage directions and speech prefixes from this Quarto with a view to exemplifying what he termed their “irregularities,” such as “grouping” of characters in stage directions (as “the Clownes” or “the rabble”); “a tendency to mass characters at the beginning of a scene,” even though some of them may not actually enter until the scene is under way, and “uncertainty in designating characters,” that is, the use of more than one designation for a character (“Robin”/“Pucke”). He then summed up: “In view . . . of the absence of some necessary entrances and exits, and of the persistence of irregularities noted above, we are bound to conclude [that printer’s copy was] foul papers [i.e., an authorial manuscript]; for, in spite of the general cleanness of the text, we can hardly imagine that Q [the First Quarto] represents a finished prompt-book” (''First Folio'' 240-41). In presuming that a manuscript transcribed for theatrical use (“prompt-book” in Greg’s parlance) would be complete and accurate in its stage directions, Greg was contradicting what he had himself earlier observed in a survey of many extant dramatic manuscripts he had completed by 1931: “It is time we asked the question: What treatment did the book-keeper [i.e., theatrical scribe] mete out to the author’s stage-directions? The answer is that as a rule he left them alone.”<ref>''Dramatic Documents'' (1: 213). Although Greg’s analyses of particular early printed Shakespeare plays were often shaped as rather reductive binary arguments, he could also appreciate just how difficult it may be to identify the kind of manuscript that might underlie a printed text: “When we . . . ask what sort of manuscript was handed to the Folio printer or lay behind the printed edition supplied [to the Folio printer] . . ., we enter . . . a misty mid region of Weir, a land of shadowy shapes and melting outlines, where not even the most patient inquiry and the most penetrating analysis can hope to arrive at any but tentative and proximate conclusions” (''First Folio'' 105). This theme in Greg’s writing has not been reproduced in textual introductions to scholarly editions anymore than has the conclusion of his 1931 survey of dramatic manuscripts.</ref>
+
+<!--Paragraph 5-->
+It is Greg’s analysis of the First Quarto of ''A Midsummer Night’s Dream'', and not his survey of extant dramatic manuscripts, that has so profoundly influenced the textual introductions written by subsequent editors of the play in book form from H. F. Brooks to R. A. Foakes to Stanley Wells, and, most recently, Peter Holland.<ref>Although I have made Peter Holland’s edition of ''A Midsummer Night’s Dream'' the focus of my discussion in the rest of this paper, I wish to emphasize that my argument is not in the least ''ad hominem'', nor an attack on the fine Oxford Shakespeare series of which it is a part. My analysis could just as well have had as its object, say, M. M. Mahood’s edition of ''The Merchant of Venice'' in the New Cambridge Shakespeare (1987) or John Wilders’ ''Antony and Cleopatra'' in The Arden Shakespeare (1995), both of which are every bit as indebted to Greg in their textual introductions as Holland’s edition is. Rather, I regard Holland’s edition as a very fine example of the current scholarly edition of Shakespeare in book form.</ref> There is a marvelous fit between the succinctness of Greg’s analysis and the economy of the book as a medium of textual reproduction. But the representation of Greg’s theory in edition after edition will never resolve the contradiction between his theory and his earlier observation about extant dramatic manuscripts.
+
+<!--Paragraph 6-->
+My purpose in the rest of this paper is to demonstrate what may happen to Greg’s analysis once a sample of a digital text of the First Quarto of ''A Midsummer Night’s Dream'' is electronically recontextualized among samples of dramatic manuscripts from its period. The manuscript I have sampled is the famous dramatic manuscript entitled on its own wrapper ''The Booke of Sir Thomas Moore''. The ''More'' manuscript is famous, of course, for the nearly century-long apparently irresolvable controversy about whether some of the handwriting in it is Shakespeare’s,<ref>The latest scholarly consensus about Shakespearean inscription of the three disputed pages is set forth in T. H. Howard-Hill’s ''Shakespeare and Sir Thomas More'': “none [of the contributors to the present volume] believes that the case for Shakespeare’s presence in the ''More'' manuscript is less strong than that which could be made to deny it or to identify another playwright as the scribe of [the three disputed pages]” (2). The extremely contrived and awkward structure of this statement indicates the degree of scholarly caution on this question.</ref> but, for my purposes, this manuscript is relevant because it contains two versions of the same scene.
+
+<!--Paragraph 7-->
+Neither one of these versions can be identified, in the overly simplistic terms of Greg’s tradition, as the authorial “foul papers” version or the theatrical “prompt-book” version. The failure of these scenes to fill the categories of “foul papers” and “prompt-book” is not the fault of the ''More'' manuscript; indeed there are extant no manuscripts that can be demonstrated to match Greg’s categories, which are therefore purely ideal, rather than empirical, in conception. Actual historical documents are shrouded in an indeterminacy that is nowhere to be found in connection with the sharp distinctions between kinds of dramatic manuscript that Greg posits.
+
+<!--Paragraph 8-->
+For example, the first version of the ''More'' scene is inscribed in the hand of a known playwright, Anthony Munday; but whether it is a scene of Munday’s own composition and, if it is, whether the extant inscription of the scene is his initial rendering of it or a later reworking are questions that are impossible to answer with any assurance. That is, it is impossible to know whether Munday is functioning here as a playwright or as a scribe; he is known to have functioned as both elsewhere (see Byrne). The handwriting of the second version of the scene is also identified by some as that of a known playwright, Thomas Heywood, although, unlike the attribution of the first version to Munday, this attribution of the second version to Heywood is strongly contested by several scholars (see Rasmussen). Whether or not the handwriting is Heywood’s, we can be sure that the second version of the scene is not an original composition because it is merely a copy of the first version with the part of a clown interpolated into it; indeed, this clown’s part may be, as Rasmussen suggests, no more than a transcription of lines improvised by the company’s clown. Whether the second version of the scene was ever staged and therefore whether its inscription served as part of a “prompt-book” (in Greg’s terminology) is just as uncertain as whether Munday composed the first version of the scene. In sum, scholarship on the More manuscript indicates that in dealing with an actual dramatic manuscript, one must confront the possibility that the same individuals (Munday and, just possibly, Heywood) could function on both sides of the boundary that Greg’s tradition throws up between playwright and theatre in its distinction between authorial “foul papers” and theatrical “prompt-books.”
+
+<!--Paragraph 9-->
+Despite all this indeterminacy, the two versions of the ''More'' manuscript scene do allow us to see how a scene first inscribed in the handwriting of a known playwright, Anthony Munday, actually differs from the re-inscription of the scene as it was adapted and annotated for a theatrical production, whether or not that production was ever mounted. That is, the two versions of the scene allow us to chart the progress of a scene towards (if not to) theatrical performance and thus to test whether this process issued in a manuscript that, as Greg predicted, is ever more regular, accurate, and complete the further it moves from the playwright and the closer it comes to the stage. In the textual introduction to an Internet edition of ''A Midsummer Night’s Dream'', it would be at least theoretically possible to link those allegedly authorial features of the First Quarto’s stage directions and speech prefixes to similar features in actual extant manuscripts, rather than trying, as book editors have done, to account for these features only in terms of Greg and McKerrow’s idealization of the difference between authorial and theatrical methods of inscription.
+
+<!--Paragraph 10-->
+These features of First Quarto ''Dream'', as the play’s most recent editor Peter Holland classifies them, fall into four groups, as follows:<ref>For ease of display, I have not always selected the same examples or all the examples Holland did. Passages from the quarto of ''Dream'' are from the electronic version supplied by the Text Archive of the Oxford University Computing Centre, to which I am grateful. Passages from ''More'' are based on the Malone Society Reprint.</ref>
+
+<!--Paragraph 11-->
+First there are the variations in the naming of characters. For example, on their first entrance Theseus and Hippolyta are called by their proper names in the stage direction and speech prefixes [[#Midsummer-Night's Dream - MND 1 | [MND 1]]], but they are sometimes later designated by their titles “Duke” and “Dutch” or “Duchess” [[#MND 4 | [MND 4]]].
+
+<!--Paragraph 12-->
+A second allegedly authorial feature is the naming of characters only in a general way in stage directions. An example is the loose reference “with others” in the opening stage direction, which, if it were more precise, would name the character Philostrate, who is addressed by name early in the scene [[#Midsummer-Night's Dream - MND 1 | [MND 1]]].
+
+<!--Paragraph 13-->
+A third supposedly authorial mark in the text is the absence of required entrances and exits. Not only is there no specific entrance for Philostrate, but there is also no exit for him when he is sent off stage by Theseus: “Go, Philostrate, stir up the Athenian youth to merriments” [[#Midsummer-Night's Dream - MND 1 | [MND 1]]].
+
+<!--Paragraph 14-->
+The fourth and final sign of the author is, according to the tradition reproduced by Holland, the erroneous inclusion in stage directions of characters who are not to enter until later. Helena is an example. In the quarto she is included among the other young lovers in an entrance [[#MND 2 | [MND 2]]], but then she is also given her own separate entrance much later in the scene [[#MND 3 | [MND 3]]]. Winding up his classification of these features as distinctively authorial, Holland concludes: “the bookholder, or prompter, at the theatre would have needed to be more exact” (114).
+
+<!--Paragraph 15-->
+Holland’s tradition may seem to be right in identifying as non-theatrical the first of the features he lists, namely, variation in the naming of characters. Turning to the ''More'' manuscript, we do indeed find this kind of variation in Munday’s version of the scene.<ref>Some of the conventions of diplomatic transcription of manuscripts obtrude in the digital text of ''More'': (1) square brackets indicate what has been erased or crossed out; (2) pointed brackets indicate illegible or partially illegible script; (3) a vertical line down the left margin of a speech or speeches (as, for example, is found throughout the first version of the scene) indicates a cut, which is often marked just this way in manuscript.</ref> There a character enters as one of the “Betses” [[#MORE A 1 | [MORE A 1]]] but speaks as “Geo[rge].” [[#MORE A 2 | [MORE A 2]]] However, Holland’s tradition is not upheld when it is discovered that such variation is not distinctive to Munday’s version because it persists in the theatrical adaptation of the scene, where the same character still enters as “BETTS” or one of the “Betses” and still speaks as “gorge.” [[#MORE T 1 | [MORE T 1]]] Indeed the theatrical manuscript also introduces further variation in naming because the clown’s proper name, as we learn in another scene, is also “Betts”; in the theatrical manuscript then the clown too enters as one of the Betses, but speaks as “clo[wn].” [[#MORE T 1 | [MORE T 1]]] Confusion is further compounded in the theatrical version by the partial duplication of the initial entrance direction, for the theatrical version includes both Munday’s version of the entrance and its own version.
+
+<!--Paragraph 16-->
+As noted above, the second feature in quarto ''Dream'' alleged to be distinctive of the author is the general, rather than specific way in which characters are presented in entrance directions: Theseus and Hippolyta enter “with others.” Again there is something similar in Munday’s version of the scene in the ''More'' manuscript in which the rioters named in the initial stage direction are said to enter with “a crewe.” [[#MORE A 1 | [MORE A 1]]] But again this feature is not distinctive to Munday’s version of the ''More'' scene because the theatrical version simply includes Munday’s entrance direction. [[#MORE T 1 | [MORE T 1]]]
+
+<!--Paragraph 17-->
+A different pattern emerges with the third feature in quarto ''Dream'' that Holland’s tradition identifies as peculiar to authorial manuscripts, the absence of required entrances and exits, a feature exemplified by the Philostrate’s missing exit. Munday’s version of the ''More'' scene offers no empirical support for Holland’s tradition because Munday’s version is scrupulous about its entrances and exits. Its entrance direction includes all speakers by name [[#MORE A 1 | [MORE A 1]]]. It also includes mid-scene exits and entrances [[#MORE A 2 | [MORE A 2]]], [[#MORE A 3 | [MORE A 3]]], as well as an exit at the end of the scene [[#MORE A 3 | [MORE A 3]]]. However, in the theatrical version of the More scene, the abbreviated entrance fails to include all speakers, omitting Sherwin [[#MORE T 1 | [MORE T 1]]], even though this version keeps his speeches [[#MORE T 2 | [MORE T 2]]]. The theatrical version also lacks the mid-scene exit and entrance supplied by Munday—their absence noted here by asterisks [[#MORE T 2 | [MORE T 2]]]] [[#MORE T 3 | [MORE T 3]]]—as well as omitting a final exit [[#MORE T 3 | [MORE T 3]]]. It is thus the theatrical version of the ''More'' scene that is deficient in stage directions, not Munday’s, contrary to what the Greg-McKerrow tradition would have predicted.
+
+<!--Paragraph 18-->
+And, finally, the alleged authorial error of including characters, like quarto ''Dream''’s Helena, in stage directions where they do not belong also turns out to be a feature of the theatrical version of the ''More'' scene, which, unlike Munday’s version, includes in a continuation the Clown and Sir John Munday. The Clown’s continued presence is indicated by the stage direction “MANETT CLOWN.” [[#MORE T 3 | [MORE T 3]]] Inclusion of the Clown and Munday in the stage directions is demonstrably erroneous because the Clown has no role in what follows, and Sir John Munday’s role has been cut from the scene (as indicated by the vertical lines down the left side of the speeches) [[#MORE T 4 | [MORE T 4]]]. Again the McKerrow-Greg hypothesis, which predicted that erroneous inclusion of characters in stage directions would not be found in a theatrical manuscript, is refuted by empirical evidence.
+
+<!--Paragraph 19-->
+In summation, then, the features that this hypothesis identifies as distinctively authorial in, for example, the quarto of ''A Midsummer Night’s Dream'' can be shown to be either not distinctive to the playwright Munday’s inscription, or not to have originated with Munday at all. It is not my purpose to argue that therefore the quarto of ''Dream'' must be based on a theatrical manuscript, but only to show that the nature of the manuscript upon which it is based is far more uncertain than prevailing editorial theory would have it. An opportunity to link the texts of an Internet Shakespeare to texts of many more dramatic manuscripts and to give an account of these links in the introductory materials to such an edition would be welcome as an expansion of the editorial function.
+
+==Notes==
+{{reflist}}
+
+==Appendix (Internally-linked Textual Examples)==
+
+===Midsummer-Night's Dream - MND 1===
+<pre>          Enter Theseus, Hippolita, with others.
+          2 Theseus.
+          3    NOw faire Hippolita , our nuptiall hower
+          4    Draws on apase: fower happy daies bring in
+          5    An other Moone: but oh, me thinks, how slow
+          6    This old Moone wanes! She lingers my desires,
+          7    Like to a Stepdame, or a dowager,
+          8    Long withering out a yong mans reuenewe.
+          9 Hip. Fower daies will quickly steepe themselues in night:
+          10   Fower nights will quickly dreame away the time:
+          11   And then the Moone, like to a siluer bowe,
+          12   Now bent in heauen, shall beholde the night
+          13   Of our solemnities.
+          14 The. Goe Philostrate ,
+          15   Stirre vp the Athenian youth to merriments,
+          16   Awake the peart and nimble spirit of mirth,
+          17   Turne melancholy foorth to funerals:
+          18   The pale companion is not for our pomp.
+          19   Hyppolita, I woo'd thee with my sword,
+          20   And wonne thy loue, doing thee iniuries:
+          21   But I will wed thee in another key,
+          22   With pompe, with triumph, and with reueling.
+</pre>
+
+===MND 2===
+<pre>          23    Enter Egeus and his daughter Hermia, and Lysander
+          24                       and Helena , and Demetrius.
+          25 Ege. Happy be Theseus , our renowned duke.
+          26 The. Thankes good Egeus . Whats the newes with thee?
+          27 Ege. Full of vexation, come I, with complaint
+          28   Against my childe, my daughter Hermia.
+          29        Stand forth Demetrius.
+          30   My noble Lord,
+          31   This man hath my consent to marry her.
+          32        Stand forth Lisander.
+          33   And my gratious Duke,
+          34   This man hath bewitcht the bosome of my childe.
+          35   Thou, thou Lysander , thou hast giuen her rimes,
+          36   And interchang'd loue tokens with my childe:
+          37   Thou hast, by moone-light, at her windowe sung,
+          38   With faining voice, verses of faining loue,
+          39   And stolne the impression of her phantasie:
+          40   With bracelets of thy haire, rings, gawdes,
+                    conceites,
+          41   Knackes, trifles, nosegaies, sweete meates (messengers
+          42   Of strong preuailement in vnhardened youth)
+          43   With cunning hast thou filcht my daughters heart,</pre>
+
+----
+
+===MND 3===
+<pre>          187 Lys. Keepe promise loue: looke, here comes Helena.
+          188                  Enter Helena.
+          189 Her. God speede faire Helena : whither away?
+          190 Hel. Call you mee faire? That faire againe vnsay.
+          191  Demetrius loues your faire: o happy faire!
+          192  Your eyes are loadstarres, and your tongues sweete
+               aire
+          193  More tunable then larke, to sheepeheards eare,
+          194  When wheat is greene, when hauthorne buddes appeare.
+          195  Sicknesse is catching: O, were fauour so,
+          196  Your words I catch, faire Hermia , ere I goe,
+          197  My eare should catch your voice, my eye, your eye,
+          198  My tongue should catch your tongues sweete melody.
+          199  Were the world mine, Demetrius being bated,
+          200  The rest ile giue to be to you translated.
+          201  O, teach mee how you looke, and with what #Art,
+          202  You sway the motion of Demetrius heart.
+          203 Her . I frowne vpon him; yet hee loues mee still.
+          204 Hel. O that your frowns would teach my smiles such skil.
+          205 Her. I giue him curses; yet he giues mee loue.
+          206 Hel. O that my prayers could such affection mooue.
+</pre>
+
+----
+===MND 4===
+<pre>          1928 Duk.Now is the Moon vsed between the two neighbors.
+          1929 Deme. No remedy, my Lord, when wals are so wilfull,
+          1930      to heare without warning.
+          1931 Dutch. This is the silliest stuffe, that euer I heard.
+          1932 Duke. The best, in this kinde, are but shadowes: and
+          1933      the worst are no worse, if imagination amend them.
+          1934 Dutch. It must be your imagination, then; &amp; not theirs.
+          1935  Duke . If we imagine no worse of them, then they of
+                         themselues,
+          1936      they may passe for excellent men. Here come two
+          1937      noble beasts, in a man and a Lyon.
+          1938           Enter Lyon, and Moone-shine.
+          1939 Lyon. You Ladies, you (whose gentle hearts do feare
+          1940      The smallest monstrous mouse, that creepes on floore)
+          1941      May now, perchance, both quake and tremble here,
+          1942      When Lyon rough, in wildest rage, doth roare.
+          1943      Then know that I, as Snug the Ioyner am
+          1944      A Lyon fell, nor else no Lyons damme.
+          1945      For, if I should, as Lyon, come in strife,
+          1946      Into this place, 'twere pitty on my life.
+          1947 Duk. A very gentle beast, and of a good conscience.</pre>
+
+----
+
+===MORE A 1===
+<pre>Enter Lincolne, Betses , Williamson, Sherwin and other armed, doll in
+a shirt of Maile, a head piece, sword and Buckler, a crewe attending.</pre>
+
+<table border="0">
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Doll</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Peace
+                    there I say, heare Captaine Lincolne speake, </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Keepe
+                    silence, till we knowe his minde at large. </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>All</u>.
+                    </font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Agreed,
+                    agreed, speake then braue Captaine Lincolne. </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Lin</u>.
+                    </font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Come gallant bloods, you, whose free soules doo
+                    scorne </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">to
+                    beare th'enforced wrongs of Aliens. </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Add
+                    rage to resolution, fire the houses </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">of these audacious straungers. This is St.
+                    Martins </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">and yonder dwelles <u>Mewtas</u> a wealthie
+                    Piccarde, at the greene gate,</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New"><u>De Barde, Peter van Hollock, Adrian Martine,</u>
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">with
+                    many more outlandish fugitiues. </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Shall
+                    these enioy more priueledge then we </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">in our owne countrie ? lets then become their
+                    slaues. </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Since
+                    iustice keeps not them in greater awe </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">weele
+                    be our selues rough ministers at lawe. </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>All</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">ffire
+                    the houses, fire the houses. </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Doll</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">I, for we may as well make bonfires on May day, as
+                    at</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Midsommer,
+                    weele alter the day in the Calender, and </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">set it
+                    downe in flaming letters.</font></td>
+                </tr>
+            </table>
+
+----
+
+===MORE A 2===
+<table border="0">
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Sher</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Stay,
+                    that would much endaunger the whole Cittie</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">wherto
+                    I would not the least preiudice</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Doll</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">No nor I neither, so may mine owne house be burnd
+                    for</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">companie,
+                    Ile tell ye what, weele drag the straungers </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">out in to Moore feildes, and there bumbast them till
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">they
+                    stinck againe.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Geo</u></font><font size="2" face="Courier New">. </font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Let
+                    some of vs enter the straungers houses,</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">and if
+                    we finde them there, then bringe them foorth.</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td><p align="right"><font size="2" face="Courier New">/ ex. some and
+                    Sher. </font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Doll</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">If ye
+                    bringe them foorth before ye finde them, Ile</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">neuer
+                    allowe of that.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Will</u>
+                    </font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Now
+                    Lads, how shall we labour in our safetie ?</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">I heare
+                    the Maior hath gathered men in Armes</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">and
+                    that Sheriffe Moore an houre agoe receiu'de</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">some of
+                    the priuie Councell in at Ludgate,</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">fforce
+                    now must make our peace or else we fall</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">twill
+                    soone be knowne we are the principall</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Doll</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">And what of that ? if thou bee'st afrayd husband,
+                    goe</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">home againe and hide thy head, for by the Lord Ile
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">haue a
+                    little sporte now I am at it.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Geo</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Lets
+                    stand vppon our Guarde, and if they come</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">receiue
+                    them as they were our enemies.</font></td>
+                </tr>
+            </table>
+
+----
+===MORE A 3===
+<table border="0">
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td><p align="right"><font size="2" face="Courier New">/ Ent. Sher. &amp; the
+                    rest.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Lin</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">How now
+                    ? haue ye found anie ?</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Sher</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Not
+                    one, th'are fled.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Lin</u>.</font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Then
+                    fire the houses, that the Maior beeing busie,</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">about
+                    the quenching of them, we may scape.</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">Burne
+                    downe their kennelles let vs s&lt; &gt; away,</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">least that this prooue to
+                    vs an ill May daye</font><font size="2" face="Courier New">.</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><p align="right"><font size="2" face="Courier New">---------- exeunt .</font></p>
+                    </td>
+                </tr>
+            </table>
+
+----
+
+===MORE T 1===
+<pre>ENTER LINCOLNE BETTS WILLIAMSON DOLL.*
+Enter Lincolne, Betses, Williamson, Sherwin and other armed, doll in a
+shirt of Maile, a head piece, sword and Buckler, a crewe attending.</pre>
+            <table border="0">
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">come come wele tickle ther turnips wele butter
+                    ther boxes</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">shall strangers Rule the Roste [yes] but wele baste
+                    [yt] the </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">roste
+                    come come a flawnt a flaunte</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">gorge </font></td>
+                    <td><font size="2" face="Courier New">brother
+                    giue place and heare Iohn lincolne speake </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">I lincolne my leder and doll [his] my true
+                    breder wth the rest of </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">our crue shall Ran tan tarra ran. doo all they
+                    what they can </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">shall we be bobd braude no shall we be hellde vnder
+                    no. we ar fre </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">borne
+                    and doo take skorne to be [so.] vsde soe / </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll </font></td>
+                    <td><font size="2" face="Courier New">pease theare I saye heare captaine lincolne speake.
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">kepe
+                    silens till we know his minde at large. </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">[come on than] then largelye dilliuer speake bullie
+                    and he that </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">presumes to [speak before ye] interrupte the in thie
+                    orratione </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">this
+                    for him [capatene] </font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">lincol </font></td>
+                    <td><font size="2" face="Courier New">then gallant bloods you whoes fre sowles doo
+                    skorne </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">to
+                    beare the inforsed wrongs of alians </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">ad rage
+                    to Ressolutione fier the howses </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">of theis audatious strangers: This is St martins
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">and
+                    yonder dwells mutas a welthy piccardye </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">at the
+                    greene gate </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">de
+                    barde peter van hollocke adrian Martine </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">wth
+                    many more outlandishe fugetiues </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">shall
+                    theis enioy more priueledge then wee </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">in our
+                    owne cuntry. lets become ther slaiues</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">since
+                    Iustis kepes not them in greater awe </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">wele be
+                    our Selues Rough ministers at lawe. </font></td>
+                </tr>
+            </table>
+            <p><font size="2" face="Courier New">*This direction
+            is crowded within rules into the left margin beside
+            the other entrance direction. </font></p>
+
+----
+
+===MORE T 2===
+<table border="0">
+<tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">vse no more swords nor no more words but fier the
+                    howses</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">braue
+                    captaine curragious fier me ther howses</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll </font></td>
+                    <td><font size="2" face="Courier New">I for we maye as well make bonefiers on maye daye
+                    as</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">at midsomer wele alter the daye in the callinder
+                    and sett</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">itt
+                    downe in flaming letters</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">sher</font><font size="2" face="Courier New"> </font></td>
+                    <td><font size="2" face="Courier New">staye
+                    no that wold much indanger the hole cittie</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">wher
+                    too I wold not the leaste preiudice.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll </font></td>
+                    <td><font size="2" face="Courier New">no nor I nether so maie mine owne howse be burnd for
+                    </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">companye ile tell ye what wele drag the strangers into
+                    more </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">feldes &amp; theare bumbaste them till they stinke a
+                    gaine</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">and thats soone doone for they smell for feare
+                    all redye.</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">Geor </font></td>
+                    <td><font size="2" face="Courier New">let
+                    some of vs enter the strangers houses</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">and if we finde them
+                    theare then bringe them forthe</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><p align="center"><font size="2" face="Courier New">* * * *</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll</font></td>
+                    <td><font size="2" face="Courier New">but if ye bringe them forthe eare ye finde them Ile
+                    neare</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">alowe
+                    of thatt</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo</font></td>
+                    <td><font size="2" face="Courier New">now marsse for thie honner dutch or frenshe so yt
+                    be a </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">wenshe
+                    ile vppon hir</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">WILLIAM
+                    </font></td>
+                    <td><font size="2" face="Courier New">now
+                    lads howe shall we labor in or saftie</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">I heare
+                    the maire hath gatherd men in armes</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">and
+                    that shreue more an hower a goe Risseude</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">some of
+                    the privye cownsell in at ludgate</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">forse
+                    now must make our pease or eles we fall</font></td>
+                </tr>
+</table>
+
+----
+
+===MORE T 3===
+<table border="0">
+<tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">twill
+                    soone be knowne we ar the principall</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll </font></td>
+                    <td><font size="2" face="Courier New">and what of that if thow beest a fraide husband
+                    go home a</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">gaine and hide thy hed for by the lord Ile haue a
+                    lyttill </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">sporte
+                    now we ar att ytt</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">[Lin]
+                    Geor </font></td>
+                    <td><font size="2" face="Courier New">lets
+                    stand vppon or swords and if they come</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">Resseaue</font><font size="2" face="Courier New"> them as they
+                    weare our eninemyes</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><p align="center"><font size="2" face="Courier New">* * * *</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">a purchase a purchase we haue fownd we ha
+                    fownde</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">doll </font></td>
+                    <td><font size="2" face="Courier New">what</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">nothinge
+                    nott a frenshe fleminge nor a fleming frenshe</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">to be
+                    fownde but all fled in plaine inglishe</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">Linco </font></td>
+                    <td><font size="2" face="Courier New">how now
+                    haue you fownd any</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">Sher </font></td>
+                    <td><font size="2" face="Courier New">no not
+                    one theyre all fled</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">Lincol </font></td>
+                    <td><font size="2" face="Courier New">then
+                    fier the houses that the maior beinge busye</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">aboute
+                    the quenshinge of them we maye skape</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">burne
+                    downe ther kennells let vs straite awaye</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">leaste
+                    this daye proue to vs an ill maye daye</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New">clo </font></td>
+                    <td><font size="2" face="Courier New">fier
+                    fier ile be the firste</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">if hanginge come tis
+                    welcome thats the worste</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><p align="center"><font size="2" face="Courier New">* * * * *</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><p align="right"><font size="2" face="Courier New"><u>MANETT CLOWNE</u>/</font></p>
+                    </td>
+                </tr>
+</table>
+
+----
+===MORE T 4===
+<font size="2" face="Courier New">&lt;En&gt;ter At on dore Sr Thomas moore and Lord maire:<br> Att an other doore <u>Sr Iohn Munday Hurt</u>.</font>
+            <table border="0">
+                <tr>
+                    <td><font size="2" face="Courier New"><u>L.
+                    Maior</u>. </font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">what Sr
+                    Iohn munday are you hurt</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Sr. Iohn</u></font></td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">A little knock my lord
+                    [her] ther</font><font size="2" face="Courier New"> </font><font size="2" face="Courier New">was even now </font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">a sort
+                    of prentises playing at Cudgells</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">I did
+                    Comaund them to ther mrs howses</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">but one
+                    of them Backt by the other crew</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">wounded
+                    me in the forhead wth his Cudgill</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">and now
+                    I feare me they are gon to Ioine</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">|</font></td>
+                    <td><font size="2" face="Courier New">wth
+                    Lincolne Sherwine and ther dangerous traine</font></td>
+                </tr>
+                <tr>
+                    <td><font size="2" face="Courier New"><u>Moore</u>.</font></td>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">the
+                    Captaines of this Insurection</font></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td><font size="2" face="Courier New">have
+                    tane them selves to armes. and cam but now</font></td>
+                </tr>
+            </table>
+
+==Works Cited==
+* Brooks, Harold F., ed. ''A Midsummer Night's Dream''. The Arden Shakespeare. London: Methuen, 1979. 
+* Byrne, M. St. Clare. "Anthony Munday and His Books." ''The Library'' IV 1 (1921): 225-56.
+* Foakes, R. A. ''A Midsummer Night's Dream''. The New Cambridge Shakespeare. Cambridge: Cambridge UP, 1984. 
+* Greg, W. W., ed. ''The Book of Sir Thomas More''. Malone Society Reprints. London: Oxford UP, 1911. With a supplement by Harold Jenkins, 1961. 
+* ----. ''Dramatic Documents from the Elizabethan Playhouses''. 2 vols. Oxford: Clarendon P, 1931.
+* ----. ''The Editorial Problem in Shakespeare''. Oxford: Clarendon P, 1942.
+* ----. ''The Shakespeare First Folio''. Oxford: Clarendon P, 1955.
+* Holland, Peter, ed. ''A Midsummer Night's Dream''. The Oxford Shakespeare. Oxford: Clarendon P, 1994. 
+* Howard-Hill, T. H. ''Ralph Crane and Some Shakespeare First Folio Comedies''. Charlottesville: UP of Virginia, 1972. 
+* ----, ed. ''Shakespeare and Sir Thomas More: Essays on the Play and its Shakespearian Interest''. Cambridge: Cambridge UP, 1989.
+* McKerrow, R. B. "A Suggestion Regarding Shakespeare's Manuscripts." ''Review of English Studies'' 11 (1935): 459-65. 
+* ----. ''Prolegomena for the Oxford Shakespeare: A Study in Editorial Method''. Oxford: Clarendon P, 1939. 
+* Pollard, A. W. "Reviews and Notices." ''The Library'' IV 5 (1924–25): 374. 
+* Rasmussen, Eric. "Setting Down What the Clown Spoke: Improvisation, Hand B, and The Book of Sir Thomas More." ''The Library ''VI 13 (1991): 126-36.
+* Wells, Stanley, et al. ''William Shakespeare: A Textual Companion''. Oxford: Clarendon P, 1987. 
+* Werstine, Paul. "Plays in Manuscript." ''A New History of Early English Drama''. Ed. John D. Cox and David Scott Kastan. New York: Columbia UP, 1997. 481-97. 
+* Wilson, J. Dover, and Arthur Quiller-Couch, eds. ''The New Cambridge Shakespeare''. 42 vols. Cambridge: Cambridge UP, 1921-66. 
+* Wright, William Aldis, ed. ''The Works of William Shakespeare''. The Cambridge Shakespeare. Rev. Ed. Cambridge: Cambridge UP, 1891-93.
+
+{{BookCat}}
