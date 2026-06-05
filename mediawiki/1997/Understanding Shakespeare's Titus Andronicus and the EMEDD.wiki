@@ -1,0 +1,335 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Understanding Shakespeare's ''Titus Andronicus'' and the EMEDD}}
+''This essay was written by Ian Lancashire''.
+
+==1. The EMEDD==
+
+<!--Paragraph 1-->
+The Early Modern English Dictionaries Database (EMEDD) consists of a combined 225,000 word-entries from eighteen Renaissance dictionaries or glossaries published in England from 1530 to 1657. It is a representative collection of lexicographical texts on which a period dictionary serving Shakespeare’s language, Early Modern English, might be founded. The database consists of
+
+* seven bilingual dictionaries, including pairs of French, Italian, and Latin works separated by 50–80 years—John Palsgrave (1530; English–French), Sir Thomas Elyot (1538; Latin–English), William Thomas (1550; Italian–English), Thomas Thomas (1587; Latin–English), John Florio (1598; Italian–English), John Minsheu (1599; Spanish–English), and Randle Cotgrave (1611; French–English);
+* four English hard-word dictionaries—Edmund Coote (1596), Robert Cawdrey (1604; courtesy of Raymond Siemens), John Bullokar (1616), and Henry Cockeram (1623)—and one English word-list by Richard Mulcaster (1582);
+* the first full English-only dictionary — Thomas Blount (1656);
+* three specialized lexicons—William Turner on herbal names (1548), Henry Mainwearing on maritime words (1644), and John Garfield on scientific terms (1657); and
+* four treatises with substantial glossing—Pierre Valence on French grammar (1528), Richard Sherry on schemes (1550) and on figures (1555), and George Puttenham on English poetics (1589).
+
+The texts of Sherry and Mulcaster are donated by Jeffery Triggs, Director, North American Reading Program for the ''Oxford English Dictionary''. My graduate course on Shakespeare’s language at the University of Toronto employed an online database of most of these dictionaries during 1995–96. Indexing and retrieval is managed with Open Text Corporation ''Pat'', version 5.0, but Mark Catt, a student in that course, wrote an easy-to-use interface to the ''Pat'' database and called it ''patter''. He recently adapted this for the World Wide Web as ''patterweb''.
+
+<!--Paragraph 2-->
+127,920 word-entries from eleven of these lexicographical works (Palsgrave, William Thomas, Mulcaster, Coote, Minsheu, Cawdrey, Bullokar, Cockeram, Blount, and Garfield) are now available for free general inquiry on the Web at
+
+<blockquote>
+http://www.chass.utoronto.ca/english/emed/emedd.html
+</blockquote>
+
+enabling users to obtain between 25 and 100 citations for any word, partial word, or word combination in the corpus or in any one of the eleven dictionaries.
+
+<!--Paragraph 3-->
+The early dictionaries in the EMEDD have two main uses. They first serve diachronic linguistics and historical lexicography. Jürgen Schäfer’s thorough study of over 135 Renaissance English glossaries showed that ten percent of the 47,938 word entries in his database contributed antedatings, unnoted phrases and proverbs, and occasionally neglected word-forms and senses to the ''Oxford English Dictionary''. My studies of words found from ''aa-'' to ''ac-'' in two large French–English dictionaries by John Palsgrave and Randle Cotgrave (Lancashire, “The Early Modern English Renaissance Dictionaries Corpus”), and of the words ‘monastery’ and ‘timber’ in most of the EMEDD data (Lancashire, “An Early Modern English Dictionaries Corpus 1499–1659” and “The Early Modern English Renaissance Dictionaries Corpus: An Update”), confirm Schäfer’s conclusions. Early dictionaries also are proving useful in understanding Renaissance literature. A search of the EMEDD for all words in Hamlet’s “To be or not to be” soliloquy, for example, revealed new information about Shakespeare’s language. Although this speech is one of the best-annotated in literature, both the ''OED'' and Shakespearean editors missed the import of Hamlet’s reference to the “slings and arrows” of Fortune. Cotgrave’s French–English dictionary (1611) explains the term “mangonneau” as “An old-fashioned Sling, or Engine, whereout stones, old yron, and great arrowes were violently darted.” Fortune holds but one weapon, a sling, not two, a sling and a bow; and Hamlet is not too disturbed to make an allusion to warfare technology known to be from his time.
+
+<!--Paragraph 4-->
+In this essay I apply a larger EMEDD to ''Titus Andronicus''. Again, findings show that the ''Hamlet'' annotation typifies what contemporary computer textbases like the EMEDD have to offer readers of Shakespeare.
+
+==2. Renaissance word-meaning==
+<!--Paragraph 5-->
+In ''The Defence of Poesie'' (1595) Sir Philip Sidney praised English for its lack of grammar, “being so easie in it selfe, and so voyd of those combersome differences of ''Cases'', ''Genders'', ''Moods'', ''& Tenses'', which I thinke was a peece of the Tower of ''Babilons'' curse, that a man should be put to schoole to learn his mother tongue.” Sidney candidly expressed views common in his time. When ''The Defence'' was printed in 1595, no grammar or dictionary for Early Modern English had yet been published. The standard textbook for English grammar schools, originally written by William Lyly and John Colet, assumed that students understood their native language. They gave no instruction in English. Only in 1596 did one Edmund Coote, Master of the Free School in Bury St. Edmonds, publish, in ''The English Schoole-Maister'', a guide to the spelling and meaning of 1,357 “hard english words” to supply the needs of someone past “his letters” but still “ignorant in the Latine tongue.” Coote hoped to help young people and adults who were literate enough to read his formal, almost periodic English prose but who had not attended Grammar School.
+
+<!--Paragraph 6-->
+Coote’s ''Schoole-Maister'', the first reference book on Early Modern English, has been undervalued by scholarship (for example, the ''OED'' cites it only once). He popularized the two-part, hard-word/synonym dictionary “definition” that would be used by Robert Cawdrey (1604), John Bullokar (1616), Henry Cockeram (1623), Thomas Blount (1656), and many more lexicographers after them. In the 1590s the late modern concept of a lexical definition had little currency. The only dictionaries existing well into the 1590s were bilingual ones. As a consequence, the only words that contemporaries thought to be in need of explanation were foreign in origin; and the mode of explanation was translation—giving a word or phrase in common English that, as a synonym or equivalent for the difficult word, could be used in its place. The “hard” word was interpreted (Coote’s term) by one or more “plain” or familiar words supposed to correspond to that hard word. Hard and plain words were interchangable, much like the two parts of Renaissance bilingual-dictionary entries, the foreign word and the corresponding English word or words.
+
+<!--Paragraph 7-->
+In fact, it occurred to no one in Shakespeare’s time that words could be “defined.” A “logical definition” existed as a concept (e.g., in the mid-century work of Thomas Wilson) but concerned a ''thing'' in the world or something in experience. Elizabethans used definitions to describe objects. It was not then the practice to adopt a logical definition of the thing to which a hard word referred to explain that word. That is, lexicographers did not employ what we now call referential definitions, which describe the meaning of a word by referring to the logical definition of the thing that the word denoted. Words were widely regarded as straightforward signs or pointers to, or names for, things. The signification of any plain English word, i.e., which thing it denoted, was evidently not often in issue. Sidney, for one, admits to having had no trouble understanding any English word, plain or hard. English was “easie” for him. His assertion that poetic language is a “speaking picture” corroborates the view that word signification in the Renaissance is denotative.
+
+<!--Paragraph 8-->
+A randomly selected example may illustrate this point. John Garfield’s ''Physical Dictionary'' (1657) has the following entry:
+
+<blockquote>
+''Agaric'', a kind of Mushrom, or Toad-stool, of great use in Physick: it grows upon the Larch tree in Italy, and is white, light, brittle, and spungeous; it purgeth phlegm, and opens obstructions in the Liver.
+</blockquote>
+
+Compare the definition found in the ''OED'' today:
+
+<blockquote>
+''Agaric'' . . . 1. ''Herb.'' and ''Pharm.'' A name given to various corky species of ''Polyporus'', a genus of fungi growing upon trees; of which ''P. officinalis'', chiefly found on the Larch, the ‘Female Agarick’ of old writers, was renowned as a catharitic, and with ''P. fomentarius'', and ''igniarius'', ‘Male Agarick’ used as a styptic, as tinder, and in dyeng. ''Obs.'' or ''arch.''
+</blockquote>
+
+Garfield describes the plant as a thing (“it grows . . . it purgeth . . .”) but the ''OED'' concerns a “name” or word. Whereas Garfield’s explanation has details of physical appearance (“white, light, brittle, and spungeous”) and tells us where to find the plant (in Italy), the ''OED'' gives the kind of encyclopediac account familiar from logical definitions. The first dictionary entry acts as a pointer for something in the world so that we know how to use the word in practice. The ''OED'' explains the word by transferring to it the logical definition of the thing that the word denotes. Late modern lexicography moves complexity from the thing to the word signifying the thing.
+
+<!--Paragraph 9-->
+Why was English at this time easy, given that it has, since then, become so difficult that we put our children through a dozen years of formal instruction in their own language? Most post-secondary students in North America today take at least one further year’s instruction in English composition or effective writing. Our students also routinely buy an English dictionary and a book that teaches grammar, in some sort; and their word-processing software includes spell-checking, at least. Classes in literature teach, as a matter of course, that words are regularly polysemous and that even simple expressions may suffer from ambiguity, especially in Shakespeare’s period. College-level reading has become a decoding or deciphering exercise. The ''OED'' entry for any common word discriminates many senses and makes semantic distinctions that bear the authority of many lexicographers from Samuel Johnson on. All in all, anyone who ventures to agree with Sidney today that the teaching of English is unnecessary would be an instant laughing stock. Yet no one in his own time labels the author of the ''Arcadia'', ''Astrophel and Stella'', and the ''Defence'' a fool.
+
+<!--Paragraph 10-->
+The Renaissance period is oblivious to the problem of word meaning. Writers and readers understood one another then without English dictionaries, without the modern notion of referential definition, and without formal instruction in English. The sole recorded complaint made by Shakespeare and his contemporaries about the interpretation of English concerned ink-horn terms, that is, “hard words” adapted from Latin and other languages without explanation. Coote and his successors met this popularly expressed need by supplying hard-to-plain-word conversion tables. Because no one complained about semantic ambiguity, are we not obliged to assume that, insofar as the Early Modern English period is concerned, it either did not exist or, if on occasion words were ambiguous, their context generally led people to their right signification? As far as we know, no one in the Early Modern English period found Shakespeare’s plays hard to understand. If words signified by means of pointing to things in the world, semantic ambiguity would arise only if two or more things were served by one word. Such confusions, resulting from a failure of language to have a unique sign for each thing, is rare even today. How much rarer would this have been when English speakers numbered in the few millions, lived together on one midsize island, accepted a common religion, enjoyed the same educational system, had a much smaller vocabulary, and evidently shared a view that English was an easy language. If Sidney is right, then most contemporaries of Shakespeare would have understood his English immediately, transparently, whether they had a grammar school education or not, except where he used words imported into English from languages like Latin. Just by virtue of sharing one and the same world, whose ''realia'' were signified by a limited stock of word signs, Shakespeare and his hearers or readers would have understood one another.
+
+<!--Paragraph 11-->
+Jointly, Sidney and Coote give guidelines for understanding Shakespeare today. First, we must understand the world he lived in. His words reflected the minutiae of that world faithfully and unambiguously. Second, we must identify his hard words and discover which plain equivalents for them were supplied during his time. The ''Early Modern English Dictionaries Database'' compiles over 200,000 word-entries from more than a dozen hard-word and bilingual dictionaries printed in the English Renaissance, from John Palsgrave’s English–French grammar in 1530 to Thomas Blount’s 11,000-entry hard-word dictionary in 1656. Despite the lack of pictures in this database, it equates most of the words employed by Shakespeare with other words and, unlike the ''OED'', reflects only the Early Modern English period and its unmodern view of word signification.
+
+==3. ''Titus Andronicus'' and the EMEDD==
+<!--Paragraph 12-->
+''Titus Andronicus'', a play printed in 1594, just before Sidney’s ''Defence'' and Coote’s ''English Schoole-Maister'' were published, illustrates what there is to learn when we apply their two guidelines and the EMEDD to glossing Shakespeare’s language. The opening lines of I.1 will serve. Thirteen forms of content words identified as hard words by one or more of Coote, Cawdrey, and Bullokar are in bold face. Twenty-nine content words used by them as plain words, equivalent to other words identified as hard, are in italics.
+
+<blockquote>
+<poem>
+<span style="font-size:small;">Flourish. Enter the '''Tribunes''' and '''Senators''' ''aloft'' And
+then enter Saturninus and his Followers at one doore, and
+Bassianus and his ''Followers'' at the other, with Drum & Colours.
+
+''Saturninus.''
+1 ''Noble'' Patricians, '''Patrons''' of my ''right'',
+2 ''Defend'' the iustice of my ''Cause'' with Armes.
+3 And Countrey-men, my ''louing Followers'',
+4 ''Pleade'' my '''Successiue''' ''Title'' with your ''Swords''.
+
+5 I was the first borne Sonne, that was the last
+6 That wore the '''Imperiall Diadem''' of Rome:
+7 Then let my ''Fathers Honours liue'' in me,
+8 Nor ''wrong'' mine Age with this '''indignitie'''.
+
+''Bassianus.''
+9 Romaines, ''Friends, Followers'',
+10 ''Fauourers'' of my ''Right'':
+11 If euer Bassianus, ''Cæsars'' Sonne,
+12 Were gracious in the eyes of '''Royall''' Rome,
+13 ''Keepe'' then this ''passage'' to the '''Capitoll''':
+14 And ''suffer'' not Dishonour to '''approach'''
+15 Th’ '''Imperiall''' ''Seate'' to ''Vertue'': '''consecrate'''
+16 To Iustice, '''Continence''', and ''Nobility'':
+17 But let ''Desert'' in ''pure'' '''Election''' ''shine'';
+18 And Romanes, ''fight'' for ''Freedome'' in your ''Choice''.
+</span>
+</poem>
+</blockquote>
+
+<!--Paragraph 13-->
+The Appendix gives the glosses given to these thirteen hard words by Coote, Cawdrey, Bullokar, modern editors of the play, and modern lexicographers.
+
+<!--Paragraph 14-->
+Three systemic differences between ancients and moderns emerge from these glosses. First, “hard words” such as “imperial,” diadem,” and “approach,” belonging to everyone’s English now, are not glossed by Shakespearean editors. We tend to be uninterested in alerting readers to words that were potentially unfamiliar to Renaissance readers. Second, the early hard-word interpretors explain several Latin terms by associating them with titles of men who could be seen everyday in 16th-century London—tribunes are like knight marshalls (Bullokar), and senators like aldermen or magistrates (Cawdrey, Bullokar)—whereas modern editors take pains to correct Elizabethan usage by explaining terms historically (e.g., Bate and Hughes on “patron,” and Hughes, Waith, and Onions on “the Capitol”). This habitual difference stems from the denotative signification favoured by Early Modern English: to be understood, a word need only point to something in the world around about oneself. Last, the moderns select abstract senses rather than the concrete, specific equivalents provided by the early interpretors, to whom “consecrate” meant “made holy,” and “continence” meant “chastity.” Unlike Saturninus, Bassianius speaks in terms common in the Elizabethan homilies; and unlike ourselves, his words point to particular qualities.
+
+<!--Paragraph 15-->
+As might be expected, bilingual lexicographers in the EMEDD explain hard words not found in Coote, Cawdrey, and Bullokar in ways useful to someone reading the passage from ''Titus Andronicus''. Several of these hard words have to do with names, which modern editors occasionally misconstrue.
+
+<!--Paragraph 16-->
+For example, Sir Thomas Elyot explains Latin “Saturninus” as “a mountayne at Rome, whyche was afterwarde called Tarpeius,” which of course is the mount from which the Romans threw traitors to their deaths. The New Arden editor usefully glosses the name, “probably intended to suggest a ‘saturnine’ temperament—under the influence of Saturn,” and the New Oxford editor notes that “saturnine men (those under the influence of Saturn) were ‘false, envious, . . . and malicious.’” However, both editors omit the Elizabethan understanding of Saturninus’ name as associated with the mount from which traitors were pushed to their deaths, although the play often gives Saturninus the height and the punative role of this mount. He enters “aloft” when he becomes emperor (I.i.295.1), an upper level from which he accuses Bassianus of being a traitor (I.i.403). In II.iii, Saturninus condemns Titus’ two sons Quintus and Martius, cast down by Aaron into a pit, for the murder of Bassianus, whose body lies beside them in it. The most detailed allusion, however, is by Marcus. At play’s close (V.iii.131–32) he promises that, if the Andronici have done any wrong, they will “all headlong hurl ourselves, / And on the ragged stones beat forth our souls.” This directly alludes to the Tarpeian rock.
+
+<!--Paragraph 17-->
+Saturninus also says that he wore the “Imperiall Diadem” of Rome. Although “imperial,” in our sense, is a hard word for the period, it also partly names an English flower and as such needed little explanation then. Thomas Thomas calls this plant “Angelica, or imperiall” and relates it to “Lingwort, or Longwort,” and Randle Cotgrave (under the French word “Empyre”) names it the “Couronne imperiale. Th'Imperiall Lillie, or Crowne Imperiall; a great, beautifull (but stinking) flower.” Saturninus’ self-description is suggestive of his quality. The association of characters with plants pervades this play. Marcus compares Lavinia’s hands to branches and leaves (II.iv.18, 45). Titus his own hands to “with’red herbs” (III.i.177) and later tells Marcus “we are but shrubs, no cedars we” (IV.iii.46).
+
+<!--Paragraph 18-->
+[[File:Arum minus - Gerard.jpg|thumb|''Arum minus.'' Little Cockow pint.]]
+A more important example is the meaning Shakespeare clearly intended for the Moor, whose name is commonly spelled “Aaron” in modern editions but was always “Aron” in the quarto text. The prose pamphlet that Shakespeare is thought to have used in writing ''Titus'' does not give a name to the Moor. However, the name Shakespeare chose tallies with the view of evil in this pre-Christian play as a natural force, irresistible and motiveless, and is quite in keeping with the play’s black humour. Entries from three EMEDD dictionaries from 1587 to 1611 make Aron the name of a very common English plant, never the name of Moses’ brother Aaron in the Old Testament, the usual critical gloss (Bate, ed., 125). A search for the words “aron” and “aaron” yields the following results. (The eight-digit numbers after the at-signs are the text-order numbers for the strings in the database.)
+
+<blockquote>
+<poem>
+<span style="font-size:small;">Start-up 21:41 10-May-96
+
+“aron”: Th.Thomas (TT_87 @ 10523015)
+Arisaron, & Aris. Plin. A small hearb, hauing a roore of the bignes of an Oliue, and it is more sharp then Aron.
+
+“aron”: Th.Thomas (TT_87 @ 10532416)
+Aron, ri. n. g. p. b. Plin. An hearb called Wake Robin: some call it Pes vituli, others Serpentaria minor.
+
+“aron”: Minsheu (MN_1599 @ 23658355)
+BARVA DE ARON: Barva, de aron, an herbe called cockoe-pint.
+
+“aron”: Cotgrave (CT_1611 @ 26908346)
+Aron. The hearbe Aron, Calues foot, Ramp, Starchwoort, Cuckoe-pint, Priests pintle.
+
+“aaron”: Minsheu (MN_1599 @ 22762745)
+AARON: Aaron, m. the herbe Wake-Robin, Cuckowpintle, or Calues feete, or proper name Aaron.
+
+“aaron”: Cotgrave (CT_1611 @ 28731114)
+Colocasie. The hearbe Aaron, wake Robin, Calues-foot, Cuckoe-pint, Priests-pintle; also, the root of the AEgyptian beane.
+
+“aaron”: Cotgrave (CT_1611 @ 32750087)
+Iarrus. Wake-robin, Starchwort, Tampe, Aaron, Calues foot, Cuckoe Pint.
+
+“aaron”: Cotgrave (CT_1611 @ 37709301)
+Veau: m. A Calfe, or Veale; also, a lozell, hoydon, dunce, iobernoll, doddipole; also, a baulke vntilled betwene two lands, or furrowes. Veau de disme. A notable sot, or blockhead, a notorious lobcock. Veau marin, ou de mer. The Seale, or sea Calfe. Fievre de veau. Trembling vpon fullnesse; or, an indisposition vpon surfeting. Pied de veau Calues-foot, Ramp, Aaron, Wake-Robin, Starch-wort, Priests Pint. Teste de veau. Calues-snowt, Snap-dragon, Lions-snap. Faire, ou trousser le pied de veau. To make an vntowardlie, or clownish leg; or, clownishly to lift vp the leg in dauncing, etc. C’est vne vache de Barbarie qui ne recognoist que son propre veau. Looke Vache. Cette queue n’est pas de ce veau. This effect proceeds not from that cause; or, this is not part of, or dependant on, that thing. Il luy a fait manger des pois verds au veau. He hath cheated him finely, he hath so fetched him ouer that he cannot perceiue it. tu n’as non plus d’arrest qu’un ieune veau. Thou art as wanton, giddie, or vnstayed, as a milch calfe. Veau mal cuict, & poulets cruds font les cimitieres bossus: Prov. Young meat raw-drest makes church-yards grow hulch-backt. Aussi tost meurt vache comme veau: Prov. As soone the young, as old, goes to the pot. Il est bien veau qui veau taille: Prov. See Tailler. Le loup emporte le veau du povre: Pro. The Wolfe makes his feast of the poore mans beast.
+
+“aaron”: Cotgrave (CT_1611 @ 37944588)
+Vit: m. A mans yard; a beasts pizle. Vit de caille. A Rayle. Vit de chien. as Vit de prestre. Vit de coq. A Woodcocke. Vits de gouvernail. The Pintles, or yron hooks whereby the sterne of a ship doth hang. Vit de mer. An ouglie creature, or excrescence, like to the end of a mans yard. Vit de prestre. Priests-Pintle, hearbe Aaron, Cuckoe-Pintle, Wake-Robin, Rampe. Vit volant. as Pennache de mer.
+</span>
+</poem>
+</blockquote>
+
+<!--Paragraph 19-->
+[[File:Arum maius - Gerard.jpg|thumb|''Arum maius''. Great Cockow pint.]]
+John Gerarde’s ''Herball'' (1597) gives plenty of detail about this plant directly relevant to Aron in Shakespeare’s tragedy. A small member of the family of dragons (682), this plant “has spots of diuers colors like those of the adder” (681). It is found in England, Africa, Egypt, “generally in all places hot and drie, at least in the first degree” (685), and . . . “ groweth in woods neere vnto ditches vnder hedges, euerie where in shadowie places” (685).
+
+<blockquote>
+: ''Arum'' or Cockow pint hath great, large, smooth, shining, sharpe pointed leaues, bespotted heere and there with blackish spots, mixed with some blewnesse: among which riseth vp a stalke nine inches long, bespecked in many places with certaine purple spots. It beareth also a certaine long hose or hood, in proportion like the eare of an hare: in the middle of which hood commeth foorth a pestell or clapper of a darke murrie or pale purple colour . . . . (684)
+</blockquote>
+
+The name “pint” is the diminutive of “pintle” or penis, a sexual allusion owing to the shape of the pistil rising within the plant’s “hose or hood.” The reason for the names can be seen in the two illustrations (below), taken from Gerarde’s herbal. His account closes in discussing the virtues of the plant, which when taken internally decongests the lungs by causing coughing. The final caution is worth noting: “The most pure and white starch is made of the rootes of Cuckowpint; but most hurtfull for the hands of the laundresse that hath the handling of it, for it choppeth, blistereth, and maketh the hands rough and rugged, and withall smarting” (685).
+
+<!--Paragraph 20-->
+The Moor shares many features of this natural medicine. Called “the devil” (V.i.145), like the dragon plant, and compared to the adder (II.iii.35), Aron also has the plant’s “spotted” black body (II.iii.74) and its “bitter tongue” (V.i.150). He associates himself with shade (II.iii.15) and with lechery, being Tamora’s lover. Ironically, Aron is very hard on the hands too, as Titus (who loses one of his to the Moor’s treachery) can testify. Lastly, like the plant, Aron’s punishment at the end is to be “planted” or “fast’ned in the earth” (V.iii.179–83). Bizarre among tragedies of this period, Aron’s end perfectly suits his character and is entirely consistent with the thought of Shakespeare’s Sonnet 15, “When I perceive that men as plants increase . . .” (5).
+
+==Works Cited==
+*Blount, Thomas. ''Glossographia''. London: T. Newcomb, 1656. [Wing B 3334.]
+*Bullokar, John. ''An English Expositor: teaching the interpretation of the hardest words in our language.'' London: J. Legatt, 1616. [''STC'' 4083.]
+*Cawdrey, Robert. ''A table alphabeticall, conteyning and teaching the understanding of hard usuall English wordes, borrowed from the Hebrew, Greeke, Latine, or French, &c.'' London: J. Roberts for E. Weaver, 1604. [''STC'' 4884.]
+*Cockeram, Henry. ''English Dictionarie: or, an interpreter of hard English words.'' London: Eliot’s Court P for N. Butter, 1623. [''STC'' 5461.]
+*Coote, Edmund. ''The English Schoole-maister.'' London: Widow Orwin, 1596. [''STC'' 5711.]
+*Cotgrave, Randle. ''A dictionarie of the French and English tongues.'' London: A. Islip, 1611. [''STC'' 5830.]
+*Gerarde, John. ''The Herball or Generall Historie of Plantes''. London: John Norton, 1597.
+*Lancashire, Ian. “Bilingual Dictionaries in an English Renaissance Knowledge Base.” In T. R. Wooldridge, ed. ''Historical Dictionary Databases''. U of Toronto: CCH, 1992. 69–88.
+*—. “The Early Modern English Renaissance Dictionaries Corpus.” In Jan Aarts, Pieter de Haan, and Nelleke Oostdijk, eds. ''English Language Corpora: Design, Analysis and Exploitation.'' Amsterdam and Atlanta: Rodopi, 1993. 11–24.
+*—. “An Early Modern English Dictionaries Corpus 1499–1659.” In Lancashire and T. R. Wooldridge, eds. ''Early Dictionary Databases.'' CCH Working Papers 4 (1994): 75–90.
+*—. “The Early Modern English Renaissance Dictionaries Corpus: An Update.” In Merja Kytö, Matti Rissanen, and Susan Wright, eds. ''Corpora across the Centuries''. Amsterdam and Atlanta: Rodopi, 1994. 143–49.
+*—. “Editing English Renaissance Electronic Texts.” In Finneran, Richard J. ''The Literary Text in the Digital Age.'' Ann Arbor: U of Michigan P, 1996.
+*Lily, William. ''A Short Introduction of Grammar, 1549.'' Menston: Scolar P, 1970.
+*Minsheu, John. ''Dictionarie in Spanish and English''. London: E. Bollifant, 1599.
+*Onions, C. T. ''A Shakespeare Glossary''. 2nd edn. revised. Oxford: Clarendon P, 1972.
+*Shakespeare, William. ''The Lamentable Tragedy of Titus Andronicus''. Ed. H. Bellyse Baildon. London: Methuen, 1904.
+*—. ''The Riverside Shakespeare''. Boston: Houghton Mifflin, 1974.
+*—. ''Titus Andronicus''. Ed. Jonathan Bate. The Arden Shakespeare. London and New York: Routledge, 1995.
+*—. ''Titus Andronicus''. Ed. Alan Hughes. Cambridge: Cambridge UP, 1994.
+*—. ''Titus Andronicus''. Ed. Eugene M. Waith. The Oxford Shakespeare. Oxford: Clarendon P, 1984.
+*Thomas, Thomas. ''Dictionarium Linguae Latinae et Anglicanae''. Canterbury: R. Boyle, 1587. [''STC'' 24008.]
+
+==Appendix==
+''Tribunes''
+<blockquote>
+<poem>
+<span style="font-size:small;">tribunall[:] iudgement seat (Coote)
+tribunall, iudgement seate (Cawdrey)
+Tribune. The name of two cheefe officers in Rome. The first was Tribune of the people, who was to defend their liberties, and had therefore the gates of his house standing alwayes open day and night. The other was called Tribune of the souldiours, who had charge to see them well armed, and ordered, being as the Knight marshall is with vs. (Bullokar)
+Tribunes: officials elected by the plebians, or common people, of ancient Rome to protect their rights (Waith); tribune: in ancient Rome, title of representatives of the plebs or common people, orig. granted to them as a protection against the patricians and consuls (Onions)
+</span>
+</poem>
+</blockquote>
+
+''Senators''
+<blockquote>
+<poem>
+<span style="font-size:small;">senator[:] alderman (Coote)
+senator, alderman, or counsailer (Cawdrey)
+Senator. An Alderman, or graue Magistrate of a citie. (Bullokar)
+Senators: members of the Senate, chosen originally from the patricians (Waith)
+</span>
+</poem>
+</blockquote>
+
+''Patrons''
+<blockquote>
+<poem>
+<span style="font-size:small;">patroni{s}e[:] defend (Coote)
+patronage[:] defence (Coote)
+patronage, defence, protection (Cawdrey); patronise, defend (Cawdrey)
+Patrone. A defender, a great friend that supporteth one (Bullokar)
+patrons: protectors, supporters (Riverside); patrons: supporters, protectors, possibly also with the technical Roman sense of legal advocate (Bate); patrons: protectors, defenders. The word derives from ''patronus'' (Latin), a rich man or patrician who protected his ‘clients’ or courtiers in exchange for their services (Hughes)
+</span>
+</poem>
+</blockquote>
+
+''Successiue''
+<blockquote>
+<poem>
+<span style="font-size:small;">succeed[:] follow (Coote)
+succeede, followe, or come in anothers place (Cawdrey)
+successive title: right of succession (Riverside)
+successive: legitimate, in due succession to his father (Baildon); successive: hereditary (Bate)
+successe title: title to the succession (Onions; Hughes)
+successive title: right of succession (Bate)
+</span>
+</poem>
+</blockquote>
+
+''Imperiall''
+<blockquote>
+<poem>
+<span style="font-size:small;">imperiall[:] belonging to the crowne (Coote)
+imperiall, belonging to the crowne (Cawdrey)
+</span>
+</poem>
+</blockquote>
+
+''Diadem''
+<blockquote>
+<poem>
+<span style="font-size:small;">diademe[:] crowne (Coote)
+diademe, (g) a Kings crowne (Cawdrey)
+Diadem. A Kings crowne, or an attire for Princes to weare on their heads, made of purple silke, and pearle. (Bullokar)
+</span>
+</poem>
+</blockquote>
+
+''indignitie''
+<blockquote>
+<poem>
+<span style="font-size:small;">indignitie[:] vnworthinesse (Coote)
+indignitie, vnworthinesse, vnseemly vsage, infamie, or disgrace (Cawdrey)
+Indignitie. Disgrace, dishonour (Bullokar)
+indignity: antithesis of ''honours''; the insult of having his title questioned (Bate); this indignity: i.e. physical exclusion from the Capitol by Bassianus and his followers (Hughes); indignity: i.e. to have a younger brother succeed to the throne (Waith); indignity: unworthy trait (Onions)
+</span>
+</poem>
+</blockquote>
+
+''Royall''
+<blockquote>
+<poem>
+<span style="font-size:small;">royalty, gouernement, rule, authority (Cawdrey); 
+royal: six senses (Onions)
+</span>
+</poem>
+</blockquote>
+
+''Capitoll''
+<blockquote>
+<poem>
+<span style="font-size:small;">capitall[:] de{e}dly or great (Coote)
+capitall, deadly, or great, or woorthy of shame, and punishment (Cawdrey)
+Capitole. An ancient palace in Rome, so called (Bullokar)
+Capitol: the summit of the Capitoline hill in Rome, on which was the temple of Jupiter, guardian of the city. Elizabethan dramatists generally assumed that the Capitol was the site of the Senate House . . . the assumption is incorrect . . . (Bate);
+Capitol: Supposed seat of Roman government. Elizabethans often confused the Temple of Jupiter Capitolinus on the Capitoline Hill with the Senate House (Curia Julia) near the Forum at its foot (Hughes);
+Capitol: The hill on which stood the temple of Jupiter Capitolinus; often identified by the Elizabethans with the Roman senate house (Waith);
+Capitol: the great national temple of Rome, dedicated to Jupiter Optimus Maximus, on the Saturnian or Tarpeian (afterwards Capitoline) Hill (Onions)
+</span>
+</poem>
+</blockquote>
+
+''approach''
+<blockquote>
+<poem>
+<span style="font-size:small;">approch*[:] come nigh (Coote)
+approch, come nigh (Cawdrey)
+</span>
+</poem>
+</blockquote>
+
+''consecrate''
+<blockquote>
+<poem>
+<span style="font-size:small;">consecrate[:] make holy (Coote)
+consecrate, make holie, to dedicate, or giue vnto (Cawdrey)
+Consecrate. To hallow or make holy (Bullokar)
+consecrate: consecrated (Riverside); consecrate: consecrated (Bate); consecrate: consecrated (Waith)
+</span>
+</poem>
+</blockquote>
+
+''Continence''
+<blockquote>
+<poem>
+<span style="font-size:small;">continent, modest, abstaining, chast: also the firme land where no ile or sea is (Cawdrey)
+Continencie. Chastitie, temperateness (Bullokar)
+continence: may either have a rather broader meaning than that we now give it = self-mastery, or may be in allusion to known defects in his brother’s character. The ''New Eng. Dict.'' quotes from Elyot: “Continence is a vertue which keepeth the plesaunt appetite of man under the yoke of reason” (Baildon);
+continence: “Continence is a virtue which keepeth the plesaunt appetite of man under the yoke of reason” (Elyot, 179)” (Bate);
+continence: restraint (Waith)
+</span>
+</poem>
+</blockquote>
+
+''Election''
+<blockquote>
+<poem>
+<span style="font-size:small;">election[:] choise (Coote)
+election, choise (Cawdrey)
+Election. Choice (Bullokar)
+pure election: free choice, i.e. made without regard to primogeniture (Riverside); pure election: free choice (rather than primogeniture, succession by the eldest son) (Hughes)
+</span>
+</poem>
+</blockquote>
+
+{{BookCat}}
