@@ -1,0 +1,333 @@
+''This essay was written by Anne Lancashire''.
+
+==Introduction==
+<!--Paragraph 1-->
+Market research is a term not often heard among scholars in the humanities, except when discussing a publisher's offer or refusal to publish a work of scholarly research. Humanities scholars tend normally to view their research (and to apply for funding for it) as something worth doing whether or not large numbers of their colleagues are interested in making use of the finished results; and in large part this is, I believe, the correct academic attitude. Basic research should not be done or not done according to commercial popularity contests. Matters change to a significant extent, however, when the research involves a cooperatively-created electronic scholarly resource such as the Internet Shakespeare Editions (ISE): a resource being developed entirely in the belief that it will be readily used by the electronic community, both scholarly and non-scholarly, at large. The substantial and ongoing electronic/financial resources involved, and the necessity, for both financial and scholarly reasons, of creating an extensive network of those who will not only use the resource but also be willing, where academically qualified, themselves to contribute to it and to help to maintain it, would seem to dictate a user-oriented approach — an attempt to discover, early on in the project, what the project's potential users really want from such a resource.
+
+<!--Paragraph 2-->
+The Internet Shakespeare Editions is a project based on ideals of a pooling of academic expertise and of universal accessibility. Academically populist in intent, it is a money-poor, labour-intensive project planned as a resource and as a refereed publication outlet for all those, both across North America and beyond, who want and need electronic textbases of Shakespeare's plays, and of related works, meeting reliable academic standards and freely available to all. It must attract users — including future potential contributors — in substantial numbers in order to be viable on an ongoing basis. Largely these users will be academics — teachers, researchers, students; and so, although a wider user-base is also certain to evolve, involving the general public and especially members of the media,<ref>Potential media interest is a real project strength. An online expert Shakespeare resource, always instantly available via a computer terminal, will be much more attractive to media people — in all of print, radio, TV, and film, and on the Internet itself — than print, CD-ROM, and human resources (such as academic researchers) which take time and effort to be hunted down.</ref> an initial focus, at least, on potential academic users would seem to be appropriate.
+
+<!--Paragraph 3-->
+So — what do the potential academic users really want out of a project such as the Internet Shakespeare Editions? As an academic advisor to the project, but without any specialized technological expertise to help out on the electronic side, I decided in the winter of 1996-97 that my usefulness both to the project itself and to its potential users would lie in providing advice on matters such as the kinds of textual materials that the academic Shakespeare community would want the project to incorporate into its plans. And I decided that I should not rely simply on my own preferences and instincts as to what those materials should be, but that I should seek advice myself, across North America but especially in Canada (given the project's Canadian base), among academic colleagues of varying degrees of technological expertise, and with varying academic interests, but all with a primary teaching or research interest in the drama of Shakespeare and of his contemporaries. Thus I would do a limited form of market research. And so I gave myself the task of thinking up a variety of content-based ways in which teachers and researchers might want to make use of the ISE — both of its electronic Shakespeare texts themselves and of the non-Shakespearean materials, such as the texts of agreed-upon sources, which could be related to the play texts through hypertext links — and then I tested the comparative desirability of the various possible project features by sending out a survey to 49 Shakespearean colleagues across Canada and 15 in the United States,<ref>Included among the 15 "US" colleagues is one who is based abroad but frequently works in US universities and research libraries.</ref> asking whether they would be likely to make use of electronic texts of Shakespeare, in their teaching and their research, in the various ways I had envisioned. I asked, in short, a broad spectrum of potential academic users how, in terms of textbase content, I should advise the Internet Shakespeare Editions to proceed. What follows is a summary of the responses I received, and my conclusions about what these responses tell us above all about the content-based wants and needs — at least as I envisioned the possibilities — of potential academic users at this point in time.<ref>A weakness of such a survey, of course, is that possible wants and needs not specified on the form itself will not be identified (despite provision of a choice of "other" — to be specified — as a possibility in several instances). At this early stage, however, in the development and use of electronic textbases by academics, it seemed important to provide a stimulus, through specific suggestions, to potential users' thinking about ways to work with textbases; and also the need for a good return rate dictated the development of a form that would be quick and easy for respondents to complete.</ref> (And I should emphasize ''at this point in time;'' use of electronically-available resources is increasing with extraordinary rapidity. What the users want today is probably minimal in comparison to what they will want tomorrow.) At the conclusion, I deal briefly with the recent advent of Shakespearean texts and other materials on commercially-available CD-ROMs, and what this may mean for the focus of the ISE as it proceeds.<ref>The survey form itself, and a question-by-question tabulation of responses received, are appended to this article.</ref>
+
+==Survey Information==
+
+<!--Paragraph 4-->
+Of the 49 surveys sent to Canadian colleagues across the country — largely members of ACCUTE (Association of Canadian College and University Teachers of English) from Newfoundland and PEI to Victoria, selected via examination of the academic fields listed for these members in the most recent ACCUTE Directory — 30 (61%) were filled out and returned to me. Of the 15 surveys sent to US colleagues — all members of the Shakespeare Association of America, from different universities across the US<ref>But see above, note 2.</ref> — all 15 (100%) were filled out and returned to me. This raises, at the start, an interesting question: does the return rate indicate that Americans, at least so far, are more enthusiastic potential users of electronic materials than are Canadians? Well, maybe yes, maybe no. Survey returns do not seem to have been affected by factors such as my own personal acquaintance, or not, with the respondents, nor by their membership, or not, in the SAA (a number of the Canadian non-returns involved SAA members). But a possible major factor affecting returns may have been the time of the academic year at which I sent out the survey: early April 1997. April to early May is end-of-term grading time for Canadian academics but not for Americans; so the 39% of Canadians who did not return the survey form may simply have been buried under piles of essays, tests, and examinations. Still, they could simply not have been interested. One of the 30 returned Canadian surveys consisted of a blank form and a note saying that the sender did not use computers.
+
+<!--Paragraph 5-->
+What is important, however, is that well over 50% of those Canadians surveyed (29 of the 30 who returned their forms, i.e., 59% of those receiving forms), along with 100% of the Americans, did express interest — and often enthusiastic interest — in the Internet Shakespeare Editions. Written onto some of the survey forms were comments such as "This is a ''wonderful'' project," and "for someone who uses a computer only for my own editorial work, I'm surprised at how much the prospect of the Internet Shakespeare excites me." Now — given that enthusiasm — what do the 29 + 15 = 44 positive returns (68% of the forms sent out) tell us about what the academic users really want from the Internet Shakespeare Editions? And do Canadian and American users seem to want the same things? — although the small number of forms sent to potential US users will clearly permit only an extremely tentative answer to this question.
+
+<!--Paragraph 6-->
+'''Question 1.''' The first survey question dealt with ways of using electronic Shakespeare texts in ''teaching'': would such texts likely be used as (a) available free texts for students to download and print out, (b) a means of teaching students how to conduct electronic searches of texts for particular words, phrases, and images, (c) a means of making materials such as sources and other kinds of related literature (e.g., the Elizabethan homilies) available to students not likely otherwise to have access to them, (d) a way of requiring students to learn about various forms — quarto, folio, modern — of the text, and the interpretative problems involved, (e) a way of supplying students with extensive explanatory notes for a whole play or specific parts of a play? [See the tabulated results of question #1.]
+
+<!--Paragraph 7-->
+All five kinds of use received a very positive response: with (c), provision to students of source texts and of other related materials (35 responses), and (d), teaching students about quartos, folios, and modern editing (32 responses), coming out on top, and free text availability (22 responses) coming at the bottom of the list (though interestingly favoured more by Canadian [16 out of 30] than by American [6 out of 15] respondents). This response correlates well with responses to other survey questions cited below (e.g., question #3 on kinds of electronic Shakespeare texts most wanted; answer: quarto and folio texts); and it suggests, as do also some of the comments written onto the survey sheets, that instructors generally are still wedded to modernized printed texts for their students in the classroom but would like electronic texts to provide them with what such printed texts cannot: related materials such as source texts, via hypertext links, and electronic representations of the original printed editions. One respondent only — who will be teaching shortly in an electronic classroom — pointed out that he would be able to display parts of an electronic text, for detailed work in class, on a large classroom screen, and that his students would be able to quote from it in their papers by electronic cutting and pasting. Another respondent thought that a useful teaching method with an electronic text would be to have the students "rearrange" parts of the text on their own computers in simulations of, for example, cutting the full ''Hamlet'' text for production, or censoring ''Richard II'' for a posited Elizabethan court production. A third was interested in selecting text excerpts for production workshops. Above all, however, ''teacher-users'' indicated that they would primarily look to a source such as the Internet Shakespeare Editions to provide them with the means to teach their students about related materials and about original quarto and folio texts.<ref>One important issue the survey was unable to address, because it was circulated to scholars rather than to students, was the enormous advantages, over both print and CD-ROM resources, that the Internet Shakespeare Editions should have in reaching students — the next generation of users, who will move us forward again in capitalizing upon electronic technology. ... The ISE will be where the undergraduate (and even high school) students are most likely to be; and their teachers will be able to take advantage of the ISE as a site open to what the teachers themselves, in terms of Shakespeare-related materials, want the students to consult, to work with, and to develop.</ref>
+
+<!--Paragraph 8-->
+'''Question 2.''' The second question asked how ''researcher-users'' would be likely to work with electronic texts: (a) for basic searching (for words, images, and phrases), (b) for authorship attribution studies (c) for links to related materials on various Web sites (including that of the ISE itself), (d) for performance information? Overwhelmingly, respondents answered: (a) for basic searching (34 responses), and (d) for performance information (31 responses, 23 of them from Canadians). Running close to these responses, but still below them, was: (c) for links to related materials on various Web sites (26 responses). ''Very'' few respondents (7: 4 Canadians and 3 Americans) contemplated using the texts for authorship attribution work. [See the tabulated results of question #2.]
+
+<!--Paragraph 9-->
+One respondent pointed out that performance information, for research purposes, would have to be more than merely superficial; one noted that performance should include film performance. Another suggested, via another question, a good bibliography of performance information sources.
+
+<!--Paragraph 10-->
+This question brought out, as did two others, the large number of college and university faculty members in English and Drama who teach and do research in aspects of Shakespeare performance and who would like the Internet Shakespeare Editions to meet their needs. Clearly the ISE site, to be useful to the academic Shakespeare community at large, must include a performance emphasis. (For further detail on users' performance interests, see under questions #4 and #5, below.)
+
+<!--Paragraph 11-->
+'''Question 3.''' The third question was on kinds of texts (and should be considered in relation to questions #1 and #2): do users want the original quarto texts, original folio texts, modern old-spelling editions, modernized editions, and/or editions of later adaptations such as Tate's ''Lear''? Overwhelmingly, users said they wanted the original quarto (41 respondents) and folio (42 respondents) texts (one user wanted them scanned in, as well as transcribed); and below these in popularity were modernized texts and texts of adaptations (equal at 32 respondents each, but those interested in adaptations often added stars and exclamation points to their forms at this point). Fewer than half of the respondents were interested in modern old-spelling editions (16: though 13 of those were Canadians). [See the tabulated results of question #3.]
+
+<!--Paragraph 12-->
+It seems that users will continue, at least at present, with readily available, modernized, printed texts, for teaching and for research, when what is needed is simply a reliable read (see especially the discussion, above, of question #1); but quarto and folio texts and texts of later adaptations (which are hard to come by in print and are expensive when available) are in demand electronically for both teaching and research purposes. Modern old-spelling editions are seen as inferior to the original quartos and folios themselves; when the text is not being modernized in any case, users apparently would prefer to do without editorial interventions.
+
+<!--Paragraph 13-->
+'''Question 4.''' The fourth question was on types of additional materials which users would like to have available, via hypertext links to the Shakespeare texts themselves or standing alone. The survey form listed 14 different types of materials as possibilities; and, among these 14, the overwhelming favourite was source texts (39 respondents), followed by stage history (35). Behind these came, in descending order of numbers of respondents interested, historical documents (32), playhouse information (30), performance illustrations (historical or contemporary) and early sixteenth- and seventeenth-century dictionaries (28 each), related plays by other dramatists (27), film information (25), explanatory notes specifically for beginning students (24), and information on adaptations (22). Supported by fewer than half the respondents were maps (21), critical articles from a play's history of criticism (18), contemporary critical articles (17) and sound illustrations (e.g., of songs) (17). Canadians favoured related plays, contemporary critical articles, early dictionaries, and explanatory notes for beginning students more than did Americans; the situation was reversed with stage history. [See the tabulated results of question #4.]
+
+<!--Paragraph 14-->
+The response of many to this section of the survey could be summed up in the written-in comment of one: "the more the better;" and many ticked off most items, though one or two wrote in that they were attempting to list their highest priorities only. Still, the responses not only indicate the large demand for additional materials but also do give a sense of priorities (and one respondent also thoughtfully commented that the top priorities should be materials not available in major printed editions). A few wrote in additional suggestions: for material on rhetoric (2), on social history, on textual history, and on Shakespeare in popular culture, for concordances (with statistical breakdowns by play and by speaker), and for bibliographies on specific topics, theories, approaches, genres, etc. One respondent suggested a collection of essay topics and course outlines.
+
+<!--Paragraph 15-->
+Source texts would thus appear to be the top priority for additional materials, followed by stage history: with other kinds of materials in descending order of prioritization as listed above. The list order indicates that information is prized well above interpretation and comment.
+
+<!--Paragraph 16-->
+'''Question 5.''' The fifth question simply invited suggestions of specific materials, other than the Shakespeare texts themselves, which users would like to have available electronically through the project. Again, information sources were largely desired, though the suggestions were not always specific. Suggestions included Henslowe's ''Diary'' (in full or in excerpts), excerpts from the histories of John Stowe, eyewitness play-performance accounts, information on the new (third) Globe (an item which suggests that the Internet Shakespeare Editions might include a directory of related relevant Web sites maintained by or about such projects), updated information on the Rose and Globe archaeological discoveries, playhouse drawings, the plot of ''The Battle of Alcazar,'' a dictionary of classical allusions, genealogies of the kings of England dealt with in the history plays, a glossary, other Chamberlain's/King's Men's plays, medieval dramatic texts, Heywood's ''Apology for Actors,'' excerpts from Sidney's ''Apology for Poetry,'' directors/actors/actresses on their Shakespeare productions/roles, and accounts of text changes made during specific modern production runs (for example, at the Royal Shakespeare Company).
+
+==General Conclusions==
+
+<!--Paragraph 17-->
+What should the main conclusions be from all this? One: that there is already a significant number of potential users out there, increasing annually I would guess, ready and eager to use, for teaching and/or research, well-edited, refereed and freely available electronic texts. Two: that they want quarto and folio texts of Shakespeare's plays above all, for both teaching and research, and have a real interest in adaptations (i.e., probably, they most want what they can't otherwise readily and cheaply get in printed texts). Three: that source texts are the most desired kind of additional texts to be supplied electronically. Four: that performance (including theatre history), then and now, is also high on the interest list. Five: that texts and information are preferred over interpretative/critical materials.
+
+<!--Paragraph 18-->
+The ISE is not seen by most respondents as most importantly a source of free texts to be downloaded (though just over 50% of Canadian respondents do also want to use it in that way). It is seen above all as a means of accessing and working with hard-to-get materials, for both teaching and research. The results suggest that the Internet Shakespeare Editions should be moving from the start to supply users with hard-to-get additional materials as well as with Shakespeare texts, and that folio and quarto texts of Shakespeare should have priority over modernized editions.<ref>Free provision of hard-to-get materials is likely to become an even more important plus for the Internet Shakespeare Editions over the next decade, given the current funding decreases, with no end in sight, for college and university libraries in many jurisdictions across North America.</ref>
+
+<!--Paragraph 19-->
+A major problem to be considered, however, in relation to these current user needs and interests, is the recent advent of electronic Shakespeare texts and of certain kinds of related materials on commercially-available CD-ROMs. Will such CD-ROMs meet a number of user needs with such ease (no need for Internet access) and to such an extent (given the kinds of texts and additional materials that the CD-ROM publishers are supplying) as considerably to reduce the potential user-base of the Internet Shakespeare Editions? How important is it for the ISE to differentiate itself in contents from these commercial products? The Arden Shakespeare on CD-ROM, for example, supplies not only modernized Arden texts but also quarto and folio texts, and the contents of Geoffrey Bullough's ''Narrative and Dramatic Sources of Shakespeare'' (the very source materials in which potential ISE users are so interested). The new Norton Shakespeare has a CD-ROM accompaniment for six major plays (''Midsummer Night's Dream'', ''Merchant of Venice'', ''1 Henry IV'', ''Hamlet'', ''Othello'', ''The Tempest''), with recorded performances of selected passages and information on significant productions (i.e., a performance emphasis), and essays related to sources. Who can believe that other commercial publishers will not soon be preparing their own Shakespeare CD-ROM materials as well — after doing their own market research? How much of the user interest turned up by my survey will be siphoned off by commercial CD-ROMs, and what are the implications for the kinds of materials — as preferred by users — upon which the Internet Shakespeare Editions should focus? Is the ISE proposing something sufficiently different from the offerings of commercial publishers to gain it widespread support, as a necessary project to be developed, among both academic and non-academic users?
+
+<!--Paragraph 20-->
+The Internet Shakespeare Editions will of course be free (as opposed, for example, to a US $3995. 10-PC site license for the Arden Shakespeare CD-ROM, Version 1.0 [and each version will doubtless be at an additional cost]),<ref>This US $ price has been taken from an Arden Shakespeare CD-ROM printed information leaflet distributed in 1997. The current Web page for the product (<nowiki>http://www.thomson.com/thomasnelson/arden/ardencd.html</nowiki>) does not list a price, nor do any of the linked materials I looked at.</ref> a scholarly public-education asset available to everyone and worth pursuing for that reason alone. Many potential users, both academic and non-academic, will be unable to afford the commercial CD-ROMs. And it will be available online, where it can be revised and updated on an ongoing basis, and where it will also be important for certain new kinds of research; its texts will be a technologically fluid resource for an age becoming increasingly focused upon process and adaptation. But, to date, a comparatively limited number of academic users — though the number is doubtless steadily increasing — is probably ready to make use of the internet-specific advantages of the Internet Shakespeare Editions. Additional scholarly significance for the project, in terms of content differentiation from commercial CD- ROMs, would therefore also seem to be advisable for strong project support by an academic community whose members' interest and expertise in specifically online work has largely yet to be developed (via regular participation, as users, in an enterprise such as the ISE). The Internet Shakespeare Editions should try, I believe, to ensure itself, from the start, of the broadest possible academic base of users: by including with its Shakespeare texts the texts not only of Shakespeare sources but also of later Shakespeare adaptations, and also by emphasizing other additional materials in which potential users have expressed interest and which are not likely to be made available elsewhere (commercially or otherwise), such as historical documents and related non-Shakespearean plays.<ref>Scholarly print subscription societies, e.g., such as the Early English Text Society and the Malone Society, have thrived for decades as essential scholarly services, despite commercial publishers, by publishing at cost for their users the materials that their users want and that commercial publishers have seen as insufficiently lucrative for their own purposes.</ref> A combination of Shakespeare texts, source materials, and more esoteric, non-commercial materials, along with the refereed status and online free availability and ongoing updating of all ISE texts, would seem likely to make the ISE both an essential scholarly service and the leader in the provision of reliable electronic textbases to its communities both academic and general. And it would thus also become the leader in moving those communities into new internet-based modes of both teaching and research.
+
+<!--Paragraph 21-->
+This brings me back to a point with which I began: the Internet Shakespeare Editions as inherently a non-commercial populist project. Commercial publishers may now be entering the field of electronic textbases with enthusiasm; but all teachers and researchers know what can happen to text availability in fields of academic study where publishers, after an initial burst of enthusiasm, decide that there is, after all, insufficient money to be made, or where they leave the territory to the monopoly of a single anthology or compilation. And their products are also not always reliable, or are bound up in copyright restrictions in terms of what can be done with them. A main reason for the existence of the ISE is the continuing provision of academically-reliable, refereed, non-commercial electronic texts of Shakespeare's plays, freely available — for all uses — to the academic and non-academic communities at large, whatever the vagaries of commercial publication. But also the Internet Shakespeare Editions can provide more, in the way of related materials, than can commercial publishers: since its non-commercial, populist nature will allow it to focus not only on mainstream materials much in demand but also on materials commercial publishers are unlikely to provide, materials that the users want and that the qualified editors among them are willing themselves to create, according to project guidelines and subject to the project's refereeing processes. And — as is not the case in commercial CD-ROM publications — there is no necessary limitation on types of materials, nor any particular order in which they have to be created. Populism isn't tidy, or particularly organized; it's inclusive and extensive. Some of the respondents to my survey have already indicated their willingness to contribute materials to the project; it would seem wise to draw on their interest and support as quickly as possible, even though this could mean that the electronic files of related materials — of all kinds — grow more quickly (though always under an expert refereeing process) than the files of the Shakespeare play texts themselves. Theatre history, chronicle history, production books, Bale's ''King Johan:'' who knows what particular related texts will initially be created, and in what order? The users will decide; and then they will also decide ''how'' those texts will be used — which I expect will be both in traditional ways (as print texts are used) and in new ways that we haven't yet even begun to think about.
+
+<!--Paragraph 22-->
+The Internet Shakespeare Editions can be a populist colony on the Web — an essential service for today's and tomorrow's research and public education — with a significant variety of well-edited and refereed texts, of all kinds and at all levels of demand, of what the users want and need, freely available to all. The technologically-oriented members of the academic Shakespeare community have begun it; the potential academic users have started to make their needs and interests known; now it's up to the initial creators and to all potential users to interact so as to assure a development and a maintenance that is simultaneously expert and populist, and as textually flexible and inclusive as the demand indicates that it should be. Let a thousand (refereed) flowers bloom!
+
+==Notes==
+{{reflist}}
+
+==Survey Form: The Internet Shakespeare==
+The form used for the survey is reproduced here, together with a statistical summary of the responses.
+
+Number of survey forms sent out: 49 in Canada, 15 in US.
+Number of survey forms returned: 30 in Canada, 15 in US.
+
+----
+
+:Dear Colleague,
+
+May I impose on you to spend 3 minutes answering a very brief questionnaire about electronic editions of Shakespeare? The goal is to find out what potential users (teachers and researchers) might want to do with such editions, and so to make sure to supply what is needed. I'm a member of the project's Advisory Board, and I'd like to be able to advise, in mid to late May (so I'd really appreciate a reply during April), on what Shakespeare colleagues want/need. Please read on — and please reply! With thanks,
+
+:::Anne Lancashire.
+
+The Internet Shakespeare is a new editing project, based at the University of Victoria, British Columbia (General Editor, Michael Best), that aims to provide, free of charge to all users (across North America and beyond), refereed electronic modern editions of all of Shakespeare's plays and poems, along with reproductions of the original Folio and Quarto texts. All texts will be available in at least 3 formats: text only (ftp), HTML (HyperText Markup Language), and SGML (Standard Generalized Markup Language); two levels of annotation (basic and detailed) of the modern edition will be provided; and from the second level it will be possible to link online to collation, source texts, and other such materials both on the Internet Shakespeare site itself and on other WWW sites (for example, to the Homilies on the University of Toronto English Library site). Quality control will be as strong as in any print editions (there is an Editorial Board of experienced editors and other scholars); and all of researchers, teachers, and students will be able to use the texts on the Web, or to download them (in full or in part) for simple printing out, searching, or extended analysis (by computer programs such as ''TACT'', recently published by the MLA).
+
+Since the project is still in the early stages of development, the interests and needs of potential users can affect both what is developed and in what order. Please tick the items below, as applicable.
+
+<table border="0" cellpadding="5">
+            <tr>
+                <td><span style="font-size:small;"><i>Questions</i></span></td>
+                <td colspan="3"><span style="font-size:small;"><i>Responses</i></span></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td><span style="font-size:small;">Cdn</span></td>
+                <td><span style="font-size:small;">US</span></td>
+                <td><span style="font-size:small;">All</span></td>
+            </tr>
+            <tr>
+                <td colspan="4"><span style="font-size:small;"><b>1. Would you be likely to make use of an electronic edition <br>
+                of a Shakespeare play in your teaching, as:</b> </span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">a) an available free text for
+                your students to download and print out? </span></td>
+                <td><span style="font-size:small;">16</span></td>
+                <td><span style="font-size:small;">6</span></td>
+                <td><span style="font-size:small;">22</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">b) a means of teaching students how to conduct electronic searches <br> of texts for particular words, phrases, images,
+                etc.? </span></td>
+                <td><span style="font-size:small;">21</span></td>
+                <td><span style="font-size:small;">9</span></td>
+                <td><span style="font-size:small;">30</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">c) a means of making materials (source texts, related literature, etc.) <br>
+                available to students not otherwise likely to have access to them? </span></td>
+                <td><span style="font-size:small;">23</span></td>
+                <td><span style="font-size:small;">12</span></td>
+                <td><span style="font-size:small;">35</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">d) a way of requiring students to learn about various forms <br> (quarto, folio, modern) of the text, and the
+                interpretative problems involved?</span></td>
+                <td><span style="font-size:small;">21</span></td>
+                <td><span style="font-size:small;">11</span></td>
+                <td><span style="font-size:small;">32</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">e) a way of supplying students with extensive explanatory notes for <br>
+                a whole play or specific parts of it?</span></td>
+                <td><span style="font-size:small;">18</span></td>
+                <td><span style="font-size:small;">8</span></td>
+                <td><span style="font-size:small;">26</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">f) other (please specify)?</span></td>
+                <td><span style="font-size:small;">1</span></td>
+                <td><span style="font-size:small;">2</span></td>
+                <td><span style="font-size:small;">3</span></td>
+            </tr>
+            <tr>
+                <td colspan="4"><span style="font-size:small;"><b>2. Would you be likely to make use of an electronic edition <br>
+                of a Shakespeare play in your own research:</b></span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">a) for basic searching (for
+                words, images, phrases, etc.)?</span></td>
+                <td><span style="font-size:small;">24</span></td>
+                <td><span style="font-size:small;">10</span></td>
+                <td><span style="font-size:small;">34</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">b) for attribution study?</span></td>
+                <td><span style="font-size:small;">4</span></td>
+                <td><span style="font-size:small;">3</span></td>
+                <td><span style="font-size:small;">7</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">c) for links to related
+                materials on various Web sites?</span></td>
+                <td><span style="font-size:small;">17</span></td>
+                <td><span style="font-size:small;">9</span></td>
+                <td><span style="font-size:small;">26</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">d) for performance
+                information?</span></td>
+                <td><span style="font-size:small;">23</span></td>
+                <td><span style="font-size:small;">8</span></td>
+                <td><span style="font-size:small;">31</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">e) other (please specify)?</span></td>
+                <td><span style="font-size:small;">0</span></td>
+                <td><span style="font-size:small;">0</span></td>
+                <td><span style="font-size:small;">0</span></td>
+            </tr>
+            <tr>
+                <td colspan="4"><span style="font-size:small;"><b>3. What kind of text would be most useful to you? <br>
+                (Tick all if you would use all.)</b></span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">a) quarto text(s)?</span></td>
+                <td><span style="font-size:small;">28</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">41</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">b) folio text?</span></td>
+                <td><span style="font-size:small;">29</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">42</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">c) modern edition --
+                old-spelling?</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">3</span></td>
+                <td><span style="font-size:small;">16</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">d) modern edition --
+                modernized spelling?</span></td>
+                <td><span style="font-size:small;">23</span></td>
+                <td><span style="font-size:small;">9</span></td>
+                <td><span style="font-size:small;">32</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">e) edition of a later
+                adaptation (e.g., Tate's <i>Lear</i>)?</span></td>
+                <td><span style="font-size:small;">23</span></td>
+                <td><span style="font-size:small;">9</span></td>
+                <td><span style="font-size:small;">32</span></td>
+            </tr>
+            <tr>
+                <td colspan="4"><span style="font-size:small;"><b>4. What kinds of additional materials would you like
+                to have <br> linked to the texts themselves:</b></span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">a) source texts</span></td>
+                <td><span style="font-size:small;">26</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">39</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">b) playhouse information</span></td>
+                <td><span style="font-size:small;">21</span></td>
+                <td><span style="font-size:small;">9</span></td>
+                <td><span style="font-size:small;">30</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">c) stage history</span></td>
+                <td><span style="font-size:small;">22</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">35</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">d) historical documents (e.g.,
+                legal, religious, theatrical)</span></td>
+                <td><span style="font-size:small;">22</span></td>
+                <td><span style="font-size:small;">10</span></td>
+                <td><span style="font-size:small;">32</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">e) related plays by other
+                dramatists</span></td>
+                <td><span style="font-size:small;">20</span></td>
+                <td><span style="font-size:small;">7</span></td>
+                <td><span style="font-size:small;">27</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">f) performance illustrations
+                (historical or contemporary)</span></td>
+                <td><span style="font-size:small;">18</span></td>
+                <td><span style="font-size:small;">10</span></td>
+                <td><span style="font-size:small;">28</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">g) information on adaptations</span></td>
+                <td><span style="font-size:small;">15</span></td>
+                <td><span style="font-size:small;">7</span></td>
+                <td><span style="font-size:small;">22</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">h) critical articles -- from a
+                play's history of criticism</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">5</span></td>
+                <td><span style="font-size:small;">18</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">i) critical articles --
+                contemporary</span></td>
+                <td><span style="font-size:small;">13</span></td>
+                <td><span style="font-size:small;">4</span></td>
+                <td><span style="font-size:small;">17</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">j) early dictionaries
+                (16th-17th century)</span></td>
+                <td><span style="font-size:small;">22</span></td>
+                <td><span style="font-size:small;">6</span></td>
+                <td><span style="font-size:small;">28</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">k) explanatory notes
+                specifically for beginning students</span></td>
+                <td><span style="font-size:small;">18</span></td>
+                <td><span style="font-size:small;">6</span></td>
+                <td><span style="font-size:small;">24</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">l) maps</span></td>
+                <td><span style="font-size:small;">14</span></td>
+                <td><span style="font-size:small;">7</span></td>
+                <td><span style="font-size:small;">21</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">m) sound illustrations (e.g.,
+                of songs)</span></td>
+                <td><span style="font-size:small;">11</span></td>
+                <td><span style="font-size:small;">6</span></td>
+                <td><span style="font-size:small;">17</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">n) film information</span></td>
+                <td><span style="font-size:small;">17</span></td>
+                <td><span style="font-size:small;">8</span></td>
+                <td><span style="font-size:small;">25</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size:small;">o) other -- please specify.</span></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        
+<p><span style="font-size:small;"><b>5. Please name any specific materials, other than the texts themselves, which you would especially like to have available:</b> e.g., the Fortune Theatre contract, the prologue to <i>Every Man in his Humour,</i> <i>The Famous Victories of Henry V,</i> plague injunctions, Rose Theatre excavation drawings . . . . </span></p>
+        
+<span style="font-size:small;"><b>6. Would you be interested in contributing material yourself at any point?</b> (If so, please identify yourself!) </span></p>
+
+{{BookCat}}
