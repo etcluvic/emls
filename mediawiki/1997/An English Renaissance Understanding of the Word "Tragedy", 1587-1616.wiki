@@ -1,0 +1,382 @@
+''This essay was written by Tanya Hagen''.
+
+<blockquote>
+<poem>
+Loue. What Death and Fortune crosse the way of Loue?
+For. Why, what is Loue, but Fortunes tenis-ball?
+Death. Nay, what are you both, but subiects vnto Death?
+And I commaund you to forbeare this place:
+For heere the mouth of sad Melpomene,
+Is wholy bent to tragedies discourse:
+And what are tragedies but acts of death?
+Here meanes the wrathfull muse in seas of teares,
+And lowd laments to tell a dismall tale:
+A tale wherein she lately hath bestowed,
+The huskie humor of her bloudy quill,
+And now for tables, takes her to her tung. 
+:::— (Thomas Kyd, ''The Tragedie of Solimon and Perseda'')
+</poem>
+</blockquote>
+
+<!--Paragraph 1-->
+Contemporary English Renaissance scholarship has devised a number of models to classify and interpret the tragic drama of the period. While research in the field of English Renaissance tragedy is extensive, it is also in many respects exclusive. Elizabethan tragedy is commonly distinguished from Jacobean tragedy; Shakespeare's work from that of his contemporaries; domestic tragedy from its classically influenced counterparts. To a large extent these are necessary distinctions, as they represent a means of organizing a large and manifold corpus. If classifications are necessarily exclusive, however, definitions should be inclusive. What we lack is an inclusive, unified generic definition of English Renaissance tragedy that will link together these diversely classified texts.
+
+<!--Paragraph 2-->
+Current resources that seek to define, rather than to classify or interpret English Renaissance tragedy are fairly limited. The most authoritative contemporary lexicographical reference work is the ''Oxford English Dictionary'' (''OED''). A close examination of the ''OED'' entry for "tragedy," however, reveals serious inadequacies in the representation of a specifically Renaissance understanding of the work, and of tragic literature for the period as a whole. The ''OED'' cites from only two Renaissance critical treatises, Lodge's ''Defense of Poetry'' and Mere's ''Palladis Tamia''. It does not consider such prominent and influential examples of Renaissance literary criticism as Sidney's ''Defense of Poesie'' and Lumley's ''The Arte of English Poesie'', both of which discuss tragedy at length.<ref>The editor of the De Capo facsimile edition of ''The Arte of English Poesie'' tentatively attributes the work to Lord Lumley. Other scholars and editors, however, have advanced strong arguments in support of George Puttenham as the author. As it is the publication date and not the authorship that concerns us in this paper, I have simply accepted the De Capo editor's attribution.</ref> Furthermore, the ''OED'' definition does not refer to the numerous extant Renaissance lexicographical works, many of which provide citations for "tragedy" that are more informative than those selected for inclusion.
+
+<!--Paragraph 3-->
+The ''OED'' citation for "tragedy" as it is applied specifically to a modern stage play is perhaps the most deficient in its representation of Renaissance tragedy. The ''OED'' provides only two quotations from the Renaissance period: the titles of Shakespeare's ''Romeo and Juliet'' (1597) and ''Cymbeline'' (1611). While ''Cymbeline'' is the last of Shakespeare's works to contain the title-word "tragedy," ''Romeo and Juliet'' is only the second of his tragedies and the third of his plays to bear the title.<ref>The issue of ''Cymbeline''{{'}}s generic status as a tragedy is one that does not impact this paper, but does raise further objections to the ''OED'''s choice of citations from Renaissance texts.</ref> The omission of ''Titus Andronicus'', the first of Shakespeare's tragedies in both a titular and a generic sense, suggests either an inconsistency in the choice of citations, or a deliberate judgement concerning the work's place in the corpus. The larger issue at stake in this particular entry, however, is the utter neglect of the rest of Renaissance tragic drama, which creates the impression that Shakespeare alone contributed to the development of tragedy upon the modern stage.
+
+<!--Paragraph 4-->
+It is in the nature of the ''OED'' to provide broad historical contexts for its definitions, rather than to focus on specific elements within individual literary traditions. If we are to establish a comprehensive and accurate understanding of English Renaissance tragedy, we must extend the scope of our enquiry beyond the limits of contemporary models and definitions. Recent advances in Renaissance and computer-assisted scholarship furnish us with tools that render accessible the more obscure texts of the period. The ''Early Modern English Dictionaries Database'', a collection of diverse Renaissance lexicographical works, provides access to the important and relatively unexplored linguistic aspect of Renaissance studies.
+
+<!--Paragraph 5-->
+The language of Renaissance England, as the evidence of these lexicographical works readily suggests, is not our language, nor should we read it as such. We cannot use twentieth-century definitions to explain sixteenth- and seventeenth-century terminology. In the attempt to establish an English Renaissance understanding of tragedy, we must consider both the term and the literature from a Renaissance perspective.
+
+<!--Paragraph 6-->
+Although this paper is intended as a lexical study, I have considered a diversity of Renaissance texts, comprising both dramatic and non-dramatic works as well as lexicographical sources. This fairly inclusive approach to the literature relies on the premise that the collocates of a word—those words in immediate proximity to it—may reveal as much about its meaning as its lexical definition. Furthermore, the identification of certain recurring trends and patterns among these collocates will help us to establish a semantic field for Renaissance tragedy which, beyond simply defining the terminology, provides insights into a generic understanding of the tragic drama of the period.
+
+<!--Paragraph 7-->
+The broad chronological parameters of the study, which pertain specifically to the non-dramatic sources, accord with Shakespeare's career upon the English stage, 1587 to 1616.<ref>I have established the chronological parameters of the study to accord with the dates of Shakespeare's career, because this period of English Renaissance tragedy has received enormous critical scrutiny. In consequence, the bulk of twentieth-century models for tragedy apply specifically to those plays produced within this time frame.</ref> The categories for the non-dramatic sources are as follows: treatises on poetry and the theatre; dictionary citations for both "tragedy" and its cognates; and titles listed in ''A Short-Title Catalogue'' (''STC'') containing either the word "tragedy" or its cognates. The basic criteria for the non-dramatic sources are that they bear an initial publication date that falls within the established chronological parameters, and that they treat the word "tragedy" in some linguistic or literary capacity.<ref>The ''STC'' is the principal source for dating the treatises and titles. The dates for the lexical works are established according to the combined authority of Alston's ''Bibliography of the English Language'', Starnes' ''The English Dictionary from Cawdrey to Johnson 1604-1755'' and Stein's ''The English Dictionary before Cawdrey''. All of the lexicographical texts, with the exception of John Rider's ''Bibliotheca Scholastica'', appear as cited in the ''EMEDD''.</ref> The dramatic sources are divided into two groups.<ref>I have selected the plays according to the dates provided in Harbage's ''Annals of English Drama 975-1700'', and consulted Greg's ''A Bibliography of the English Printed Drama to the Restoration'' for full titles.</ref> The first group of plays includes all tragedies published between 1592 and 1594 and represents the period during which Shakespeare produced his first tragedy. The second comprises all tragedies published between 1604 and 1606, an unusually active period in Shakespeare's career as a tragedian. Both groups also include all history plays containing the title-word "tragedy." I was unable to locate three of the nineteen tragedies and qualifying history plays published between 1592 and 1594, and five of the seventeen works produced between 1604 and 1606. To some extent, therefore, this is necessarily a representative rather than an exhaustive study.
+
+<!--Paragraph 8-->
+The critical treatises on poetry and the theatre published between 1587 and 1616 adhere consistently to an essentially classical tragic model. In the 1589 edition of ''The Arte of English Poesie'', Lumley details minutely the classical tradition of tragedy, describing not only its manner and matter, but also possible sources for the word. Lumley's description of ancient tragedy reveals an acute interest, also evinced in the dictionaries, in the physical trappings of the tragic drama:
+
+<blockquote>
+These matters of great Princes were played vpon lofty stages, & the actors thereof ware vpon their legges buskins of leather called Cothurni, and other solemne habits, & for a speciall preheminence did walke vpon those high corked shoes or pantofles, which now they call in Spaine & Italy Shoppini. And because those buskins and high shoes were commonly made of goats skinnes vert finely tanned, and dyed into colours: or for that as some say the best players reward, was a goate to be giuen him, or for that as other thinke, a goate was the peculiar sacrifice to the god Pan, king of all the gods of the woodes: forasmuch as a goate in Greeke is called Tragos, therfore these stately playes were called Tragedies. (27) 
+</blockquote>
+
+<!--Paragraph 9-->
+Sidney's defense of the tragic drama in ''An Apologie for Poetrie'' (1595) reveals a greater interest in the moral and didactic aspects of the poetry than does Lumley's work:
+
+<blockquote>
+So that the right vse of Comedy will (I thinke) by no body be blamed, and much lesse of the high and excellent Tragedy, that openeth the greatest wounds, and sheweth forth the Vlcers, that are couered with Tissue: that maketh Kinges feare to be Tyrants, and Tyrants manifest their tirannicall humors: that with sturring the affects of admiration and commiseration, teacheth, the vncertainety of this world, and vpon howe weake foundations guilden roofes are builded. (F3v-F4) 
+</blockquote>
+
+Sidney's estimation of tragedy follows closely the Aristotelian model. Tragedy is a noble and elevated form of poetry, concerned with the lofty matters, and produces beneficial emotions of admiration and commiseration in the audience. It treats of "Tyrants" and things "tiranicall," a concept emphasized by repetition. Sidney defines the function of tragedy, as does Lumley, in terms of disease and decay. By uncovering the "wounds" and "ulcers" of a fundamentally "weake" and uncertain world, tragedy allows its audience to participate in a form of moral healing and regeneration. 
+
+<!--Paragraph 10-->
+A later passage in Sidney's treatise suggests that his own idea of the tragic art is not necessarily prevalent among playwrights of the day. While he celebrates classical tragedy, he claims that modern tragedy is largely a degraded form of the art. Contemporary Elizabethan playwrights show a complete disregard for the classically-inspired structural unities of time and place that he regards as essential. Furthermore, they introduce indecorous and unsuitable subject matter into the poetry, more appropriate to base Comedy than high Tragedy. The incorporation of comic elements into modern tragedy has produced a "mungrell Tragy-comedie" that neither strives for nor is capable of moral inspiration:
+
+<blockquote>
+But besides these grosse absurdities, how all theyr Playes be neither right Tragedies, nor right Comedies: mingling Kings & Clownes, not because the matter so carrieth it: but thrust in clownes by head and shoulders, to play a part in maiesticall matters, with neither decencie, nor discretion. So as neither the admiration & commiseration, nor the right sportfulness, is by their mungrell Tragy-comedie obtained. (K2) 
+</blockquote>
+
+The performance of a farcical tragedy in the fifth act of Shakespeare's ''A Midsummer Night's Dream'' provides an example of the kind of generic dissolution that Sidney points to in his essay: 
+
+<blockquote>
+Theseus. No epilogue, I pray you; for your play needs no excuse. Never excuse; for when the players are all dead there need none be blamed. Marry, if he that writ it had played Pyramus and hanged himself in Thisbe's garter it would have been a fine tragedy; and so it is, truly, and very notably discharged. (5.1.349-54) 
+</blockquote>
+
+Although Shakespeare is guilty of the charge that Sidney levies on contemporary playwrights, this passage nevertheless suggests a similar awareness of the potential for tragedy to descend into the ridiculous. In this capacity, Theseus's speech is perhaps equally as effective a criticism of contemporary tragedy as is Sidney's more explicitly critical commentary. 
+
+<!--Paragraph 11-->
+Thomas Nashe echoes Sidney's critical attitude towards the contemporary tragic stage in ''A Preface to Robert Greene's Menaphon''. Nashe argues that modern attempt to produce an English form of tragedy has debased the classical tradition of tragic poetry:
+
+<blockquote>
+It is a common practice now a daies amongst a sort of shrifting companions, that runne through euery arte and thriue by none, to leaue the trade of Nouerint whereto they were borne, and busie themselues with the indeuors of Art, that could scarcelie latinize their neck-verse if they should haue neede; yet English Seneca read by candle light yeeldes manie good sentences, as Bloud is a beggar, and so foorth: and if you intreate him faire in a frostie morning, he will affoord you whole Hamlets, I should say handfulls of tragical speaches. 
+</blockquote>
+
+This passage points to the influence of a specifically Senecan tragic sensibility upon the Renaissance imagination. Nashe's seemingly casual reference to the line "Bloud is a beggar" reveals to some extent the Renaissance acceptance of the violent nature of tragedy. 
+
+<!--Paragraph 12-->
+The classical model for Renaissance tragedy remains a dominant concern in later treatises. In ''An Apology for Actors'' (1612), Heywood cites the authority of the classical stage to justify his defense of both tragedy and English drama in general. Heywood's discussion of tragedy is by far the most detailed with respect to costume, performance, and historical development. Like Sidney, Heywood emphasizes the didactic nature of tragedy: "If we present a Tragedy, we include the fatall and abortiue ends of such as commit notorious murders, which is aggrauated and acted with all the Art that may be, to terrifie men from the like abhorred practises" (F3v). This representation of tragedy differs in some respects from that of Lumley's, however, in that it suggests a much more aggressive type of tragic protagonist. Heywood's murderers supplant Lumley's "dolefull" and "afflicted" Princes.
+
+<!--Paragraph 13-->
+An examination of the critical sources reveals a certain disassociation from the realities of the popular stage. The treatises conceive of the tragic art on a theoretical rather than a practical level, which may account for the relative consistency in definition throughout the works. These works conceive of tragedy almost exclusively in terms of the ancient Greek and Roman stages, and the model therefore remains unchanged.
+
+<!--Paragraph 14-->
+The lexicographical works provide a less fundamentally literary, and therefore perhaps more accurate understanding of English Renaissance tragedy. Direct references to the conventions of the Greek and Roman tragic stage are relatively rare. Both Thomas Thomas and Randle Cotgrave allude briefly to the use of the chorus in tragic drama. Thomas's definition of "tragoedia" reflects the received classical notion of tragedy as a form of poetry that treats of lofty matters and noble persons:
+
+<blockquote>
+Tragoedia, ''ae'', f. g. A tragedie, beeing a loftie kind of poetrie, and representing personages of great estate, and matter of much trouble . . . . (1587) 
+</blockquote>
+
+The most frequent allusions to classical tragedy occur in the definitions of "cothurnatus," "coturno" or "cothurne," which are the Latin, Spanish and French terms for a buskin, a kind of boot believed to have been worn by actors in Greek tragedies. This preoccupation with the physical trappings of the tragic stage reflects a similar interest already noted in the critical treatises. 
+
+<!--Paragraph 15-->
+The overwhelming majority of lexicographical sources define "tragedy" simply as a branch of poetry or the dramatic arts that is opposed to comedy and treats of sorrowful and violent matters. Such words as "solemne," "bloody," "murder," "cruell," and "outragious" delineate the basic criteria for "tragedy":
+
+<blockquote>
+<poem>
+''tragedie'' a solemne plaie (Edmund Coote 1596)
+
+''tragedie'', (g) a solemne play, describing cruell murders and sorrowes (Robert Cawdrey 1604)
+
+''Tragedie''. A play or Historie ending with great sorrow and bloodshed. (John Bullokar 1616)
+</poem>
+</blockquote>
+
+Both Thomas in 1587 and Rider in 1589 apply the same, very general phrase in their definitions of tragedy, which is "to make a matter much worse than indeed it is" (Thomas 1587; Rider 1515). In this context, tragedy could signify any gradually worsening situation. 
+
+<!--Paragraph 16-->
+Cognates for tragedy also reveal a fairly wide application of the term. Bullokar, for example, defines "tragicall" as "Mournefull, lamentable, deadly, which endeth like a Tragedy" (Bullokar 1616). The phrasing of Bullokar's definition suggests that the cognate "tragicall" has applications beyond the immediately literary. Anything "mournefull," "lamentable" or "deadly" qualifies as tragic. Cawdrey's representation of "tragicall" as "cruel, sorrowful, like a tragedy" and Rider's simple identification of "tragice" with "cruelly" (376) offer further support to this broad interpretation of the term. Ultimately, the evidence of the lexicographers points to a dramatic tradition concerned primarily with violence and sorrow that gives no consideration to unities of time and place, catharsis or moral didacticism. There does not seem to be a major distinction between early and late lexicographical sources for tragedy. Bullokar's definitions for "tragedy" in 1616 do not differ in substance from Thomas's in 1587.
+
+<!--Paragraph 17-->
+A survey of titles for non-dramatic works listed in the ''STC'' for the years between 1587 and 1616 reveals a more generically specific understanding of the word "tragedy" and its cognates than the lexicographical sources indicate. The incidence of words which fall within the general semantic field for tragedy, such as "sorrowfull," "mournfull," and "lamentable," is quite high. These occur particularly in religious treatises, sermons, and historical chronicles. There are only six instances in twenty-nine years, however, in which tragedy or its cognates appear in the title of a non-dramatic work. Four of the six titles belong to sixteenth-century works and only two to seventeenth-century works. "Tragedy" and its cognates did not appear in any titles for non-dramatic works published between 1606 and 1616.
+
+<!--Paragraph 18-->
+This evidence offers some compelling insights into the generic use of the word "tragedy" between 1587 and 1616. Its low incidence as a title-word for non-dramatic works posits a fairly widespread generic understanding of tragedy as a specifically dramatic, rather than a widely literary term. The chronological evidence both supports and amplifies this position, suggesting that this particular generic designation of tragedy gained increasing and eventually exclusive acceptance as the convention of the tragedy developed in Renaissance England.<ref>Only two of the six non-dramatic works in which either tragedy or a cognate appeared as a title-word were accessible through the University of Toronto library system. These are Lodge's "Tragical Complaint of Elstred," published in 1593, and Drayton's "the tragicall legend of Robert, Duke of Normandy, with the legend of Matilda the chast," published in 1596, both of which are long poems in the complaint tradition. As these do not adequately represent even a substantial proportion of the twenty-nine year period with which this study is concerned, we cannot consider them as wholly reliable sources. It should be noted, however, that both works suggest an understanding of tragedy entirely consonant with that of their contemporaries.</ref>
+
+<!--Paragraph 19-->
+A comparative study of tragedies produced between 1592 and 1594 and between 1604 and 1606 reveals two significant developments. The first of these relates to the use of violent terminology in the texts. The later plays reveal a much lower incidence of collocates for "tragedy" which are of a violent and bloody nature. There are only seven instances among the later plays in which "tragedy" or its cognates appear in direct collocative relation to violent terms such as "murder," and "bloody," as opposed to twenty-three instances among the earlier sources. Considered independently, this evidence seems to suggest that there was a radical departure in later English Renaissance tragedy from the graphic violence of the earlier stage. A close reading of the plays, however, which does not reveal a significantly lower incidence of violent episodes in the earlier than in the later works, appears to contradict this inference.
+
+<!--Paragraph 20-->
+A quantitative analysis of the data provides some explanation for this apparent incongruity. (For complete calculations and results, consult the chart in the Appendix.) "Tragedy" and its cognates appear 73 times in the 16 plays dated from 1592 through 1594. In the 12 plays dated between 1604 and 1606, however, "tragedy" and its cognates appear only 32 times. This explains to a significant degree the initial variance in the figures which reflect the collocative relationship between "tragedy" and violent words. While there are certainly fewer instances of this relationship in the later plays, this seems to be a result of a diminished frequency in the occurrence of the word "tragedy" and its cognates. If we consider the evidence in terms of percentages, we discover that in both the earlier and the later groups the instances in which "tragedy" appears in conjunction with violent terminology represent somewhere between a quarter and third of all of the instances. On a purely lexical level, the data suggest a continuity between the earlier and the later periods in the representation of tragedy through violent language.
+
+<!--Paragraph 21-->
+While a quantitative analysis of the data for the two periods does not point to a significant linguistic development, it does reveal a shift in the generic use of the word "tragedy." The distribution of the history plays within the test groups provides a specific example of this shift. The first group comprises seven tragedies and eight history plays, the second seven tragedies and only four history plays. In the early group, instances of "tragedy" and its cognates in history plays number 41 of the total 73, while in the later, they comprise only 10 of the total 32. In the consideration of history plays for inclusion in the study, only those which contained the title-word "tragedy" were selected. These represent all history plays published between 1592 and 1594, but only four of the twelve published between 1604 and 1606. The later evidence points to a more acute generic distinction between the tragedy and the history play. The fact that the data for the tragedies do not differ substantially between the earlier and later periods seems to support this conclusion. As the tragic drama developed and became established upon the English Renaissance stage, the margins of what could be considered "tragedy" seem to have narrowed considerably.
+
+<!--Paragraph 22-->
+In the comparison of these diverse English Renaissance sources for the meaning of tragedy, obvious semantic discrepancies arise. It is possible, in this literary-historical context, to arrive at a general understanding of Renaissance tragic conventions. At the same time, the definition remains somewhat ambigious. In order to establish a generic definition of English Renaissance tragedy with more accuracy and confidence than a general literary-historical study can provide, we must treat the sources on a much more elementary level of signification.
+
+<!--Paragraph 23-->
+In the examination of collocates for "tragedy" in both dramatic and non-dramatic sources, a unified idea of tragedy begins to emerge. While there may be theoretical and topical discrepancies among these sources, the language employed in the delineation and exposition of the tragic drama points to an interesting semantic homogeneity. This is particularly remarkable in the sixteen early and twelve late Renaissance tragedies surveyed, which not only represent a diversity of thematic and structural approaches to tragedy, but are also divided by a considerable passage of time. At the basic level of word-meaning they identify a number of key elements which comprise a surprisingly coherent vision of English Renaissance tragedy between 1587 and 1616.
+
+<!--Paragraph 24-->
+The first of these major elements involves words associated with the concept of mourning. Five of the plays use "lamentable" in the title. "Lamentable" functions as a verbal sign to distinguish the tragic from the merely dramatic. When Shakespeare's Quince in ''A Midsummer Night's Dream'' describes "Pyramus and Thisbe" as a "lamentable comedy" (1.2.10), for example, he emphasizes the kind of generic transgression that Shakespeare parodies in his play within a play. A comedy is not "lamentable," nor is a tragedy "pleasaunt" or "mirthful."<ref>"Pleasaunt" and "mirthful" are common descriptive adjectives for comedy of the period, occurring frequently as title-words.</ref> Implicit in this phrase is the recognition that the word "lamentable," applied specifically to a dramatic text, bears associations that are fundamentally incongruous with comedy.
+
+<!--Paragraph 25-->
+Within the texts themselves, the semantic field for mourning becomes much wider and more complex. In the anonymous ''Locrine'' (1594), such terms as "sobs," "grievous," and "mourn" establish the philosophical premise of the play:
+
+<blockquote>
+<poem>
+''Est''. Break, heart, with sobs and grievous suspires,
+Stream forth, you tears, from forth my watery eyes;
+Help me to mourn for warlike Locrine's death;
+Pour down your tears, you watery regions,
+For mighty Locrine is bereft of life.
+O fickle Fortune! O unstable world!
+What else are all things that this globe contains,
+But a confused chaos of mishaps?
+Wherein, as in a glass, we plainly see,
+That all our life is but as a tragedy. (5.4.45-54) 
+</poem>
+</blockquote>
+
+Terms associated with mourning occur most frequently in the title pages, prologues, and final acts of the plays. In this respect, they provide a semantic framework for the moral and didactic arguments of the plays. In moments of the greatest emotional stress, they form part of the utterance which reveals the tragic message of the work. Such words as "sorrowful," "sad," and "grief" subtly convey the high moral purpose of the tragedy. 
+
+<!--Paragraph 26-->
+The second key element relies upon a vast semantic field involving words associated with violence. The nature of tragedy is fundamentally chaotic, and thus directly opposes order and calm. Note the King's speech to Epernoune in Marlowe's ''Massacre at Paris'' (1593):
+
+<blockquote>
+<poem>
+''King''. And Epernoune though I seeme milde and calme,
+Thinke not but I am tragicall within:
+Ile secretly conuay me vnto Bloyse,
+For now that Paris takes the Guises parte,
+Heere is no staying for the King of France,
+Vnles he meane to be betraide and dye:
+But as I live, so sure the Guise shall dye. (1084-90) 
+</poem>
+</blockquote>
+
+The language of Elizabethan tragedy is a language of murder and revenge, in which the words "tragedy" and "death" are synonymous, as in the following passage from Chapman's T''he Tragedy of Alphonsus'' (1594): 
+
+<blockquote>
+<poem>
+Alex. O my poor father, wert thou such an eye-sore,
+That the nine greatest princes of the earth
+Must be confederate in thy tragedy? (2.2. 46.11-13) 
+</poem>
+</blockquote>
+
+This analogous relationship also seems to extend to the cognates of tragedy. In ''The Revenger's Tragedie'' (1606), for example, Vendici refers to his murderous plot as his "tragick business." 
+
+<!--Paragraph 27-->
+It follows, then, that in the argument between Love, Fortune and Death in Kyd's ''Soliman and Perseda'' (1592) the outcome is certain. The tragic stage is Death's unique domain, and he is inevitably the victor:
+
+<blockquote>
+<poem>
+''Death''. I tell thee Fortune, and thee wanton Loue,
+I will not downe to euerlasting night,
+Till I have moralliz'd this Tragedie,
+Whose cheefest actor was my sable dart. (A2v) 
+</poem>
+</blockquote>
+
+<!--Paragraph 28-->
+This semantic sub-group of tragedy contains numerous smaller divisions. There are those words immediately associated with the act of violence, which include such general terms as "murder," "kill," and "massacre," as well as the very specific "stab," "hang," and "poison." Related groups include the names of weapons; descriptive adjectives such as "gore" and "blood"; funereal terms; and words describing physical pain and decay. In George Peele's ''The Love of King David and Fair Bethsabe'' (1594), the phrase "tragicke spoile" refers to the violent act of rape:
+
+<blockquote>
+<poem>
+''Tham''. Rend haire and garments as thy heart is rent,
+With inward furie of a thousand greefes,
+And scatter them by these unhallowed dores,
+To figure Ammons resting crueltie,
+And Tragicke spoile of Thamars chastitie. (351-55) 
+</poem>
+</blockquote>
+
+Peele employs such words as "rend," "furie," and "crueltie" to establish an appropriately violent linguistic atmosphere in which to disclose Thamar's tragedy. 
+
+<!--Paragraph 29-->
+The third and final semantic group includes collocates for tragedy that treat the ideas of acting and writing. On the one level, there is the simple physical act of tragedy as murder, in which both agent and victim participate. This relationship between murderer as agent and passive victim is explored in the following passage from ''A Yorkshire Tragedy'':
+
+<blockquote>
+<poem>
+''Hus''. Oh catch him new torments, that were near inuented,
+Binde him one thousand more you blessed Angells
+In that pit bottomlesse, let him not rise
+To make men act vnnaturall tragedies
+To spred into a father, and in furie,
+Make him his childrens executioners:
+Murder his wife, his seruants, and who not
+For that man's darke, where heaven is quite forgot. (D2v) 
+</poem>
+</blockquote>
+
+Embedded in the concept of the tragic agent, however, is that of the tragic actor, as Buckingham's speech in Shakespeare's ''Richard III'' (1593) illustrates: 
+
+<blockquote>
+<poem>
+Buck. Tut, I can counterfeit the deep tragedian,
+Tremble and start at wagging of a straw,
+Speak, and look back, and pry on every side,
+Intending deep suspicion; ghastly looks
+Are at my service, like enforcd smiles,
+And both are ready in their offices
+At any time to grace my stratagems. (3.5.5-11)
+</poem>
+</blockquote>
+
+The use in various sources of such literary and theatrical terms as "author," "act," "perform," and "sequel" reinforces this idea. Tragic authorship is not only a function of the playwright, but also part of the narrative machinery of the play. 
+
+<!--Paragraph 30-->
+On the authority of the evidence gathered from these sources, it is possible to establish a coherent definition for English Renaissance tragedy between 1587 and 1616. The substance of tragedy was the story of a violent sequence of events, constructed upon the central themes of murder and revenge, and most frequently motivated by extremes of greed, jealousy and rage. The language of grief and sorrow established the emotional atmosphere of the play. The didactic function of the drama found expression in the language of mourning; the example of tragic lamentation served as a warning against the destructive potential of vice and depravity. Furthermore, tragedy was indisputably a theatrical medium, intended for the stage, in which the technical and literary language of the theatre often informed the narrative development of the play. Although the critical treatises adhere to an essentially classical model for tragedy, the evidence of the other non-dramatic sources and the play-texts posits a domestic tradition of the tragic drama that was firmly established upon the English stage as early as 1587. The kind of semantic homogeneity noted in both the early and the late texts, moreover, points to a generic understanding of tragedy that remained consistent throughout the period.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Alston, R.C. ''A Bibliography of the English Language from the Invention of Printing to the Year 1800''. West Yorkshire: Printed for the Author. Rpt. 1985.
+*Anonymous. ''The Lamentable Tragedy of Locrine''. Ed. Jane Lytton Gooch. London: Garland, 1981.
+*Anonymous. ''The Tragedy of Caesar and Pompey''. London: Tudor Facsimile Texts, 1913.
+*Anonymous. ''Woodstock: A Moral History''. Ed. A. P. Rossiter. London: Chatto and Windus, 1946.
+*Anonymous. ''A Yorkshire Tragedy''. London: Tudor Facsimile Texts, 1910.
+*Campion, Thomas. ''Observations in the Art of English Poesie''. 1602. New York: Da Capo P, 1972.
+*Cary, Elizabeth. ''The Tragedie of Mariam''. Oxford: Malone Society Reprints, 1914.
+*Chapman, George. ''The Plays of George Chapman''. Ed. Thomas Marc Parrott. Vol. 2. New York: Russell and Russell, 1961.
+*—. ''The Revenge of Bussy D'Ambois''. Menston: Scolar P, 1968.
+*—. ''The Tragedy of Alphonsus, Emperour of Germany''. ed. Karl Elze. Leipzig: F.A. Brockhaus, 1867.
+*Daniel, Samuel. ''The Complete Works in Verse and Prose of Samuel Daniel''. ed. Rev. Alexander B. Grosart. Vol. III. London: Hazell, Watson and Viney, 1885.
+*—. ''A Panegyrike with a Defence of Ryme''. 1603. Menston: Scolar P, 1969.
+*—. ''The Tragedie of Philotas''. Ed. Laurence Michael. New Haven: Yale UP, 1949.
+*Dekker, Thomas and John Webster. ''The Famous History of Sir Thomas Wyatt''. 1607. London: Tudor Facsimile Texts, 1914.
+*Drayton, Michael. ''The Works of Michael Drayton''. Ed. J. William Hebel. Vol. I. Oxford: Shakespeare Head P, 1961.
+*Greene, Robert. ''The Tragical Reign of Selimus''. Ed. Alexander B. Grosart. London: Aldine, 1898.
+*Greg, W.W. ''A Bibliography of the English Printed Drama to the Restoration''. 4 vols. London: Oxford UP, 1939.
+*Harbage, Alfred and S. Schoenbaum. ''Annals of English Drama 975-1700''. 3rd ed. rev. S.S. Wagonheim. London: Routledge, 1989.
+*Heywood, Thomas. "An Apology for Actors." 1612. ''The English Stage: Attack and Defence 1577-1730''. Ed. Arthur Freeman. New York: Garland, 1973.
+*Kyd, Thomas. ''The Works of Thomas Kyd''. Ed. Frederick S. Boas. Oxford: Clarendon P, 1901.
+*—. ''Solimon and Perseda''. 1599. London: Tudor Facsimile Texts, 1912.
+*Lancashire, Ian, ed. ''Early Modern English Dictionaries Database''. Toronto: U of Toronto. [http://www.chass.utoronto.ca:8080/english/emed/emedd.html Early Modern English Dictionaries Database].
+*Lodge, Thomas. ''Phillis: Honoured with Pastorall Sonnets, Elegies, and amorous delights. Where-vnto is annexed, the tragicall complaynt of Elstred.'' London: John Busbie, 1593.
+*[Lord Lumley?]. ''The Arte of English Poesie''. New York: De Capo P, 1971.
+*Marlowe, Christopher. ''Edward the Second''. Oxford: Malone Society Reprints, 1925.
+*—. ''The Tragical History of Doctor Faustus''. Ed. Frederick S. Boas. New York: Gordian, 1966.
+*—. ''The Massacre at Paris''. Oxford: Malone Society Reprints, 1928.
+*Marston, John. ''The Wonder of Women Or the Tragedie of Sophonisba''. [Reproduced from the copy in the Henry E. Huntington Library for the U of Toronto, 1961.]
+*Middleton, Thomas. ''The Revenger's Tragedy''. Toronto: Associated UP, 1983.
+*''The Oxford English Dictionary''. 2nd Ed. CD-ROM. Oxford: Oxford UP, 1992.
+*Nashe, Thomas. "Preface to Robert Greene's ''Menaphon''." 1589. ''The English Stage: Attack and Defence 1577-1730''. Ed. Arthur Freeman. New York: Garland, 1973.
+*Peele, George. ''The Love of King David and fair Bethsabe''. Oxford: Malone Society Reprints, 1912.
+*Pollard, A. W., G. R. Redgrave, W. A. Jackson, F. S. Ferguson, and K. F. Pantzer. ''A Short-Title Catalogue of Books Printed in England, Scotland, and Ireland, and of English Books Printed Abroad, 1475-1640''. London: Bibliographical Society, 1976-91.
+*Rider, John. ''Bibliotheca Scholastica''. 1589. Menston: Scolar P, 1970.
+*Shakespeare, William. ''The Complete Works''. Electronic Edition. Ed. Stanley Wells and Gary Taylor. Oxford: Oxford UP, 1989.
+*—. ''The First Part of King Henry VI''. Ed. Andrew S. Cairncross. London: Methuen, 1962.
+*—. ''King Lear''. Ed. Kenneth Muir. London: Methuen, 1966.
+*—. ''King Richard III''. Ed. Antony Hammond. London: Methuen, 1981.
+*—. ''Macbeth''. Ed. Kenneth Muir. London: Routledge, 1984.
+*—. ''Othello''. Ed. M. R. Ridley. London: Methuen, 1987.
+*—. ''Titus Andronicus''. Ed. Jonathan Bate. London: Routledge, 1995.
+*Sidney, Sir Philip. ''An Apologie for Poetrie''. New York: De Capo P, 1971.
+*Starnes, DeWitt and Gertrude E. Noyes. ''The English Dictionary from Cawdrey to Johnson 1604-1755''. Studies on the History of the Language Sciences. 57. Philadelphia: John Benjamins, 1991.
+*Stein, Gabriele. ''The English Dictionary before Cawdrey''. Lexicographica Series. Maior 9. Tübingen: Niemeyer, 1985.
+*Yarington, Robert. ''Two Lamentable Tragedies''. London: Tudor Facsimile Texts, 1913.
+
+==Appendix==
+{| class="wikitable" style="margin:auto"
+|+ Frequency of "tragedy" (and cognates) in selected plays
+|-
+! Date
+!colspan="2"|Tragedies
+!colspan="2"|Histories
+!colspan="2"|Total
+|-
+|
+|'''No.'''
+|'''Freq.'''
+|'''No.'''
+|'''Freq.'''
+|'''No.'''
+|'''Freq.'''
+|-
+|1592
+|3
+|15
+|3
+|12
+|6
+|27
+|-
+|1593
+|1
+|2
+|2
+|8
+|3
+|10
+|-
+|1594
+|4
+|15
+|3
+|21
+|7
+|36
+|-
+|TOTAL
+|8
+|32
+|8
+|41
+|16
+|73
+|-
+|1604
+|3
+|9
+|3
+|8
+|6
+|17
+|-
+|1605
+|2
+|2
+|1
+|2
+|3
+|4
+|-
+|1606
+|3
+|11
+|0
+|0
+|3
+|11
+|-
+|TOTAL
+|8
+|22
+|4
+|10
+|12
+|32
+|}
+
+For purposes of accuracy, I have designated the plays as either tragedies or histories, according to their generic classification in Harbage's ''Annals''. I have not considered the plays individually, or made any qualitative distinctions beyond the broad generic and chronological. Combined results for both tragedies and histories appear in the vertical "Total" column. Separate results for the early and late groups are tabulated in the two horizontal "Total" columns. "No." indicates the number of plays produced in a given year, and "Freq." the incidence of "tragedy" or its cognates in those plays. These counts include title-words.
+
+{{BookCat}}
