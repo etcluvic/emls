@@ -1,0 +1,698 @@
+''This essay was written by Chris Fitter''.
+
+==Introduction==
+<!--Paragraph 1-->
+"Wizards know their times," Bolingbroke assures Dame Eleanor, in ''2 Henry VI'', as they prepare to conjure a Spirit from hell.
+
+<blockquote>
+<poem>
+Deep night, dark night, the silent of the night,
+The time when screech-owls cry, and bandogs howl,
+And spirits walk, and ghosts break up their graves;
+That time best fits the work we have in hand.
+</poem>
+</blockquote>
+
+Less than a century later, in stunning contradiction, John Norris of Bemerton's "Hymn to Darkness" (published 1687) serenely lauds night as rapturous and benign, agent equally of highest holiness and poetic inspiration.
+
+<blockquote>
+But thee I now admire, thee would I chuse
+For my Religion or my Muse.
+Tis hard to tell whether thy reverend shade
+Has more good Votaries or Poets made,
+From thy dark caves were Inspirations given
+And from thick groves went vows to Heaven.<ref>''2 Henry VI'' (1.4.16–19); Norris (304).</ref>
+</blockquote>
+
+Norris is here celebrating (and consolidating) the emergence of a new literary genre, the poetic nocturne: one intent on refiguring those cold, dead and sunless hours feared by most of mankind over millennia into an order of exquisite and numinous experience. The genre of poetic nocturne, then, needs dating not to the eighteenth century and the verse of such as Parnell, Young and Gray as has literary history hitherto, but to the Renaissance: whose poetry, masques and painting, in revaluing night as a time of beauty and profundity, overturn, I will argue, the construction predominant in classical and medieval traditions. Those earlier approaches themselves, Greek, Roman, biblical, patristic and medieval, have never been systematically investigated for their representation of night. This paper, accordingly, will seek to sketch a basic poetic tradition, and its elevation to independent genre, hitherto uncharted: from whose Renaissance productions eighteenth-century and Romantic writing will often derive, and at whose heart lie Shakespeare, Jonson, and perhaps above all, the lyric but combative genius of Milton.
+
+<!--Paragraph 2-->
+The survey discovers a standard repertoire of nocturnal motifs, and a quintessential ambivalence, which each maintain substantial continuity across ancient and Christian literatures into the Renaissance, although not without historical permutation. Fundamental shifts of emphasis are to be expected, after all, since presentations of natural reality are not mere reflections of deep-seated ecological values, even though some lines may suggest so: dependence on light and fear of darkness, for instance, well caught in Spenser's "Our life is day, but death with darknesse doth begin," in ''The Faerie Queene'', 3.4.59.9. Art's representations derive, rather, from the mediation of such fundamentals through historical social formations. "Natural" appearances, as I have suggested elsewhere, and borrowing Reader-Response terminology, are in fact "read" by mutable "interpretive communities," each with its distinct "horizons of expectation," no less than are texts. Historical communities, each with their own complex of working material relations with nature, project upon the external world varied structures of attention, "fresh priorities of need and desire, and attendant new fronts" of visual acuity and familiarity in the manifold of landscapes.<ref>Fitter (''Poetry, Space, Landscape'' 8–9, 14).</ref> "Ecological" responses, in life and art, are thus filtered through "nature-sensibilities" formed by social practices, class location and literary convention.
+
+<!--Paragraph 3-->
+"Night-walking" for instance is a crime for the medieval commoner (a royal charter of 1347 granted Bristol the right to imprison nightwalkers, for their motivation could only be felonous), but becomes a pious and aesthetic convention for the well-to-do, urban scholar in the century that invented the recreative stroll: as is evident from ''Il Penseroso''. Again, we shall see how, in antiquity, sophisticated, metropolitan poets of the Hellenistic and Roman imperial period pen an "aesthetic" refiguring of night, along with other elemental experience, reworking mythological themes within a poised, sceptical climate: precisely as Elizabethan and Stuart writers will confect primitive medieval horrors with self-consciously suave rational superiority into a field of delicate antiquarian whimsy. With the decline of humanistic self-confidence in late antiquity, however, a "vertical imagination" develops, majestically acclaiming the starry spaces in derogation of this puny, sinful earth. When, with the Renaissance, humanism is reborn, construction of night's meaning, moral status and empiric appearances will in England be caught up in the ideological collisions of that era, and articulated increasingly along adversarial lines of "Puritan" and "courtly" discourse. It is, perhaps, precisely in attempted transcendence of such sectarian division that Norris' poem quoted above, seeks, like the philosophy of the Cambridge Platonists with whom he was affiliated, to establish an eirenic, common ground of sacramentality: one he attempts to locate in the mystery of holiness, diffidently occult, encountered in nocturnal darkness.
+
+<blockquote>
+<poem>
+The Vision of the Deity is made
+More sweet and Beatifick by thy shade.
+But we poor tenants of this Orb below
+Don't here thy excellencies know,
+Till Death our understandings does improve,
+And then our Wiser ghosts thy silent ''night-walks love''. [italics mine]
+</poem>
+</blockquote>
+
+Night-walking, then, once criminalised as a menace to social order, may now prove a ground of its conciliative recovery.
+
+==Classical Traditions==
+<!--Paragraph 4-->
+The ancient Mediterranean peoples generally retired to bed soon after sunset in order to rise with the sun. Street lighting seems not to have been common, though we know some large cities (like Antioch) attempted it in some measure. Terminating each day's life, and with an abruptness unfamiliar to more northerly climes, night is consequently and very deeply associated with death. In the ''Iliad'', Apollo, arrows clanging on his back as he drops from Olympus in fury to slaughter Danaans, is said to fall "like the night." When the Trojans hem the Greeks against their ships and Hector breaches their ramparts, to the terrified enemy he bursts in "with a look like nightfall on his face."<ref>Homer (''Iliad'' 1.54, 12.463).</ref>
+
+<!--Paragraph 5-->
+By logical extension, night is associated with the horror of the underworld, Tartarus, and brings to mortals not only sleep but a twin-brother, Death: siblings familiar long after to Renaissance philosophers and sculpted by Michelangelo.<ref>Tartarus: Hesiod (''Theogony'' 728); Horace (''Odes'' 1.4.16–17); twins: Tartarus (''Theogony'' 211, 758); Homer (''Iliad'' 14.231, 16.454, 672); ''Orphic Hymns'' (85.8); Renaissance: see the bibliography in Wind's ''Pagan Mysteries in the Renaissance'' (165 n.55).</ref> Along with death-like darkness, night stands as the master-metaphor for a range of fears: she gave birth, says Hesiod, to Pain and Deceit, Murder and Lawlessness, sad Age and Strife. Further associations include demonology (the time of witches like Horace's Canidia in ''Epode'' five or the cannibalistic Erictho of Lucan's ''Pharsalia'' who "never appeared abroad in daylight and quitted the tombs only on wet or cloudy nights, when she went to catch and bottle whatever lightning happened to fall"), and criminality. Night is the time for thieves, daylight for honesty, notes Euripides; and Horace concurs: "By nightime sin, and cloak thy sin with clouds." The very stillness of the world of night induces fear, states Valerius Flaccus.<ref>Hesiod, ''Theogony'' (211–24); Lucan, ''Pharsalia'' (6.510 ff); Euripides (''Iphigenia in Taurus'' 1027); Horace (''Epistles'' 1.16.62); Valerius Flaccus (''Argonautica'' 2.41–42).</ref> In Roman Republican poetry, virtually the only references to night come in Tragedy, where it represents the condition of misfortune.<ref>Katharine Allen (''The Treatment of Nature in Poetry of the Roman Republic'' 205).</ref>
+
+<!--Paragraph 6-->
+Counterposing these four motifs of negative night—criminality, demonology, darkness, and night as a general figure of oppression—are a number, however, of positive motifs. In a society moving upon simple agricultural rhythms, the failing of light means the ending of toil, the grateful homeward trudge of dispersed workers and family. In a surviving fragment Sappho praises Hesperus, the evening star, for "bringing back all things which bright dawn scattered; you bring the sheep, you bring the goat, you bring the child back to its mother." Praise of night as the hours of comfort, in which the labourer bathes his limbs in the bliss of sleep, will become standard to Roman evocation of the exemplary ''vetus colonus''. Moreover in Archaic Greece, whose nature-sensibility "read" natural and human life as an essential continuum of energies, their processes interacting and mutually articulating, sleep could be projected across nocturnal landscape itself.
+
+<blockquote>
+<poem>
+Asleep are the peaks and watercourses of the mountains,
+the headlands and ravines, all creeping things which
+the black earth feeds, wild beasts and the race of the
+bees, and monsters in the depths of the dark sea; asleep
+are the tribes of the broad-winged birds.<ref>Sappho (148); ''vetus colonus'' Horace (''Odes'' 3.6.44–48, ''Tibullus'' 1.1.43–44); quotation from Alcman (134).</ref>
+</poem>
+</blockquote>
+
+In so unified a conception of the world, it is in metaphor that reality is transcribed.
+
+<!--Paragraph 7-->
+Respite from labour, sleep, peace: night's deep calm of health is so deeply felt that nocturnal description may turn ironic backdrop to pain and peril—to precisely the qualities, parodoxically, that in the negative topoi it had itself figured. In Sappho's lyrics, for instance, nocturnal peace highlights the lonely anguish of the lovelorn:
+
+<blockquote>
+<poem>
+Now she is preeminent among the Lydian women, as
+when the sun has set, the rosy-fingered moon surpasses
+all the stars. It throws its light over the salt sea, and
+equally over the richly flowered fields. The lovely dew
+falls, the roses bloom . . . And often she walks up and down
+remembering gentle Atthis with desire in her tender heart,
+and her soul is devoured by longing.
+</poem>
+</blockquote>
+
+Objectifying the delicate rapture of the lover's feeling, such nocturne simultaneously establishes the pitch of her suffering, by constituting night as the order of natural harmony from which she is sleeplessly in exile. Virgil likewise draws night as a paradise of health hushed in the serenity of sleep from which lonely Dido is expelled.
+
+<blockquote>
+<poem>
+It was night, and tired creatures all over the world
+were enjoying kindly sleep. Forests and fierce seas were
+at rest, as the circling constellations glided in their
+midnight course. Every field, all the farm animals, and the
+colourful birds were silent, all that lived across
+miles of glassy mere and in the wild country's ragged
+brakes, lying still, under the quiet night in a sleep which
+smoothed each care away from hearts which had forgotten
+life's toil. But not so the Phoenician queen . . . .
+</poem>
+</blockquote>
+
+This passage is the direct inspiration of sonnets by Petrarch and Surrey, a millennium and a half later.<ref>Sappho (147); compare number 62 (150); Virgil (''Aeneid'' 4.522–29); Petrarch (''Rime'' 144 [''In Vita'' 164]), Surrey ("Alas, so all things now do hold their peace").</ref> The genius of Homer merges both traditions of feeling, night as a state of siege and as a bliss of suspended animation, in a single dazzling simile closing book eight of the ''Iliad'':
+
+<blockquote>
+<poem>
+There are nights when the upper air is windless and
+the stars in heaven stand out in their full splendour
+round the bright moon; when every mountain-top, headland
+and ravine starts into sight, as the infinite depths of
+the sky are torn open to the very firmament; when every
+star is seen, and the shepherd rejoices. Such and so many
+were the Trojans' fires, twinkling in front of Ilium midway
+between the ships and the streams of Xanthus.
+</poem>
+</blockquote>
+
+The ambiguity which Homer masterfully constructs here, windless nocturnal peace fused with rousing, abnormal brilliance, connects just the ambivalence we have seen toward night, with the conflicting feelings of the combatants: grateful for calm and respite, they are also pierced by a drama sharp upon the nerves.
+
+<!--Paragraph 8-->
+Kindred in tone to this state of enchanted expectation is the association of night with deep mystery, and with a certain religious emotion. The Muses go by night to hymn the supreme gods, declares Hesiod in the ''Theogony'' (10). Dionysus explains to Pentheus in the ''Bacchae'' (485) that by night the Maenads celebrate, since darkness promotes religious awe. Mystic rites, echoes Horace, four hundred years later, are to be performed in night's deep silence (''Epode'' 5, 49–52).
+
+<!--Paragraph 9-->
+A cluster of positive motifs, then—night as signifying respite from toil, the luxury of sleep, an order of peace often the foil to lovers' woe, and the occasion of religious rite or vision—proves stable and recurrent in classical literature from Archaic Greece to Rome. With Hellenistic Greece and early imperial Rome, however, a very new cultural climate has transformed relations with nature, and with them, established both the primacy of "positive" night and an altered field of nocturnal tones. Briefly and very generally, as is inescapable in an overview, one may say that the nature-sensibility of Archaic Greece, in which "amechania" or the sense of helplessness in a world of uncontrollable and mysterious natural forces left deep impress on literature, gave way in the Classical period to the confidence of an emergent scientific rationalism, which diminished nature from a volatile, semi-animate ocean of forces to "physis": a finite corpus of laws open to human apprehension and control. The catastrophic end of the Peloponnesian wars gave a final blow to the Archaic concept of the coherence of the physical and moral worlds, so that with the rise of the intensely urban Hellenistic civilisation and of a certain technological mastery of nature, the earth dwindled into the "countryside": a welcome complement to human life and a pristine space of metropolitan recreation.<ref>For the broad evolution of Greek attitudes to nature see Segal's "Nature and the World of Man in Greek Literature."</ref> The temper of the cultivated class was now intensely sceptical: "Determined efforts were made to define the gods in terms acceptable to men who were basically sceptical about their existence."<ref>Walbank (219).</ref> Demystifying mythology as simply a sublimation of long-past mortal action and character, the Greek philosopher Euhemerus became a classical equivalent of the best-seller; Juvenal would observe in his second satire that not even children believed in Hades any more. What we might call "post-mythic night" was now crafted, in veins of elegance and soft primitivism, by "neoteroi," the same "revolutionizing" poets who introduced pastoral verse and materialist landscape description. These three novelties, I suggest, are cognate epistemic and poetic developments: each the product of urban rationalism's confident, secular and sentimentalising nostalgia for the elemental.
+
+<!--Paragraph 10-->
+Pastoral verse, developed by Theocritus and Virgil for sophisticated courts, portrayed rustic scenes with an artful and artificial affection. Virgil's ''Eclogues'' (1, 2, 6, 10) establish a conventional nightfall close for pastoral that will be echoed over millennia (still found in Spenser's ''Shepherd's Calendar'', for instance, and Milton's ''Lycidas''): they concretize the old theme of gratitude for concluded labour in poignant homely images of lengthening mountain shadows, returning oxen, the folding of flocks and smoke rising from cottage chimneys. Panofsky finely notes the new tone here, observing that Virgil's evenings settle silently "in that vespertinal mixture of sadness and tranquillity which is perhaps Virgil's most personal contribution to poetry."<ref>Erwin Panofsky ("Et in Arcadia ego" 346), referring to Virgil (''Eclogues'' 1.83, 6.846, 10.77).</ref> Evening in the ''Georgics'' is likewise mellow and unthreatening, a new music of humanism: sunset brings welcome cool, the evening star dew, and the moon rises quietly over shores whose copses ring with the notes of kingfisher and finches (3.336–38).
+
+<!--Paragraph 11-->
+Moon and stars had traditionally enjoyed significance in antiquity as markers of annual time. In Homer's era, the period of the full moon was a time for festivals; with the first full moon of the summer solstice came the Olympian Games; and a full moon was long considered an auspicious time for marriages. Calendar verse such as Hesiod's ''Works and Days'' and treatises on agriculture by Cato and Varro timed their tasks by the rising and setting of stars and constellations rather than by the months of the calendar, which could never be precisely counted upon. But with the "aestheticising" culture of poets like Apollonius Rhodios, busily developing landscape description and imitating the celebrated delicacy of ''chiaroscuro'' effects by painters like Antipholus, moonlight touches came to service a vogue for the exquisite. Hylas is pulled to his death by a naiad when she sees him suddenly transformed into a radiant image by the full moon shining from a cloudless sky. As Jason hugs his golden fleece, its shimmer throws a glow on his cheeks and forehead, and he rejoices as a girl who catches sudden moonlight on her silken gown in her lonely attic. Virgil evokes moonlight dancing on a rippling sea; and the thoughts of his Aeneas leap like the flash of a moon's rays from water swaying in a basin. Such fastidious nocturnal optics contrast sharply with a certain traditional insouciance: Homer, for instance, had conceived the Palace of Alcinous as lit by a radiance "like that of the sun ''or the moon''"<ref>Moon and marriage: Euripides (''Iphigenia in Aulis'' 717); Hylas and Jason: Apollonius Rhodios (''Argonautica'' 1.1231, 4.165); Virgil (''Aeneid'' 7.10, 8.22–25); Homer (''Odyssey'' 7.84).</ref> [italics mine]. From a Hellenistic poet, such indiscrimination would have been taken as barbarous.
+
+<!--Paragraph 12-->
+The new nocturne of the urbanely poised finds particular frisson in night's old occult deeps. Mis-en-scène of magic and theophany, night is the medium by which Tiber makes his momentous appearance to Aeneas. Theocritus' Simaetha casts a sinister folk-spell on her faithless lover by the light of the moon, while the barking of dogs tells of Hecate's approach. Ovid's Medea, up to similar business, apostrophises likewise night, stars and Hecate, and supplies an occasion for extended description.
+
+<blockquote>
+<poem>
+All alone she wandered out into the deep stillness
+of midnight. Men, birds and beasts were sunk in profound
+repose; there was no sound in the hedgerows; the leaves
+hung mute and motionless; the dewy air was still. Only
+the stars twinkled. Stretching up her arms to these, she
+turned thrice about, thrice sprinkled water . . . and thrice
+gave tongue in wailing cries.<ref>Virgil (''Aeneid'' 8.26–33); Theocritus (''Idylls'' 2); Ovid (''Metamorphoses'' 7.184–91).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 13-->
+The scepticism underlying such agreeable baroque, along with the Trimalchian nightlife of the great Roman courts, freed empiric nocturnal definition for the new positive motif of night as carousing time. Theocritus' lads come drunkenly visiting lasses by torchlight, and mystic Dionysus is shrunk by bibulous Rome to "jolly Bacchus" and a riotous crew of nymphs and satyrs.<ref>Theocritus (''Idylls'' 2.118–28); on Dionysus shrunk to Bacchus see Euripides (''Bacchae'' XI–XIII).</ref> ''This'' "night-haunting god," in Seneca's phrase (''Oedipus'' 490), presides over a colourfully festive night that the Renaissance eventually revived; one whose eroticism moreover established with Ovid one further new motif of great future currency: the ''aubade''. Ovid's lament of stealthy lovers over night's cruel brevity would be greatly elaborated from a few lines in the ''Amores'' (1.13.110–19) by such master-poets as Chaucer and Donne.<ref>Chaucer (''Troilus and Criseyde'' 3.1429–42, 1450–56); Donne ("The Sun Rising"). On medieval amorous night-visits, a European rather than English vogue, Baskerville's "English songs on the night visit."</ref>
+
+<!--Paragraph 14-->
+Finally, in late antiquity, influenced by a sense, in Dodds' words, of "the progressive withdrawal of divinity from the material world,"<ref>Dodds (''Pagan and Christian in an Age of Anxiety'' (37).</ref> Christianity and many pagan religions alike reconceived night yet again. Orphism exposited night as holy to the supreme deity of secret wisdom, the universal first cause, hidden in blackness and to be worshiped only in the sanctity of silence. Christianity's ''contemptus mundi'' similarly exalted the night as revealing to humanity the celestial landscape of the heavens, contrasting dark sublunar misery with God's stupendous cosmic frame and brilliant luminaries. Monastic tradition was to admire moonlight not for its scenic effects but because the moon symbolized the highest mysteries. Late Stoicism's worship of the stars combined with a widely shared reverence for astrology. Plato, Seneca and Boethius, among others, bequeathed Christianity superb passages on the mighty spaces above our heads, the splendid and religious order of the starry heavens. In this climate, the emperor Julian records his ecstasy in walking in starlight as a stimulus that helped convert him to paganism, whilst for Christians God became , the "Most High."<ref>Monasticism and moonlight: Leclercq (''The Love of Learning and the Desire for God'' 131); on mighty starscapes in Senecan tragedy, for instance, Herington (185–87); Julian (''Orations'' 5.130 C–D).</ref> As such, it became possible for the question whether day or night is better, to develop as a standard debating topic in medieval universities. Centuries later, Cambridge would require Milton to adopt a stance on this for his first Prolusion.
+
+<!--Paragraph 15-->
+As the Roman empire broke gradually apart, however, amid escalating demonological and barbarian terrors, night's overwhelmingly predominant meaning in the common imagination was active as a time of ghosts, witches and assault, the realm of Lucifer, Prince of Darkness. As an advanced commercial and rational civilisation relapsed into the archaic political economy of agrarian regionalism, Christian culture resumed the intensely negative construction of night produced in early, agrarian Greece.
+
+==Biblical and Medieval Traditions==
+<!--Paragraph 16-->
+Biblical tradition supplied the same deeply negative assessment of the hours of darkness, although within the familiar ambivalence of sharply subordinate positive motifs. "A servant earnestly desires the shadow" notes ''Job'' 7.2, mindful of the evening respite from toil for which ''Psalm'' 104.23 also gives thanks; as does Ambrose in a hymn which comforts Augustine in ''The Confessions'' (9.12). ''Canticles'' sings of night as the time of holy love, praising the fairness of the moon (4.2, 6.10). Night is the time of divine visitation or the granting of religious wisdom: for "night unto night sheweth knowledge" (''Psalm'' 19.2). "When I consider thy heavens, the work of thy fingers" meditates the Psalmist, with dramatic eloquence, "The moon and the stars, which thou hast ordained; / What is man that thou art mindful of him?" (''Psalm'' 8.3–4).<ref>On biblical night and religious wisdom or theophany see also ''2 Chronicles'' 1.7.7.12; ''Job'' 4.13, 33.15; ''Psalms'' 17.3, 63.6; ''Daniel'' 7.2.</ref> But the fear of evening and nightfall is frequently expressed:<ref>For instance ''Jeremiah'' 6.4; ''Micah'' 3.6. On this theme see Gaster (''Myth, Legend and Custom in the Old Testament'' (section 335, 813–14).</ref> they may bring "the thief in the night" (1 ''Thessalonians'' 5.2) or worse, divine retribution as in ''Job'' 36.20. Worst of all, by night was Christ betrayed by Judas; night thus connotes the distinct agonies of hell (eternal darkness) and of Gethsemane.
+
+<!--Paragraph 17-->
+Predictably, Anglo-Saxon culture, agrarian, war-swept and melancholy, is haunted by nightfear. In ''Beowulf'', Grendel is characterised as "greatest of night-evils" ("niht-bealwa maest"). He glides, we are twice told, toward Heorot for slaughterous spree with the onset of night. In "The Dream of the Rood," it is with nightfall that the Christ-Earl's corpse is lamented over, his thanes "earme on þa æfentide" ("wretched in the evening").<ref>''Beowulf'' (193, 115, 702–03). "Dream of the Rood" (68).</ref>
+
+<!--Paragraph 18-->
+Indeed virtually no-one, it seems (with the exception of Virgil), was ever able prior to the Renaissance to enjoy the onset of evening for its physical reality. In Middle English, whilst "este" could mean "pleasant" as well as "east," "weste" meant not only "west" but "desolate" (see ll. 999–1000 of ''The Owl and the Nightingale''.) The Greeks and Romans had never been moved to imagine and revere a goddess of eve, to match Aurora goddess of dawn. They looked forward only, and eagerly, to Vesper, the evening star, restorative of perished light. Indeed tellingly in the ''Iliad'', it had been Achilles' spearpoint, searching out Hector's flesh in their terminal combat, that was said to scintillate like the evening star: the last, literally poignant point of light before the great engulfing blackness. It took, as Aretino<ref>Homer (''Iliad'' 22.317–19). Aretino (''II Terzo Libro delle Lettere'' 47): ref. Gombrich (117).</ref> confessed, Titian's genius for colour for poets to "discover" the sunset: classical and medieval sunsets were purely mythological, the horses of the sun plunging inexorably into the Western waters. The sole, mild exception known to me lies in a lyric of Stesichorus, which has the sun descend into the "golden bowl" of the ocean. In the ''Silvae'' (2.2.47–48), Statius had praised a certain villa for boasting rooms that could view both sunrise and sunset; yet even he presented the latter merely as lengthening (Virgilian) shadows, not in colourific terms. Rosy light is reserved for dawn. In English, the earliest coloured sunset I have been able to discover is by Gavin Douglas, (circa 1513), in lines 12–15 of his prologue to book 13 of his translation of the ''Aeneid'': where the sun "byrnand red" in the evening sky as "The son enfyrit haill": an observation opening an astonishingly anamalous evocation of nocturnal beauty. Shakespeare's "Light thickens; and the crow / Makes wing to th'rooky wood; / Good things of Day begin to droop and drowse, / While Night's black agents to their preys do rouse" represents the characteristic vespertinal unease.<ref>Stesichorus (154); rosy light of dawn: Ovid (''Metamorphoses'' 2.113), Lucretius (''De Rerum Natura'' 5.461). Douglas (96); Shakespeare (''Macbeth'' 3.2.52).</ref>
+
+<!--Paragraph 19-->
+Curfew was imposed in most medieval towns, while in the country, "with hearths smothered for fear of fire . . . the night was spent in a state of physical and mental siege."<ref>Hale (''Renaissance Europe 1480–1520'' 27, 42).</ref> The Middle Ages well understood why the Bible, in ''Canticles'' 3.8 and ''Psalm'' 91.5, had spoken evocatively of the terror that grips by night.
+
+<blockquote>
+<poem>
+Nou goth sonne under wod
+Me reweth, þi faire rode;
+Nou goth sonne under tre
+Me reweth, Marie, þi sone and þe.
+</poem>
+</blockquote>
+
+Only evil things travel by night, as the Nightingale tartly reminds the Owl; and a "nightwalker" was one who roamed at night for criminal purposes: like Grendel, defined as a "sceadu-genga." Shakespeare's Falstaff and Autolycus thus make merry of their profession as "Diana's foresters, gentlemen of the shade" who as "The pale moon shines by night . . . wander here and there"; and "night-walking" is used as a term for thieving or possibly prostitution in ''Richard III''.<ref>Thirteenth-century lyric, printed in Bennett and Smithers (129); ''The Owl and the Nightingale'' (185–88); ''Beowulf'' (703); ''I Henry IV'' (1.2.24–33), ''Winter's Tale'' (4.3.16–18): compare ''The Rape of Lucrece'' (125–26); ''Richard III'' (1.1.72).</ref> By night Tarquin rapes Lucrece, when "pure thoughts are dead and still."
+
+<!--Paragraph 20-->
+"Night-spells" or popular charms were recited at doors and windows at nightfall as protection against harm from "elves or wights," as glimpsed in Chaucer's "Miller's Tale" (3480–860) and E.K.'s gloss on Spenser's ''Shepherd's Calendar'' (to "March" line 54). In the streets outside, the night watch was sometimes expressly prohibited by medieval guilds from trying to summon ghosts. As late as the 16th and 17th centuries, peasant agrarian cults in backward areas of Italy, Switzerland and Germany were still dispatching vigilante "benandanti" or "good" nightwalkers, (perhaps in dreams or cataleptic states), to confront assumed witches in symbolic nocturnal battles four times a year.<ref>''The Rape of Lucrece'' (167); night watch: see Thomas (''Religion and the Decline of Magic'' 702); Benandanti, see Ginzburg (''The Night Battles: Witchcraft and Agrarian Cults'').</ref>
+
+<!--Paragraph 21-->
+Conventional complaints against night recur in The Faerie Queene (3.4.55-58) and The Rape of Lucrece (764-805); Sidney and Spenser are still cataloguing the customary physical and ghoulish ills in Astrophil and Stella (sonnet 96) and Epithalamion: "Let not the shriech oule, nor the storke be heard: / Nor the night Raven that stil deadly yels, / Nor damned ghosts cald up with mighty spels, / Nor griesly vultures make us once afeard . . ." (stanza 19). The topos of ugly creatures and howling spirits is widely current (similar passages occur for instance in Marston and Ascham); and the tradition of night as kingdom of the damned finds its way as a lurid melodrama of blasted trees and fitfully lit graves even into the painting of so normally placid an artist as Jacob van Ruisdael, in his seventeenth century Jewish Cemetary. 
+
+<!--Paragraph 22-->
+In summary, we can see that the Renaissance inherited from biblical and medieval traditions a mixed lineage, but one overwhelmingly weighted toward the negative. "When any poet would describe a horrible tragic accident," notes Thomas Nashe, "to add the more probability and credence unto it, he dismally beginneth to tell how it was dark night when it was done and cheerful daylight had quite abandoned the firmament . . . Well have the poets termed night the nurse of cares, the mother of despair, the daughter of hell."<ref>Marston and Ascham: see notes to Shakespeare (''Macbeth'', ed. Muir) for 2.1.49–50 and 3.2.53. Nashe (''The Terrors of the Night'' 249, 2O9).</ref>
+
+==Renaissance Revaluations==
+<!--Paragraph 23-->
+Yet in the English Renaissance, heavily influenced as we shall see by Italian and Dutch pictorialism, night also and paradoxically soared to a cult status of bewitching beauty. Surrey, following the example of Petrarch (''Rime'' 164) lovingly reworked Virgil's nocturnal setting for lovesick Dido as the basis for a still and delicate sonnet ("Alas, so all things now do hold their peace"). And from the 1590s we find ravishing syllables on starlight entrancement thronging Shakespeare's plays, for instance, in ''A Midsummer Night's Dream'', ''The Merchant of Venice'' and ''Romeo and Juliet''.
+
+<!--Paragraph 24-->
+Moreover, night now developed, I think, an independent poetical form of her own: a tradition became a cult, and a topos a genre. From the repertoire of diverse classical, biblical and medieval night themes, hitherto scattered across narratives and lyric poems as subordinate motifs, Milton's ''Il Penseroso'', Vaughan's "The Night" and Norris' "Hymn to Darkness" cull motifs of peace, contemplation, mortality and serene celestial bodies, and consolidate them into the earliest instances in English of "nocturne" as a self-substantial genre.<ref>''Il Penseroso'', it may be objected, is not primarily a nocturne: but if it cannot be wholly conformed to any genre, in its proceedings ''sui generis'' "Night" as opposed to the "Day" of ''L'Allegro'' is clearly its dominant setting. Elaborating and innovating nocturnal actions and motifs for two-thirds of the poem, it will prove indeed the locus classicus of nocturnal properties and inspiration for two succeeding centuries.</ref>
+
+<!--Paragraph 25-->
+To accommodate the enthusiasm, new generic terms were devised. According to the OED, Donne's poem "A Nocturnall upon St. Lucies Day" is the first to use the word "nocturnal" as a proper noun (deriving perhaps from the "nocturne," late Latin and French, which had been one of the divisions of the office of matins. The adjective "nocturnall" usually meant simply "pertaining to the night," and is dated to Caxton and 1485). Likewise, Herrick's "Night-piece, to Julia" in ''The Hesperides'' (1648) is the first recorded use of the term "night-piece" as a title of a literary composition. Ben Jonson had first coined the term "night-piece" in 1605 to refer to a painting of night scenery, produced by Inigo Jones for the Queen's ''Masque of Blacknesse''; and Vaughan in ''Silex Scintillans II'' (published 1655) compares the melancholy beauty of a friend's recollected death with viewing "some meek night-piece."
+
+<!--Paragraph 26-->
+Medieval people had never so much enjoyed the living world of the senses as to be fascinated by its mysterious nocturnal transformation, its irregular play of moonlight and suggestive atmospherics; they—if virtuous—simply slept through it, taking their "hailsum nychtis rest." The change of attitude, we shall see, owes much to the emergence of a new metropolitan, sceptical and rationalising culture in London and at court; and I would argue that a broad cultural parallel with Hellenistic and Roman antiquity can clearly be established here. "Post-mythic night" once more purveys archaic mythological character and motif with delicate ingenuity, recasting an earlier world of the elemental and fearful as a field of ornamental archaism. Vogue for the "romancey" and exquisite, haunts both paintings and literary fairy-land: Herrick, for instance, conceives Oberon's grove as "tinseld with Twilight" and Queen Mab as "moon-tann'd," while Drayton subjects the casting of midnight spells to parody as Mab trysts with the handsome fairy Pigwiggen.<ref>Vaughan ("As time one day by me did pass" l. 9; "Hailsum rest": Douglas (''Aeneid'', prologue to book 13, l. 46); "romancey" taste see Leishman (''The Art of Marvell's Poetry'' 263–67); Herrick ("Oberon's Palace" 21, 84); Drayton ("Nimphidia" 369–432).</ref>
+
+<!--Paragraph 27-->
+Even the character of night melancholy sweetens with the seventeenth century. For Chapman, her "palace" had been of "black shades and desolations," but Milton files her habitat as "trim gardens" and "glimmering bowers."<ref>Chapman ("Hymnus in Noctem" [part one of ''The Shadow of the Night''] 269–70); Milton (''Il Penseroso'' 50, 27).</ref> As ''Il Penseroso'' saunters among oaks to observe the riding moon, reminiscing of Greek drama and medieval knight-errantry, his educated calm is that of a Stuart citizen unthreatened by god or ogre, wolf or bear. The night-watchman, he knows, will "bless the doors from nightly harm," and he may thus continue his safe and sophisticated reverie "till civil-suited Morn appear" and he re-enter the un-romancey sceptical metropolis.<ref>Milton (''Il Penseroso'' 83–84, 122).</ref>
+
+<!--Paragraph 28-->
+Three lines of influence promoting Renaissance poetic nocturne are, I think, the cultural prestige of pictorial breakthroughs in painting night scenery; developments in mystical thought; and the fashionable cult of solitary melancholy.
+
+==Pictorialism and the New Empiricism==
+<!--Paragraph 29-->
+With the sixteenth century, European painting could boast bravura studies of night-time ''chiaroscuro'', and their tone was tender. Panofsky categorises a three-part evolution in naturalism, from the "nocturne negative" (pictures giving the effect of night through the omission of colour, like the "Betrayal" and the "Crucifixion" in the Limbourgs' ''Tres Riches Heures du Duc de Berri''); through the intermediate stage of the "nocturne positive" (where night is suggested through colours different from those of day); to the complete optical authenticity of the "nocturne absolute": for example Geertgen tot Sint Jan's ''Nativity''.<ref>Panofsky (''Early Netherlandish Painting'' 236). On nocturnes in seventeenth century Dutch painting see Stechow (''Dutch Landscape Painting of the Seventeenth Century'' 171–82).</ref>
+
+<!--Paragraph 30-->
+The mysterious interim dubiety of dusk had exercised since the late middle ages a comparable emotive and symbolic interest as a zone of transition: both for painters, like the Boucicaut Master, who shows St. Denis martyred before a twilight Paris, and for the ''Pearl''-poet, who in these half-lit minutes witnessed the procession of maidens being led by the Lamb into the Holy City (''Pearl'' 1093–96). But in the sixteenth century, night itself could focus religious piety and aesthetic delight. In Venice, the poetical scene which artists called "un notte" provided regular income for a new breed of moonlight specialists. To the north, El Greco's ''Christ on the Mount of Olives'' caught a thrilling, gloomy piety, of just the sort inspired in Sidney's ''Arcadia'' by Philoclea's moonlit grove, that "might breede a fearful kind of devotion to look upon it."
+
+<!--Paragraph 31-->
+For a radical example of the new pictorial night-piece, its chiaroscuro virtuosity propelling sacred moments from dawn back into the darkness, one may contrast versions of ''The Agony in the Garden''. Mantegna's version presents a daylit, morning scene, and Bellini's too is clearly lighted, its spiritual suggestion located in the distant white brilliance of Jerusalem at dawn. But some sixty years later, in 1510, the Netherlandish painter Gossaert floods Gethsemane with sacramental moonlight, from a subtly and radiantly naturalistic sky. For another instance of the baptism of night, its conversion from terror to the softer ways of Christianity, one can contrast the fourteenth-century nocturne of Simone Martini, depicting ''Guidoriccio da Fogliano'', with the uses of night of Titian and Tintoretto. The former shows the ''condottierre'' crossing on horseback a deserted, barren, nightbound landscape, featuring two towns captured by him for Siena and the tents of his encamped army. One town is shown as circled by a dreadful palisade of javelins, and the bare lunar terrain appears to represent the fearful might, the martial ''terribilità'', of the warlord of Siena. Stars are omitted, but horse and rider in their proud trappings are harsh with light. One might compare this psychology of night, as fit setting for the irresistible conqueror, with Tamburlaine, switching his colours to black at the third stage of his sieges. By contrast is Titian's early sixteenth-century St. Jerome, the old saint rapt in the light of a moon rising directly behind a tree, that touches the woodland scene with a silvery-green and "endows the canvas with an ineffable sense of the fantastic." The conception is evidently in the classical tradition of the visionary night. Bernardo Tasso, commenting on the painting soon after its completion, wrote "Never . . . did heaven see a more tranquil and serene night; beneath its wing silence bore sweet sleep to the animals, and the shadowed horrors, fearing the light of the beautiful night, stayed concealed within the savage grottoes, and did not wander forth, but only the pilgrim summer breezes played about the slopes and shores.<ref>"Un notte": ref. Clark (''Landscape into Art'' 105); Sidney (''Arcadia'' 172); "ineffable sense": Turner (''The Vision of Landscape in Renaissance Italy'' 115); Tasso (cit. in Turner 115).</ref>
+
+<!--Paragraph 32-->
+In seventeenth-century England, it is hard to know what night paintings were like, though they were certainly popular. In a table compiled from auction catalogues in the Restoration, almost one in ten was listed as a "moonlight piece" or a "night piece." H.V.S. Ogden, the foremost authority on English landscape paintings of the period, suggests that they probably resembled those of Aert van der Neer (1603–73) who was famed as the Dutch moonlight specialist, and whose work displayed lunar light on calm river scenes, and variously lit sky and cloud. Two nocturnes that we do know of in the seventeenth-century collections, copies of pictures by Rubens and Elsheimer, are likewise images of serenity and repose, with soft lighting over open countryside, and devoid of human figures. Davenant's instructions for the designs of ''Luminalia'', the Stuart masque of 1638, specify an open landscape with a calme River, that tooke the shadowes of the Trees by the light of the moon." Inigo Jones directly imitated Elsheimer's ''Flight into Egypt'' for ''Luminalia'''s scenery, in the full moon standing over a woodland lake.<ref>Ogden and Ogden (''English Taste in Landscape'' 51–52, 139–40), Stechow (177–79); "Luminalia: The Queen's Festival of Light" (Orgel and Strong, ''Inigo Jones: The Theatre of the Stuart Court'' 2.706, 58–59); Clark (''Landscape into Art'' 105).</ref>
+
+<!--Paragraph 33-->
+This ready symbol shone not only from painting to painting, but from poem to poem: in ''The Shepherd's Calendar'', ''A Midsummer Night's Dream'' and ''The Winter's Tale'', for example, Phoebe beholds "Her silver visage in the wat'ry glass." There was good reason for this. Description of night scenery had developed with difficulty in literature, just as it had in art. Landscape painters had been handicapped by the lack of guidance here from their usual and deeply normative sources: there existed no inventory of nocturnal features in classical painting theory (in Vitruvius and Pliny), and there was but slight precedent in Calendar traditions. (The deficiency may actually have helped prompt the innovation: Renaissance pioneers in the rebirth of pictorial space may have revelled in the opportunity here to outgo the ancients in the ''dimostratione'' of a further encapsulation of natural reality upon canvas). For poets, literary traditions had proven equally unhelpful. In the conventional nightfall close to the Virgilian eclogue, ''chronographia'' made only terse allusions to lengthening shadows and the evening star; the Aeneid references to moonlight seem to have been ignored by medieval writers. Even the troubadours, in their lyric verse of sleepless yearning and illicit nocturnal ''amour'', do not present the night-time beyond an occasional one word reference to the nightingale. Moonlight does not enter the verse of the troubadours and trouveres, and I find only a single, cryptic reference to the existence of stars in Goldin's five hundred page anthology. Late medieval and early Renaissance evocations of night were generally mythological rather than descriptive, making reference to black wings, sable mantles, or more majestically in Marlowe, to a rising head:
+
+<blockquote>
+<poem>
+The air with sparks of living fire was spangled,
+And Night, deep-drenched in misty Acheron,
+Heaved up her head, and half the world upon
+Breathed darkness forth.<ref>''A Midsummer Night's Dream'' (1.1.209–10), ''The Winter's Tale'' (4.4.174–76), Spenser (''Shepherd's Calendar'', "August" 89–91); for the putative influence of Spenser, see Shakespeare (''A Midsummer Night's Dream'' [Brooks, ed.] LXII). Goldin (''Lyrics of the Troubadours and Trouveres'' 195). Marlowe (''Hero and Leander'' 188–91).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 34-->
+For descriptions of night landscape to emerge in English literature, they had to demystify the centuries-old tradition by which exaltations of the night (including the seminal Genesis 1.16–18) had always flattered her through a paradoxical stress on her brightness.
+
+<blockquote>
+<poem>
+Now the Ocean Tytan quencht his flame,
+And summoned Cynthya to set up her light,
+The heavens with their glorious starry frame,
+Preparde to crowne the sable-vayled night.
+</poem>
+</blockquote>
+
+<!--Paragraph 35-->
+Regular identifications of Queen Elizabeth with Cynthia of course intensified this approach: "Thou that mak'st a day of night, / Goddess excellently bright" warbled Jonson. Yet in the late sixteenth and earlier seventeenth centuries, night was complimented on all those swaying shadows previously indispensable to felons, murderers and suicides. "Sweet umbrage" sighs John Norris of night's "dark Caves."<ref>Drayton ("The First Eclog" [''Idea: The Shepheards Garland''] 79–82); Jonson ("Queen and Huntress" 17–18.</ref> After a millennium and a half, there are now indications that below the inevitable moon and stars exists, not damp vacancy and owls, but a fascinating ''landscape''. This provision of landscape evocation in positive nocturnal writing is of considerable novelty. It is this topographic restitution that defines, I feel, the transforming transition from conventional ''impresa'' to promenade, from recited catalogue of nightingale, stars and moon, to "pictorial" provision of spatial relations. It is precisely in the seventeenth century that, according to the OED, the word "stroll" is first recorded, to mean an indirected, recreative walk.
+
+<!--Paragraph 36-->
+''Il Penseroso'' proceeds from "glimmering bowrs and glades," through woodland, to the "accustomed oak." above which Cynthia checks her dragon yoke. "And missing thee, I walk unseen / On the dry smooth-shaven green." The Thoughtful Man has to raise his head to notice the moon overhead, "Oft, as if her head she bowed / Stooping through a fleecy cloud," as he continues engrossed onward through the lower world:
+
+<blockquote>
+<poem>
+Oft on a plot of rising ground
+I hear the far-off curfew sound
+Over some wide-watered shore
+Swinging slow with sullen roar. (65-66, 71-72, 73-76) 
+</poem>
+</blockquote>
+
+The eye travels downward, among satisfactions that are sublunar. Lorenzo's romantic eye is scenic: "How sweet the moonlight ''sleeps upon this bank!''" "The moon shines bright. In such a night as this, / When ''the sweet wind did gently kiss the trees'', / ''And they did make no noise'' . . ." [italics mine]. The period abounds in evidence of a new and empiric descriptive particularity. If Fulke Greville can only remark, traditionally, how "In Night . . . colours all to blacke are cast, / Distinction lost," Spenser notes that "starry light / . . . sparckling on the starry waves, does seem more bright." If Habington, affirming in an ancient tradition that the stars' eternalism confutes mortal pride in brief achievement, invokes them only derivatively as "rich . . . jewels hung, that night / Doth like an Aethiop bride appeare" (apparently with Romeo in mind), Cotton, in a splendid burst of demystification, will accurately debunk the entire tradition:
+
+<blockquote>
+<poem>
+No Ray of Light the Heart to cheer,
+But little twinkling Stars appear;
+Which like faint dying embers ly,
+Fit nor to work, nor travel by.
+
+Perhaps to him they Torches are,
+Who guides Night's sovreign's drowsy Car,
+And him they may befriend so near,
+But us they neither light, nor cheer.
+</poem>
+</blockquote>
+
+William Browne expands magnificently, with the help of a hint from Ovid, the old topic of night's desertedness and silence:
+
+<blockquote>
+<poem>
+All the upper world lay in a trance.
+Only the curled streams soft chidings kept;
+Dry summer's dust, in fearful whisp'rings stirr'd,
+As loath to waken any singing bird.<ref>Shakespeare (''The Merchant of Venice'' 5.1.54, 1–3); Greville (''Caelica'', sonnet 6); Spenser (''Faerie Queene'' 2.12.78.8–9); Habington ("Nox nocti scientiam" 3–4); Shakespeare (''Romeo and Juliet'' 1.5.43–44); Cotton ("Night Quatrains" sts. 7, 8); Browne (''Britannia's Pastorals'' book 2, song 1, 792–96): see Ovid (''Metamorphoses'' 7.186–88).</ref>
+</poem>
+</blockquote>
+
+This new detailed materiality in portrayal of the night is to be borrowed by the Countess of Winchelsea for her ''chronographia'' in the "Nocturnal Reverie," and by Keats, in "Hyperion."
+
+<!--Paragraph 37-->
+The rapture in stellar brightness, in "spangled starlight sheen" extends and develops through the seventeenth century. Vaughan and Herbert observe their light with Galilean closeness. Vaughan addresses his star:
+
+<blockquote>
+<poem>
+What ever 'tis, whose beauty here below
+Attracts thee thus and makes thee stream and flow,
+And wind and curl, and wink and smile,
+Shifting thy gate and guile . . .
+</poem>
+</blockquote>
+
+Elsewhere he records starlit dusk over a nocturne painted across the ceiling of a tavern:
+
+<blockquote>
+<poem>
+. . . that blue space below
+Is fired with many stars; mark how they break
+In silent glances o'er the hills, and speak
+The evening to the plains; where shot from far,
+They meet in dumb salutes, as one great star.
+</poem>
+</blockquote>
+
+The feeling is particularly strong in Vaughan's verse, which finds "the dark was gay, / And gilt with stars, more trim than day," and perhaps reflects his Hermeticist assurance of constant commerce between skies and earth, of earth's inseparable involvement in the physical circuit of spiritual energy through the universe. But the recovery of the sublunar zone at night extends, as we have seen, to much in contemporary poetry. This new nocturnal "bridall of the earth and sky," this supplementation of the vertical imagination by a horizontal one, had been expressed in an early state of ambivalence in ''The Merchant of Venice''. There in a single passage glows the sense of heaven's rays on earth—"How sweet the moonlight sleeps upon this bank"—together with the sterner medieval stratification, the subordination of our little world:
+
+<blockquote>
+<poem>
+There's not the smallest globe which thou beholdest
+But in his motion like an angel sings,
+Still quiring to the young-ey'd cherubims;
+Such harmony is in immortal souls,
+But whilst this muddy vesture of decay
+Doth grossly close it in, we cannot hear it.
+</poem>
+</blockquote>
+
+The focus here is precisely midway between, on the one hand, the vertical aspiration, the old ascetic flight from black earth to the transcendent brightness of the immutable spheres, and on the other, the eighteenth-century and Romantic verse, (influenced by ''Il Penseroso''), with their "terrestrialised" starscapes, where the night-sky figures as backdrop to country walks and meditations. The dual focus of this transitional phase is the poignant framework of Vaughan's earthbound twilight:
+
+<blockquote>
+<poem>
+They are all gone into the world of light!
+And I alone sit longing here;
+Their very memory is clear and bright,
+And my sad thoughts doth clear.
+It glows and glitters in my cloudy breast
+Like stars upon some gloomy grove,
+Or those faint beams in which this hill is dressed
+After the sun's remove.<ref>"Spangled": Shakespeare (''Midsummer Night's Dream'' 2.1.29); Vaughan ("The Star" 1–4), echoing Herbert ("The Star" l. 26); Vaughan ("A Rhapsody" 10–14); Vaughan ("The Day-Spring" 1–2); Shakespeare (''Merchant of Venice'' 5.1.54, 60–65); Vaughan ("They are all gone" 1–8).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 38-->
+The new delight in chiaroscuro landscape had perhaps sensitised Milton to a nicety of discrimination between nocturnal dimness and nocturnal shadow: the brothers in ''Comus'' complain of "double night of darkness, and of shades."<ref>Milton (''Comus'' 334): the "double-darkness" conceit recurs in ''Paradise Regained'' (1.500) and ''Samson Agonistes'' (593) to indicate likewise an absolute density of darkness. Ovid (''Metamorphoses'' 11.50) may have been an influence.</ref> Indeed only dunderheads failed to appreciate the inimitable quality of filmy moonlight, and paid out unguardedly the old-style compliments. Here lay the special hilarity of Starveling stumping onstage as Moonshine; and from this derived the impetus behind
+
+<blockquote>
+<poem>
+Sweet moon, I thank thee for thy sunny beams;
+I thank thee, Moon, for shining now so bright;
+For by thy gracious, golden, glittering beams,
+I trust to take of truest Thisbe sight.
+</poem>
+</blockquote>
+
+<!--Paragraph 39-->
+The Elizabethan eye, however, demands a new term: and from Shakespeare onwards we read of the moon's "sheen," a new Elizabethan word, emerging to denote the lustre of a body reflecting light. The seventeenth century imports from the Dutch the compound "night-light" to denote the faint light perceptible during the hours of darkness: furnishing thereby an English term for an imported cultural perception.<ref>Shakespeare (''A Midsummer Night's Dream'' 5.1.264–67); ''OED'' gives as the first recorded use of this meaning (''Hamlet'' 3.2.152; "moons with borrowed sheen"); but this overlooks ''Midsummer Night's Dream'' (2.1.29). Note Milton's delighted echoes in ''Comus'' (1002, 892).</ref>
+
+==Mysticism and Melancholy==
+<!--Paragraph 40-->
+Complementary to the novel pleasure in the distinctive visual conditions of the small hours was the mystical revaluation of night's significance. Night had long been "the mother of counsels." Following the biblical and classical traditions we examined of "inspired night," Erasmus' ''Adagia'' records "In nocte consilium," Jonson's ''Timber'' echoes "Dat nox consilium," and Habington pens an apostrophe to night entitled "Nox nocti indicat scientiam." Chapman's ''Shadow of the Night'', Milton's ''Il Penseroso'', and Vaughan's "The Night" go further, and revitalise the traditional Christian paradoxes of Dionysus the Areopagite: the "tenebre in bono" reflections. Physical darkness opens the intellectual eyes. "There is in God (some say)," writes Vaughan "A deep but dazzling darkness": a conceit strikingly close to Milton's line on the Godhead: "Dark with excessive bright thy skirts appear."
+
+<!--Paragraph 41-->
+Equally important is the new mystical melancholy. Without the Neoplatonic revival of the Saturnian genius, who derives contemplative inspiration from the twilight of groves and nocturnal seclusion, we would not, suggests Lawrence Babb, have had ''Il Penseroso''. And this character's medical humour, "his atrabilious" genius, was itself, of course, a conception born with the Renaissance. The Saturnian vogue helped legitimate the sweeter, introspective seventeenth-century melancholy, "a certain tender and pensive sadness" as Leishman calls it, which pervades Fletcher's song from ''The Nice Valour'', early in the century:
+
+<blockquote>
+<poem>
+Ther's nought in this Life sweet,
+If man were wise to see't,
+But onely Melancholy,
+O sweetest Melancholy.
+Fountaine heads, and pathlesse Groves,
+Places which pale passion loves:
+Moon-light walkes, when all the fowles
+Are warmly hous's, save Bats and Owles.<ref>On the Renaissance Orphic association of Night with the invisible First Cause, see Pico della Mirandola ("Orphic Conclusions" 15 [1.107]). Vaughan ("The Night" 49–50); Milton (''Paradise Lost'' 3.380); Babb ("The background of ''Il Penseroso''" 267); Leishman, "''L'Allegro'' and ''Il Penseroso'' in Their relation to Seventeenth-Century Poetry" 67); Fletcher's "Song" (''The Nice Valour'' 4–7, 12–15; cit. Leishman "''L'Allegro''" 60).</ref>
+</poem>
+</blockquote>
+
+Likewise Margaret Cavendish, who in 1656 declares she is "more inclining to be melancholy than merry, but not crabbed or peevishly melancholy, but soft melting solitary, and contemplating melancholy," enjoys a "sad, and solemne verse . . . As Pensil'd Pictures drawne present the Night, / Whose Darker Shadowes give the Eye delight."
+
+<!--Paragraph 42-->
+These factors, then — the evocation of nocturnal earthly scenery, and the new dulcified and mystical melancholy—clearly mark off the later sixteenth- and seventeenth-century apprehension of night from that of the ''Pearl''-poet, of Chaucer, and of the medieval serenade. And the cardinal point is to be found in Milton's first ''Prolusion'', on whether day or night is better. Orating against the primacy of night (perhaps in satiric revolt against the prevailing vogue), he affirms: "Night is but the passing and the death of Day." Night lacks self-identity: moonlight and starlight are borrowed, he says, from the sun; and sleep is but "the image and semblance of death . . . sleep is not a thing so precious that Night deserves honour for the bestowal of it." Night is merely a void, a privation of the real world of action. Such had been exactly the medieval attitude: hence the traditional theme of "theft-guilty night," which steals hours from the short span of mortals, a theme which still recurs in Browne and Davenant. And hence the botched conceits of ''A Midsummer Night's Dream'''s artisans, once again a reverse index to the new sensibility:
+
+<blockquote>
+<poem>
+O grim-look't night! O night with hue so black!
+O night, which ever art when day is not,
+O night, O night, alack, alack, alack!<ref>Cavendish (''Nature's Pictures'' 388; ''Poems and Fancies'' 107); Milton (''Prolusions'' 1 1.231–32); Davenant (''Luminalia'' [Night's first Song] 93–94; Browne (''Britannia's Pastorals'' [book 1, song 1] 810); Shakespeare (''Midsummer Night's Dream'' 5.1.168–70).</ref>
+</poem>
+</blockquote>
+
+The nocturnal revolution lies precisely in the fact that night now does have her own distinctive psyche. The luxuriation in half-light, the nocturnal stroll, and the contemplative melancholy, have objectified night as ''otium'', beyond the hiatus of sleep. Indeed night now exists practically as a respectable ''negotium'', with her religious observations and devotions, in sharp contrast to the medieval noctivagants, who were never more than criminals, guilty lovers, or poor travellers led astray (such as we still meet in ''Comus'' and Marvell's "Mower to the Glowworms"). No longer the conjuror simply of sleep and planets, she offers to the Stuart citizen almost a social programme.
+
+<!--Paragraph 43-->
+Night is promoted, in fact, to a fertile condition of ambiguity. "I muse, which shows more love, / The day or night," wonders Herbert's "Even-Song." With the new interpretative elasticity of the Renaissance, nocturnes may ornament a wealth of inspirations—beauty, purity, peace, secrecy, malice, guilt, frenzy, rapture—and her poets requisition all ambiguities. Sidney plays off optics against convention to fine ironic effect in sonnet 31, diagnosing in the chaste moon the tell-tale signs of a frustrated lover; only to reintroduce her in a later sonnet (97) as the laughing rallier of the love-sick. ''A Midsummer Night's Dream'' similarly exploits the divided influences of Luna for both chastity and fertility (as befits a nuptial drama).
+
+<!--Paragraph 44-->
+Night's occult associations may be newly holy, along mystic and cabalist lines, or damned as ever, in witches, ghosts and demons. There are sinister shadows<ref>Shakespeare (''Midsummer Night's Dream'' 3.2.379–88; 5.1.360–76).</ref> to counterpose the glimmering exquisites in the fairyland of Puck and Titania; and melancholias abound to suit every temperament, ascetic or romantic, prophetic or malcontent. Shakespeare conjures both the criminal and the amorous motifs with equal power: "How silver-sweet sound lovers' tongues by night," thinks Romeo, "Like softest music to attending ears" (2.2.15–65); and Lady Macbeth's invocation "Come, thick night, / And pall thee in the dunnest smoke of hell / That my keen knife see not the wound it makes" (1.5.50–52) is polarised by Juliet's tender invocation of "love-performing night":
+
+<blockquote>
+<poem>
+"Come, civil night,
+Thou sober-suited matron, all in black
+And learn me how to lose a winning match
+. . .
+Come, gentle night, come loving, black-browed night,
+Give me my Romeo; and when I shall die
+Take him and cut him out in little stars,
+And he will make the face of heaven so fine
+That all the world will be in love with night,
+And pay no worship to the garish sun." (3.2.5, 10–12, 20–25).
+</poem>
+</blockquote>
+
+==Genre and Politics==
+<!--Paragraph 45-->
+It was within this pluralism of portraitures that night became politicised. Two lines of nocturne developed, I think, one tending to mystical focus, another to fairyland and the amorous; one dominant among cavalier writers, and the other having Puritan affinities. It may even be that the fairy topos popularised by Shakespeare in the ''Dream'', and the melancholic one distinguished by Milton, were not choices in ornament but political shibboleths.
+
+<!--Paragraph 46-->
+In the England of Elizabeth, a group of noblemen scientists centred around Raleigh were pursuing "the deepe search of knowledge" among the language of the mysteries, when the rising tide of feeling against them prompted Chapman's extraordinary ''Shadow of the Night''. The poem displays "to purest eyes / With ease, the bowells of these misteries." The night was, as we have seen, the time of Orphic and Hermetic holiness, for from "divine darkness" had sprung the light of creation, and in divine darkness lay the almighty unmanifested God, inaccessible to mortal apprehension, definable only through negatives. The old day / night antithesis as integrity against covertness is reversed by Chapman into one of triviality against profundity: "Day of deepe students, most contentfull night . . . / Mens' faces glitter, and their hearts are black, / But thou . . . /Art black in face, and glitter'st in thy heart." But this mystical topos of noetic night contained multiplying political ramifications. In Frances Yates' opinion, Chapman's poem itself had been written in response to the mounting reaction against occult researches—hence the defensive preface against "the viperous head of benumming ignorance" and "killing censures"—the reaction represented in England by Marlowe's ''Faustus''. It may be that in Jacobean and Caroline England the "inspired night" theme was forced to go underground: Yates, in ''The Occult Philosophy in the Age of Elizabeth'' argues that James I classed Agrippa with devils and evil conjurors, disapproved of Dee, and probably saw Inspired Melancholy as damnable.<ref>Chapman (''The Shadow of the Night'' [parts one and three], "Epistle to Roydon" 1–2; "Hymnus in Cynthiam" 168–69); Chapman ("Hymnus in Noctem" 202, 225–27, 268). Yates (''Occult Philosophy'' 135–46). Chapman ("Epistle to Roydon" 9, 14).</ref> Medically, moreover, Saturnians (according to Overbury) were malcontents. Political radicals, too, moved in the current of Hermeticism, Familists and Behmenists especially. The rescidivist Everard translated Hermes. And in the Jacobean climate astrology was ''ipso facto'' suspect. The statutes of the new Savilian Chair in Astronomy at Oxford, endowed in 1619, had explicitly forbidden study of astrology; and the Laudian Code of 1636 ensured the continuance of the medieval pattern of studies at Oxford.<ref>Hill (''The World Turned Upside Down'' 185, 289–93, 185). Allen ("Scientific Studies in the English Universities of the Seventeenth Century" 225–27, 219).</ref> From 1612, with the death of Prince Henry, the occult was without support at court. Casaubon's critique of the Hermetica as a fake was dedicated in its English translation to James, in 1614.<ref>Yates (''Giordano Bruno and the Hermetic Tradition'' 399, 403).</ref>
+
+<!--Paragraph 47-->
+In light of all this, one may, I think, perceive in night verse a pattern of polarity, between "high" and "low" nocturnes. In contrast to the Sacred Night with its web of impolitic connotations, Cavalier poets trivialised it. They invoked the fairy-topos and night revels, or they hymned the jewelled landscapes of day. ''Luminalia'', for instance (written in 1638 to celebrate the confirmation of royal absolutism in the ship-Money case) seems almost an exultant retort to the fervid nonsense of Chapman and his cabalist underworld. It overrules any religious or inspirational properties to night, which signifies only sleep:
+
+<blockquote>
+<poem>
+The studious that consume their brains and sight
+In search where doubtful knowledge lies
+Grow weary of their fruitless use of light,
+And with my shades do ease their eyes. (83–86)
+</poem>
+</blockquote>
+
+(Contrast Chapman's "Day of deepe students" in the "deepe search of knowledge.") Defending herself against "the old mistaking sages" (92) who loathed her, Night in ''Luminalia'' argues rather the importance of sleep as essential to success: merchant and mariner, student and statesman, all need sleep to "profit" by their "toils" (79–98). And here the regal masque furthers its polemical politicisation of night. Sleep-bearing night had been articulated from at least the 1590s in loosely oppositional, egalitarian terms as an anti-courtly motif: "O Night" runs Sylvester's translation of Du Bartas, "thou pullest the proud Mask away / . . . No difference night makes between the Peasant and the Prince, / . . . For night's black Mantle covers all alike." Exposing the common humanity of all classes, night, writes Du Bartas, bestows luxurious repose on criminal and bargeman, mower and smith just as on kings. More so indeed, echoed some writers, for the peasant with his quiet conscience "all night / Sleep in Elysium": "Sweet rest enrings / The tired body of the swarty clown" and not "the beds of kings."<ref>Sylvester ("Du Bartas, His First Week" 1.24, 565–87). "Elysium," Shakespeare (''Henry V'' 4.1.279–80); "clown," Browne (''Britannia's Pastorals'' [book 2, song 1] 801–06). Contrast the apolitical tributes to luxurious sleep in Sidney's ''Astrophil and Stella'' (39 and 98), Spenser's ''Epithalamium'' (st. 20), Shakespeare's ''Macbeth'' (2.2.34–39).</ref> ''Luminalia''’s figures retort to Night however that rest is inappropriate at the court, whose people "know their own estate," and are "free from sufferings and decay" to dedicate themselves "to raise new joys and keep the old alive" (138, 125, 129). In this court "all to triumphs are addressed"; their dignity lies, haughtily, in that they both "know" and "deserve felicity" (120, 141). To demotic Night, bearer of mundane rest, ''Luminalia'' thus counterposes courtly celebration of exclusive status: her denizens transcend the rhythms of quotidian labour, freed to revel all night through. "What is the use of silence here? / Thou sees’st, great empress, every eye / Doth watch for measures" (130–33) gloat the privileged, poised for night dancing. ''Comus'' (122–24, 128) similarly asks "What has night to do with sleep? / Night hath better sweets to prove. / Venus now wakes, and wakens Love / . . . Hail, goddess of nocturnal sport": an invitation pointedly rebuffed by the puritan poet's mystically contemplative Lady. London gallants regularly celebrated their wealth in nocturnal carousal ("Let's laugh now, and the pressed grape drink / Till the drowsy Day-star wink" runs Vaughan's apprentice Anacreontic), and indeed nocturnes were sometimes painted across the ceilings of taverns.<ref>Vaughan ("A Rhapsody" 71–72).</ref>
+
+<!--Paragraph 48-->
+''Luminalia''’s darkness, like Oberon and the earlier ''Masque of Blackness'', luxuriously spills forth "fantastic creatures of the night." Ben Jonson's verse likewise draws on fairyland, for a delicate literary disquiet.
+
+<blockquote>
+<poem>
+The fairy beam upon you,
+The stars to glisten on you:
+A moon of light,
+In the noon of night,
+Till the fire-drake hath o'ergone you. 
+</poem>
+</blockquote>
+
+Herrick expands this in his "Night-piece," where he awaits love-making with his mistress: 
+
+<blockquote>
+<poem>
+Her Eyes the Glow-worme lend thee,
+The Shooting Starres attend thee;
+And the Elves also,
+Whose little eyes glow,
+Like the sparks of fire, befriend thee.<ref>Jonson ("The Fairy beam upon you" 1–5 ["The Gypsies Metamorphosed" 325]); Herrick ("The night-piece, to Julia" 1–5). I suspect that these two poets are indebted to Shakespeare's Song in ''Cymbeline'', third stanza (4.2.277–82), for mood and imagery here.</ref>
+</poem>
+</blockquote>
+
+The contrast with the Puritan George Wither's night, "friend" to "Meditation . . . and seriou'st Muses" is suggestively sharp. Such nocturnalism is at one level elegantly secular: the mythology of midnight may no longer unseat the urbane scalp. But there may be more here than primitive reflexes transvalued into romancey cultivation. Fairy-nocturne, I think, exerts a discreet polemical allegiance to Royalist values, like the panegyrics of country life alongside which it flows so smoothly.
+
+<blockquote>
+<poem>
+I sing of May-poles, Hock-carts, Wassails, Wakes,
+Of Bridegrooms, Brides, and of their Bridall-cakes.
+I write of Youth, of Love, and have Accesse
+By these, to sing of cleanly-Wantonness . . .
+''I write of Groves, of Twilights, and I sing''
+''The court of Mab, and of the Fairie-King''.<ref>Wither (''A Collection of Emblemes, Ancient and Moderne'' Emblem 9); Herrick ("The Argument" [to ''Hesperides''] 3–6, 11–12).</ref> [italics mine]
+</poem>
+</blockquote>
+
+Protestantism taught that both ghosts and faeries were Catholic fictions deployed to defraud; and such conviction, suggests Keith Thomas, was in the sixteenth century "a shibboleth which distinguished Protestant from Catholic almost as effectively as belief in the Mass or Papal Supremacy." At the same time, fairies were no longer conceived as malevolent but were coming to be seen as benign in character: to the point, amazingly, where tricksters in London were actually able (rather as in Jonson's ''Alchemist'') to cozen money from victims under pretence of investing it with caring faeries. (Faeries, I'd suggest, were perhaps here inheriting the protective "Mariological" reflexes of the Middle Ages.) As faeries became for the majority however more a matter of mythology than living beliefs, Shakespeare's ''Dream'' introduced into literature one strand of folklore, the tiny, flower-loving and benevolent version with which we are today familiar, and was imitated here by Herrick and Drayton. Given these demystifying developments, Shakespeare's aestheticised fairylore, I would argue, came to function at the increasingly Anglo-Catholic courts of James and Charles as a kind of discourse of nostalgia, political and religious. Fairylore carried clear affinities with an older, more secret, magical and ritualistic world of the past, when supernatural beliefs helped sustain what was at court a keenly regretted conservative society: one so different from the aggressive rationalism of the Reformation with its abolition of Purgatory and scoffing at ghosts, its puritan campaigning against traditional rural sports and its bourgeois dismissal from the traditional calendar of "lucky" and "evil" days. Fairy religion, writes Herrick, is "part pagan, part papistical"; and he fantasises a "Faery Temple" replete with "masse-priests," "copes" and "cloyster-monks." As a kind of "natural" arcana, the fairy kingdom and its nocturnal rites shared much with the tonality of a court that grounded its prerogatives in a mystic ideology of sustaining supernatural relations. The tonality seems to overlap with that of court masque, a "theatre of mysteries"<ref>On Protestants, ghosts and faeries see Thomas (''Religion and the Decline of Magic'' 701–11, 725, 729); fairy-tricksters (Thomas 732–34); on Shakespeare's fairy revolution see Briggs (''The Anatomy of Puck'' 45–47); Herrick ("The Fairy Temple" 25, 103, 98, 107); "theatre of mysteries" is a phrase of Graham Parry on the masque (''The Golden Age Restored'' 42).</ref> dealing in wonder and magic; and the intense aestheticism has perhaps affinities with the Laudian "beauty of holiness." Cavalier fairy-nocturne, then, at a level of levity and creative display, offered the reassurance of an enchanted conservatism, Catholic in dignity and wrought with courtly preciosity. It nurtured a longing, among both urban sophisticates and courtly poets, for emotional and religious roots in danger of being lost.
+
+<!--Paragraph 49-->
+Like masque, its delights dovetailed into an amorous theme; and Night's erotic associations need little gloss. Darkness has long summoned the post-coital smirk. "The glade nyght ys worth an hevy morowe" cried Chaucer. His Wife of Bath had counted it comically naive when her husband accepted that her frequent "walkynge out by nyghte" was not for adulterous rendezvous; and the first recorded use of the coinage "noctivagant"—going by night—expresses a splendidly Puritanical ornithology: "The lustful sparrows, noctivagant adulterers, sit chirping about our houses." "Dark night is Cupid's day" was an Elizabethan proverb, dated by Tilley to 1595. "'Tis a fit night to run away with another man's wife," remarks a character in Fletcher. "Ha," cries Falstaff, "'twas a merry night. And is Jane Nightwork still alive?" By the 1630s, Cavalier amorous nocturne was so firmly established as both courtly occupation and poetic vogue that the prince of gallants, Sir John Suckling, could mock it from deep within the convention. In his play ''Aglaura'', featuring nocturnal scenes of illicit love, dread deeds and miraculous reversal, and probably borrowing ''Luminalia''’s scenery, a courtier asked for a song cries out: "A vengeance take this love . . . I have got such a cold with rising and walking in my shirt a nights, that a Bittorne whooping in a reed is better musike."<ref>Chaucer ("The Complaint of Mars" 12); "The Wife of Bath's Prologue and Tale" 397–99); Thomas Adams ("The Sinner's Passing-bell" [1614; in ''Works'' {London: 1861}] 1.347; cit. ''OED'', "noctivagant"); Fletcher (''The Lover's Progress''; cit. Tilley, ''A Dictionary of the Proverbs in England in the Sixteenth and Sseventeenth Centuries'' N 169); Shakespeare (''2 Henry IV'' 3.2.193–94); Suckling (''Works'' 2.4.2.5–7); on Luminalia connection, see Freehafer ("The Italian Night Piece and Suckling's ''Aglaura''").</ref>
+
+<!--Paragraph 50-->
+Other Jacobean and Caroline night treatments disclose only the orthodox horrors (as in Webster's dramas), or the orthodox awe in the wonder of the constellations (as in Herbert's "Star"). The exception, of course, was ''Il Penseroso'': written by Milton as an Hermeticist, and in the very period when his disaffection with Anglicanism grew to the point of definite refusal to "subscribe slave" as a minister. Is it then perhaps less than fanciful to see in ''Comus''' attacks on the nocturnal amorousness of literary supernaturals, a poetic reproach of the Cavalier genre of "low" nocturnes?
+
+<!--Paragraph 51-->
+With the advent of the Commonwealth, its flood of ideas and relaxation of censorship, "Inspired Night" became permissible once again. Vaughan's "Night" was penned in this period. The sense of night's sanctity during these years is of course also accentuated by the suppression of the Anglican service (giving rise, at the least, to the stanza in Vaughan's "Night"), and by the violence of day, which resuscitates the Elizabethan mystic antithesis between mis-spent day and the profound sanctuary of night:
+
+<blockquote>
+<poem>
+Dear night! this world's defeat;
+The stop to busy fools; care's check and curb;
+The day of Spirits; my soul's calm retreat
+Which none disturb!<ref>Vaughan ("The Night" 25–28). On Vaughan's nature sensibility as formed by war see Fitter ("Henry Vaughan's Landscapes of Military Occupation").</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 52-->
+And with the Restoration, John Norris recapitulates in his "Hymn to Darkness" all the major Neoplatonic tributes to night first sung in English by Chapman a full century before: the dazzling darkness paradox; inspirational melancholy; religious awe and fear; darkness as the original "universal wombe"; and night as spiritual refuge from the evils of day. 
+
+==Milton==
+<!--Paragraph 53-->
+Milton's poetic relations with the varied currents of this new sensibility are characteristic: whilst gathering its full range into his innovative genius, and decisively expanding the form, his aesthetic enthusiasm is from the outset commanded by high political and moral discrimination. 
+
+<!--Paragraph 54-->
+Night's negative associations teem unbanished: ''Comus'', its protagonists strayed in a midnight rife with occult vitalities, thrills to a five-line catalogue of "evil things that walk by night," "blue-meagre hag" and "stubborn unlaid ghost," goblins and swart fairy (432–37). In ''Paradise Lost'' Satan, gliding in night vapour, is frequently associated with night and three times with midnight: "By night he fled, and at midnight returned." Book five echoes the old Latin Breviary, wherein returning light dispels the evil gathered under fall of dark.<ref>Milton (''Paradise Lost'' 9.58, 159, 181; 5.206–08); see Fowler's note to 5.206–08 in his edition (687). Compare the "night-hag" (2.662–66).</ref>
+
+<!--Paragraph 55-->
+Yet the aesthetic enthusiasm for night is a conquering enchantment, much as the Lady's pure lyric out-raptures ''Comus''' primitive bawdy. Milton pens one of the earliest colourific sunsets in the language, whose array of clouds "reflected purple and gold" (4.596) accords with Edward Norgate's advice to painters in ''Miniatura'' (second edition 1649) that "reddish and purple clouds" help render sunset.<ref>''Miniatura'' (cit. Ogden and Ogden 12).</ref> Night skies dazzle the Miltonic imagination repeatedly, whether as the light of constellations, that blazing highway to God's house, "whose dust is gold / And pavement stars," wherein the Milky Way "as a circling zone thou seest / Powdered with stars"; or as the transfiguring flood of moonlight spilled upon black:
+
+<blockquote>
+<poem>
+there does a sable cloud
+Turn forth her silver lining on the night,
+And casts a gleam over this tufted grove . . .
+Unmuffle ye faint stars, and thou fair moon
+That wont’st to love the traveller's benison
+Stoop thy pale visage through an amber cloud
+And disinherit Chaos, that reigns here
+In double night of darkness and of shades.<ref>''Paradise Lost'' (7.577–78, 580–81); ''Comus'' (220–24, 332–34).</ref>
+</poem>
+</blockquote>
+
+"Swift as the sparkle of a glancing star" shoots the masque's Attendant Spirit (80); and Eve, overheard by Satan, lists "walk by moon / Or glittering starlight" among the sweetnesses of life in Eden (4.655–56). From Shakespeare he pirates the neologism "sheen," so that his Cupid, starlike, while Adonis slumbers, sits "far above in spangled sheen."<ref>Shakespeare (''Midsummer Night's Dream'' 2.1.29); Milton (''Comus'' 1002).</ref> ''Il Penseroso'', of course, establishes a holy noctivagant aesthetic at the heart of its poetic ideal: elaborating the walk by moon and nightingale into strolling through shadowy oak woods, and pacing quiet ground above a wide tidal shore, before entering the tower to "outwatch the Bear." The "black air," gloom and damps of night, Milton specifies, were absent from Eden, existing today as an unnatural postlapsarian distortion (10.846–50). Adam and Eve pause before bed to "adore" the night sky, responding without fear and with peaceful wonder to "This glorious sight" (4.721, 657). Eve's "grateful evening mild" (647), echoing the ancient motif of bodily respite, deepens this scene's creation of a vespertinal luxury and ease.
+
+<!--Paragraph 56-->
+Just as ''Il Penseroso'''s nightingale "shuns the noise of folly" to sing her "even-song," "most musical" (61–64), Milton almost programmatically "takes back the night" from profanity of revel for the deeper joy of a sacred harmonics. Night he associates with song: but with a richer melody than troubadour or Cavalier could muster.
+
+<blockquote>
+<poem>
+How sweetly did they float upon the wings
+Of silence, through the empty-vaulted night
+At every fall smoothing the raven down
+Of darkness till it smiled . . .
+. . . Such a sacred, and home-felt delight,
+Such sober certainty of waking bliss
+I never heard till now. (248–51, 261–63)
+</poem>
+</blockquote>
+
+<!--Paragraph 57-->
+If ''Comus'' constitutes "a masque against masking," as John Carey has shrewdly shown,<ref>Carey (''Milton'' 41–54).</ref> its Lady repudiating masque-like revels along with the Comus who proffers and praises them (738–47), then likewise the Lady's indictment of "wanton dance" and "late wassailers" (175, 178), together with her counterposed sweeter song, "resounding grace to all heaven's harmonies" (242) comprise a reproach, I suggest, not simply to the aristocracy's night revels but to companion Cavalier "low nocturne." For ''Paradise Lost'' will reconstruct the same antithesis of courtly nocturne against a truer night music: fulfilment lies not
+
+<blockquote>
+<poem>
+. . . in court amours,
+Mixed dance, or wanton mask, or midnight ball,
+Or serenade, which the starved lover sings
+To his proud fair, best quitted with disdain.
+These lulled by nightingales embracing slept . . . (767–71)
+</poem>
+</blockquote>
+
+That Satan sings a traditional Serenade to beckon Eve from Adam's side (at 5.38–43) is again reproach of a profane tradition of nightsong: to which the epic again counterposes a sacred song of night. For Adam reminds Eve how often they have heard "Celestial voices to the midnight air, / Sole, or responsive to each other's note / Singing their great Creator," and remarks to Raphael on his delight when "Cherubic songs by night from neighbouring hills / Aerial music send" (4.680–88; 5.547–48).
+
+<!--Paragraph 58-->
+It is, I conclude by suggesting, precisely the absence of such religious telos that Milton deplored and contested in the new nocturnal vogue. Night, for all its wheeling stellar grandeur, its ravishing silences and song, is for religious contemplation (as the epic's extended discussions on astronomy make pointed), or more usually, for sleep: as the interval in rhythms of righteous action. The essential contrast between Milton's description of night's onset ("Now came still evening on") and Eve's to Adam ("Sweet the coming on / Of grateful evening mild") in book four,<ref>Milton (''Paradise Lost'' 4.598–609, 646–49, 654–56).</ref> lies in the latter's blankly pleasant landscape as against the Miltonic sense of resistless purposeful activism. Hesperus "rides," leading a vanguard "starry host," until the moon "Rising in clouded majesty, at length / Apparent Queen unveiled her peerless light, / And o'er the dark her silver mantle threw." The spectacle reminds Adam of the need for sleep that they may buckle to hard graft on the morrow; and the stars he exposits as edifying exemplars of an unflagging work-ethic. "Those have their course to finish, round the earth, / By morrow evening," he enthuses, warming to his theme across twenty lines (4.661–80). It is accordingly the proffering of a contextless beauty, the displacement of active religious perception by an aesthetics of mere mood, that makes Satan's fashionable nocturne satanic. His first temptation to Eve is precisely to walk by night and enjoy its enchantments without contextualising gratitude and awe.
+
+<blockquote>
+<poem>
+Why sleep'st thou Eve? Now is the pleasant time,
+The cool, the silent, save where silence yields
+To the night-warbling bird, that now awake
+Tunes sweetest his love-laboured song; now reigns
+Full-orbed the moon, and with more pleasing light
+Shadowy sets off the face of things; in vain,
+If none regard. (5.38-43)
+</poem>
+</blockquote>
+
+<!--Paragraph 59-->
+Landscape description in this period is in transition, from traditional ''paysage moralisé'' to pictorialism, and verse such as Saint-Amant's ''La Solitude'', for instance, anticipates Romantic "mood-music" in the age of the emblem book: a passive, sensuous, deliquescent perception of nature ousting the hieroglyphic imagination.<ref>See Fitter (''Poetry, Space, Landscape'' ch. 6, esp. 277–92).</ref> It may be indeed that the evocative luxury of night, its stealing of firm daylight clarities in glimmering suggestion (one remembers Gossaert's dissolving of diurnal substance) explains much of the popularity of the seventeenth century moonlight walk. If Satan, as Howard Schultz<ref>Schultz, Howard. "Satan's Serenade."</ref> has pointed out, is singing an immoral Cavalier serenade, flattering Eve blasphemously, and beckoning her with the conventional ''venite'', there may be, I suggest, a further possible dimension of the diabolic here, in that profane preference for concealing shades over the clear forms of God's creation. He urges Eve to a state in which natural phenomena dissolve the thoughtful mind, the grateful emblematic rationality, fill up the consciousness with sensuous luxury, and eclipse the Creator who lies beyond them. He tempts her, in Herbert's words, to "rest in Nature, not the God of Nature."<ref>Herbert ("The Pulley" 14).</ref> Satan, then, is a Romantic, and would write poetry like Thomas Warton, of self-sufficient sensory glut. He offers an impious grandiloquence of the sense as against the truly devotional perception of earth whose hallmark is reason.
+
+<!--Paragraph 60-->
+The preference of course, is typical of this "anti-teleological" Satan, who denies his creation by God and inhabits a universe he refuses to revere (5.856–66); yet it typifies, too, that merely possessive, competitive relation to beauty exercised by the Cavalier art connoisseur, who collects landscape and moonlight paintings only for ornament and wealth. Despising such values, Milton has only the ''fallen'' Adam conceive Eve in the choice, aesthetic terms of the connoisseur ("I see thou art exact of taste / And elegant"), and notes that the Fiend, eyeing from the Tree of Life "Nature's whole wealth," refused regenerative contemplation of the scene "but only used for prospect."<ref>Milton (''Paradise Lost'' 9.1017–18; 4.207, 199–200).</ref>
+
+<!--Paragraph 61-->
+In conclusion, we have seen that classical and medieval traditions predominantly identified night with the negative: metaphorically, with the generalities of evil, death and suffering, and concretely, with illicit sexuality, demonology and crime. In contrast, however, and in deep subordination, were the occasional positive motifs: the nocturnal peace of respite, and the visionary religious night whose silence and providential starscapes induce wonder, contemplation, even theophany. Renaissance England's fashionable new cult of the night developed by expanding the religious tradition along "inspired night" variations, and by revaluing the old themes of rogue love and baleful supernaturalism within a comfortably adjusted metropolitan topos of jubilant amorous revel and archaic fairy fancy. Disposed, too, toward novel descriptive empiricism, it sought articulation of a delicate nocturnal aesthetic, a "romancey" mood-music of deep glooms and mystical glitter. Milton, above all, is enamoured of a night that repudiates amour; and sings of its hours as those of a higher natural or sacred song, deriding the discords of cavalier nocturne. He urges perception of a sacramental starscape, a noetic night of wonder and beneficence, which shames as "satanic" a mere spectatorship of sensuous mood and painterly bravura.
+
+<blockquote>
+<poem>
+Thus at their shady lodge arrived, both stood,
+Both turned, and under open sky adored
+The God that made both sky, air, earth and heaven.
+Which they beheld, the moon's resplendent globe
+And starry pole: Thou also madest the night,
+Maker omnipotent . . . (''Paradise Lost'' 4.720–25)
+</poem>
+</blockquote>
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Alcman. Sleep. 134 in ''Greek Verse''.
+*Allen, Katharine. ''The Treatment of Nature in Poetry of the Roman Republic''. Madison: Wisconsin UP, 1899.
+*Allen, Phyllis. "Scientific Studies in the English Universities of the Seventeenth Century." ''Journal of the History of Ideas'' 10 (1949): 219–53.
+*Apollonius Rhodios. ''Argonautica''. Trans. E.V. Rieu. Harmondsworth: Penguin, 1959.
+*Aretino, Pietro. ''Il Terzo Libro delle Lettere''. Venice: 1546.
+*Babb, Lawrence. "The Background of ''Il Penseroso''." ''Studies in Philology'' 37 (1940): 257–73.
+*Baskerville, C.R. "English Songs on the Night Visit." ''Publications of the Modern Language Association'' 36 (1921): 565–614.
+*Bennett, J.A.W., and G.V. Smithers. ''Early Middle English Verse and Prose''. 2nd ed. Oxford: Oxford UP, 1974.
+*''Beowulf''. Ed. C.L. Wrenn. 2nd ed. London: Harrap, 1958.
+*Briggs, K.M. ''The Anatomy of Puck''. London: Routledge and Kegan Paul, 1959.
+*Browne, William. "Book two, Song one, Brittannia's Pastorals." 1.217–18 in A.H. Bullen, ed. ''The Poems of William Browne of Tavistock''. 2 vols. London: Lawrence and Bullen, 1894.
+*Carey, John. ''Milton.'' London: Evans Brothers, 1969.
+*Cavendish, Margaret. ''Poems and Fancies''. London: 1653.
+*— . ''Nature's Pictures''. London: 1656.
+*— . ''Poems and Fancies''. London: 1653.
+*Chapman, George. "Epistle to Roydon," "Hymnus in Noctem," "Hymnus in Cynthiam." ''The Shadow of the Night''. 20–45 in Phyllis Bartlett, ed. ''Poems of George Chapman''. London: Oxford UP: 1941.
+*Chaucer, Geoffrey. "The Wife of Bath's Prologue and Tale." 76–89 in F.N. Robinson, ed. ''The Canterbury Tales''. ''The Works of Geoffrey Chaucer''. 2nd ed. Oxford: Oxford UP, 1974.
+*— . ''The Complaint of Mars''. 529–33 in Geoffrey Chaucer. ''Works''.
+*— . ''Troilus and Criseyde''. 385–479 in Geoffrey Chaucer. ''Works''.
+*Clark, Kenneth. ''Landscape into Art''. 2nd ed. London: John Murray, 1979.
+*Cotton, Charles. "Night Quatrains." ''Poems of Charles Cotton''. Ed. John Buxton. London: 1958.
+*Davenant, William. ''Luminalia: the Queen's Festival of Light''. Vol. 2 of Steven Orgel and Roy Strong, eds. ''Inigo Jones: The Theater of the Stuart Court''. Berkeley and Los Angeles: U of California P, 1973.
+*Dodds, E.R. ''Pagan and Christian in an Age of Anxiety''. Cambridge: Cambridge UP, 1968.
+*Donne, John. "The Sun Rising." 92–93 in John Carey, ed. ''John Donne''. Oxford: Oxford UP, 1990.
+*Douglas, Gavin. ''The Aeneid. Selections from Gavin Douglas.'' Ed. David Coldwell. Oxford: Oxford UP, 1964.
+*Drayton. "Nimphidia." 1.177–200 in John Buxton, ed. ''Poems of Michael Drayton''. 2 vols. London: Routledge and Kegan Paul, 1953.
+*— . "The First Eclogue" from ''Idea: The Shepherd's Garland''. 1.49 in J.W. Hebel, ed. ''Complete Works of Michael Drayton''. 5 Vols. Oxford: Oxford UP, 1961.
+*"Dream of the Rood." 159–71 in Richard Hamer, ed. ''A Choice of Anglo-Saxon Verse''. London: Faber, 1970.
+*Euripides. ''Iphigenia in Taurus''. Trans. Philip Vellacott. Harmondsworth: Penguin, 1974.
+*— . ''Bacchae''. Ed. E.R. Dodds. Oxford: Clarendon P, 1960.
+*Fitter, Chris. ''Poetry, Space, Landscape: Toward a New Theory''. Cambridge: Cambridge UP, 1995.
+*— . "Henry Vaughan's Landscapes and Military Occupation." ''Essays in Criticism'' 42 (April 1992): 123–47.
+*Fletcher, John. ''The Nice Valour''. London, 1647.
+*Freehafer, John. "The Italian Night Piece and Suckling's ''Aglaura''." ''Journal of English and Germanic Philology'' 67 (1968): 249–65.
+*Gaster, T.H. ''Myth, Legend and Custom in the Old Testament''. New York: Harper and Row, 1969.
+*Ginzburg, Carlo. ''The Night Battles: Witchcraft and Agrarian Cults''. Harmondsworth: Penguin, 1983.
+*Goldin, Frederick. ''Lyrics of the Troubadors and Trouveres''. Gloucester, Mass: Peter Smith, 1983.
+*Gombrich, E.H. ''Norm and Form''. 3rd ed. Oxford: Phaidon, 1978.
+*Greek Verse. ''The Penguin Book of Greek Verse''. Ed. and trans. Constantine Trypannis. Harmondsworth: Penguin, 1971.
+*Greville, Fulke. "In Night when colours all to black are cast," ''Caelica''. 591–2 in Richard S. Sylvester, ed. ''English Sixteenth Century Verse''. New York: Norton, 1984.
+*Habington, William. "Nox nocti scientiam." 127–28 in Kenneth Allott, ed. ''The Poems of William Habington''. London: Hodder and Stoughton, 1948.
+*Hale, J.R. ''Renaissance Europe 1480–1520''. London: Fontana, 1971
+*Herbert, George. ''The English Poems of George Herbert''. Ed. C.A. Patrides. London: J.M. Dent, 1974.
+*Herington, C.J. "Senecan Tragedy." 170–219 in Niall Rudd, ed. ''Essays in Classical Literature''. Cambridge: Heffer, 1972.
+*Herrick, Robert. ''Poetical Works of Robert Herrick''. Ed. L.C. Martin. Oxford: Oxford UP, 1956.
+*Hesiod. ''Theogony''. 23–57 in Dorothea Wender, trans. ''Hesiod and Theognis''. Harmondsworth: Penguin, 1973.
+*— . ''The Works and Days''. 59–86 in Dorothea Wender, trans. ''Hesiod and Theognis''. Harmondsworth: Penguin, 1973.
+*Hill, Christopher. ''The World Turned Upside Down''. Harmondsworth: Penguin, 1975.
+*Homer. ''The Iliad''. Trans. E.V. Rieu. Harmondsworth: Penguin, 1950.
+*— . ''The Odyssey''. Trans. E.V. Rieu. Harmondsworth: Penguin, 1946.
+*Horace. ''The Odes of Horace''. Trans. James Michie. Harmondsworth: Penguin, 1967.
+*— . ''Epistles''. Trans. Niall Rudd. ''Horace: Satires and Epistles''. Harmondsworth: Penguin, 1979.
+*Jonson, Benjamin. ''Complete Poems of Ben Jonson''. Ed. George Parfitt. Harmondsworth: Penguin, 1988.
+*Julian. ''Orations''. ''Julian''. Ed. and trans. W.C. Wright. 3 vols. Cambridge, Mass: Harvard UP, 1913–23.
+*Leclercq, Jean. ''The Love of Learning and the Desire for God: A Study of Monastic Culture''. New York: Fordham, 1961.
+*Leishman, J.B. ''The Art of Marvell's Poetry''. London: Longman, 1968.
+*— . "''L'Allegro'' and ''Il Penseroso'' in their Relation to Seventeenth-century Poetry." 58–93 in Alan Rudrum, ed. ''Milton: Modern Judgements''. London: Macmillan, 1968.
+*Lucan. ''Pharsalia''. Trans. Robert Graves. Harmondsworth: Penguin, 1956.
+*Lucretius. ''De Rerum Natura''. Trans. W.H.D. Rouse. Cambridge, Mass: Harvard UP, 1937.
+*Marlowe, Christopher. ''Hero and Leander''. 13–40 in Stephen Orgel, ed. ''The Complete Poems and Translations''. Harmondsworth: Penguin, 1971.
+*Milton, John. ''Comus: A Masque''. 168–229 in John Carey and Alastair Fowler, eds. ''The Poems of John Milton''. London: Longman, 1980.
+*— . ''Il Penseroso''. 139–146 in John Milton. ''Poems.''
+*— . ''Paradise Lost''. 419–1060 in John Milton. ''Poems.''
+*— . ''Samson Agonistes''. 330–402 in John Milton. ''Poems.''
+*— . "First Prolusion." 1.211–307. [Trans. Phyllis B. Tillyard.] ''The Complete Prose works of John Milton''. 8 vols. New Haven: Yale UP, 1953.
+*Nashe, Thomas. ''The Terrors of the Night''. In J.B. Steane, ed. ''The Unfortunate Traveller and Other Works''. Harmondsworth: Penguin, 1972.
+*Norgate, Edward. ''Miniatura''. 2nd ed. 1649.
+*Norris, John, of Bemerton. "Hymn to Darkness." 303–04 in Helen Gardner. ''The Metaphysical Poets''. Harmondsworth: Penguin, 1972.
+*Ogden, H.V.S. and M.S. Ogden. ''English Taste in Landscape in the Seventeenth Century''. Ann Arbor: U of Michigan P, 1955.
+*Orgel, Steven and Roy Strong. ''Inigo Jones: the Theater of the Stuart Court''. Berkeley and Los Angeles: U of California P, 1973.
+*''Orphica.'' E. Abel, ed. Leipzig, 1885.
+*Ovid. ''Metamorphoses''. Trans. F.J. Miller. Cambridge, Mass: Harvard UP, 1916.
+*''Owl and the Nightingale, The''. 1–27 in Bennett and Smithers. ''Early Middle English Verse and Prose''.
+*Panofsky, Erwin. "Et in Arcadia Ego." 340–367 in ''Meaning in the Visual Arts''. Harmondsworth: Penguin, 1983.
+*— . ''Early Netherlandish Painting''. 2 vols. Cambridge, Mass: Harvard UP, 1953.
+*Parry, Graham. ''The Golden Age Restored''. Manchester: Manchester UP, 1981.
+*Petrarch, Francesco. ''Le Rime de Francesco Petrarca''. Eds. G. Carducci and S. Ferrari. Firenzi: Sansoni, 1899.
+*Pico della Mirandola. "Orphic Conclusions." Vol. 1. ''Opera Omnia''. Basel, 1572.
+*Sappho. ''Lyric fragments''. 144–151 in ''Greek Verse''.
+*Schultz, Howard. "Satan's Serenade." ''Philological Quarterly'' 27 (1948): 17–26.
+*Segal, C.P. "Nature and the World of Man in Greek Literature." ''Arion'' 2 (1963): 19–53.
+*Shakespeare, William. ''A Midsummer Night's Dream''. Ed. Harold F. Brooks. London: Methuen, 1979.
+*— . ''The Second Part of King Henry VI''. Ed. Michael Hathaway. Cambridge: Cambridge UP, 1991.
+*— . ''Henry V''. Ed. J.H. Walter. London: Methuen, 1954.
+*— . ''Macbeth''. Ed. Kenneth Muir. London: Methuen, 1962.
+*— . ''Merchant of Venice, The''. Ed. John Russell Brown. London: Methuen, 1964.
+*— . ''Rape of Lucrece, The''. In F.T. Prince, ed. ''Shakespeare: The Poems''. London: Methuen, 1969.
+*— . ''Romeo and Juliet''. Ed. Brian Gibbons. London: Methuen, 1980.
+*— . ''Winter's Tale, The''. Ed. J.H.P. Pafford. London: Methuen, 1963.
+*Sidney, Philip. ''The Countess of Pembroke's Arcadia''. Vol. 1 of Albert Feuillerat, ed. ''The Works of Sir Philip Sidney''. 4 vols. London: 1912.
+*— . ''Astrophil and Stella''. 153–211 in Katherine Duncan-Jones, ed. Sir Philip Sidney. Oxford: Oxford UP, 1989.
+*Spenser, Edmund. ''The Faerie Queene''. Ed. A.C Hamilton. London: Longman, 1977.
+*— . ''Epithalamium''. 579–84 in J.C. Smith and E. De Selincourt, eds. ''Spenser: Poetical Works''. London: Oxford UP, 1912.
+*Stechow, Wolfgang. ''Dutch Landscape Painting of the Seventeenth Century''. 3rd ed. Oxford: Phaidon, 1966.
+*Stesichorus. "The Setting Sun." 154 in ''Greek Verse''.
+*Suckling, John. ''Aglaura''. 2.33–119 in L.A. Beaurline, ed. ''The Works of Sir John Suckling''. Vol. 2. ''The Plays.'' Oxford: Oxford UP, 1971.
+*''Surrey, Henry Howard, Earl of''. In Richard S. Sylvester, ed. ''English Sixteenth-Century Verse''. New York: Norton, 1984.
+*Sylvester, Joshua. ''Du Bartas, His First Week. First Day''. 1.23–25 in A.B. Grosart, ed. ''Complete Works of Joshua Sylvester''. New York: AMS P, 1967.
+*Theocritus. ''Idylls''. 5–361 in J.M. Edmonds, trans. ''The Greek Bucolic Poets''. Cambridge, Mass: Harvard UP, 1928.
+*Thomas, Keith. ''Religion and the Decline of Magic''. Harmondsworth: Penguin, 1978.
+*Tibullus. ''The Poems''. Trans. Philip Dunlop. Harmondsworth: Penguin, 1972.
+*Tilley, M.P. ''A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries''. Ann Arbor: U of Michigan P, 1950.
+*Turner, A.R. ''The Vision of Landscape in Renaissance Italy''. Princeton: Princeton UP: 1966.
+*Valerius Flaccus. ''Argonautica''. Trans J.H. Mozley. Cambridge, Mass: Harvard UP, 1934.
+*Vaughan, Henry. ''The Complete Poems''. Ed. Alan Rudrum. Harmondsworth: Penguin, 1976.
+*Virgil. ''The Aeneid''. Trans. W.F. Jackson Knight. Harmondsworth: Penguin, 1958.
+*Walbank, F.W. ''The Hellenistic World''. London: Fontana, 1981.
+*Wind, Edgar. ''Pagan Mysteries in the Renaissance''. London: Faber, 1968.
+*Wither, George. ''A Collection of Emblemes, Ancient and Moderne''. 1635. Ed. Rosemary Freeman. Columbia, South Carolina: U of South Carolina P, 1975.
+*Yates, Frances. ''Giordano Bruno and the Hermetic Tradition''. Chicago: U of Chicago P, 1978.
+*— . ''The Occult Philosophy in the Elizabethan Age''. London: Routledge, 1979.
+
+{{BookCat}}
