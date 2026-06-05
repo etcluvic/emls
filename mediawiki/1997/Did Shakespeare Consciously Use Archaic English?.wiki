@@ -1,0 +1,147 @@
+''This essay was written by Mary Catherine Davidson''.
+
+<!--Paragraph 1-->
+Determining whether Shakespeare uses archaisms consciously requires a close examination of his language word by word. Such scrutiny should presuppose that the concept and identification of archaisms for Shakespeare's contemporaries is not necessarily identical to our own. Fortunately, the ''Early Modern English Dictionary Database'' provides a means for determining the status of potentially archaic words based on the early modern lexicographer's sense of the frequency and tone of such words. While some lexicographers indicate explicitly that a word is "old," more often the archaic tone of a word is suggested only tacitly by how the term appears in dictionary entries. I will discuss how such citations and other sources such as Chaucerian glossaries can provide a starting point for examining if and how Shakespeare used archaic words. This examination will provide, in turn, a means for discussing the nature of archaic terms which circumvents problematic classifications.
+
+<!--Paragraph 2-->
+This difficulty of classifying and identifying archaic terms during Shakespeare's time is unavoidable, perhaps, when one considers the linguistic self-consciousness and instability of the sixteenth and early seventeenth centuries. Generally, definitions seem to slip between the ideas of a potentially archaic term as (a) old, (b) regional or rustic, and (c) poetic. In his ''The Arte of English Poesie'' (1589), George Puttenham's recommendation to poets marks this overlap in the definition of such terms. He advises:
+
+<blockquote>
+<poem>
+do not follow Piers Plowman nor Gower nor Lydgate nor yet Chaucer, for their language is now out of use with us: neither shall he take the terms of the North-men. (qtd. Görlach 237)
+</poem>
+</blockquote>
+
+The distinctions of old, poetic, and regional seem inclusive and blurred here but, perhaps, all of these are inter-related aspects in the diachronic development of an archaism. As Manfred Görlach points out, regionalism contributes to the obsolescence of a word when it is associated increasingly with a non-standard variety, is stigmatized and falls out of use (139). Such diachronic specification, however, does not provide a tidy taxonomy for archaic terms when one recalls that archaisms were not associated only with lower registers<ref>I use the term "register" to refer to the stylistic levels for which words are chosen. The highest or most formal register is literary language; the lowest, colloquial or day-to-day speech.</ref> or regionalism. Indeed, by the end of the sixteenth century, "old words" were associated increasingly with poetic diction, especially in bible translations, or classified as Chaucerisms.
+
+<!--Paragraph 3-->
+What exists are two quite different senses of archaic terms—a lower register and a higher register. Apparently, the poet ought to avoid some old words but exploit others. When they are used, however, it is clear that such terms would have possessed a potentially archaic tone in order to be manipulated for the desired poetic effect—the term would be recognized as "different" from the standard idiom but retrievable from within that idiom. This sense of archaic terms as potentially exploitable items is discussed by B.R. McElderry Jr. in his examination of the language of Spenser. He asserts that poetic terms are extracted from standard language rather than created or lifted from other sources:
+
+<blockquote>
+no one person can "create" a poetic diction. The most he can do is to embellish incidentally a relatively standard idiom. The main poetic effect is latent in the standard idiom, and it is the poet's business to bring it out. (McElderry 168)
+</blockquote>
+
+Following McElderry, I suggest that Shakespeare also extracts archaic diction in just this manner. Our linguistic distance from the idiom of Shakespeare's time, however, does not allow us to identify intuitively which words are archaic, especially if they are as "latent" as McElderry contends in Spenser's case. Early modern lexicographers and, to a lesser degree, Chaucerian glossaries such as those by Paul Greaves in 1594 and Thomas Speght in 1602 have helped me determine the archaic tone of such words based on their contextual frequency, that is, in what syntactic situations or with what other words they most frequently appear. Such resources also indirectly reveal how Shakespeare may have changed the typical co-occurrence of words in collocates or idioms in order to exploit the latent archaic tone of such words.<ref>John Sinclair distinguishes between the lexical co-occurrence of collocates and idioms: "we call co-occurrences idioms if we interpret the co-occurrence as giving a single unit of meaning. If we interpret the occurrence as the selection of two related words, each of which keeps some meaning of its own, we call it a collocation" (Sinclair 172).</ref>
+
+<!--Paragraph 4-->
+My examination of several methodologies for identifying and describing archaic terms divides into two approaches: direct and indirect. By a direct approach I mean the examination of explicit references to "old words" by early modern lexicographers or those marked by John Bullokar with an asterisk. In the instructions to the reader in his ''English Expositor'' (1616), Bullokar explains that a word marked in this way is "an olde worde, onely used of some ancient writers and now growne out of use." Few of the words marked by Bullokar, however, are used by Shakespeare. When such terms marked by Bullokar are used by Shakespeare, these words often appear in the Chaucerian glossaries of Greaves and Speght. A sample of such words would include "bale," "cleape," "teene," "to weene," and "to wende."
+
+<!--Paragraph 5-->
+If such words are generally held to be archaic and/or Chaucerian, it appears they have a literary application. In this process such old words are increasingly isolated to a poetic register. This suggests that the choice of such words is conscious, to a certain degree, but also that the words chosen are recognized as an aspect of the standard idiom in a sort of poetic sub-category—a kind of a roster of terms considered infrequent and of a specific tone. They are of such infrequent use that they warrant inclusion in Chaucerian glossaries and mark up in hard-word dictionaries such as Bullokar's ''Expositor''.
+
+<!--Paragraph 6-->
+Based on my research thus far, I have found very concrete instances supporting McElderry's comment that for poetic ends archaic words are extracted from everyday language. With reference to Shakespeare's language, I argue that he lifts words which, embedded in particular collocates and idiomatic phrases, rarely appear outside of their most frequent contexts. This brings me to the second and, I believe, more interesting methodological possibility for identifying archaic words. This is not by simply looking them up in reference works but by indirectly determining their tone based on their contextual occurrences or grammatical uses. It is this method which provides a more solid means for suggesting that Shakespeare used archaic words consciously.
+
+<!--Paragraph 7-->
+This indirect method requires an understanding of the nature of fossilized phrases. In these phrases, a given lexical item is frozen in a set of words. One item often predicts the other members of the phrase. A single item can predict what other terms follow it (which is called right-predictive) or what terms it follows (left-predictive; Kjellmer 112). For example the word "nonce" occurs in very limited collocations in Present Day English. These are "for the nonce" and as an attributive in the hyphenated compound "nonce-word." Thus "nonce" is left-predictive and right-predictive in Present Day English but in different phrases. A phrase such as "for the nonce" should be considered more correctly as what Göran Kjellmar calls a variable phrase. He defines such phrases as consisting "of two or more lexical words, some of them incorporating function words" (Kjellmer 114). The fixity of the phrase suggests that it functions as a single lexical item because it appears most frequently in an isolated context or functions so, as Kjellmer puts it, "simply by virtue of being more common" (Kjellmer 114). In Shakespeare's corpus, an example of a lexical item frozen in such a phrase is "nonce" which appears only in the collocation "for the nonce."
+
+<!--Paragraph 8-->
+This instance of the phrasal fossilization of "nonce" can be contrasted with a word like "fay." Spenser uses "fay" as a non-fixed collocate; Shakespeare, only in the phrase "by my fay." Clearly the term has gained lexemic status as an asservative as it appears in Shakespeare. The EMEDD supports this view, for "fay" appears only in this phrase and is not an unbound lexeme:
+
+<blockquote>
+<poem>
+(1)  
+Florio (1598) – no by my fay;  
+Cockeram (1623) – by my fay.
+</poem>
+</blockquote>
+
+What I undertook to determine was whether Shakespeare might extract a potentially archaic word which had been frozen in a given collocate just as Spenser ostensibly had with "fay." A reading of Shakespeare's ''Titus Andronicus'' revealed two terms that the EMEDD entries suggest are found more frequently in set phrases or consistently predict other items. These are "maugre" and "belike." The ''Oxford English Dictionary'' defines "maugre" as archaic in its prepositional function. The EMEDD citations dramatize this point. The most consistent re-occurrence of "maugre" is in a set phrase of a function and content words (usually a part of the body). These phrases provide definitions for such words as "violenter," "invitus," "aldispetto" or "malgrado":
+
+<blockquote>
+<poem>
+(2)  
+Elyot (1538) – maugre his hedde;  
+Thomas (1587) – maugre thy/his head (four times);  
+Minsheu (1599) – maugre his beard.
+</poem>
+</blockquote>
+
+The archaic tone of "maugre" seems to be exploited to translate a proverb in Cotgrave (1611) while Cockeram (1623) includes it in his dictionary of "hard English words." The archaic sense suggested by Cotgrave and Cockeram is dramatized by the citations (2), since "maugre" appears most frequently in a semi-variable phrase of long standing (i.e., from 1538-1599). None of the citations provides a purely prepositional function for the word. This function is revealed only in those set phrases which reflect a sense of the word's productivity. Thus the citations implicitly suggest that "maugre" is most common in such phrases rather than as a productive preposition. Shakespeare, however, does not use the term as it is cited by lexicographers but as a preposition which is not restricted to governing particular content words of a given semantic field (which had been parts of the body):
+
+<blockquote>
+<poem>
+(3)  
+I love thee so, that, maugre all thy pride (''TN'' 3.01.151);  
+this maugre all the world will I keep safe (''TIT'' 4.02.110);  
+maugre thy strength, place, youth, and eminence (''LR'' 5.03.132).
+</poem>
+</blockquote>
+
+A word considered a component of a set phrase in the dictionaries of Shakespeare's time appears here as a poetic or archaic or hard word.
+
+<!--Paragraph 9-->
+Based on a comparison of these collocations in the EMEDD and in Shakespeare's works, I believe that "maugre" in Shakespeare's time is on its way to becoming fully fossilized in a phrase which functions phrasally as an adverb. This distinction provided his audience with the sense of this word as old. By way of analogy, one might consider how many set phrases in Present Day English contain terms which do not function outside of such phrases or could not be correctly used by speakers outside those particular phrases. In the expression "to boot"—a lexemic adverbial tag—for instance, "boot" is not known to many speakers of English as something other than footwear or a computer operation.<ref>''OED'' provides the definition "good, advantage, profit, use . . . in the phrase 'to boot', 'to the good', 'to advantage', 'into the bargain', 'in addition', 'besides', 'moreover'."</ref>
+
+<!--Paragraph 10-->
+"Belike" functions somewhat like "maugre." Unlike maugre, however, it is not identified by the ''Oxford English Dictionary'' as archaic. Interestingly, "belike" underwent a functional shift from a verb to an adverb from Middle English to Early Modern English. Citations of the EMEDD suggest that "belike" quickly underwent a collocational freeze which was accompanied by the loss of the verb. Of thirty-one matches in the EMEDD, only three are verbs and the remainder are adverbs. The distribution of these functions is reflected in their lexicographers. Florio (1598) provides "belike" as a translation of the Italian verb of obligation ("dovere") while Cotgrave (1611) uses it as an adverb in a right-predictive function word phrase—"belike because." Cotgrave uses this phrase when he is about to provide a definition of which he is not certain:
+
+<blockquote>
+<poem>
+(4)  
+. . . called so, belike, because many things . . .  
+. . . belike, because tis usually covered . . .  
+. . . belike because it alters so quickly . . .  
+. . . belike because he hanged himself . . .
+</poem>
+</blockquote>
+
+These instances do not represent an idiom as much as the idiolect of this lexicographer. What this co-occurrence does illustrate, however, is the non-productivity of the term. For example, "belike" is not the first term to come to the lexicographers' minds when they are defining the Italian "forse" ("perhaps"). Matches for "forse" are:
+
+<blockquote>
+<poem>
+(5)  
+Palsgrave, John (1530) – forse force s fe. vehemence se fe;  
+Thomas, William (1550) – perchaunce, or peradventure;  
+Florio, John (1598) – perhaps, by chance, by hap, per adventure.
+</poem>
+</blockquote>
+
+These instances illustrate that "perhaps" is the term which most lexicographers first consider when they define foreign terms of the same meaning. Though "belike" had established an adverbial function to the peril of its verbal function, it never appears as a synonym for "perhaps" in any citation.<ref>''OED'' records that both of the verbal types of this very infrequently used verb "belike" (transitive and impersonal) are obsolete. Citations provided for both types total six.</ref>
+
+<!--Paragraph 11-->
+Cotgrave's use of "belike" (4) appears to reflect considerable certainty in the ability of "belike" to convey clearly an adverbial function. He illustrates this in his mannerist alliterative grouping of "belike" and "because." I believe this suggests that the term has some affective or literary potential because of this alliterative context but since the earliest citation of "belike" is 1533, can I argue that it had already become archaic in Shakespeare's language? Shakespeare uses "belike" more often than he uses "perhaps" in a ratio of 43:28. I think he is doing just what McElderry suggests is part of the manipulation of poetic diction—opting for the lesser used word, marking the difference between a frequent word and an infrequent one. This word was perhaps a "hard word": a possibility reinforced by the fact that its adverbial function was sufficiently questionable to warrant the addition—though short-lived—of the adverbial affix "-ly" (''OED'' a 1552).
+
+<!--Paragraph 12-->
+The examples of "maugre" and, to a lesser degree, "belike" illustrate that context is an essential consideration when determining the potentially archaic status of a word. This holds true for the contexts constructed for archaic words. The importance of syntactic context is illustrated by the word "welkin" which Shakespeare shares with E.K.'s glosses of Spenser and Greaves's ''Chauceriana'' glossary. This Old English word for "cloud" was pushed into the archaic/poetic register when the Old Norse loan "sky" functioned as the spoken register term. The ways in which Shakespeare uses these two words of roughly synonymous meaning and inter-related development may shed light on how he utilizes archaic terms generally. While Shakespeare had used "welkin" 19 times, he uses "sky" 48 times. "Sky" is productive in compounds and affixes ("sky-aspiring," "skyey," "skyish," "sky-planted"). "Welkin," however, does not share in this formational productivity. This suggests, therefore, that its lexical status is fixed and does not fall under the rubric of day-to-day terms which are productive. In fact, the use of "welkin" in such a way may have been too mannered, if it is already considered a poetic or archaic term.<ref>It does appear in an attributive function, however: ''welkin eye'' (''WT'' 1.2.136). The ''OED'' notes other attributive combinations in other authors but none are altered by affixation.</ref> One might conclude that poetic or archaic items could not be over-determined by attributive or phrasal contexts when used for poetic ends. Just as "maugre" was de-contextualized or extracted from its more frequent phrasal occurrences with the result of a foregrounding of its prepositional function and archaic tone, so "welkin" functions generally freed from phrasal and affixed contexts.
+
+<!--Paragraph 13-->
+The words I have discussed are only a few of the many words—both content and function—that I have examined. What this study has illustrated so far is that archaism—and implicitly poetic diction—exists within the standard idiom. Archaisms, then, could be considered terms which are latently embedded within the standard idiom rather than within a poetic register set apart. In some instances archaic tonality may just be a matter of recognizing that the status of old words is based on their relation to the standard idiom by the way they survive in that idiom as fossilized phrases. Such generalizations suggest that archaisms could have been readily available for use not only in the reference texts of Shakespeare's time but phrasally frozen in his day-to-day language.
+
+<!--Paragraph 14-->
+Finally, I must answer the question this paper asks: Does Shakespeare use archaisms consciously? I must say both "yes" and "no." "Yes" when he extracts archaisms from variable phrases such as "maugre his head" but "no" when he uses a highly unbound lexeme which the dictionaries cite as archaic such as "teen" or "ween." A "yes" is my reply, however, when he manipulates two words of the same meaning such as "sky" and "welkin" quite differently. The extraction of words from fossilized contexts—as in the case of "maugre"—and the non-determined contexts of others—as "welkin" demonstrates—suggests an intentionality on the bard's part. An analysis of the context in which these words appear most frequently in the EMEDD and of how Shakespeare employs them provides a starting point for determining the level of his consciousness in the manipulation of such old words.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Aarts, Jan. "Intuition-based and Observation-based Grammars." In Karin Aijmer and Bengt Altenberg, eds. ''English Corpus Linguistics.'' London and New York: Longman, 1991. 44-63.
+* Abbott, E.A. ''A Shakespearian Grammar.'' [1870.] Rptd. New York: Dover, 1966.
+* Bullokar, John. ''An English Expositor: teaching the interpretation of the hardest words in our language.'' London: J. Legatt, 1616. [''STC'' 4083.]
+* Davis, B.E.C. ''Edmund Spenser: A Critical Study.'' New York: Russell and Russell, 1962.
+* ''Early Modern English Dictionaries Database.'' Ed. Ian Lancashire. Toronto: U of Toronto, 1996. [http://www.chass.utoronto.ca/english/emed/emedd.html URL]
+* Görlach, Manfred. ''Introduction to Early Modern English.'' Cambridge: Cambridge UP, 1991.
+* Greaves, Paul. ''Vocabularia Chauceriana quædam selectoria, et Minus vulgaria ipsæ hodie Poetarum deliciæ, una cum eorum significatis''. [1594.] Menston: Scolar P, 1969.
+* Hayashi, Tetsuro. ''The Theory of English Lexicography 1530-1791.'' Amsterdam: John Benjamins, 1978.
+* ''Helsinki Corpus of English Texts: Diachronic and Dialectal.'' Compiled by M. Rissanen, O. Ihalainen and M. Kytö. Helsinki: U of Helsinki.
+* Jones, Richard Foster. ''The Triumph of the English Language.'' Stanford: Stanford UP, 1953.
+* Kerling, Johan. ''Chaucer in Early English Dictionaries: The Old-Word Tradition in English Lexicography down to 1721 and Speght's Chaucer Glossarie.'' Leiden: Leiden UP, 1979.
+* —. "English Old-Word Glossaries 1553-94." ''Neophilologus'' 63 (1978): 136-47.
+* Kjellmer, Göran. "A Mint of Phrases." In Karin Aijmer and Bengt Altenberg, eds. ''English Corpus Linguistics.'' London and New York: Longman, 1991. 111-27.
+* Kurath, Hans, and Sherman M. Kuhn, eds. ''Middle English Dictionary.'' Ann Arbor: U of Michigan P, 1954 -.
+* Lancashire, I. "Uttering and Editing: Computational Text Analysis and Cognitive Studies in Authorship." ''Texte: Revue de Critique et de Théorie Littéraire'' 13/14 (1994): 173-218.
+* McElderry, Bruce Robert, Jr. "Archaism and Innovation in Spenser's Poetic Diction." ''Publications of the Modern Language Association'' 47 (1932): 144-70.
+* Millward, C.M. ''A Biography of the English Language.'' Toronto: Holt, Rinehart and Winston, 1988.
+* Miskimin, Alice. ''The Renaissance Chaucer.'' New Haven: Yale UP, 1975.
+* Osgoode, Charles Grovenor. ''A Concordance to the Poems of Edmund Spenser.'' Gloucester, Mass.: Peter Smith, 1963.
+* ''Oxford English Dictionary.'' 2nd edn. Oxford: Clarendon P, 1989.
+* Rösler, Margarete. "Veraltete Wörter in Der Grammatica Anglicana von 1594." ''Englische Studien'' 53 (1919-20): 168-95.
+* Salmon, Vivian, and Edwina Burness, eds. ''Reader in the Language of Shakespearean Drama.'' Amsterdam and Philadelphia: John Benjamins, 1987.
+* Schäfer, Jürgen. ''Early Modern Lexicography.'' 2 vols. Oxford: Clarendon P, 1989.
+* —. "The Hard Word Dictionaries: A Re-Assessment." ''Leeds Studies in English'' [n.s.] 4 (1970): 31-48.
+* Sinclair, John. ''Corpus, Concordance, Collocation''. Oxford: Oxford UP, 1991.
+* Speght, Thomas. "The old and obscure words in Chaucer explained . . . " In ''Geoffrey Chaucer. The Works. 1532 with supplementary notes from the editions of 1542, 1561, 1598 and 1602 .'' [1602.] Menston: Scolar P, 1969.
+* Spenser, Edmund. ''The Works of Edmund Spenser. A Variorum Edition.'' Ed. Edwin Greenlaw, Charles Grovenor Osgoode and Frederick Morgan Padelford. Baltimore: Johns Hopkins UP, 1932-49.
+* Spevack, Martin. ''The Harvard Concordance to Shakespeare.'' Cambridge: Harvard UP, 1973.
+
+{{BookCat}}
