@@ -1,0 +1,302 @@
+''This essay was written by Emma Roth-Schwartz''.
+
+<!--Paragraph 1-->
+We cannot know now, and may never know, how Donne punctuated any but one of his English poems.<ref>The "Letter to the Lady Carey and Mrs Essex Riche" came to light among the papers of the Duke of Manchester in 1971. See Nicholas Barker and P. J. Croft.</ref> This awkward situation makes it impossible to maintain the twentieth-century editor's drive toward the stability of a fixed and authorial text in the case of Donne's poetry. Perhaps this is not altogether a bad thing: seventeenth-century coterie poetry belonged to manuscript culture, and so was exempt from the requirements of stability introduced by print;<ref>See Ted-Larry Pebworth, "John Donne, Coterie Poetry, and the Text as Performance" 61 and John Bowers, "Hoccleve's Two Copies of Lerne to Dye: Implications for Textual Critics" 441.</ref> we may distort the object of study by making it appear more stable than it in fact was.<ref>See Bowers 443. Although he is discussing medieval texts, the same might easily be said of Donne's coterie poetry.</ref> But modern editorial principles require a standard of judgement in Donne editions. On what grounds can we say that one editor's punctuation is superior to another's?
+
+<!--Paragraph 2-->
+Application of the punctuation principles of the seventeenth century would seem to be a good idea under these circumstances.<ref>See Anthony Graham-White 15. Pebworth, in "Coterie Poetry," suggests that a Donnean style may be recoverable from manuscript and other transmission evidence, although he does not discuss punctuation directly in this regard.</ref> Punctuation chosen from scribal manuscripts would be at least authentic, if not authorial. Or perhaps Donne's own habits could be applied to the scribal copies.
+
+<!--Paragraph 3-->
+Consideration of the punctuation of selected holograph prose letters reveals, as I mean to show, that we can derive editorial choices for both prose and poetry from the punctuation principles evident in Donne's practice in the prose letters. Understanding of Donne's punctuation style may help us edit scribal copies of his poems and can certainly help us understand those works which survive in his hand.
+
+==II==
+<!--Paragraph 4-->
+Two significant obstacles stand in the way, the first of which is the belief that seventeenth-century punctuation was haphazard. A few scholars have argued against this view, largely in vain, since the early twentieth century. Percy Simpson appears to have originated the belief that Elizabethan punctuation was concerned with breath pauses for the voice and showed regularly applied dramatic principles. Although Simpson's analysis is overdependent on syntactic concepts, his corrective argument has been regularly maintained and augmented to the present day by Raymond Alden, A. C. Partridge (''Orthography''), Mindele Triep, and most recently by Anthony Graham-White. If we maintain with these scholars that seventeenth-century prose punctuation was "rhetorical," concerned with breathing and vocal delivery, we not only lose the difference between dialogue and prose, which is apparent even today in our plays and other fiction; we also get, in the name of breath pauses, rhythms which serve neither prose nor poetry.
+
+<!--Paragraph 5-->
+A.C. Baugh, Charles C. Fries, and Walter J. Ong have argued against the "rhetorical" theory, although Baugh does see rhythm as inherent when syntax and logic coincide (3). Baugh, Fries, and Ong are united in their belief that early modern English punctuation had something to do with sentence structure, although no one has pursued the point beyond the strictures of post-nineteenth century syntactic rules.
+
+<!--Paragraph 6-->
+The rhetorical, or breath-pause, argument cannot apply to Donne. His prose and poetry have no occasion to show the chief features of dramatic punctuation in the early seventeenth century. Donne's dramatic voice is a voice for the mind and the eye, directed always toward a reader, not a listener. The mind does not pause for breath, although the eye is helped by visual signals as to the arrangement and relative importance of ideas.
+
+<!--Paragraph 7-->
+The second obstacle to understanding Donne's punctuation is lack of attention to the punctuation evidence we do have in Donne autograph manuscripts. Although his verse punctuation is known only through one poem, his prose letters survive in relative abundance, and comparison of the two reveals that his prose and verse punctuation principles are virtually identical.
+
+<!--Paragraph 8-->
+Donne's punctuation style in the sample studied here is consistent over time and changing circumstances and is congruent with seventeenth-century handbook descriptions, although the handbooks do not completely explain Donne's practice. He seems to have developed a highly individual style in punctuation, as in much else.
+
+==III==
+<!--Paragraph 9-->
+More than two hundred of Donne's letters survive in his own hand. The eleven letters studied here comprise a homogenous sample which recommends itself in more than one way to stylistic analysis. Nine of the eleven letters are from the Loseley papers. Of these, eight were written to Sir George More or to Sir Thomas Egerton in 1601/2 on the subject of Donne's marriage. Their content is of interest in itself. The ninth is a brief business letter written to More in 1629. The remaining two are dedicatory letters which accompanied presentation copies of manuscripts of ''Pseudomartyr'' in 1610 and were written to Henry, Prince of Wales (Portland papers) and Sir Thomas Egerton (Bridgewater MS) respectively.<ref>I wish to thank Robert Sorlien for supplying the Folger microfilm of the Loseley papers, photocopies of the Portland and Bridgewater letters, his own transcriptions of all thirteen letters, and a typescript of his unpublished essay. The transcriptions used here are mine, along with any errors they contain. A new edition of the letters, edited by M. Thomas Hester, Robert Sorlien, and Ernest W. Sullivan III, is now in preparation for publication by Duke University Press.</ref>
+
+<!--Paragraph 10-->
+The eleven letters comprise a sample of 3700 words (exclusive of salutations, closings, and endorsements), a length generally considered sufficient for significant results in stylistic studies of frequently-occurring features. The letters contain relatively abundant examples of period, colon, and semicolon. The microfilms and photocopies consulted seemed quite clear as to the long stops, although the commas, not considered here, were often faint enough to require independent confirmation. The 1601/2 letters as a group further recommend themselves for analysis by being written on the same subject to the same two recipients over a short period of time. Furthermore, the letters to More and Egerton were conditioned by similar social relationships: both More and Egerton were older, more powerful men whom Donne had offended. The dedicatory letter to Sir Thomas Egerton and the business letter to More were included in order to analyze Donne's style in writing to those men at a later date when their passions might be supposed to have cooled; I wished to see whether Donne's punctuation style in 1601/2 might be the product of haste or of the emotional turmoil he might be supposed to have felt in the early months of his marriage. This proved not to be the case. The dedicatory letter to Prince Henry was included in order to compare Donne's style on a very formal occasion to that which he employed in writing to social familiars. The more formal letter shows a predominance of periodic sentences and an absence of long stops within them.
+
+<!--Paragraph 11-->
+The average sentence length of the sample is similar to that in the holograph Carey verse letter; so are the longest and shortest sentences of the sample.<ref>The longest sentence in the sample is 140 words long; the longest in the Carey letter is 125 words. The shortest sentence in the sample is six words; in the Carey letter, seven. The sample shows an average of forty words per sentence; the Carey letter, thirty-two. At forty-three words per sentence, Donne's sentences in the letters to Egerton are longer than those in the Carey verse letter (thirty-two wps) and those in the letters to More (thirty-three wps).</ref> As in the Carey verse letter, loose rather than periodic sentences predominate in the sample, although the ''Pseudomartyr'' dedicatory letters do contain periodic sentences. Verbal and thematic stylistic similarities between the poetry and the prose letters in general have been remarked on by others.<ref>See Margaret Maurer 183 and M. Thomas Hester xv on the similarity in style of all the letters in ''Letters to Severall Persons of Honour'' and Partridge 175 and 177 in ''John Donne: Language and Style'' on the difference in length and structure of the sentences in the letters from that of much of his other prose and their similarity to the poetry.</ref>
+
+<!--Paragraph 12-->
+In the sample studied, four kinds of sentences can be discerned: the periodic, and three types of loose sentences, which I will call the delayed-point, the argumentative, and the cumulative. Each has its own distinctive punctuation, and although the usages at times overlap, it is still possible to discern them. Application of the punctuation principles described below, which are both historically appropriate and characteristic of Donne's style, should make it possible to edit Donne's scribal manuscripts on a more empirical basis, even though editorial unanimity will probably never be achieved.
+
+<!--Paragraph 13-->
+How much consistency in punctuation can we expect from Donne? Surprisingly, certain of his purely conventional punctuation practices are very consistent, even by our standards. His abbreviations of '''"Lord"''' and '''"Lordship(s)"''' are identical in thirty-seven out of forty-four instances. Only three sentences appear to have missing final punctuation. In each of the three cases, an upper-case letter follows the place where the period should appear. And, during a time when capitalization of the first words of sentences may not have been required for good style, only eleven of ninety-six sentences in the sample begin with a lower-case letter. The Carey verse letter contains many sentences which begin at the beginning of a line with lower case letters; not all these letters are those which Donne formed alike in the upper and lower case. But both the Carey poem and the prose letters in this sample are quite clear about initial capitals, with few exceptions. Printed editions from the first half of the seventeenth century are, on the other hand, very consistent in capitalizing the first words of sentences. Standardization of initial capitalization may have been an innovation of print culture. Beginning a sentence in the lower case is by no means characteristic only of the letters in the sample which were written under stress, but is more frequent there, perhaps because these letters are much longer than the others.
+
+<!--Paragraph 14-->
+Considering that Donne was his own scribe in these letters, and no doubt made the same errors and oversights as any copyist, if he did indeed recopy, these letters show a high degree of scribal consistency for his or any age. They contain few obvious errors, most of them corrected, and only a handful of strikeovers followed by second thoughts. Some of the letters under consideration show signs of having been proofread, as when a word is inserted above the line in smaller characters. In some places, however, strikeouts within the line are immediately followed by correction, showing that perfect fair copy was not thought necessary, or perhaps that this was not the copy actually sent to the recipient. Manuscript culture may have encouraged the sending of imperfect copies as evidence of spontaneity (see Hester xv). None of the letters shows punctuation corrections, although of course punctuation may have been deliberately or absentmindedly changed, or purposefully or accidentally omitted, at any point in the writing or copying. Punctuation is particularly easy to alter in a finished manuscript, as in adding a mark or changing one mark to another, although removal of marks would probably leave some trace which would not show in the photocopy which I am using. One presumes that the poet, if he reread his copy, would change anything that was clearly counter to his intentions. Such tokens of care as appear here in matters of convention suggest that the letters of 1601/2 were not the effusions of a desperate man (which he may have been), but rather the controlled performances of a disciplined stylist (which we know he was).
+
+==IV==
+<!--Paragraph 15-->
+Edmund Gosse's punctuation of the "incoherent note" sent by Donne to Egerton upon his release from prison (107) is an example of the confusion that an editor may unwittingly create in trying to "correct" Donne's punctuation:
+
+<blockquote>
+'''Only in that coin, wherein they that delight to do benefits and good turns for the work's sake love to be paid, am I rich, which is thankfulness, which I humbly and abundantly present to your Lordship, beseeching you to give such way and entertainment to this virtue of mercy, which is always in you, and always awake, that it may so soften you, that as it hath wrought for me the best of blessings, which is this way to health, so it may give my mind her chief comfort, which is your pardon for my bold and presumptuous offence''' (To Egerton 13 Feb 1601/2; Gosse's transcription).
+</blockquote>
+
+Gosse's transcription, which modernizes spelling and capitalization as well as punctuation, shows no colons or semicolons, but Donne punctuated the letter this way:
+
+<blockquote>
+'''Onely in that Coyne, wherin they that Delight to do benefitts, and good turnes for the works sake Loue to be payd, ame I riche, wch ys Thankfullnes; wch I humbly and abundantly prsent to yor Lp. Beseeching yow, to giue such way and Entertainmt to this vertu of Mercy, wch ys allways in yow, and allwayes awake, that yt may so soften yow, that as yt hath wrought for me, the best of bodily blessings, wch ys, this way to Health, So yt may gaine my Mind her Cheife Comfort, wch ys yor pardon for my or bold and prsumtuous offence. All-mighty god be allwayes so wth yow in this world as yow may be sure to be wth him in the next''' (To Egerton 13 Feb. 1601/2).
+</blockquote>
+
+The period after '''"Lp"''' in l. 8 is almost certainly a full stop; Donne never indicated that abbreviation with a period anywhere else in the 1601/2 letters. Gosse omits this stop and spells out the abbreviation. This mends the sentence fragment, but erases the clear separation Donne made between the thanks and his subsequent petition. And Donne's semicolon at the end of line 6 indicates that the sentence, and its sense, are not complete without the presentation of thanks. If Donne had placed a colon instead of the semicolon here, more stress would go to the presentation, and less to the thanks themselves. All this is lost in Gosse's transcription, which does indeed give the impression of incoherence. It is quite possible that this impression fitted Gosse's larger purpose all too well; in addition to his general and well-known carelessness, in his biography of Donne in which the extract quoted above appeared, Gosse's intention was to construct a psychological portrait of the poet with particular attention to sexual relationships.<ref>See Dayton Haskin 871.</ref>
+
+<!--Paragraph 16-->
+This example illustrates the truth of John T. Shawcross's remark that criticism should stress the artefact itself rather than what it seems to reveal about the author ("Poetry, Personal and Impersonal: The Case of Donne" 66). In fact, there is nothing in the punctuation of any of the letters in the sample to suggest anything about the state of mind of the man who wrote them.
+
+==V==
+<!--Paragraph 17-->
+It is not, then, unrealistic to look further into the letters' punctuation style for evidence of Donne's punctuation principles. We may define a principle as a belief which guides practice but may not determine it inflexibly: even though frequent departures will call into question whether the principle exists except in name, one may sometimes lapse, or find reason to suspend a principle. Because principles may be intuitively held but not articulated, consistent practice may be the only evidence of their existence. This may be particularly true of Donne's punctuation, since the language we use to discuss syntax did not exist during his lifetime. But English syntax has not changed so much since then that we cannot recognize practices that are clearly related to the integrity of the phrase and to syntactic completion. The sample of letters studied here demonstrates a principled use of colon and semicolon, unaltered by the peculiar demands of metrical punctuation in verse. Metrical punctuation seems not to have been a dominant feature of Donne's poetry; his caesural marking and end-line marking in the Carey letter coincide with the stylistic and organizational practices in these prose letters. Apostrophe use in the Carey letter appears to be metrical (see Joost Dalder); significantly, only one prose letter in the sample uses any apostrophes at all. There are two apostrophes in the letter to Prince Henry, both inserted instead of '''"e"''' before final '''"d"''' in preterites. One such apostrophe appears in the Carey letter; all three apostrophes are unusual for Donne. They may appear as formal acknowledgements that the '''"e"''' is colloquial usage; both the Carey letter and the Prince Henry letter are very formal in tone and other stylistic features. As noted above, the Prince Henry letter contains most of the periodic sentences in the sample. Donne's use of the colon in these prose letters is sparse, and congruent with the practice described in the handbooks of Mulcaster, Jonson, Butler, and Daines. Butler (58) and Jonson (552) say that completed sense precedes a colon, but that the sentence itself is completed by what follows. Daines (70) and Mulcaster (106) simply say that a colon divides a sentence or "followeth some full branch." Donne's practice shows exactly this: all the colons in the sample follow what we would call independent clauses, which could stand on their own, but which do not entirely comprise the main idea of the sentence. Each colon introduces a change of topic to the sentence in which it appears. No periodic sentence in the sample contains a colon, although both Daines (70) and Mulcaster (106) seem to describe such usage; in the sample, periodic sentences are marked by distinctive syntax, but not by punctuation other than commas. Usually the member that follows the colon is a dependent clause or phrase, although independent clauses do appear in that position. No sentence in the sample has more than one colon. In the sample, a loose sentence punctuated by a colon after the first independent clause changes its topic and often delays its main point, which is then stated in the portion of the sentence following the colon; sometimes this second portion is parallel in wording or in conceit, if not in syntax, with the first:
+
+<blockquote>
+''. . . So long since, as at her being at yorkhouse, this had foundacon: and so much then of promise and Contract built vpon yt, as wthowt violence to Conscience might not be shaken'' (To More 2 Feb.1601/2).
+</blockquote>
+
+Notice the parallel conceit of '''"foundacon"'''/'''“built"''' and '''"shaken,"''' and the parallel introductory phrases '''"So long since"''' and '''"so much then."''' Even though the second member is not syntactically independent, it is emphasized by the change of topic from the '''"foundacon"''' to the '''"Contract"''' which eventuated. Donne's main point here is not the elapsed time of his courtship, but rather the solemn obligations of the mutual attachment. Mutuality is stressed again in the next sentence:
+
+<blockquote>
+''. . . At her Lyeng in town this Last parliamt, I found meanes to see her twice or thrice: we both knew the obligacons that Lay vpon us, and wee adventurd equally, and about three weeks before Christmas we married'' (To More 2 Feb. 1601/2).
+</blockquote>
+
+Perhaps Donne anticipated accusations of having betrayed Ann's innocence, a valid concern given her youth. He changed the topic here from his own devices for gaining access to his lady to the venture they undertook together.
+
+<!--Paragraph 18-->
+The sentence just quoted is one of several cases in the sample in which a syntactically complete member follows a colon. If the four independent clauses there had been punctuated with semicolons then, according to my analysis, an entirely different effect would have been achieved, that of stressing the narrative sequence of events:
+
+<blockquote>
+''. . . At her Lyeng in town this Last parliamt, I found meanes to see her twice or thrice; we both knew the obligacons that Lay vpon us; and wee adventurd equally; and about three weeks before Christmas we married.'' [Punctuation adjusted]
+</blockquote>
+
+This punctuation is also Donnean; Donne made frequent use of the semicolon to co-ordinate short parallel clauses. But when he did so, he was presenting reasoned argument. In his own punctuation and in his own hand, we see another meaning: as the sentence came from his hand, it changes its topic from the efforts Donne made to see his love to the mutuality of their risky attachment. Donne's sentence is completed by his threefold assertion of their equal commitment.
+
+<!--Paragraph 19-->
+Sometimes what follows the colon may offer explanation necessary to support the assertion that precedes the colon:
+
+<blockquote>
+''. . . I humbly beseeche yow, to take of these waytes, and to put my favlt into the balance alone, as yt was donne, wthowt the addicon of these yll reports: And though then yt wyll be to heauy for me, yett then yt wyll Less greive yow to pardon yt'' (To More 11 Feb. 1601/2).
+</blockquote>
+
+Again a syntactically complete member follows the colon. Here again the second member changes the topic, this time from the fault to the hoped-for pardon, and it gives a reason for More to consider the known fault and not any other accusations: it will then be easier to pardon the fault. This whole letter is an entreaty for forgiveness, culminating in the final sentence, which ends in a plea for clemency:
+
+<blockquote>
+''. . . I can prsent nothing to yor thoughts wch yow knew not before, but my submission, my repentance, and my harty desire, to do any thing satisfactory to yor iust displeasure: Of wch I beseech yow to make a charitable vse and Construction'' (To More 11 Feb. 1601/2).
+</blockquote>
+
+The l. 50 colon marks a change of topic from Donne's abject repentance to his petition. Such a petition could not be part of the utter surrender of the first member, but it is the main idea of both the sentence and the letter with which this sentence closes.
+
+<!--Paragraph 20-->
+Donne's semicolons in the sample are more numerous than his colons, but still relatively infrequent, even though some sentences contain several. His semicolons, in fact, often appear in clusters. When a semicolon is the first long stop of the sentence, it appears after what we would call an independent clause unless the sentence itself is a fragment. What follows the semicolon may or may not be syntactically complete, but if several members in a row are co-ordinated by semicolons, they are always parallel in thought and often parallel, or nearly so, in syntax. Their content then is stressed in three ways: by syntax, parallelism, and punctuation.
+
+<!--Paragraph 21-->
+Donne has two distinct uses for the semicolon. One usage, the argumentative, occurs when he is making an appeal to reason, usually setting out a brief list in one sentence. A cluster of such semicolons may follow a colon, but never precedes a colon in this sample. Daines seems to describe this argumentative usage when he writes of semicolons used "to make some short deliberation of little sentences" (70). The principle of making "a short deliberation" seems to govern those sentences composed only of members divided by semicolons. But whether clustered semicolons appear in a sentence alone or in the second branch of a sentence divided by a colon, they alert the attentive reader to the fact that a series is presented. The argumentative usage is frequent in some letters and absent in others. It appears twice in Donne's first letter to Sir George More after his marriage. The first occurrence reads:
+
+<blockquote>
+'''The reasons, why I did not foreacquaint yow wth it, (to deale wth the same plainnes that I have usd) were these. I knew my prsent estate Lesse then fitt for her; I knew, (yet I knew not why) that I stood not right in yor opinion; I knew that to have giuen any intimacon of yt, had been to impossibilitate the whole mattr''' (To More 2 Feb. 1601/2).
+</blockquote>
+
+A colon after the first sentence here would be consistent with modern usage and with other usage in the sample. But a colon would connect the secrecy of the marriage with the reasons for secrecy. Donne seems to have chosen to separate the two ideas as firmly as possible, with a period. The three-branched second sentence, with a reason in each branch, stands on its own as an argument composed of three reasons which are not subordinated at all to the sentence before.
+
+<!--Paragraph 22-->
+Donne's tone here is independent, verging on the impertinent, and stands in strong contrast to the vigorous self-abasement to which he resorts later in his correspondence with More. The changing tone of the 1601/2 letters is of equal interest with their content, and should be the subject of further study.
+
+<!--Paragraph 23-->
+Donne all but abandons argumentative semicolon usage and the strategy of reason in subsequent letters to More, relying instead on appeals to mercy and compassion, but he continues to use the argumentative sentence, with its semicolon-marked and often syntactically parallel branches, in letters to Egerton, culminating in a notable occurrence of this usage in the letter in which he makes his case for restoration to his position:
+
+<blockquote>
+'''I was carefully and honestly bred; enioyd an indifferent fortune; I had, (and I had vnderstandinge inough to valew yt) the Sweetnes and Security of a freedome, and indepency; wthowt markinge owt to my hopes, any place of profitt, I had a desire to be yor Lps servant; by the favor wch yor good Sonns love to me, obteind''' (To Egerton March 1 1601/2).
+</blockquote>
+
+This five-part sentence contains three independent clauses. It may be that the syntactic incompleteness of '''"enioyed an indifferent fortune;"''' and '''"by the favor wch yor good Sonns love to me, obteind"''' are oversights, but rigid syntactic regularity does not seem to have been a requirement for seventeenth-century loose sentences. Even the formal dedicatory letter to Egerton contains a fragment, as does the Carey verse letter. The sample shows no evidence whatever that the semicolon must co-ordinate syntactically equal members as it does for us. But Donne has clearly linked here his lack of self-interest in desiring to serve Egerton and has separated that from the favour he gained with Egerton through his son. Here, near the beginning of the letter, Donne reviews his early career for Egerton before going on to make his case. Observe the difference another punctuation might make:
+
+<blockquote>
+'''I was carefully and honestly bred; enioyd an indifferent fortune; I had, (and I had vnderstandinge inough to valew yt) the Sweetnes and Security of a freedome, and indepency, wthowt markinge owt to my hopes, any place of profitt; I had a desire to be yor Lps servant, by the favor wch yor good Sonns love to me, obteind.''' (To Egerton March 1 1601/2; punctuation adjusted)
+</blockquote>
+
+This adjusted punctuation replaces the semicolons in ll. 20 and 22 with colons which correct the syntax of the two incomplete members by attaching them to the clauses which precede them. But this arrangement of clauses connects Donne's '''"indepency"''' [sic] with his desire to serve Egerton, implying that he was disinterested because he could afford to be. The adjusted punctuation also implies that Donne desired to be recommended to Egerton through his son. Donne's punctuation carefully avoids both of these tactless blunders. The whole organization of this letter as Donne wrote it is businesslike, almost lawyerly, and does credit to his diplomatic training. No later letters in this sample give occasion for the use of what we might call the "argumentative semicolon."
+
+<!--Paragraph 24-->
+The second kind of semicolon usage occurs in sentences whose full meaning is cumulative rather than presented in series or delayed until after a colon. These sentences most resemble the usage described in Butler (59) and Jonson (551), who say that the semicolon comes after incomplete sense.
+
+<!--Paragraph 25-->
+Sentences with cumulative branches marked by semicolons occur frequently in letters to both More and Egerton, especially in passages in which he appeals to mercy or compassion. Although the sentiments expressed in these sentences may not be to our taste, their construction is clearly differentiated from that of other sentences containing colons or "argumentative" semicolons. Whether or not this differentiation was deliberate will probably never be known, but its consistency makes it eligible as a stylistic principle.
+
+<blockquote>
+''. . . My Conscience and such Affection as in my Conscience becomes an honest Man, emboldneth me to make one request more, wch ys that by some kind and Comfortable Message yow would be pleasd to giue some ease of the afflictions wch I know yor Daughter in her Mind suffers; and that (if it be not against yor other purposes) I may wth yor Leave wright to her; for wthowt yor Leave I wyll neuer attempt any thing concerning her'' (To More 13 Feb. 1601/2).
+</blockquote>
+
+The sentence builds to Donne's belated promise to approach Ann only through her father. He comes to this point by way of a plea for mercy for her, and then a request that he might write to his wife. By reminding More that his daughter's happiness is at stake here, he strengthens his case. In the next sentence of this letter, Donne addresses Egerton in another plea for mercy:
+
+<blockquote>
+'''All these Irons are knocd of; yett I perish in as heavy fetters, as ever, whilst I Languish vnder yor Lps Anger.''' (To Egerton 1 March 1601/2)
+</blockquote>
+
+The first semicolon acknowledges Donne's release from prison; the rest of the sentence portrays his life as still a form of imprisonment, where he '''"languishes"''' in '''"fetters"''' because of Egerton's continued displeasure. It is the continuity between past imprisonment and continuing unhappiness that comes across here. The branch after the semicolon continues the theme of prison, while the semicolon itself signals the incompleteness of the thought in the first member.
+
+<!--Paragraph 26-->
+The following sentence from the first letter to More contains all three usages of colon, cumulative semicolon, and argumentative semicolon. The delayed main point is the argumentative series, which is clearly directed to More's intellect; it is hardly well calculated to assuage his anger.
+
+<blockquote>
+''. . . I know this Letter shall find yow fvll of passion: but I know no passion can alter yor reason and wisdome; to wch I aduenture to comend these perticvlers; That yt ys irremediably donne; That if yow incense my L, yow Destroy her and me; That yt is easye to giue vs happines; And that my Endeuors and industrie, if it please yow to prosper them, may soone make me somewhat worthyer of her'' (To More 2 Feb. 1601/2).
+</blockquote>
+
+The colon in l. 50 signals a change of topic: More's anger is treated dismissively, while his reason is emphasized, both by the colon and by the parallel sense and syntax of the branches which follow. The first two semicolons here point forward to sense completion: More's reason is to be addressed by '''"perticvlars,"''' which are marked by argumentative semicolons. These last three semicolons present Donne's arguments in a parallel series which is the main point promised by the colon.
+
+<!--Paragraph 27-->
+Donne is very consistent in distinguishing the four types of sentence by punctuation. Periodic sentences are punctuated only by commas; a delayed-point sentence may contain one colon; an argumentative or a cumulative sentence often contains several semicolons; in an argumentative sentence, the branches usually show parallel, or almost parallel syntax. Either an argumentative series or a cumulative series, or both, may comprise the second branch of a delayed-point sentence. Donne uses colons to emphasize the importance of what follows them, and semicolons to co-ordinate lists and to build to a climax.
+
+<!--Paragraph 28-->
+By these rules, some colons in the sample might have been semicolons (or vice versa), had Donne so chosen, and some sentences do not use colon or semicolon everywhere they might. But imagining how Donne might have punctuated differently involves thought about what he meant to say. Any editorial choice of punctuation for prose or poetry from the available manuscript and early edition variants must depend upon how we read Donne's organization of his sentences.
+
+==VI==
+<!--Paragraph 29-->
+If punctuation must be seen as an act of interpretation, then scribal manuscript punctuation (including Donne's own) is also interpretation, and the various scribal readings may be evaluated for their closeness to Donne's actual practice by empirical means. But while we may get closer to Donne's style, we will never restore it. And, in any case, the poet himself might have punctuated different copies of the same text differently.<ref>See Bowers 447 on the poet as his own copyist. I am indebted to John T. Shawcross for this observation and for confirmation of Bowers' comments on the practices of poets acting as their own scribes.</ref>
+
+<!--Paragraph 30-->
+Why should punctuation choices which could easily be different, and which Donne himself may not have consciously calculated, be the object of so much effort? Only because if we neglect punctuation, we may lose differences in style, tone, and attitude, and even mistake Donne's meaning.<ref>Both Ernest W. Sullivan in "The Problem of Text in Familiar Letters" and P. L. Heyworth discuss these dangers of inattention to punctuation. Sorlien demonstrates clearly the damage done to sense and style by repunctuation in the first printed edition of ''Letters to Severall Persons of Honour''.</ref>
+
+<!--Paragraph 31-->
+Consider the difference an alternative approach to punctuation might make in the last stanza of "A nocturnall upon St. Lucies day:"<ref>Shawcross, ''The Complete Poetry of John Donne'' 156-57. I am indebted to Professor Shawcross for his advice and for his comments on this essay.</ref>
+
+<blockquote>
+<poem>
+'''But I am None; nor will my Sunne renew.'''
+'''You lovers, for whose sake, the lesser Sunne'''
+'''At this time to the Goat is runne'''
+'''To fetch new lust, and give it you,'''
+'''Enjoy your summer all;'''
+'''Since shee enjoyes her long nights festivall'''
+'''Let mee prepare towards her, and let mee call'''
+'''This houre her Vigill, and her Eve, since this'''
+'''Both the yeares, and the days deep midnight is''' (ll. 37-45).
+</poem>
+</blockquote>
+
+How should this stanza be punctuated? Shawcross reminds us that the editor is obliged to make sense of the text—to interpret it. He has done so here. His interpretation, read in seventeenth-century terms, is consistent with Donne's practice in the letters of the sample, and suggests by means of the semicolon at the end of l. 41 (which originates in Grierson's 1912 edition) that '''"midnight"''' is the essential completing idea of the sentence and the poem. And Shawcross's edition makes a sharp break by means of a period between the nothingness of l. 37 and the lovers of ll. 38-41.
+
+<!--Paragraph 32-->
+Donne's seventeenth-century copyists were also interpreting the text, sometimes by emending verbals, very often by applying punctuation. Let us treat their varying punctuations as interpretations and try to discern which may be closest to Donne's practice.
+
+<!--Paragraph 33-->
+There are eight scribal manuscripts of this poem in addition to the 1633 first edition. Each copyist punctuates this stanza differently. The 1633 punctuation may be ruled out at once, because it places a semicolon at the caesura in l. 37 and then a colon at the line's end; Donne never placed a semicolon before a colon in the sample studied here.
+
+<blockquote>
+<poem>
+'''But I am None; nor will my Sunne renew:'''
+'''You lovers, for whose sake, the lesser Sunne'''
+'''At this time to the Goat is runne'''
+'''To fetch new lust, and give it you,''' [40]
+'''Enjoy your summer all,'''
+'''Since shee enjoyes her long nights festivall,'''
+'''Let mee prepare towards her, and let mee call'''
+'''This houre her Vigill, and her eve, since this'''
+'''Both the yeares, and the dayes deep midnight is''' (1633 Edition ll. 37-45). [45]
+</poem>
+</blockquote>
+
+<!--Paragraph 34-->
+Five of the scribal manuscripts also fail to show Donnean style because they use few or no colons or semicolons. In a loose sentence of this length, Donne characteristically used at least one, and usually more than one, heavy stop. Only two manuscripts show a style like that of the sample; they are Trinity College Cambridge and Trinity College Dublin (referred to here as CT1 and DT1 respectively):
+
+<blockquote>
+<poem>
+'''But I am none; nor will my Sun renewe'''
+'''You Lovers, for whose sake the lesser Sunne'''
+'''At this tyme to the Goate is runne'''
+'''To fetch new Lust, and give it you''' [40]
+'''Enioy your summer all.'''
+'''Since shee enioyes her long nights festivall'''
+'''Lett mee prepare towards her, & lett mee call'''
+'''This houre her vigill, & her Eve, since this'''
+'''Both the yeares, & the dayes deepe midnight is''' (Puckering MS). [45]
+</poem>
+</blockquote>
+
+The long stops of CT1 and DT1 are identical, which is noteworthy in itself. A scribe often punctuated different copies of the same text differently; this scribe did not. CT1 and DT1 are also distinguished by being derived from the same archetype.<ref>It has been suggested that CT1 and DT1 are the work of the same scribe; Gary Stringer, in a letter dated 10 April 1997, reports this as Peter Beale's opinion. John Shawcross, however, strongly disagrees in a letter dated 28 March 1997. Whether the two manuscripts are from the same hand or not, their early position in the chain of transmission and their proximity to a lost, possibly authorial archetype (Stringer Letter 10 March 1994), along with their unanimity in colon and semicolon usage, make them important witnesses to punctuation.</ref>
+
+<!--Paragraph 35-->
+If we accept the CT1/DT1 punctuation of this stanza then, much as some commentators might like to stress the implied optimism of '''"her Vigill, and her Eve",''' the earliest consistent scribal testimony turns abruptly from the enjoyment of '''"you lovers"''' to a new sentence beginning with '''"her long night's festival"''' and building from there to completion in the despair of '''"midnight,"''' an interpretation very close to that given in Shawcross's edition of the poem.
+
+<!--Paragraph 36-->
+Is the CT1/DT1 punctuation Donne's? Almost certainly not. The scribes showed great independence in applying punctuation which made sense to them. But we may be justified, I think, in privileging a seventeenth-century interpretation which does not violate Donne's style, which appears early in the scribal tradition, and which preserves the more difficult reading of ll. 37-38 over any later interpretations, even very good ones, that have been created by punctuation. Not punctuating the end of l. 37 at all allows the poem to say both "my sun will not renew" and "my sun will not renew you lovers," a syntactic ambiguity characteristic of Donne's poetry.
+
+<!--Paragraph 37-->
+Further study may fill out the picture of Donne's punctuation practice. It is not yet clear that the style just described is uniquely Donnean. Ernest Sullivan has said that the longer prose works such as ''Biathanatos'' and ''Pseudomartyr'' resemble the poetry much less than the prose letters do;<ref>See Sullivan, "The Problem of Text" 119. Sullivan finds that the longer and more lightly punctuated sentences of the longer prose works are characteristic of Donne's more serious and formal style, while short sentences with heavier punctuation are more typical of Donne's witty and satirical writing. His conclusions are confirmed in this sample; the formal dedicatory letters contain lighter punctuation and more periodic sentences than the other letters in the sample. Clearly Sullivan is correct also that further study of Donne's prose puctuation is needed (119).</ref> those longer works may be amenable to study, since ''Biathanatos'', at least, bears some traces of the author's hand.<ref>See Sullivan's "Textual Introduction" to ''Biathanatos'' by John Donne.</ref> Commas in Donne holographs have been little analyzed, and may perhaps be shown to be more systematic in their usage than they are now commonly believed to be. And the emergence of competing readings for various poems on the basis of an understanding of Donne's consistent application of punctuation conventions available to him may enrich our understanding of the poems. Donne editors may yet come closer to that happy state of affairs in punctuation described by Francis Clement in 1587, in which "the breath is relieved, the meaning conceived, the eye directed, the ear delited, and all the senses satisfied."<ref>Quoted in Graham-White 46.</ref>
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Alden, Raymond M. "The Punctuation of Shakespeare's Printers." ''PMLA'' 39 (1924): 557-80.
+*Barker, Nicolas. "Donne's 'Letter to the Lady Carey and Mrs. Essex Riche': Text and Facsimile." ''Book Collector'' 22 (1973) 487-93.
+*Baugh, Albert C. "A Medieval Survival in Elizabethan Punctuation." ''Studies in the English Renaissance Drama.'' Ed. Josephine W. Bennett, Oscar Cargill and Vernon Hall, Jr. New York: New York UP, 1959. 1-15.
+*Beale, Peter (comp.). ''Index of Literary Manuscripts.'' Vol. I pt. I Andrewes-Donne. London: Mansell, 1980.
+*Bowers, John M. "Hoccleve's Two Copies of Lerne to Dye: Implications for Textual Critics." ''Papers of the Bibliographical Society of America'' 83 (1989): 437-72.
+*Butler, Charles. ''Charles Butler's English Grammar'' (1634). Reprinted and edited by A. Eichler. ''Neudrucke Frühneuenglischer Grammatiken'', 4. Halle A.S.: Max Niemeyer, 1910.
+*Croft, P.J. ''Autograph Poetry in the English Language: Facsimiles of Original Manuscripts from the Fourteenth to the Twentieth Century.'' Vol I. New York: McGraw-Hill, 1973: 25-28.
+*Daalder, Joost. "The Prosodic Significance of Donne's Accidentals." ''Parergon'' 4 (1986): 87-101.
+*Daines, Simon. ''Simon Daines' Orthoepia Anglicana, 1640''. A Scolar Press Facsimile: English Linguistics, 1500-1800, No. 31. Menston, England: Scolar, 1967.
+*Donne, John. "Letter to the Lady Carey and Mrs Essex Riche." ''Autograph Poetry in the English Language: Facsimiles of Original Manuscripts from the Fourteenth to the Twentieth Century''. Vol. I. Ed. P. J. Croft. New York: McGraw-Hill, 1973: 25-28.
+*—. "A nocturnall upon S. Lucies day, Being the shortest day." ''Poems, By J.D. with Elegies on the Authors Death''. London: Marriot, 1633. 187-188. Photocopy supplied by the Wilson Rare Books Collection, U of Minnesota. 187-88.
+*—. "A nocturnall upon S. Lucies day, Being the shortest day." ''Poems, By J.D. with Elegies on the Authors Death''. A facsimile edition. Menston, England: Scolar. 187-88.
+*—. "A Nocturnall on St. Lucies daie, being the shortest daie." Eng. MS 966.3 Norton MS. 4503. Houghton Library, Harvard. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. "A Nocturnall upon St. Lucyes Day beeing the shortest Day." Eng. MS 966.5 Norton MS 4504 O'Flaherty MS. Houghton Library, Harvard U. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. "A Nocturnall upon St. Lucies Day being the shortest Day." MS R 3.12 Trinity College, Cambridge. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. "A Nocturnall upon St. Lucyes Day being the shortest day." Narcissus Luttrell MS Geoffrey Keynes, Cambridge. Microfilm copyflow supplied by Professor Ted-Larry Pebworth, U of Michigan-Dearborn.
+*—. "A Nocturnall uppon S. Lucies daye beinge the Shortest night." Additional MS 18647. British Museum, London. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. "A Nocturnall uppon St. Lucies day beinge the shortest daye." Dolau Cothi MS National Library of Wales. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. "A Nocturnall uppon St. Lucies Daye being the shortest Daye." MS G.21, first collection. Trinity College, Dublin. Microfilm copyflow supplied by Professor Gary Stringer, U of Southern Mississippi.
+*—. To Sir George More, 2 February 1601/2 (Folger MS L. b. 526). Printed in ''Loseley MSS'', pp. 328-30; Gosse, I, 100-2. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir George More, 11 February 1601/2 (Folger MS L. b. 527). Printed in ''Loseley MSS'', pp. 330-2; Gosse, I, 104-5. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir Thomas Egerton, 11 February 1601/2 (Folger MS L. b. 528). Printed in ''Loseley MSS'', pp. 332-3; Gosse, I, 105-6. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir George More, 13 February 1601/2 (Folger MS L. b. 529). Printed in ''Loseley MSS'', pp. 334-5; Gosse, I, 106-7. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir Thomas Egerton, 13 February 1602/2 (Folger MS L. b. 530). Printed in ''Loseley MSS'', p. 336; Gosse, I, 107-8. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir Thomas Egerton, [13 February 1601/2?] (Folger MS L. b. 534). Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir George More, March 1601/2 (Folger MS L. b. 532). Printed in ''Loseley MS'', pp. 339-40; Gosse, I, 112-14. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Sir Thomas Egerton, 1 March 1601/2 (Folger MS L. b. 533). Printed in ''Loseley MSS'', pp. 341-3; Gosse, I 114-15. Microfilm and transcription provided by Robert P. Sorlien.
+*—. To Henry, Prince of Wales, [1610] (owned by the Marquess of Bath, Longleat House, Portland Papers, Vol I f. 211). Transcription provided by Robert P. Sorlien.
+*—. To Sir Thomas Egerton, [1610] (owned by Robert S. Pirie, Hamilton, Massachusetts). Photocopy and transcription provided by Robert P. Sorlien.
+*—. To Sir George More, 22 June 1629 (Folger MS L. b. 542). Microfilm and transcription provided by Robert P. Sorlien.
+*Fries, Charles C. "Shakespearean Punctuation." ''Studies in Shakespeare, Milton and Donne''. University of Michigan Publication, Language and Literature, Vol I. New York: MacMillan, 1925. 65-86.
+*Gosse, Edmund. ''The Life and Letters of John Donne Dean of St. Paul's''. Vol. I. Gloucester, MA: Peter Smith, 1959.
+*Graham-White, Anthony. ''Punctuation and Its Dramatic Value in Shakespearean Drama''. Newark: U of Delaware P, 1995.
+*Haskin, Dayton. "New Historical Contexts for Appraising the Donne Revival from A.B. Grosart to Charles Eliot Norton." ''ELH'' 56 n. 4 (Winter 1989): 869-895.
+*Hester, M. Thomas. Introduction. ''Letters to Severall Persons of Honour (1651). By John Donne''. A facsimile reproduction. Delmar, NY: Scholars' Facsimiles & Reprints, 1977. v-xxi.
+*Heyworth, P. L. "The Punctuation of Middle English Texts." ''Medieval Studies for J. A. W. Bennett''. Ed. P. L. Heyworth. Oxford: Clarendon, 1981. 139-157.
+*Jonson, Ben. ''The English Grammar''. Ed. C.H. Herford, Percy and Evelyn Simpson. Oxford: Clarendon, 1947. 463-553. In Vol.VIII of ''Ben Jonson (Life and Works)''. 11 vols. 1925-52.
+*Maurer, Margaret. "The Poetical Familiarity of John Donne's Letters." ''Genre'' 15 (1982): 183-202.
+*Mulcaster, Richard. ''Mulcaster's Elementarie'' (1582). Exactly reprinted and edited by E. T. Campagnac. Oxford: Clarendon 1925.
+*Ong, Walter J. "Historical Backgrounds of Elizabethan and Jacobean Punctuation Theory." ''PMLA'' 59 (1944): 349-60.
+*Partridge, A. C. "The Prose Letters." ''John Donne: Language and Style''. London: Andre Deutsch, 1978. 174-190.
+*—. ''Orthography in Shakespeare and Elizabethan Drama: A Study of Colloquial Contractions, Elision, Prosody and Punctuation''. Lincoln: U of Nebraska, 1964.
+*Pebworth, Ted-Larry. "John Donne, Coterie Poetry, and the Text as Performance." ''Studies in English Literature'' 29 (1989): 61-75.
+*Pollard, Alfred W. ''Shakespeare's Fight with the Pirates and the Problems of the Transmission of His Text''. 2nd ed., revised with an introduction. Cambridge: Cambridge UP, 1920. Reprinted 1967.
+*Shawcross, John, ed. ''The Complete Poetry of John Donne''. Garden City, NY: Anchor-Doubleday & Co., 1967.
+*—. Letter. 27 Feb. 1997.
+*—. "Poetry, Personal and Impersonal: The Case of Donne." ''The Eagle and the Dove: Reassessing John Donne''. Ed. Claude J. Summers and Ted-Larry Pebworth. Columbia: U of Missouri P, 1986. 53-66.
+*Simpson, Percy. ''Shakespearean Punctuation''. Oxford: Clarendon, 1911.
+*Sorlien, Robert P. "Letters to Severall Persons of Honour: The Problem of Textual Integrity." Unpublished typescript provided by the author.
+*Stringer, Gary S. Letter. 10 March 1994.
+*—. Letter. 10 April 1997.
+*Sullivan, Ernest W. II. "The Problem of Text in Familiar Letters." ''Papers of the Bibliographical Society of America'' 75 (1981): 115-126.
+*— (ed.). General Introduction. ''Biathanatos'' by John Donne. Newark: U of Delaware P, 1984. ix-xxxiii.
+*Treip, Mindele. ''Milton's Punctuation and Changing English Usage 1582-1676''. London: Methuen, 1970.
+
+{{BookCat}}
