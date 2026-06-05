@@ -1,0 +1,17 @@
+''This section was written by Michael Best''.
+
+The papers in this collection were originally presented as a part of "Technolog''ising'' the Humanities / Humanitising the Technologies," a joint session of the Association of Canadian College and University Teachers of English and the Consortium for Computers in the Humanities at the 1997 Learned Societies Conferences, Memorial University, St. John's, Nfld., 1 June 1997.
+
+The five scholars who participated, all members of the Editorial Board for the Internet Shakespeare Editions (ISE), were asked to imagine ways that a scholarly site for Shakespeare texts and resources could be used. The result was a forum where the presenters explored a wide range of interests and approaches.
+
+In this collection, the principle of linear organization has been to move from more particular to more general discussions. 
+
+*'''Paul Werstine''' demonstrates the way the electronic medium can enhance the debate on a specific editorial issue, by providing interconnecting links with representations of the original materials; 
+*'''Anne Lancashire''' asks Shakespeare scholars what they would like to see in an Internet edition of the plays, and discusses her findings;
+*On a more general level, ''Ian Lancashire'' proposes a model for the ISE that would respond to its potentially very general audience, and at the same time unify the site around a consideration of Shakespeare the man as author; 
+*'''Donald Foster''', in the first of two articles intended "to illustrate the effective use of these new electronic resources," looks at the three texts of ''Hamlet'' as a test case for the kinds of research that become available in an electronic medium; 
+*'''Ray Siemens''' considers two general kinds of activities that machine-readable texts make possible: hypertextual interlinking of the kind exemplified by Werstine's paper, and a more "dynamic" reading of the text where various kinds of text-analysis software would be integrated with the edition in such a way that a reader can invoke such activities as collation, concordance, and sophisticated searches while in the process of reading the text. 
+
+My own Afterword is a preliminary discussion, in the light of the previous papers, to point directions that the ISE can follow as the site develops.
+
+{{BookCat}}
