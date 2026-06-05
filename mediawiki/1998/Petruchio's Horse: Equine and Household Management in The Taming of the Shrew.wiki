@@ -1,0 +1,279 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Petruchio's Horse: Equine and Household Management in ''The Taming of the Shrew''}}
+''This essay was written by Peter F. Heaney''.
+
+<!--Paragraph 1-->
+There are very few horses worth noting in the Shakespearean canon. There are plenty of horses, of course—the plays are littered with them. But not many are singled out for attention. One recalls Richard III’s memorably unavailable horse (V.iv.7), Richard II’s much-mourned “roan Barbary” (V.v.78–94)—Bolingbroke helped himself to Richard’s favourite horse as well as his crown—and the gift to Timon of “Four milk-white horses, trapp’d in silver” (I.ii.179–80). There is also Adonis’ “trampling courser” which is rather more interested in Venus’ “breeding jennet” than Adonis is in Venus. This is a splendid beast:
+
+<blockquote>
+<poem>
+Round-hoof’d, short-jointed, fetlocks shag and long,
+Broad breast, full eye, small head and nostril wide,
+High crest, short ears, straight legs and passing strong,
+Thin mane, thick tail, broad buttock, tender hide:
+Look, what a horse should have he did not lack,
+Save a proud rider on so proud a back. (295–300)
+</poem>
+</blockquote>
+
+This horse does indeed have everything, which is more than can be said for his master. There are only two other horses worthy of mention. One is the Dauphin’s “beast for Perseus” in ''Henry V''. The Dauphin does not descend to anything so base as mere description; his horse can be expressed only through the hyperbole of “pure air and fire . . . the dull elements of earth and water never appear in him”; and “When I bestride him, I soar, I am a hawk: he trots the air; the earth sings when he touches it” (III.vii.15.25). Alas, this most significant of horses, this “prince of palfreys,” fit for “a sovereign’s sovereign to ride on,” worthy recipient of the sonnets his master addresses to him, is a mere ''palfrey'': “a saddle-horse, as distinguished from a war-horse, ''esp.'' a small saddle-horse for ladies” (''OED''). So much for the Dauphin’s prowess in battle. Much space is given to this fatuous dialogue in the French camp, a necessary (patriotic) reassurance for the Elizabethan censor, possibly concerned at the over-bloody threats issued from the English camp a few minutes earlier. Talk from Henry of massacre of the old, rape of daughters, and “naked infants spitted upon pikes” is perhaps a little more palatable in the context of an enemy so degenerate that it has made its (male) horse its mistress. The Dauphin’s horse, therefore, becomes a significant sign in the subversive web of ''Henry V''; we are invited to jeer at the Dauphin’s foolish affection for his horse, but also to note the sickness of the English enterprise, as hinted at by the condition of ''their'' horses (and also the English army):
+
+<blockquote>
+<poem>
+The horsemen sit like fixed candlesticks,
+With torch-staves in their hand; and their poor jades
+Lob down their heads, dropping the hides and hips,
+The gum down-roping from their pale-dead eyes,
+And in their pale dull mouths the gimmal’d bit
+Lies foul with chaw’d grass, still and motionless . . . . (IV.ii.45–50)
+</poem>
+</blockquote>
+
+These lines are, of course, the hostile Grandpré’s; but more significant is that they follow Henry’s rout at the hands of Williams in the previous scene.<ref>Henry’s defence of his “cause” is given short shrift by blunt Private Williams (see IV.i).</ref> The horses are not included for decorative purposes only. As elsewhere in Shakespeare, the reader has to pay attention to the text and any clues it might offer.
+
+<!--Paragraph 2-->
+Such attention to metaphor<ref>We have Jacques Derrida’s authority for such attention. In his essay “White Mythology: Metaphor in the Text of Philosophy,” Derrida argues for the ''usure'', or accumulated force (with compound interest!) of metaphor: “How can we make this sensible except by metaphor? which is here the word ''usure''. In effect, there is no access to the usure of a linguistic phenomenon without giving it some figurative representation” (209). It is the contention of this essay that any reading of the ''Shrew'' must give due weight to whatever leading is offered by the text. Petruchio’s horse is a very powerful “leading.”</ref> (or, more accurately, perhaps, suggestion by analogy) in ''The Shrew'' must lead the reader to Petruchio’s horse. No Shakespearean horse, not even the Dauphin’s, is given a fraction of the space devoted to this extraordinary creature. When Petruchio finally turns up, late, for his marriage to Katherine, he is (to borrow from ''King Lear'') “fantastically dressed.” This is as nothing to the state of his horse. Biondello, one of a number of pert lower-orders in the ''Shrew'', provides this preludary tour-de-force, to prepare the way for the great shrew-tamer general, Petruchio:
+
+<blockquote>
+Why, Petruchio is coming in a new hat and an old jerkin, a pair of old breeches thrice turned, a pair of boots that have been candle-cases, one buckled, another laced, an old rusty sword ta’en out of the town-armoury, with a broken hilt, and chapeless; with two broken points; his horse hipped—with an old mothy saddle and stirrups of no kindred—besides, possessed with the glanders and like to mose in the chine, troubled with the lampass, infected with the fashions, full of windgalls, sped with spavins, rayed with the yellows, past cure of the fives, stark spoiled with the staggers, begnawn with the bots, swayed in the back and shoulder-shotten, near-legged before, and with a half-cheeked bit and a head-stall of sheep’s leather, which, being restrained to keep him from stumbling, hath been often burst and new-repaired with knots; one girth six times pieced, and a woman’s crupper of velure, which hath two letters for her name fairly set down in studs, and here and there pieced with pack-thread.<ref>III.ii.41–61. All quotations from the ''Shrew'' are from the Arden edition, ed. Brian Morris.</ref>
+</blockquote>
+
+<!--Paragraph 3-->
+It is worth giving these diseases just a little further scrutiny. Equine mismanagment on this scale should remind us—as it may well have reminded at least some members of a contemporary audience—of the growing interest in household management to be found in the late sixteenth century. Petruchio’s wretched horse is a symptom of his master’s cruel ''mis''management. The text invites us to make analogous connections between some of his unfortunate horse’s (noticeably related) characteristics and several of Petruchio’s own. “Glanders” is “a contagious disease in horses, the chief symptoms of which are swellings beneath the jaw and discharge of mucous matter from the nostrils” (''OED''). “Mose in the chine” has much the same meaning, and “the lampass” causes swelling in the roof of the mouth. A similar affliction in the same region is “the fives,” which causes swelling behind the ear. For good measure, this equine wreck also suffers from the “fashions,” or farcy, which manifests itself in tumour-like growths, and “windgalls,” soft tumours or swellings on the fetlock, so called because they were thought to have contained air. The “spavins” is yet another disease resulting in swelling (in this case of the legs); “the staggers” is a distemper of the head, “a dizzy madness” (Markham, quoted by Morris, 228–9n). It seems unlikely that this passage is no more than a display of farrier-speak pyrotechnics: in the repetition of the various and manifold swellings, tumours and growths given to Petruchio’s horse, there is a consistency, a coherence that denies the likelihood of mere accident. Is there not, at least, an analogical application of all this to the great Woman-Tamer himself? Does he not exhibit disease of the mouth? Is he not gifted, moreover, with the most outrageously inflated ego? On the first count, Petruchio is extraordinarily voluble: as Stevie Davies points out (6) he is given many more lines to speak than anyone else in the play: he has 564 lines to Katherine’s 207, with everybody else having far fewer (for example Baptista has 160, Lucentio 153, and Bianca a mere 67). As to Petruchio’s ego (not unrelated to his pursuit of power over words), it is monstrous, all-consuming, inflicted on all who conceivably might compete with him for authority or mastery.
+
+<!--Paragraph 4-->
+This "condition" of Petruchio's should at the very least make one hesitate before endorsing the view that the Shrew is four-square behind Petruchio's manic misogyny. Is his rabid patriarchalism role-play, or the product of a "disordered" mind? Petruchio is not, of course, insane; he is a man of "policy," of calculation; but, as Jeanne Addison Roberts points out, "There [are] some overtones of the monster in Petruchio right from the start" (159-171). Grumio, who should know, declares to anyone who might help save his ears from destruction, "My master is mad" (I.ii.18). Katherine, even before the arrival of the stricken horse and its master, before the wedding, describes Petruchio as "a mad-brain'd rudesby" (III.ii.10); the sedate Gremio, in his account of the wedding, echoes the phrase, referring to Petruchio as the "mad-brain'd bridegroom" (III.ii.161). This "madness" and the violence that accompanies it may be seen to be a role played by Petruchio to gain the desired end -- the "taming" of Katherine. This is an argument put forward by Brian Morris in the Arden introduction (133-136). What Petruchio achieves, in this view, is a metamorphosis, a change wrought by educating Katherine out of her shrewishness. Jeanne Addison Roberts goes further, suggesting that Petruchio himself metamorphoses, is tamed: he "[gives] up his view of Katherine as goods and chattels or as his horse or his falcon . . ." (171). Neither position fully explains the sheer weight of equine decay that constitutes Petruchio's horse: if its body has a sound organ or limb, we are not told about it. Petruchio is characterised with similar consistency: he begins in manic mode and sustains his disorderly regime until he achieves the kind of "order" he requires. 
+
+<!--Paragraph 5-->
+The condition of Petruchio's horse directs our attention specifically to head and mouth, Petruchio's: ego and mouth. We are given a dose of both early in the play, when he casts himself as swashbuckling hero of the wars (unspecified), undaunted in the face of cannon and artillery (and, for good measure, the untamed beasts of the jungle):
+
+<blockquote>
+<poem>
+Think you a little din can daunt mine ears?
+Have I not in my time heard lions roar?
+Have I not heard the sea, puff'd up with winds,
+Rage like an angry boar chafed with sweat?
+Have I not heard great ordnance in the field,
+And heaven's artillery thunder in the skies?
+Have I not in a pitched battle heard
+Loud 'larums, neighing steeds, and trumpets' clang?
+And do you tell me of a woman's tongue,
+That gives not half so great a blow to hear
+As will a chestnut in a farmer's fire?
+Tush, tush, fear boys with bugs! (I.ii.198–209)
+</poem>
+</blockquote>
+
+This is jolly bombast, but also windy rhetoric, full of sound and fury. Those who see Petruchio as a player of roles (notably the cruel hawkmaster and servant-beater of Act IV), should remember that his characteristic violence and braggadocio are on show when no role is called for (see, for example, the attack on Grumio, referred to above). One of the symptoms of Petruchio's "condition" is an obsessive self-interest, a disorderly construct of the world (one which neglects all other concerns, individual and social). This can scarcely be called irrational, since it is firmly rooted in monstrously egotistical self-interest; when he arrives in Padua, he is prepared to marry any woman, if she is wealthy enough:
+
+<blockquote>
+<poem>
+Signior Hortensio, 'twixt such friends as we
+Few words suffice; and therefore, if thou know
+One rich enough to be Petruchio's wife,
+As wealth is burden of my wooing dance,
+Be she as foul as was Florentius' love,
+As old as Sibyl and as curst and shrewd
+As Socrates' Xanthippe, or a worse,
+She moves me not, or not removes, at least,
+Affection's edge in me, were she as rough
+As are the swelling Adriatic seas:
+I come to wive it wealthily in Padua;
+If wealthily, then happily in Padua. (I.ii.60–71)
+</poem>
+</blockquote>
+
+But to achieve this desirable end, Petruchio overturns all that might rationally be seen as “orderly” in the imposition of his own lunatic “order,” through a taming process which horrifies even the misogynist patriarchs of Padua. Violence, actual or threatened, is a symptom of this disorder, and is the basis of all his proceedings; even his wooing of Katherine does violence to language, meaning and truth (notably his inversion of all the information he has been given about Katherine). He makes it clear at the outset that he will use violence against Katherine if necessary: “I swear I’ll cuff you if you strike again” (II.i.216). Petruchio’s behaviour at the wedding is more than a “farcical exaggeration of normal masculine behaviour” (Kahn 109), it is the obverse of everything that bourgeois Padua expects of him; Gremio’s account of the wedding, in tones of lip-smacking horror, describes Petruchio stamping, swearing at the priest and striking him, and throwing wine in the sexton’s face (III.ii.147–173). Gremio concludes that Petruchio is “a devil, a very devil, the devil’s dam,” and “Such a mad marriage never was before” (III.ii.146; 172). The violence continues when Petruchio carries Katherine off by main force (marital rape?), threatening death and destruction to anyone who gets in his way. It is scarcely plausible to argue that all this is merely role-play, part of Petruchio’s “education” of Katherine.<ref>Amongst those who make a “literal” reading of Petruchio’s methods are Alexander Leggatt and Charles Marovitz. Leggatt is evidently uneasy at what might be construed as cruelty, but nevertheless concludes: “The taming of Katherina is not just a lesson but a game—a test of skill and a source of pleasure” (56). (Pleasure for whom, one might ask.) Marovitz, at the other end of the spectrum, is angrily indignant; the Shrew is “a detestable story about a woman who is brainwashed by a scheming adventurer as cruel as he is avaricious” (22). To see Katherine as brainwashed is to miss something.</ref> Rather, this extravagant violation of the quintessential symbol of social cohesion is consistent with earlier self-assertion: as noted above, our first encounter with Petruchio has him wringing Grumio’s ears. It is consistent also with the “policy” he adopts when they return to Petruchio’s country house. Here is more “disorder”: the master strikes and kicks his servants, wholesome food is thrown wantonly about, the natural functions of eating and sleeping are denied to Katherine, the conjugal bed made a place of disturbance and unrest.
+
+<!--Paragraph 6-->
+Petruchio’s “policy” of household mismanagement would not have been much favoured by contemporary humanist writers. As Lorna Hutson has shown, much was written in the sixteenth century about conjugal responsibilities within a wider context of household management. The writings of the Greek philosopher Xenophon were highly influential; amongst other works, his ''Oeconomicus'' (''The Science of Good Husbandry''), and ''Cyropaedia'' (''The Education of Cyrus''), were both translated into English in the sixteenth century. Essential to these studies is the representation of women and their role within marriage, together with advice to husbands on the organisation of their households, and the management of their wives. A repeated motif in these essays, sermons and books of domestic conduct is the correlation made between horse-training and wife-training. In Xenophon’s ''Oeconomicus'', Socrates declares:
+
+<blockquote>
+I canne show you some men, the which have so used and ordered their wives, that they comfort and help them towards the increasyng of their house; and some that have such wives, the which utterly destroi the hous; and so for the moste part of men have . . . a horse, most commonly, if he be skittish, and doe some displesure, we blame the breker. And a wyfe likewise . . . if he do not teach hir, if she be rude, unwomanly, and wytles, is not he to be blamed? (qtd. Hutson 34)
+</blockquote>
+
+Hutson argues that this “lesson” in “exemplarity” is directed rather at the man than the woman: “Exemplarity does not, after all, mean learning by example; it means ''teaching'' by example” (34). If a woman is “wytles,” the blame is her husband’s. What instruction is to be acquired from the “example” of Petruchio’s horse? In the context of good husbandry, the wretched animal assumes a significance of Platonic proportions. Xenophon’s “political romance”<ref>So described by the Bishop of Hereford in his Introduction to the Everyman edition of Xenophon’s ''Cyropaedia'' (xii).</ref> ''Cyropaedia'', the education of Cyrus the Great, founder of the Persian empire, insists on the value of kindness. (This kindness was to be extended not only to humans. Cyrus’ army, according to Xenophon, followed him because they loved him, and because he fed and paid them; but it is to be offered also to horses.) In the ''Oeconomicus'', moreover, Socrates declares that a neglected horse cannot be called a “good,” since it will not be “beneficial to [his] master.”<ref>''Complete Works'' (646). Xenophon’s concern that horses should be well-treated is a constant theme in his writing. See also his treatise ''On Horsemanship'', translated into English in 1584 (717–728).</ref> How, one is entitled to ask, did Petruchio’s horse get like that? There is a further point to be made about Petruchio and horses. On the journey to his house after the travesty of a wedding, Katherine’s horse falls, “in a miry place,” with Katherine under it. Her gallant knight, far from rescuing her, leaves her “with the horse upon her,” in order to beat his servant, Grumio. Katherine wades through the dirt to pluck Petruchio off. Is this incident also part of the grand design, the “policy”? Or merely another example of Petruchian incompetence? In all the many works of household management in this burgeoning genre, unskilful management is seen and condemned as profitless as well as foolish, a moral failure.
+
+<!--Paragraph 7-->
+Erasmus, the great sixteenth-century humanist and commentator-instructor on household management (and marriage in particular), is often cited by those seeking evidence of sixteenth-century misogyny. Yet, in his “Colloquy” on marriage, he has things to say about domestic “mis-rule,” which have a direct bearing on Petruchio’s taming “policy” (as stated in Act IV). This clearly offends against Erasmus’ idea of domestic peace and order. Erasmus issues a severe warning against this violation:
+
+<blockquote>
+Above all, beware that you moove no brawles in chamber or in bedde: but bee carefull that there all things bee pleasaunt and merrie. For if that place which is consecrated to the putting away of all offences, and to the restoring of love, be profaned with strife and greefe, then all remedies of reconciliation are gone.<ref>One of the ''Colloquies'', “A Very Excellent Dialogue betweene a good Woman and a Shrew” [1523] (13). One of Erasmus’ speakers in this “dialogue” presents the orthodox position on male authority etc., in marriage. The other—the Shrew—is given a powerful case, her grievances are substantial, and are aired at length:
+<blockquote>
+“When he cometh home drunke at midnight, he lieth snorting all night, and many times he berayeth his bed with vomiting . . . I vow I would I were hanged if I had not rather lie with a sow that hath pigges than with such a husband . . . . ” (2)
+
+. . .
+
+“Unhappy is the state of wives, if they must be obedient and diligent to please their husbands that are angry, drunke, and given to all naughtinesse.” (9)
+</blockquote>
+Erasmus’ Shrew is given spirit as well as cause. Asked how she reacts to a tale of blatant infidelity in a husband, she explodes:
+<blockquote>
+“If I had been his wife, I would have flowne in his beloveds face, and torne her haire off her head, and when he had gone out to dinner or supper with her, I would have crowned him with a pis-pot, so that he might have gone anointed to his banquet . . . . ” (12)
+</blockquote>
+
+It is interesting to consider the likely readership of this piece—especially in the original Latin. Even the voice of gentle orthodoxy in this dialogue is prepared to acknowledge “Here is a time when a woman may in good earnest admonish her husband, if it bee in a weightie matter” (14).</ref>
+</blockquote>
+
+Who is the Shrew? Frances Dolan decides Petruchio is “a temporary shrew,” which seems over-generous. She is nearer the mark when she points to Petruchio’s desecration of “chamber” and “bedde”: “Petruchio creates chaos in the two central locations of marriage, the sites of greatest intimacy and greatest risk” (Introduction 20). By flinging meat at the servants, and tearing the very bed asunder, Petruchio is continuing his reign of chaos, profaning the consecrated. There is more. His “rule” includes determining what Katherine is to wear, even the preference in clothes she is to have. Here, as in all Petruchio’s dealings with Katherine, there is implicit violence, and violence also offered to the tailor, who cannot understand why an order placed, and words written, no longer have any meaning. But meaning is precisely what Petruchio has fractured: words do not mean what they have always meant, time changes as he decrees, and the sun is the moon when he so declares it to be. All this masterful nonsense is the world (forcibly) refashioned by Petruchio: “This gallant will command the sun,” remarks Hortensio to himself (IV.iv.188). It is scarcely a coincidence that words connoting madness in ''The Taming of the Shrew'' occur so frequently;<ref>Of the comedies, only ''Twelfth Night'', where Malvolio is incarcerated for alleged madness in a conspiracy against him, and ''The Comedy of Errors'', the plot of which hinges on endless mistaken identities, have more. These two, like ''The Taming of the Shrew'', make “madness” a central motif.</ref>= a world (Petruchio’s) in which so much—financially, socially, emotionally—depends on the taming of one woman’s spirit is one seriously (or farcically) out of joint.
+
+<!--Paragraph 8-->
+Petruchio’s seizure of the means of communication is an act of terrorism. Petruchio’s monstrously inflated ego manifests itself in his first meeting with Katherine, the wit-bout in Act II, in which Petruchio’s immediate assault, on a woman he has never met before, is itself a form of verbal rape:
+
+<blockquote>
+<poem>
+'''Pet.''' Good morrow, Kate; for that’s your name, I hear.
+'''Kath.''' Well have you heard, but something hard of hearing;
+They call me Katharine that do talk of me.
+'''Pet.''' You lie, in faith; for you are call’d plain Kate,
+And bonny Kate and sometimes Kate the curst;
+But Kate, the prettiest Kate in Christendom,
+Kate of Kate Hall, my super-dainty Kate,
+For dainties are all Kates, and therefore, Kate,
+Take this of me, Kate of my consolation,
+Hearing thy mildness prais’d in every town,
+Thy virtues spoke of, and thy beauty sounded,
+Yet not so deeply as to thee belongs,
+Myself am mov’d to woo thee for my wife. (182–194)
+</poem>
+</blockquote>
+
+Petruchio bombards Katherine with the form of herself she has just denied him; he imposes upon her his heavily ironical character of her. His speech bounces and surges with the bombastic self-confident rhythms reserved for him in the play.<ref>This manic, Pythonesque quality is the hallmark of John Cleese’s performance for the BBC television production, directed by Jonathan Miller (1980).</ref> The ''Shrew'' is undeniably a play about mastery, specifically of language. There is indeed a “struggle . . . over possession of the word” (Davies 7). In this first meeting, with all the assurance of the “mad-brain’d” misogynist, Petruchio attempts to overwhelm Katherine, to drown her in a welter of words. Much of his first speech (above) is alliterative nonsense, designed to intimidate; some of it is offensive, sexually reductive—Kate as “cate” = “dainty” (and therefore consumable), Katherine is his “consolation.” Katherine is not overwhelmed in this initial skirmish, but trades word for word, until Petruchio resorts to obscene innuendo (“my tongue in your tail” [216]), and the threat of violence. At the end of the skirmish, he returns to his initial barrage:
+
+<blockquote>
+<poem>
+For I am he am born to tame you, Kate,
+And bring you from a wild Kate to a Kate
+Conformable as other household Kates. (269–271)
+</poem>
+</blockquote>
+
+Petruchio assaults her with “Kate” no fewer than twenty-eight times in this encounter; only twice is she allowed the “Katherine” she offers him. It is unremitting, sexual aggression; Katherine’s character of Petruchio as “A madcap ruffian and a swearing Jack,/That thinks with oaths to face the matter out” (281–2), anticipates her later “mad-brain’d rudesby” (III.ii.10). Even before the analogy with the grotesque horse, Petruchio’s “pathologically violent” linguistic inflation should remind the reader to give due respect to what the text is presenting (Davies 6). Words heaped up, as they are here, amount to something. There are other examples, such as the flamboyant act of piracy at the end of the wedding scene which is prefaced by a speech peppered with imperatives:
+
+<blockquote>
+<poem>
+Obey the bride . . .
+Go to the feast, revel and domineer,
+Carouse full measure to her maidenhead,
+Be mad and merry, or go hang yourselves . . . .
+Nay, look not big, nor stamp, nor stare, nor fret . . . .
+. . . Touch her whoever dare! (221–231)
+</poem>
+</blockquote>
+
+<!--Paragraph 9-->
+Petruchio, typically, has the bit between his teeth (an appropriate metaphor). All this afflatus, moreover, is before the self-proclaimed “reign” has begun (see IV.i.175–198).<ref>The point is that all this verbiage can scarcely be designated part of Petruchio’s proclaimed grand design of taming Katherine, since—he declares—that has its beginning when the happy couple return to Petruchio’s house in Verona.</ref> Petruchio’s language, and behaviour, are not only authoritarian, but are also larded with pompous pieties. “To me she’s married, not unto my clothes” (III.ii.115), is bettered by an attack of proverbial wisdom in Act IV:
+
+<blockquote>
+<poem>
+Our purses shall be proud, our garments poor,
+For ’tis the mind that makes the body rich,<ref>This is rich indeed from one who has just acquired a hefty dowry.</ref>
+And as the sun breaks through the darkest clouds,
+So honour peereth in the meanest habit. (IV.iii.168–171)
+</poem>
+</blockquote>
+
+This is empty platitude, part of Petruchio’s endless web of words; it follows Katherine’s explosion, after the provocation of the “lewd” and “filthy” hat:
+
+<blockquote>
+<poem>
+Why, sir, I trust I may have leave to speak,
+And speak I will. I am no child, no babe.
+Your betters have endur’d me say my mind,
+And if you cannot, best stop your ears.
+My tongue will tell the anger of my heart,
+Or else my tongue concealing it will break,
+And rather than it shall, I will be free
+Even to the uttermost, as I please, in words. (IV.iii.73–80)
+</poem>
+</blockquote>
+
+<!--Paragraph 10-->
+Some recent<ref>See, for example, Frances Dolan (ed.), and Emily Detmer.</ref> post-feminist criticism of the play has taken particular account of sixteenth-century representations of women (in writings about 'domestic conduct'). The result has been a move away from the simplistic, angry reading of Charles Marovitz (see note 6, above—“a detestable story about a woman who is brainwashed”), giving way to more “liberal” interpretations. Penny Gay is one of the latest of the former school. She maintains that the play has only been popular so long because it reinforces patriarchal prejudices: “The play enacts the defeat of the threat of a woman’s revolt . . . [arguing] that the cruel treatment is for the victim’s good, to enable her to become a compliant member of patriarchal society.”<ref>Gay (86). Gay doubts if the ''Shrew'' would still be performed if it didn’t have Shakespeare’s name attached to it. That is also Stevie Davies’ view.</ref> This approach is too simply dependent on plot and dramatic action—the text itself is relegated from view. Too readily, such commentators on the play and the period quote their favourite misogynist gobbets from sixteenth-century writers on marriage and stand back as if the case is proved (Gay is not one of these). Because the scenario under scrutiny is cruelly patriarchal, Erasmus is quoted on patriarchal authority—but his liberal-humanist ideas of equality within marriage are not. It should be of no great consequence that Bishop Aylmer<ref>John Aylmer (1521–94), consecrated Bishop of London, 1577 (''DNB'').</ref> had violent anti-woman tendencies, although it is certainly entertaining to quote what he had the temerity to say in a sermon before Gloriana herself:
+
+<blockquote>
+Women are of two sorts: some of them are wiser, better learned, discreeter, and more constant than a number of men ; but another and worse sort of them are fond, foolish, wanton, flibbergibs, tattlers, triflers, wavering, witless, without council, feeble, careless, rash, proud, dainty, tale-bearers, eavesdroppers, rumour-raisers, evil-tongued, worse-minded, and in everyway doltified with the dregs of the devil’s dunghill. (Stone 137)
+</blockquote>
+
+Aylmer appears to have started with good intentions about being even-handed which did not last. There is no reason to assume, though, that this sort of misogyny was not resisted, contested, in at least some quarters; that the ''Shrew'', moreover, is not one of “countless instances of resistance to dominant discourses” (Traub 16). It is with the “discourse” of the text that commentators should engage. Another such “instance” is found in the work of Sir Thomas Smith, a sixteenth-century constitutional authority. In his ''De Republica Anglorum'', he makes plain the law of property as it applies to marriage and to the woman’s possessions (which became her husband’s, of course). But he also sets the law within a context that has a particular resonance for the ''Shrew'':
+
+<blockquote>
+God hath given to the man great wit, bigger strength, and more courage to compell the woman to obey by reason or force: and to the woman, bewtie, a faire countenaunce, and sweete wordes to make the man to obey her againe for love. Thus ech obeyeth and commaundeth other, and they two togeather rule the house. The house I call here: the man, the woman, their children, their servants bond and free, their cattell, their household stuffe, and all other things, which are reckoned in their possession . . . . (Thomas Smith 23)
+</blockquote>
+
+So much for Petruchio’s “She is my goods, my chattels, she is my house,/My household stuff . . . my anything . . .” (III.ii.228–230). Petruchio’s view of marriage is refuted even more forcefully by Henry Smith, a Puritan preacher well known in London in the 1590s: “[The husband] may not say as Husbands are wont to say, that which is thine is mine, and that which is mine is mine owne: but that which is mine is thine, and my selfe too.”<ref>Henry Smith (67). Kate Aughterson, in her collection of extracts ''Renaissance Woman'', includes parts of this sermon appropriate to her thesis on patriarchal gender constructions, but omits this bit. Juliet Dusinberre, while otherwise more balanced in her reading of contemporary commentators, also makes no mention of this comment.</ref> But a half-awake reader will have no difficulty in recognising familiar symptoms in the manic verbosity of Petruchio’s “chattels” speech:
+
+<blockquote>
+<poem>
+I will be master of what is mine own.
+She is my goods, my chattels, she is my house,
+My household stuff, my field, my barn,
+My horse, my ox, my ass, my any thing,
+And here she stands. Touch her whoever dare! (III.ii.227-231)
+</poem>
+</blockquote>
+
+The irony of this piece of macho posturing lies in the forfeiting by Petruchio of his credit as the master of his “goods,” his household. And while the groundlings at a performance of the ''Shrew'' at Shakespeare’s Globe would no doubt have howled with glee at the woman-taming, there would also, equally doubtless, be some, who, having read their Xenophon, would have derived some entertainment from the sight of Petruchio as clown, “patched fool.”<ref>As Bottom would have it (''A Midsummer Night’s Dream'', IV.i.208).</ref>
+
+<!--Paragraph 11-->
+Commentators are sharply divided about Katherine’s speech at the end of the play, where she proclaims Petruchio to be her lord and master (V.ii.137–180). For Marovitz this speech is “redolent of the Moscow Trials . . . the haughty and independent creature we encountered in the first scenes [is] now transformed into a tame and docile domesticated lackey” (Marowitz 22). Lisa Jardine, on the other hand, suggests that Katherine’s account of female indebtedness is deliberately over-blown, that it is Petruchio who is the dependent, on Katherine’s fat dowry—a truth brought home by this speech (60–1). Karen Newman is impressed by Katherine’s sheer loquacity; “discourse is power” (46), and Katherine is given the last word, at length (this is easily the longest speech in the play). This is submission? In this speech, Katherine parades all the contemporary patriarchalisms:
+
+<blockquote>
+<poem>
+Thy husband is thy lord, thy life, thy keeper,
+Thy head, thy sovereign; one that cares for thee,
+And for thy maintenance; commits his body
+To painful labour both by sea and by land,
+To watch the night in storms, the day in cold,
+Whilst thou liest warm at home, secure and safe . . . . (V.ii.147–152)
+</poem>
+</blockquote>
+
+Katherine has memorably captured the distemper that characterises Petruchio: Petruchio’s tongue (Davies 41 [adapted and modified]). Given the opportunity by the word-spinner himself, she rises to the occasion, creating a monstrously-inflated vision of subjection. Here is slavery welcomed with enthusiasm! It is impossible not to be aware of the irony of all this, when one remembers the “warmth” and “security,” the “care” and maintenance Katherine has experienced over the previous few days. If this is submission, it is submission only to the realities of power in gender-relations:
+
+<blockquote>
+<poem>
+Come, come, you froward and unable worms,
+My mind hath been as big as one of yours,
+My heart as great, my reason haply more,
+To bandy word for word and frown for frown.
+But now I see our lances are but straws,
+Our strength as weak, our weakness past compare . . . . (170–175)
+</poem>
+</blockquote>
+
+Katherine accepts that there is no future in taking arms against the prevailing power-structures, the entire patriarchal social order, especially when her lord and master’s version of that order verges on the lunatic.<ref>John Knox was not known for his advocacy of “the regiment of women”; however, he would not have found Petruchio’s reign too palatable either: “Who can deny that it repugneth to nature . . . that the foolish, mad and frenetic shall govern the discreet . . . ?” (9). Katherine cannot be described as “discreet” whereas Petruchio, on the other hand, might well be described as “foolish, mad and frenetic.”</ref> There is Machiavellian ''real-politik'' in this speech (and a shrewd perception of husband-management); when one couples the nature of that insight of Katherine’s with the energy and relish of its delivery, it is difficult to see how an ironical reading can be resisted. And when Katherine offers to place her hand beneath Petruchio’s foot, the humiliation is complete—Petruchio’s, not Katherine’s. As Frances Dolan points out, this part of the wedding ritual had been officially prohibited for some forty years before the first production of the ''Shrew'' (35). It is a devastating final blow; Petruchio is sufficiently disconcerted, for the only time in the play, to have nothing to say, beyond a feeble “There’s a wench!” with the offer of a kiss.
+
+<!--Paragraph 12-->
+This, then, is the lunatic husbandman Katherine’s father is content to deliver her to, dowry and all. There is ''no'' reason to assume that a sixteenth-century liberal-humanist would find Petruchio an acceptable son-in-law. If there is a degree of amusement to be derived from Petruchio’s company—and the male section of the audience at least would have to admit that there is—it is of a similar kind to that accorded other carnivalesque Shakespearean figures, such as Falstaff, Lucio (''Measure For Measure'') and Sir Toby Belch. Such as these are “licensed fools,” lords of misrule, who are given just enough rope, and no more, before their “rule” is terminated. Petruchio is cast in this mould. In his case, though, there is a difference: he also wields patriarchal authority in his anarchic grasp. Whereas Sir Toby’s rule, for example, ends in bitterness, recriminations and a broken head, Petruchio’s “licence” is not revoked, his taming programme is tolerated, though viewed with some discomfort even by patriarchal Padua. A more useful comparison, perhaps, is with Prince Hal, an equally successful Machiavellian. Like Petruchio, Hal engages with disorder as an integral part of ''his'' policy; he exploits the Tavern crowd so that he can emerge from behind the “base contagious clouds” of his “loose behaviour” (I.ii.192–212), in sun-like majesty. However, the “order,” whether monarchical or patriarchal, thus established in both these plays is surely problematised. Hal’s success as prince-in-waiting and as sun-king is shown to derive from his calm duplicity, an essential weapon of the successful monarch, Machiavelli’s “novus Princeps.” Petruchio’s methods are similarly problematic: they, like his horse, are grotesque. The horse is a living gargoyle, and its pathetic condition is symptomatic of its owner’s monstrous and cruel mismanagement.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Aughterson, Kate, ed. ''Renaissance Woman. ''London: Routledge, 1995. 
+* Davies, Stevie. ''The Taming of the Shrew.'' London, Harmondsworth: Penguin Critical Studies, 1995. 
+* Derrida, Jacques. "White Mythology: Metaphor in the Text of Philosophy." In ''Margins of Philosophy''. Trans. Alan Bass. London: Harvester Wheatsheaf, 1982. 207–271. 
+* Detmer, Emily. "Civilising Subordination: Domestic Violence in ''The Taming of the Shrew.''" ''Shakespeare Quarterly'' 48.3 (1997): 273–295. 
+* Dusinberre, Juliet. ''Shakespeare and the Nature of Women. ''London: Macmillan, 1975. 
+* Erasmus, Desiderius. "Utile Dulce: A Very Excellent Dialogue betweene a good Woman and a Shrew." Trans. William Burton, London, 1606. Amsterdam: Theatrum Orbis Terrarum; New York: Da Capo P, 1973: 1–17. 
+* Gay, Penny''. As She Likes It: Shakespeare's Unruly Women''. London: Routledge, 1994. 
+* Hutson, Lorna. ''The Usurer's Daughter: Male Friendship and Fictions of Women in Sixteenth-Century England. ''London: Routledge, 1994. 
+* Jardine, Lisa''. Still Harping on Daughters. ''London: Harvester Wheatsheaf, 1983. 
+* Kahn, Coppelia. ''Man's Estate: Masculine Identity in Shakespeare''. Los Angeles and London: U of California P, 1981. 
+* Knox, John . "The First Blast of the Trumpet Against the Monstrous Regiment of Women." In ''On Rebellion''. Ed. Roger A. Mason. Cambridge: Cambridge UP, 1994: 3–48. 
+* Leggatt, Alexander. ''Shakespeare's Comedy of Love. ''London: Methuen & Co., 1984. 
+* Markham, Gervase. ''How to Choose'', ''Ride, Train, and Diet both Hunting Horses and Running Horses . . . . Also a Discourse of Horsemanship. ''London, 1593. 
+* Marovitz, Charles. ''Recycling Shakespeare. ''Basingstoke and London: Macmillan, 1991. 
+* Newman, Karen. "Renaissance Family Politics and Shakespeare's ''The'' ''Taming of the Shrew.''" ''Shakespeare's Comedies''. Ed. Gary Waller. London and New York: Longman, 1991. 39–55. 
+* Roberts, Jeanne Addison. "Horses and Hermaphrodites: Metamorphoses in ''The Taming of the Shrew''." ''Shakespeare Quarterly'' 34 (1983): 159–171. 
+* Shakespeare, William. ''The Taming of the Shrew''. Ed. Brian Morris. London and New York: Methuen, 1981. 
+* ---.'' The Taming of the Shrew'', ''Texts and Contexts. ''Ed. Frances Dolan. Boston, New York: Bedford Books of St Martin's P, Macmillan Press Ltd, 1996. 
+* ---. ''The Taming of the Shrew''. Ed. H. J. Oliver. Oxford: Clarendon P, 1982. 
+* ---. ''The Taming of the Shrew''. Ed. G. R. Hibbard. Harmondsworth: Penguin Books, 1968. 
+* Smith, Henry. ''A Preparative to Mariage''. London, 1591. New York: Walter J. Johnson Inc., Theatrum Orbis Terrarum, Ltd., 1975. 
+* Smith, Thomas''. De Republica Anglorum'' [''A Discourse on the Commonwealth of the English'']. Ed. L. Alston. Cambridge: Cambridge UP, 1906. 
+* Stone, Lawrence. ''The Family, Sex and Marriage in England'', ''1500–1800. ''Harmondsworth: Penguin Books, 1979. 
+* Traub, Valerie. ''Desire and Anxiety: Circulations of Sexuality in Shakespearean Drama''. London: Routledge, 1992. 
+* Xenophon. ''Oeconomicus'', and ''The Art of Horsemanship'', in ''Complete Works''. Trans. Ashley, Spelman, Smith, Fielding et al. Edinburgh: William P. Nimmo, 1877. 
+* ---. ''Cyropaedia''. Trans. H.G. Dakyns. London: Dent, 1914.
+
+{{BookCat}}
