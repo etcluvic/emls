@@ -1,0 +1,289 @@
+''This essay was written by Peter F. Heaney''.
+
+<!--Paragraph 1-->
+In ''The Dunciad,'' Pope charges the Whigs with cultural vandalism. Philistinism percolated down from the top: "Still Dunce the second reigns like Dunce the first" (Book I, 6). Thus the final, 1743 version of ''The Dunciad'' includes amongst its galaxy of talent three<ref>The second edition, ''The Dunciad Variorum'' (1729), includes a slighting reference (II.324) to a fourth, Thomas Shadwell (1642?–92). Shadwell succeeded Dryden as laureate after the Revolution of 1688, when Dryden's Catholicism excluded him from public office.</ref> poets-laureate: Nahum Tate (laureate 1692–1715), Laurence Eusden (1718–1730), and Colley Cibber (1730–1757). Pope's attack on these lesser wits can be attributed to a combination of malice, revenge, and (proclaimed) satirical despair at impending cultural Armageddon. The appointment of Colley Cibber—actor, comedian, writer of sentimental comedy in 1730, as successor to the inebriate clergyman Eusden—was confirmation to Pope of the truth of his ''Dunciad''. So, too, was the beauty contest that took place before the appointment was made, amidst great excitement and speculation. Pope's Roman Catholicism and Tory politics ruled him out; the main contestants were Cibber and Stephen Duck, the self-educated thresher-poet, the phenomenon who ''nearly'' became poet-laureate. But Cibber had friends in high places—notably the Lord Chamberlain, in whose gift the laurel lay. Pope suggested that George II should save the money and drink the wine:
+
+<blockquote>
+<poem>
+Shall Royal praise be rhym'd by such a ribald,
+As fopling C[IBBE]R, or Attorney T[HEOBAL]D?<ref>Lewis Theobald, critic and Shakespearean scholar, was a third candidate for the palm. Theobald had the audacity to criticise (quite fairly) Pope's edition of Shakespeare (1725), and was made hero of the first editions of ''The Dunciad'' for his trouble.</ref>
+Let's rather wait one year for better luck;
+One year may make a singing Swan of ''Duck''.
+Great G——! such servants since thou well can'st lack,
+Oh! save the Salary, and drink the Sack! (''Poems'', p. 811)
+</poem>
+</blockquote>
+
+<!--Paragraph 2-->
+In the seventeenth century, however, the office of laureate was not held in such contempt, and the panegyric was still a respected literary genre; it had a long and honourable history.<ref>See James D. Garrison's admirable study, ''Dryden and the Tradition of the Panegyric'' (University of California Press, Berkeley, Los Angeles, London, 1975).</ref> Before Dryden there were notable exponents of the genre, such as Daniel, Jonson, Cowley and Marvell. Its function<ref>The Greek etymology of the word given by the ''OED'' is "fit for a public assembly or festival."</ref> went beyond mere celebration of its subject; elaborate praise was the subtly-erected framework for advice and even admonition offered to the monarch. This was the approach adopted by Dryden. His responsibility, as poet, was to the nation as a whole ("panegyric": "all the people"), its peace and well-being. There was thus no inconsistency on his part in writing panegyrics to both Cromwell<ref>''Heroic Stanzas Consecrated to the Glorious Memory of his most Serene and Renowned Highness Oliver, late Lord Protector of this Commonwealth'' [1659].</ref> and Charles II. It was to be expected, in 1660, that the Restoration of Charles II to the throne would be marked by the foremost writers of the day: ''Astraea Redux'' ["Justice Restored"]; ''A Poem on the Happy Restoration and Return of His Sacred Majesty Charles the Second'', was Dryden's contribution, to be followed in 1661 by ''To His Sacred Majesty: A Panegyric on His Coronation''. In the earlier poem, Dryden is emboldened to suggest to the new monarch how he might conduct himself:
+
+<blockquote>
+<poem>
+Not tied to rules of policy, you find
+Revenge less sweet than a forgiving mind.
+Thus when the almighty would to Moses give
+A sight of all he could behold and live,
+A voice before his entry did proclaim
+Long-suffering, goodness, mercy, in his name.
+Your power to justice doth submit your cause,
+Your goodness only is above the laws;
+Whose rigid letter, while pronounced by you,
+Is softer made.<ref>''John Dryden'', The Oxford Authors, ed. Keith Walker, Oxford, 1987.</ref> (260–270)
+</poem>
+</blockquote>
+
+<!--Paragraph 3-->
+Amongst the monarch's duties, here laid down, are forgiveness, patience, and mercy; if there is to be "restoration," there must be reconciliation, a healing process in which the king must play his part. In this passage, Dryden also defines and qualifies the king's power: he rules only so far as the law permits. No one reading this passage in 1660 could have failed to be reminded of Charles I's "personal rule"; Dryden reminds the son that he, unlike his father, cannot dispense with parliament. A similar message of reconciliation is delivered in the second poem, marking the king's Coronation. Whilst performing the function of celebration and encomium, the poem also has advice for the king, suitably dressed up as flattery:
+
+<blockquote>
+<poem>
+Among our crimes oblivion may be set,
+But 'tis our king's perfection to forget.
+Virtues unknown to these rough northern climes
+From milder heavens you bring, without their crimes.
+Your calmness no after-storms provide,
+Nor seeming patience mortal anger hide. (87–92)
+</poem>
+</blockquote>
+
+<!--Paragraph 4-->
+As in ''Astraea Redux'', Dryden praises the king's willingness to forgive, his mildness, calmness, and patience; yet here too, the assumption (the admonition) implicit in the lines is that he will ''exercise'' these virtues. It is all very decorously performed, but, notwithstanding the elaborate and extravagant praise it extends to the king, the poem should be seen to be serving also the constitutional purpose of the classical panegyric:<ref>See Garrison, chapter 1.</ref> a significant feature of these public utterances is Dryden's emphasis on how the king should exercise his power, and how that power is circumscribed within the law. Read correctly, the poem is a statement of the king's responsibilities to his subjects, as much as theirs to him.
+
+<!--Paragraph 5-->
+By the end of the seventeenth century, however, Swift's use of the term is evidently satirical; one of his Grub-Street hack-personae in ''A Tale of a Tub'' proudly includes amongst his literary achievements "A panegyrical Essay upon the Number Three."<ref>"The Author's Apology," ''A Tale of A Tub'' [1704], Everyman, p. 23.</ref> Nahum Tate, while still a "serious" exponent of the genre, as poet-laureate, wrote his splendid mock-heroic panegyric ''Panacea: A Poem Upon Tea'', in 1700. And although, in the 1730s, Cibber was relentlessly turning out his ''Odes'', the panegyric had become a vehicle (and an object) for satire. Thus Pope's Epistle ''To Augustus'', written in 1736 (''Poems'' p. 634), not the first of his "Imitations" of Horace to give ironical treatment to the panegyric, includes amongst its targets Cibber's feeble performances, the genre, and George II himself:
+
+<blockquote>
+<poem>
+Oh! could I mount on the Maeonian wing,<ref>Maeonia: thought to be where Homer lived.</ref>
+Your Arms, your Actions, your Repose to sing!
+What seas you travers'd! and what fields you fought!
+Your Country's Peace, how oft, how dearly bought!
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+But Verse, alas! your Majesty disdains;
+And I'm not us'd to Panegyric strains . . . . (394–7, 404–5)
+</poem>
+</blockquote>
+
+<!--Paragraph 6-->
+Responsibility for this fall from grace lies, in varying measures, with the laureate practitioners who succeeded Dryden, though Nahum Tate is less deserving of opprobrium than Eusden and Cibber. While there is much that is risible in Nahum Tate's laureate solemnities, there is also something worthy in his evidently well-meaning and serious-minded poetic efforts, his honest attempt to grapple with post-Revolution politics. ''On the Sacred Memory of Our Late Sovereign'' (Charles II),<ref>Written in 1685, ''before'' the Glorious Revolution, of course, and before Tate became poet-laureate (in 1692).</ref> is more than a simple encomium; it embodies grief for the departed monarch, but also concern for the nation, expressing on its behalf its anxieties for the future. "His Form so God-like, and His Reign so mild" (line 53), manages to graft on to the hyperbole something of what the nation expects from the monarch. Tate makes use of his vehicle to remind the new king, James II, that Charles was "Just," and (with pointed repetition), 'mild" (69). A substantial part of the poem is directed at the successor to the throne. The nation is invited to welcome James as its saviour in its dark hour of need:
+
+<blockquote>
+<poem>
+Hail! hail! Your ''Hero''-Prince, almost Divine,
+In whom with valour, Justice do's Combine,
+And all the mercies of the STUART's Line.
+Live Prince of Clemency, for ever Live!
+Not All-forgiving ''CHARLES'' did more forgive.
+What e're blind Rage in frantic Faction strove,
+All now return, and now All find they Love.
+Live Prince of Clemency! long condescend
+To sway those Realms, You did so oft Defend. (96–104)
+</poem>
+</blockquote>
+
+<!--Paragraph 7-->
+One wonders how James responded to his new, subtly-(?) emphasised title of "Prince of Clemency." Tate offers it as a principle for the king to adopt; love and forgiveness are to be the watchwords of James's reign, all past "Rage" and "Faction" dispersed in reconciliation and a second restoration. James will be "by Heav'n and CHARLES Example led!" (109). Like Dryden, in his poem on the death of Charles,<ref>''Threnodia Augustalis'', in which, as Garrison points out (pp. 179–180), Dryden "advises James that he has responsibility as well as authority, and needs to exercise piety as well as power." Dryden went further still in his ambivalent welcome to the birth of James II's son in 1688, ''Britannia Rediviva'', which expresses "deep disillusionment with royalty. Dryden here views kings as a presumptuous lot who have claimed ties with divinity but have not acted in accordance with divine laws" (Garrison, p 187).</ref> Tate delivers a eulogy to the dead king as a means of educating the new one. (It's worth remembering, moreover, that his poem on the death of Charles II was written before Dryden's.)
+
+<!--Paragraph 8-->
+It is a characteristic of Tate's "official" laureate verse that on momentous occasions of state he speaks his mind. Like Dryden before him he used the panegyric as a means of expressing what he considered to be the nation's as well as his own fears in a time of great uncertainty. The death of Charles II was one such moment. The death of Queen Mary in 1695 was another. Embedded within the rhetoric and extravagant mourning, is the troubled state of Europe: when William III is invoked, it is by one of his hero-names, "Nassau." What Tate creates in the poem is a Europe in bloody chaos, with only William protecting "our Exhausted veins" from the ravening jaws of the "monster" war and "Gallick Pow'r" (it was William's life-mission to end the French hegemony in Europe). The lamentations of Belgia and then "Irene" (the Protestant Church of France) are only partly an expression of grief for the departed Mary. Even the inordinately drawn-out paeans of praise from "Eusebia"<ref>Eusebius was a celebrated Roman theologian and historian. "Eusebia" must be his female counterpart.</ref> (the Church of England) for Mary's virtues are tempered with our awareness, as we read, of the Church's heavy investment in the Protestant Succession. All the elaborate extravagance of Tate's tribute to Mary (and William) cannot conceal the note of alarm and warning to monarch and parliament alike that much remains to be done (399–400). Tate's verse lacks Dryden's weight and authority, but it still affords respect for the panegyric mode: the national interest repeatedly finds its way into his writings as laureate.
+
+<!--Paragraph 9-->
+Weighty political matters infiltrate even the lighter birthday and new-year odes.<ref>It was Tate who established this practice by writing so many of them. He published seven birthday odes (two in 1693, one each in 1694, 1697, 1707, 1711, and 1715) and eight New-Year odes (1693, 1698, 1702, 1703, 1705, 1706, 1707 and 1708 (Christopher Spencer. ''Nahum Tate''. Boston, Mass.: Twayne Publishers, 1972. p. 122).</ref> In the odes of 1697–8 it is admittedly not surprising to find Tate celebrating the Treaty of Ryswick, newly-signed with France.<ref>The celebrations were premature—Louis XIV had a cavalier way with treaties.</ref> The ''Ode to New-Year's Day'', 1698, announces the revival of "the Golden Age," and declares "The Prize . . . [is] now completely gain'd" (10–12). There was still "danger," there were "Alarms," "But now the Drum and Trumpet Cease." If Tate was really convinced that the War of the Spanish Succession was at an end,<ref>See Christopher Hill ''The Century of Revolution'' and G. M. Trevelyan ''England Under Queen Anne'', for discussion of this complicated question.</ref> then he was not long in changing his mind. By 1701, the demons had returned. In an interesting deviation from the usual New-Year ode, Tate wrote a rather more weighty piece to mark the sitting of the new parliament in February (''A Congratulatory Poem On the New Parliament Assembled On This Great Conjuncture of Affairs''). Similarly, in 1702, he used the New-Year's-Day ode to salute the new assembly of December, 1701 (''An Ode Upon The Assembling Of The New Parliament''). One of the most striking features of these poems is that they are both addressed to parliament, not William; they both present a crisis—they are "state of the nation" poems, in the best tradition of the panegyric. The ''Congratulatory Poem'' is a laureate sermon which humbly, but firmly, reminds parliament of its duty to defend Britain and Europe against the "huge-flusht Dragon" of French power. In the 1702 poem the threat to be countered , again, is the evil Dragon "Gallick Pow'r":
+
+<blockquote>
+<poem>
+Behold the Dragon, Gallick Pow'r,
+With wide Extended Wings;
+Baleful Eyes and Brandisht Stings,
+Watching his expected Hour,
+States and Empires to Devour. (12–16)
+</poem>
+</blockquote>
+
+<!--Paragraph 10-->
+The first line—"Wake Britain, 'tis high Time to Wake"—conveys an urgency that makes no apology for, or even reference to, the complacency of 1698; now there is "Lawless Gallick Fraud" to confront. Now there is even more pressing need of the services of Hercules/William. But more problematic is the internal conflict: "Faction" (28) threatens to destroy what has been achieved on the battlefield. As aready indicated, the addressee here is parliament, not William. Tate would have been as aware as anyone that there were some prominent Tories who were still keeping alive the possible return of the Pretender,<ref>James II died in 1701; his son, James Francis Edward, was the "Old Pretender" (born 1688, died 1766); and ''his'' son, Charles Edward Louis Philip Casimir (1720–88) was the "Young Pretender" or "Bonnie Prince Charlie" (''DNB'').</ref> and to that end maintained contacts with him and his representatives. Both these pieces read like a call to arms, an attempt to stiffen the sinews of the 1701 and 1702 parliaments. "Danger" has become the theme, and the finger of responsibility is pointed, with remarkable candour, beyond the obvious threat of the French. Behind the gracious compliments, the courtly awe at these wondrous assemblies, is the uncompromising insistence on a single, unambiguous policy towards the French war, and the related issue of the Succession.
+
+<!--Paragraph 11-->
+Tate consistently demonstrates his willingness to express uncomfortable political truths within the framework of his innocent-seeming "odes". It is unfortunate, though, that there is no surviving poem commemorating the death of William III in 1702. Some of the annual birthday and New-Year offerings to Queen Anne have survived, however. In 1706, there was even an addition to the usual fare: ''Britannia's Prayer For The Queen''. This, and the duty-odes of 1708 and 1711, are apparently guileless, little (and not so little) rhapsodies of transparent, celebratory hyperbole. Yet there is still more than a residue of fear; not all Marlborough's victories—at Blenheim, Ramillies and Oudenarde (triumphantly recorded here)—have achieved peace. "Then shall the Drum and Trumpet sleep,/ The Weary World have Rest" (22–3): ''Britannia's Prayer'' posits a future condition, not yet attained. In the poem of 1711, the bard bids defiance to "Mars . . . in all his Fury," and hopes, on this day of all days, to dispel "Rapine, Rage and Slaughter," which "ought to vanish"—a feeble aspiration (''Song For Her Majesty's Birthday'', 46, 56). Tate succeeds in disturbing the reader with the unexpected in this poem: it is an honourable political statement, an expression of dissatisfaction at the state of the nation, still parlous despite the heroic deeds of Marlborough's army.
+
+<!--Paragraph 12-->
+Tate is more overtly critical of the politicians responsible for the conduct of the war in his next major (public) poem, ''The Muse's Memorial Of The Right Honourable Earl of Oxford.'' Ostensibly, this is a piece celebrating the elevation to the peerage (in 1711) of Robert Harley, Queen Anne's first minister. For some 70 lines, however, the "Bard" makes little more than passing reference to his newly-ennobled subject. This Bard begins with his "Resentment" and "Grief," and his determination to vent his feelings at length. Poor Britannia is "to a Spectre worn" (16), riven at home with "Home-bred Faction," and ruined commercially abroad by war (18–19). Tate argues that much of the responsibility for this state of affairs lies with Britain's Allies in the war against France (and home-grown politicians supporting them). Britain has had all the expense of the war, in blood and treasure, and the Allies all the profit: "Ambitious only of Expensive Toils, /She [Britain] yields her Partners the Dear-Purchas'd Spoils" (25–6). The nation, declares the Bard, is "Beggar'd by Conquests, by Success undone" (24).<ref>This view of betrayal at home and abroad is put forward in rather more forcible prose by Swift, in his ''Conduct of the Allies'', written at much the same time as Tate's ''Memorial:'' "No nation was ever so long or so scandalously abused by the Folly, the Temerity, the Corruption of its domestick Enemies; or treated with so much Insolence, Injustice, and Ingratitude by its foreign Friends" (''The Conduct of the Allies, and of the Late Ministry, In Beginning and Carrying on the Present War'' (1711)), p. 15.</ref> The piece speaks of betrayal, of a failure to honour pledges, and of an unfair share of the cost of the war. Harley, the subject of Tate's encomium, was at this time working to gain a majority in parliament for a peace with France. Harley was making maximum use of his propagandists—including Swift and Defoe—to gain his point, in the face of fierce opposition: the Whigs were against it, as were the House of Lords. The "Lawrel'd Bard" (line 1) has evidently also been recruited to press the cause. The ''Memorial'' offers belated flattery to Harley, but the message even here is political—Harley (now Oxford) is the necessary man: "If these the times, then this must be the man."<ref>Marvell on Cromwell, in ''The First Anniversary of the Government under His Highness the Lord Protector'' (1655), line 144.</ref> Here, the panegyric is being pressed to overtly political use. One cannot be sure of the extent to which Tate was in this instance his master's voice; perhaps, like Swift (who fiercely insisted on his independence<ref>To the extent of angrily returning £50 offered by Harley for services rendered. Swift did, however, expect to be rewarded with an English living, preferably a bishopric.</ref>), Tate was persuaded by the wily Oxford to bend the panegyric to his own subtle purposes.
+
+<!--Paragraph 13-->
+When the Treaty of Utrecht was finally signed, Tate was not long in producing another, rather shorter, but somewhat puzzling piece, ''The Triumph of Peace'' (1713). Tate's Bard seems unable wholly to believe that the peace that has descended on Europe is not a chimera. Rhetorical questions are part of the stock argot of the striving laureate; but here Tate seems unable to staunch the flow of his incredulity:
+
+<blockquote>
+<poem>
+What, shall BELLONA bid her Thunder cease,
+And ''Mars'' sit list'ning to the Songs of PEACE? . . .
+Shall They, best able to maintain the Fight,
+Exhausted Pow'rs to Peaceful Terms invite?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+E'er ''Verdant'' Spring new-cloaths the Crimson'd Plains,
+And sully'd Streams discharge their ''Purple'' Stains? (1–12)
+</poem>
+</blockquote>
+
+Metaphor mingles with hyperbole as the questions continue to pile up (as far as line 39). The Bard seems also to suspect that the "Smiling Infant-TREATY" itself (31) is too delicate to survive. The reader is taken back through the glorious achievements of the long war years; the courage of Marlborough's successor, Ormond, is singled out for high praise (of Marlborough himself, disgraced and under investigation for embezzlement of army monies,<ref>The cost of the family seat, Blenheim Palace, was a national scandal. Where had the money come from, his enemies asked. With the Tories in the ascendancy in 1711, and seeking revenge, there was little doubt of the answer. After his dismissal, Marlborough went abroad; he was restored to favour with the accession of George I in 1714 (''DNB'').</ref> there is no mention). After another volley of awe-struck questions (71-81), the point (apparently) emerges: when the impossible and the unbelievable have been achieved, as they clearly have been, then surely "such Miracles of Grace" must be worthy of "Encominatry Rapture" (79–80)? Is it possible, asks the laureate-bard, that Britain's other bards could sit "in sullen Silence" at this time? For once he answers himself with a resounding "No" (82). Tate's object, then, seems to be to give official approval to the peace settlement, and at the same time encourage others in the trade to do likewise. All the poem's doubts and fears and amazed wonderings then dissolve into ritual celebration of the great and good: all are assembled by the Bard for the occasion—Lords and Commons "In State advancing to the Sacred DOME" of the newly-built St Paul's Cathedral (161).<ref>Completed in 1710.</ref> There is, though, the implication also that the Peace is but a frail shield for the (still insecure) Succession. All this suggests that Tate was either acting under instructions from the ministry, or was accurately reflecting the paranoia of the times. Or possibly both. Whatever the explanation, it would seem that Tate was allowing the panegyric to become, to some extent, at least, a vehicle for Oxford's propaganda in this and the ''Muse's Memorial.''
+
+<!--Paragraph 14-->
+Such a charge could not be levelled at Tate's last poems<ref>''A Congratulatory Poem on Her Majesties Happy Recovery'' (1713) and ''A Poem on the Death of Our Late most Gracious Sovereign Queen Anne'' (the queen died on August 1, 1714).</ref> as Queen Anne's laureate, which reveal an independence that are hinted at in the earlier "state" poems. The queen is in many ways the titular subject only, in both these pieces. Although there is much ritual grief and mourning, chiefly on the part of Tate's muse, summoned for the occasion, Tate evidently considered (in the first of the two poems, ''A Congratulatory Poem on Her Majesties Happy Recovery''), that the panic generated by the queen's illness was of greater concern than the illness itself. Britannia sees "her gen'rous Lion cow'r" (the Lion does it again in ''A Poem on the Death . . . .''). The state is likened to a shipwreck (a favourite metaphor), and the nation is threatened with blood-curdling horrors:
+
+<blockquote>
+<poem>
+Mean while their Dwellings rang with Matrons Groans,
+Resembling poor distracted ''Ramah'''s Moans,
+To see her Streets turn'd to a purple Flood,
+And Delug'd with her slaughter'd Infants Blood. (34–7)
+</poem>
+</blockquote>
+
+Rumours spread of the queen's death, and the impact is felt amongst herdsmen, ploughmen, cattle, and goats; bees refuse to make honey, doves to bill. In much the same way, when the queen is declared to have recovered, winter becomes spring, birds build nests and sing madrigals, the hills resound "With spritely Carolings of jolly Swains" (119). Amidst all this silly stuff, mangling of metaphor, there is Tate's attempt to convey a general malaise: without the queen the nation is sick. It seems unlikely, on this occasion, that this was the message of his political masters. It is not a comfortable one: Tate maintains that the nation's, and Europe's, peace and commerce are dependent on the queen's state of health. That appears to be his concern, rather than any great personal anxiety for Anne. Whatever the case, it is more difficult to see a ministry-led line here—it is they, after all, who have wrought the "wreck" of the ship of state. It seems more likely that Tate was at this point revealing what he and many others were feeling about the uncertainties created by the queen's poor health. What would happen if she died? Who would succeed her, and what would be the consequences?
+
+<!--Paragraph 15-->
+Other expressions of anxiety are to be found in poems printed (mostly anonymously) at moments of potential crisis. William III's departure for Holland in 1701 stimulated loyal concern for his safe arrival, and enormous relief on his safe return to England.<ref>Anon, ''Heroick Poems On Several Subjects, Viz, Upon the Safe Arrival of His Majesty King WILLIAM the Third, in Holland, this Summer, Anno 1701''; ''Upon His Majesty's Return to England, on the 4th of November, 1701''.</ref> In 1714, John Dennis, the irascible literary critic, felt moved to write twenty-seven pages of verse,<ref>John Dennis, ''A POEM UPON THE DEATH of Her late Sacred Majesty, Queen ANNE, and The Most Happy and Most Auspicious Succession Of his Sacred MAJESTY KING GEORGE'', London, 1714.</ref> only two of which are a lament for the death of Queen Anne. The rest is a feverish anticipation of the incoming saviour, George I (though Dennis is happy also to remind the new king of his constitutional position: "Whoever governs well, he rules by Law"). When George went to Hanover in 1716,<ref>Anon, ''Some Verses On The King's Going to Hanover'', London, 1716.</ref> there was weeping and gnashing of teeth: "Ah! will the much-lov'd King his ''Britons'' leave?" Walpole's illness in 1716 was sufficiently alarming to provoke cries of "We are undone!"<ref>Anon, ''TO THE RIGHT HONOURABLE Robert Walpole, Esq UPON His first coming to the Treasury, after his Recovery from a dangerous Fit of Sickness'', London, 1716.</ref> These fearful utterances are just a few examples suggesting the fragility of the Succession and reminders of the attendant implications for newly-won religious freedom and the rule of law. Politics and literature are dominated by the issue for half a century and more after the Glorious Revolution. While still expressing something of this paranoia, Tate manages to rise above it, to proffer laureate advice and even scolding, where appropriate: he actively used his official position to promote the national good, in the best traditions of his role and the panegyric. Dennis and the other prophets of doom are almost wholly sycophantic in their self-interest.
+
+<!--Paragraph 16-->
+Tate's last substantial piece as laureate is also his most outspoken, ''A Poem on the Death . .'' . , which was not published until after his death. This piece resembles its predecessor (''A Congratulatory Poem . . . '') in a number of respects. There is again much Muse-driven, de-personalised mourning for the dead queen; for example, the reader is probably unmoved (or moved in quite the wrong way) by the sight of the Muse's "dishevel'd Hair," with "Grief to Phrenzy grown" (39). Again, the subject is the poet's, and the nation's, horror at the threat of the abyss. Once the ritualised grieving has been completed (a lengthy process), Tate feels able to comment on the political state of the nation, consequent on the queen's death. "Shipwreck" (again) is the word. The Court is wrecked, reduced to "Shrieks, and Yells, and complicated [confused] Cries" (183), a fairly accurate (even literal) description of the relationship between the two principal ministers<ref>Oxford, lord treasurer, and Henry St John, Viscount Bolingbroke, chief secretary and Oxford's great rival for power. Among other points of contention, it rankled with St John, that, while Harley was given an earldom, he was made a mere viscount.</ref> of the queen's last ministry, the lords Oxford and Bolingbroke. The government, says Tate, is lashed by the gales of "Faction-Fury," and monsters are spawned out of the storm (162–9). There are more brutal truths still to be told. While Anne presided over its fortunes, declares Tate, Britain was a Garden of Eden, tended by its queen; but concealed behind this paradisal appearance is "A pillag'd Realm, and pawn'd Posterity" (266). "Dire Corruptions [are] thro' the Nation spread," "Senates [are] purchas'd and a People sold" (274). It is possible that Tate felt himself free to speak his mind in these last two poems—ailing and ageing as he was himself. At the end of this one, Tate's Muse delivers some more well-aimed blows at the politicians who had failed their queen. The Muse tells—
+
+<blockquote>
+<poem>
+How jangling Parties made her Realm sustain
+All Plagues, that Rage where Strife and Discord reign:
+And then prodigious Secrets did impart,
+Yes, ''Prodigies'', that made the ''Sun'' to start . . . . (283–286)
+</poem>
+</blockquote>
+
+<!--Paragraph 17-->
+When Tate speaks of "Intrigues of State," "prodigious Secrets," and "Strife and Discord," it is not some generalised political condition he has in mind, but the permanent state of warfare that prevailed in Queen Anne's last ministry, which destroyed itself even as she lay dying. It foundered on the rock of the Succession. Its chief ministers, Oxford and Bolingbroke, could not agree, much less act, on a common policy.<ref>Among these "prodigious Secrets" were correspondence (Oxford) and collusion (Bolingbroke) with the Pretender. (See Brian W. Hill. ''Robert Harley Speaker, Secretary of State and Premier Minister.'' New Haven and London: Yale University Press. 1988.)</ref> They were riven by indecision to the last. At the end of ''A Poem on the Death . .'' . , Tate can see no solution to this turbulence;<ref>Others, notably the Duke of Shrewsbury (lauded by Tate in his ''Triumph of Peace''), could, however, and the Crown was peacefully transferred to George I.</ref> instead, in the last line, he speaks of retiring from the fray, to "Mourn the short Remains of Life away" (331). This is a curious conclusion: where is the tribute to the incoming monarch, traditional on these occasions? Is there not hope for the future in the person of George I? Not in Tate's view, apparently. There is no mention of him here.<ref>According to Spencer (40), Tate did write a short "Song on His Majesty"s Birth-Day, May 28, 1715", published in the ''Flying Post'' for June 9-11. ''A Poem on the Death'' . . . appears to be his last substantial poem.</ref>
+
+<!--Paragraph 18-->
+Tate's formal, laureate-writings frequently fall short of their lofty goal. The effect achieved is often bathos rather than pathos. It is easy to mock the unintended comic moments. More charitable is to remember the honourable attempts in the state poems to grapple with political circumstances of great weight and moment. It is true that one cannot always be sure, in one or two of the pieces, of the extent to which Tate is keeping to a pre-ordained script. But even in ''The Triumph of Peace'', which does what was expected—i.e. celebrated the ministry's conclusion of a treaty with France—there are suggestions that all is still not well. We can sense this unease in the highly rhetorical manner adopted by the poem, in the posing of questions about the future that cannot readily be answered. In other pieces, Tate exercises a robust independence, taking the whip to his political masters with some energy. While it may be true that his two laureate contributions to the great peace debate (see above) reveal Oxford's influence, one should remember the rather greater enthusiasm for the ministerial line shown by Swift. Tate deserves credit as the last exponent of the panegyric to use the form to express the national interest.
+
+<!--Paragraph 19-->
+Not so Laurence Eusden,<ref>Tate died in 1715, exactly a year after Queen Anne. His successor, Nicholas Rowe, was laureate for only three years, and was sufficiently respected in literary circles to be spared death by ''Dunciad''. (See Pope's gracious Epitaph, ''Poems'', 464.) Rowe's laureate-writings—his "deathless poesie" (''Ode for the New Year'', 1716)—combine a knowing irony with a subtlety and variety beyond anything Tate, Eusden or Cibber could offer.</ref> given the laurel on the strength of his poem celebrating the nuptials of the Duke of Newcastle in 1717. In his laureate odes, Eusden is so blinded by the monarchical sun that the panegyric's concern for the national interest and the need to offer guidance to the monarch, passes him by. Where Tate was able to proffer magisterial advice (a la Dryden), Eusden creates masterpieces of grandiose pomposity. His error, amongst others, is a failure to distinguish between the crown and its immediate wearer; the result is frequently comic. So, in the New-Year Ode for 1720, Eusden proclaims "Here [in the king] ev'ry Virtue thou may'st behold" (18). To Britain, declares Eusden, George has come as an oasis to a people dying of heat and thirst (22–25). In the birthday ode for 1721, Eusden has a Druid-Bard (with flashing eyes and floating hair) confront the newly-landed Julius Caesar,<ref>The first words (in translation?) Eusden gives to Caesar, to mark his arrival on British soil, are: "Thou sweet, delightful Land!"</ref> for the sole purpose of informing the great man, before his legions, that a greater is to come:
+
+<blockquote>
+<poem>
+"Tho' thy flatt'ring Minions tell thee,
+"None can rise who shall excell thee;
+"In revolving Years, believe me,
+"(Heroe! I will not deceive thee)
+"From distant ''German'' Climes shall rise
+"A Heroe, more, than Julius, Wise;
+"More Good, more Prais'd, more truly Great,
+"Courted to sway BRITANNIA's State . . . . (44–52)
+</poem>
+</blockquote>
+
+<!--Paragraph 20-->
+Wisely, the Druid then hastily withdraws. Eusden's majestic hyperbole is ridiculous partly because his "Song" attempts to graft the panegyric form on the lyric poem. It fails also because he identifies uncritically with his subject, confusing (as Dryden and even Tate do not) the monarch with the man. The crowning glory of the 1721 ode is the welcome, still being repeated, to the "Messiah" (67). What remains of the old panegyric mode takes the form of hints and suggestions of the persisting fears and strains of the nation, reminders of dangers not yet extinguished (dire warnings of the "Chains of Rome" and "Rebellious Libels" and "Silent Faction" ).<ref>''To her Royal Highness'' [Princess Caroline, wife of the future George II] ''on The Birth of the Prince.'' (George William, in 1718).</ref> Eusden does not address the problem of the Succession, but he appears to be unable to exclude it.
+
+<!--Paragraph 21-->
+By 1723, Eusden appears more confident that security has been achieved. His birthday ode for that year, while concerned that "Blind Faction" (code for opposition to the Whigs and Hanover) was still active, rejoices in a happy Eden presided over by Apollo/George. It was usually enough for Eusden to celebrate—or, in 1727, mourn—his king. In this latter piece, Eusden adopts the familiar encomiastic mode, starting with extravagant grief (six exclamation marks in the first six lines), and a lengthy narrative of George's heroic military exploits—thousands slain, and the Danube choked with corpses, "Swell'd with big Tides of Blood" (99–100). The panegyric becomes, here, a vehicle for the Whig re-writing of history. When George came on the scene, declares the ode, "Pale Albion [was] ripe for Ruin made,/ Menac'd by Foes, and by false Sons betray'd" (119–120). This is crude denigration of Queen Anne's reign; it is also a monstrous calumny on those who fought for and negotiated the Peace and the Succession, to assert, as Eusden then does, that George saved the nation from "home-bred Frauds, and Popish Chains" (122). And, in case the reader has missed the point, Eusden contrives a little welcoming party in heaven for the king. This includes the Duke of Marlborough, William III and Addison, but excludes Queen Anne. The Succession has become a Whig preserve, George, ridiculously, its saviour. One line of this piece gives it a context and a value it otherwise scarcely merits. For all its trumpeting of George's godlike qualities—his unspotted virtue, his epic heroism—the poem presents, at its heart, one mighty atom of truth about the Succession. This "truth" is contained in the otherwise uncomplicated declaration that George was given by Providence to the British Throne: "By Laws, by Birth-Right, and Desert" (126). George was certainly not king by right of birth or merit. He became king "By Laws" and for no other reason. And "Laws" were put in place to make him king because he had the right religion, he could claim ''some'' rights of descent (from James I), and he was not the Pretender. One cannot credit Eusden with the force of this logic. Nevertheless, these are the terms in which he defines the monarchy (whatever else he might imply about divine rule). He arrives, more or less inadvertently, at the point to which a proper understanding (and application) of the panegyric should have driven him.
+
+<!--Paragraph 22-->
+Eusden's welcome to George II, ''A Poem On the happy Succession, and Coronation of His present Majesty'' (1727), does further violence to the noble panegyric. Whereas Dryden created an ideal state governed by an ideal monarch—with the implication that these were ideals to be lived up to—Eusden appears to believe that Jerusalem has already been built. To fulfil the first requirement was easy enough: one great "Brunswic" is succeeded by another—"'Tis a ''GEORGE'' only can a ''GEORGE'' succeed!"<ref>It is worth repeating Pope's rather more memorable version of this succession, "Still Dunce the second rules like Dunce the first" (''The Dunciad'', Book I.6).</ref> Britain has her own Augustus, he informs the reader, to preside over a second Rome. In arms and in arts, the new Rome will equal the old, and the power and beauty of this great empire will be personified in its glorious monarch-emperor. What is dangerous (for its subject) about this imperial ideal, is it that it might exceed the reality. Another danger lies in the suggestion made here that the true religion has but recently been rescued from "a deluded Youth" (the Pretender), "Papal Sway" and "bigot-Chains" (157–8). By implication, the reader might conclude, religion was still in danger. Dark murmurings that the Machiavellian plotting of "Dire Jesuits" will no more prevail, simply reinforces such a reading. Eusden presents an Edenic kingdom with an ironic worm in the bud. That, alas, was not his honest assessment of Britain in 1727: his poem avoids anything approaching an objective appraisal of the state of the nation in the reign of George II. When Eusden suggests a serpent in Eden, what he has in mind is opposition of any kind to George and the Whig hegemony.
+
+<!--Paragraph 23-->
+Eusden was succeeded by Colley Cibber, whose laureate odes finally reduced the panegyric to a comic turn, the butt of satirists. Their one value is as accidental barometers of the times. In his first ode, for new-year's day, 1731, Cibber returns to the war theme, the "Treasures drain'd" by the conflict with France. The birthday ode for the same year is eager to remind the listener—the king himself, of course—what was at stake in the Revolution: "Our holy Church, our ''Laws''" (line 4), and our "''liberties duly defended''" (35, Cibber's italics, in both cases). There is no sense, here, of continuity, of the nation's security established and maintained. Cibber gives credit to "CHARLES restor'd," but remarks that, after his restoration, "Short was our term of bliss" (33). It is as though the reigns of Queen Anne and even William III were no part of the "term of bliss"; only the succession of George by George "entails our happiness" (34). Perhaps Cibber was at least partly motivated by laureate zeal; but his analysis of 1731 is not inconsistent with his view in 1704, in the curiously political Epilogue he wrote to his play ''The Careless Husband''. It is not unusual for these concluding speeches to be directed beyond the play to which it is attached. In this case, though, there is little or no connection with it. Instead, Cibber launches on a patriotic appeal to the audience, "to assert our Cause,/ That nothing ''English'' might submit to Foreign Laws" (17–18). What appears to be exercising Cibber is the argument that one great victory over the French (at Blenheim, in 1704) should not persuade anyone that the war was won. This would have found favour with the war-party, the Whigs (and was perhaps remembered when their long period of power began in 1714). However, it is the link with his later anxieties that is of interest. It suggests that even Jolly Colley was aware of the persistence of a state of nervous tension in the nation: the perennial question of the Succession and its attendant issues of constitutional monarchy, freedom of worship, and freedom before the law reached even him. But one looks in vain for words of disinterested wisdom which might illuminate the problem.
+
+<!--Paragraph 24-->
+Cibber continued to write his odes until the end of his life, with one curious hiatus in the years 1745–6. There was neither an ode to the new year nor a birthday ode in 1745. In 1746, "W. H., Parish Clerk," wrote an "Ode for the New Year," and a birthday offering was written by "Mr. B."<ref>These appeared in the January and November issues respectively of the ''Gentleman's Magazine'' for 1746.</ref> It would appear that the poet-laureate was not to be trusted with these official duties at a time of national danger. Cibber wrote the odes for 1744, and resumed in 1747, with the birthday ode in October. His deputies, in the meantime, made much of the threat to the nation in 1745–6; Cibber himself anticipates an invasion as early as 1743, in the birthday ode, as does a rival celebrant of the birthday. But by 1745 the threat to national security was not enough to rescue the ode from the depths to which it had sunk; the thread linking the ode to the panegyric was all but severed by the ridicule heaped upon it in the public prints. Like Eusden before him, Cibber was either unable, or unwilling, to take his laureate pieces beyond the simplest (and grossest) of flattery.
+
+<!--Paragraph 25-->
+Perhaps Pope was right: the corrupting power of the Whig hegemony led to a cultural corruption also, manifesting itself in (some of) the poetry of the period. The noble panegyric declined from the lofty assessor of monarchs and monarchy, the commentary on the state of the nation, to the feeble joke that was the Cibberian ode. Tate, while not the most original of poets, did maintain a degree of independence that enabled him to speak his mind about the behaviour of his political masters. Neither Eusden nor Cibber, placemen both, took such a risk. Poetry in their hands became the willing servant of government and monarchy. Yet common to all three was the menace that lay over the entire period, the threat of invasion, the return of the Stewarts and popery. The odes of Eusden and Cibber retain, just, a residual trace of the panegyric in reflecting the nation's anxieties over the Succession. But in their attempts to celebrate the monarch ever more extravagantly, they not only sink ever deeper into bathos, but lose sight also of the essential nature of the Succession, the constitutional realities of the Glorious Revolution. Their value, such as it is, lies in conveying, willy-nilly, the fearful obsessions of the nation. In Eusden's and Cibber's hands, though, the panegyric becomes a feebly pathetic expression of abject servility, bereft of all dignity. To that extent, then, Pope's assessment is not far from the mark: when literature becomes the (apparently conscious) servant of the current political order, it is time to convey it to the waste-bin.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Anon. ''Ode humbly inscrib'd to the Poet Laureat'' [Colley Cibber]. ''The Gentleman's Magazine.'' London: January, 1731.
+*Anon. ''The Poet Laureat's Ode for New-Year's-Day burlesqu'd''. ''The Gentleman's Magazine.'' London: January, 1731.
+*Ashley, Leonard. ''Colley Cibber''. Revised ed. Boston, Mass.: Twayne Publishers, 1989.
+*Bolingbroke, Henry St John, First Viscount. ''Correspondence During the Time He was Secretary of State to Queen Anne''. Ed. G. Parke. London: 1798.
+*Boyer, Abel. ''Annals of Queen Anne'' (8 vols). London: 1710–14.
+*—. ''Political State of Great Britain'' (8 vols). London: 1710–14.
+*Carswell, John. ''From Revolution To Revolution: England 1688–1776''. London: Routledge and Kegan Paul, 1973.
+*Cibber, Colley. ''A Poem on the Death of our Late Soveraign Lady, Queen Mary.'' London, 1695.
+*—. The Epilogue to ''The Careless Husband.'' London, 1705.
+*—. ''Venus and Adonis; A Masque''. London: 1715.
+*—. ''Ode for New-Year's Day. The Gentleman's Magazine''. London: January, 1731.
+*—. On His Majesty's Birth-Day, Oct. 30. ''The Gentleman's Magazine''. London: November, 1731.
+*—. Ode for New-Year's-Day 1732. ''The Gentleman's Magazine''. London: January, 1732.
+*—. The Laureat's Answer to the Poets. ''The Gentleman's Magazine''. London: January, 1732.
+*—. ''The Blind Boy''. ''The British Musical Miscellany''. 1734.
+*—. The Epilogue to Congreve's ''The Old Batchelor.'' ''The Egotist'', or ''Colley upon Cibber.'' London: 1743.
+*—. On Miss B--ks and Miss H—. ''Poems on Several Occasions From Genuine Manuscripts'' . . . , London, 1749.
+*—. ''Mr. Colley Cibber's Epitaph on Mr. Pope''. ''The Gentleman's Magazine''. London: June, 1744.
+*—. ''The Egotist. Or, Colley upon Cibber''. London: 1743.
+*—. ''An Apology For His Life'' [1740]. London: Dent, 1913.
+*Cibber, Theophilus. ''The Lives of the Poets of Great Britain and Ireland''. London: 1753.
+*Collier, Jeremy. ''A Short View of the Immorality and Prophaneness of the English Stage''. London, 1698.
+*Dennis, John. ''A Poem Upon The Death of Her late Sacred Majesty Queen Anne, And The Most Happy and most Auspicious Succession Of his Sacred Majesty King George''. London, 1714.
+*Downie, J. A. ''To Settle the Succession of the State''. London: Macmillan, 1994.
+*—. ''Robert Harley and the press''. Cambridge: Cambridge University Press, 1979.
+*Dryden, John. ''Heroic Stanzas Consecrated to the Glorious Memory of his most Serene and Renowned Oliver, late Lord Protector of this Commonwealth'' [1658]. The Oxford Authors. Oxford: OUP, 1987.
+*—. ''Astraea Redux. A Poem On The Happy Restoration Of His Sacred Majesty Charles The Second'' [1660].
+*—. ''To His Sacred Majesty'' [Charles II]; ''On His Coronation'' [1661].
+*Duck, Stephen. ''Gratitude. A Pastoral'' [1733?]. Chadwyck-Healey Ltd.
+*—. ''An Ode, presented to their Highnesses the Prince and Princess of Wales'' [1736]. Chadwyck-Healey Ltd.
+*—. ''On Poverty'' [1736]. Chadwyck-Healey Ltd.
+*—. ''On Royal Benevolence. Most humbly Inscribed to Her Majesty, Queen Caroline'' [1736?]. Chadwyck-Healey Ltd.
+*—. ''The Thresher's Labour'' [1730?]. Chadwyck-Healey Ltd.
+*Eusden, Laurence. ''To a Lady, that wept at the hearing Cato read'' [1713]. Chadwyck-Healey Ltd.
+*—. ''A Letter To Mr. Addison, On The King's Accession To The Throne'' [1714]. Chadwyck-Healey Ltd.
+*—. ''A Poem on the Marriage of His Grace the Duke of Newcastle'' [1717]. Chadwyck-Healey Ltd.
+*—. ''To Her Royal Highness on the Birth of the Prince'' [1718]. Chadwyck-Healey Ltd.
+*—. ''An Ode for the New-Year'' [1720]. Chadwyck-Healey Ltd.
+*—. ''An Ode for the Birthday, 1721, as it was sung before the King'' [1721]. Chadwyck-Healey Ltd.
+*—. ''An Ode for the Birth-Day'' [1722]. Chadwyck-Healey Ltd.
+*—. ''The Origin of the Knights of the Bath'' [1725]. Chadwyck-Healey Ltd.
+*—. ''A Poem, Sacred to the Immortal Memory of the late King'' [George I] [1727]. Chadwyck-Healey Ltd.
+*—. ''A Poem, on the Happy Succession and Coronation of His Present Majesty'' [George II] [1727]. Chadwyck-Healey Ltd.
+*Garrison, James D. ''Dryden and the Tradition of the Panegyric''. Berkeley, Los Angeles: University of California Press, 1975.
+*''The Gentleman's Magazine.'' London: 1730–1757.
+*Heaney, Peter. ''An Anthology of Eighteenth-Century Satire: Grub Street.'' Lewiston/Queenston/Lampeter: The Edwin Mellen Press, 1995.
+*—. ''The Laureate Dunces: An Anthology of Poetry by the Poets-Laureate of The Dunciad.'' Lewiston/Queenston/Lampeter: The Edwin Mellen Press, 1999.
+*Hill, Christopher. ''The Century of Revolution''. Edinburgh: Thomas Nelson and Son, 1961.
+*Hopkins, Kenneth. ''The Poets Laureate''. London: Bodley Head, 1954.
+*Johnson, Samuel. ''Lives of the Poets''. Ed. G. Birkbeck-Hill. Oxford: OUP, 1905.
+*Jarrett, Derek. ''Britain 1688–1815''. Longman: London and Southampton, 1965.
+*Koon, Helen. ''Colley Cibber''. Kentucky: University Press of Kentucky, 1986.
+*McInnes, Angus. ''Robert Harley, Puritan Politician''. London: Victor Gollancz, 1970.
+*McGugan, Ruth. ''Nahum Tate and the Coriolanus Tradition''. New York and London: Garland Publishing Inc., 1987.
+*Nokes, David. ''Raillery and Rage''; ''A Study of Eighteenth-Century Satire''. London: Harvester Wheatsheaf, 1987.
+*Nussbaum, F., Brown, L. ''The New Eighteenth Century: Theory and Politics and English Literature''. London: Methuen & Co., 1987.
+*Petrie, Sir Charles. ''The Four Georges''. London: Eyre and Spottiswoode, 1935.
+*Pope, Alexander. ''The Dunciad Variorum. The Poems of Alexander Pope'', ed. John Butt. London: Routledge, 1963, Reprinted 1965.
+*—. ''The Dunciad. The Poems of Alexander Pope'', ed. John Butt. London: Routledge, 1963, Reprinted with corrections, 1968, and 1992.
+*—. ''To Augustus. The Poems of Alexander Pope'', ed. John Butt. London: Routledge, 1963, Reprinted 1965.
+*Rogers, Pat. ''Literature and Popular Culture in Eighteenth-Century England''. London: Harvester Press, 1985.
+*—. ''Eighteenth-Century Encounters.'' London: Harvester Press, 1985.
+*—. ''Grub Street: Studies in a Subculture.'' London: Methuen & Co., Ltd, 1972.
+*Senior, Dorothy. ''The Life and Times of Colley Cibber''. London: Constable, 1928.
+*Spencer, Christopher. ''Nahum Tate''. Boston, Mass.: Twayne Publishers, 1972.
+*Swift, Jonathan. ''The Conduct of the Allies.'' ''Prose Writings of Jonathan Swift''. Ed. H. Davis. Oxford: OUP, 1941-57.
+*—. ''A Tale of a Tub''. Eds A. Ross and D. Woolley. Oxford: World's Classics, OUP, 1986.
+*—. ''The Examiner''. ''Prose Writings of Jonathan Swift''. Ed. H. Davis. Oxford: OUP, 1941–57.
+*—. ''Journal to Stella''. Ed. Harold Williams, 5 vols. Oxford: OUP, 1963–65.
+*—. ''Poetical Works''. Ed. Herbert Davis. Oxford: OUP, 1967.
+*Tate, Nahum. ''On the Sacred Memory Of Our Late Sovereign, With A'' ''Congratulation to his present Majesty'': London, 1685.
+*—. ''On a deform'd Old Bawd, designing to have her Picture drawn''. ''Poems Written on Several Occasions''. London: 1684.
+*—. ''Mausolaeum: A Funeral Poem On Our Late Gracious Sovereign Queen Mary, Of Blessed Memory''. London: 1695.
+*''The Anniversary Ode For The Fourth Of Dec 1697'', ''His Majesty's Birth-Day''. London, 1698.
+*''Ode To New-Year's Day 1697–8; Set To Musick By Dr. Blow''. London, 1698.
+*''Panacea: A Poem upon Tea''. London: 1700.
+*''An Ode upon the Assembling of the New Parliament''. London: 1702.
+*''Britannia's Prayer for the Queen''. London: 1708.
+*''The Song for the New Year''. London: 1708.
+*''The Song for Her Majesty's Birthday''. London: 1710–11.
+*''The Muse's Memorial of the Right Honourable the Earl of Oxford''. London: 1712.
+*''The Triumph of Peace''. London: 1713.
+*''A Congratulatory Poem on Her Majesties Happy Recovery''. London: 1713.
+*''A Poem on the Death of Our Late Most Gracious Sovereign, Queen Anne''. London: 1716.
+*Trevelyan, G. M. ''England in the Reign of Queen Anne''. 3 vols. London: Longman, 1930.
+*Woodhuysen, H. R. (ed). ''Samuel Johnson on Shakespeare''. London: Harmondsworth, 1989.
+
+{{BookCat}}
