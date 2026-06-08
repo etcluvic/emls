@@ -1,0 +1,359 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/National and Colonial Education in Shakespeare's ''The Tempest''}}
+''This essay was written by Allen Carey-Webb''.
+
+<!--Paragraph 1-->
+In Early Modern England there was an increasing systematization of schools and school knowledge, a process that would, in time, transform a heterogeneous, polyglot population into a self-consciously identified national people. Successfully confronting aristocratic and ecclesiastical anxieties that schooling might be heretical, seditious, or educate people above their 'station,' sixteenth-century education advocates promoted new schools, unified instruction in Latin grammar, and ushered in a new orthodoxy in education. Standardized school books were imposed in the 1540s and, closely corresponding with Shakespeare's lifetime, there was a boom in the founding of schools. Despite a great variety of forms and purposes in the educational life of England, 1560 to 1640 has been characterized as a period of "educational revolution... when the English education system was more vigorous, more purposeful, better funded and better equipped at this time than ever before."<ref>Cressy 9. Subsequent Cressy citations are to a collection of English educational documents from the Tudor and Stuart periods.</ref>
+
+<!--Paragraph 2-->
+Spurred by the Reformation, education in the period was first and foremost religious, but religious instruction was more and more conceived as necessary to creating a prosperous and loyal citizenry. Protestant reformers connected the ability to read and interpret the Bible to the process of individual salvation and they addressed themselves with vigor to England’s widespread illiteracy. With motives that were ethical as well as religious, education advocates viewed schooling as a pathway to manners, fidelity, and respect for authority. In 1559 Thomas Becon extolled education in the following terms,
+
+<blockquote>
+Through the schoolmaster the youth of the Christian commonwealth is brought up in the knowledge of God and of his holy word, and also in the science of good letters and virtuous manners; and so trained up in them from their very cradles that as they grow in age so likewise they increase in godliness, virtue, learning, knowledge, good manners and innocency of life, and afterward become the faithful servants of God and profitable members of the commonweal, yea, and good citizens of the country where they inhabit.<ref>Cressy 21.</ref>
+</blockquote>
+
+<!--Paragraph 3-->
+Becon was not alone in connecting "good letters" and "virtuous manners," creating "faithful servants of God" and "good citizens of the country." The historian Christopher Hill claims that "The whole trend of educational advance during the century before the Reformation had been towards a more secular, lay-controlled education in the vernacular. The dissolution of the monasteries and chantries gave an opportunity for creating a national educational system"(39). In his comprehensive historical study of the development of national consciousness during the Early Modern period, ''Nations before Nationalism'', John Armstrong argues that educational organization was crucial to England's precocious consolidation and development from feudal monarchy to nation-state (168).<ref>For a discussion of the role of educational systems in the formation of national identities see Ernest Gellner. Benedict Anderson makes a similar argument regarding the formation of colonial nationalism, 116–131.</ref>
+
+<!--Paragraph 4-->
+In examining the relationship between English pedagogical practices and the development of national citizens and state sovereignty Shakespeare's enchanting romance ''The Tempest'' (1611) is remarkably interesting. His ostensible Italian background notwithstanding, Prospero can be seen as a figure of English sovereignty who shapes the knowledge and develops the obedience of his subjects through a pedagogical process. By inquiring into the language and practices of education that pervade this literary work I want to investigate the connection between schooling and national citizenship, a connection made at least as long ago as the sixteenth century by the educational reformers themselves. Though in his history plays Shakespeare attempts to narrate a common English national past, I believe that it is in the magical, utopian projection of his New World romance that we find best illuminated formal and informal processes of education, processes that have much to do with developing the sense of citizenship and national identity that influences the centuries to follow.<ref>In ''Drama of a Nation'' (1985) Walter Cohen argues that the national theater in Spain and England was unique in its incorporation of noble and lower-class characters and the staging of tensions between an homogenizing absolutist state and the popular will. In ''Forms of Nationhood'' (1992) Richard Helgerson argues that despite this inclusion of the "popular, marginal, subversive, and folk" Shakespeare's history plays contributed above all "to the consolidation of central power, to the cultural division of class from class" (245) that characterized an ambitious generation of Elizabethan writers who sought to elevate English nationalism to a classical and imperial standard. In ''Making Subjects: Literature and the Emergence of National Identity'' (1998) I compare the development of national consciousness in sixteenth century theater and twentieth century postcolonial novels.</ref>
+
+<!--Paragraph 5-->
+Set on an island off the European mainland, and connected by historical and verbal links to the new English colonies in the Virginias, ''The Tempest'' has been recognized as presenting a model of colonial relationships and a metaphor of colonial history. Deriving its plot from letters from the New World, and drawing on European conceptions of "New World" peoples, the play is widely understood to enact a colonial—or as Gonzalo calls it a "plantation"—economy. Indeed, the play has served a pivotal role in the analysis of colonial history by twentieth century intellectuals, from the Uraguaian José Enrique Rodó (''Ariel'') to the Italian Octave Mannoni writing about Madagascar (''Prospero and Caliban: The Psychology of Colonization'') to the Cuban Roberto Retamar ("Caliban: Notes Toward a Discussion of Culture in Our America").<ref>For examination of ''The Tempest'' in anticolonial thought see Nixon and Bruner.</ref> Since at least the mid 1980s, ''The Tempest'' has been a focal point for exploring politics and colonial discourse in literature. I do not intend to reproduce those extensive discussions here.<ref>For discussion of the connections between ''The Tempest'' and the Virginia Colonies, see the introduction and appendices of both the 1954 Arden edition of the play edited by Frank Kermode and the 1987 Oxford version edited by Stephen Orgel. See also Brockbank, Vaughn and Vaughn, Hulme, Greenblatt, Griffiths, Brown, Linton, et al.</ref>
+
+<!--Paragraph 6-->
+Nonetheless, as I explore the connection between education and nation in ''The Tempest,'' it is significant that Early Modern nationhood was modeled on classical empire and an expansionist imposition of language and culture. In a fascinating way this play brings together the practices of schooling in early seventeenth-century England with the conception of the proper relationship between Englishman and colonized natives. Indeed, I want to show that this educational connection makes ''The Tempest’’s'' colonial metaphor all the more engaging. Colonial educational systems were a formative part of the experience of hundreds of millions of people and spread European languages, culture, economics, and, eventually, nationalism across the world. Many post-colonial educational systems in Africa, Latin America, and Asia continue to follow patterns established during the colonial period.
+
+<!--Paragraph 7-->
+Any discussion of the relationship between literary or dramatic works and historical processes runs certain risks, which should be recognized from the outset. Literature does not simply reflect political or historical trends. Connections between literature and history are especially tenuous when history (or literature) is understood in purely theoretical or monolithic terms. Political criticism that focuses on the seamlessness of authority can miss a more complex historical reality as well as obscure the subtleties of art. For instance, sixteenth century England's political society was not a simple absolutist tyranny but a complex hybrid of authority where parliament and a developing merchant class tended to resist traditional nobility by supporting the consolidation of power in the monarchy. Thus, if we are to read Prospero as a figure of English sovereignty, it must be in terms of a personal monarchical rule that might aspire to absolutism but never fully achieves it.
+
+<!--Paragraph 8-->
+Conversely, reading literature without a view to historical trends and the shape of the world as we know it in the present can lead us to underestimate the capability of literary artists and to trivialize the act of literary interpretation. As a case in point, the connection between book-learning, schooling, and the obedience of citizens was an important historical reality before, after, and during Shakespeare’s life; it would be to underrate him to imagine that he would not be aware of or interested in it. Education and the civic effects of educational reform were not topics to be missed by a man as fascinated by history and politics as Shakespeare. Consider, for instance, the way the rebellious tradesman Jack Cade denounces Lord Say in ''2 Henry VI'':
+
+<!--Paragraph 9-->
+Just as the connection between education and authority was contemporary to ''The Tempest'', a link between colonial and pedagogical relationships is also not a figment of postcolonial theory. References to Englishmen and Europeans as having responsibility for instructing colonized natives were common in the sixteenth and seventeenth centuries, as well as in later periods. Speaking of an event that took place just two years before ''The Tempest'' was first performed, Gilles notes that "In 1609, the Revered William Crashaw, who 'was serving as a sort of director of publicity for the company,' imagined 'Virginea' as a young woman being schooled by an older and male 'England' in... an important sermon to the Counsel" (677). Joan Pong Linton has argued that the intention to educate and Christianize Amerindians was contemporaneous with ''The Tempest'' and served to justify English "husbandry" of Virginia, leading to abduction of native children and Amerindian resistance (160–166, 179–180).
+
+<!--Paragraph 10-->
+In this essay as I examine politics and colonial discourse, I seek to ground them in a lived historical reality, that of schooling and teaching practices. At the same time I remain conscious that even if there was an "educational revolution" in the sixteenth century, the great majority of English citizens remained illiterate and, as a percentage of the population, only a relative few attended the expanding school system. Public spectacle, religious icons and imagery, and the theater itself reached a broader spectrum of the English population than schools or the written word and these mediums also influenced the emergence of modern citizenship. Yet, I am convinced that our understanding of ''The Tempest'' is enlarged when we can read it within the historical interplay of conflictive absolutism, schooling, and precocious national consciousness.
+
+==Prospero as Scholar-Teacher==
+
+<!--Paragraph 11-->
+Magician, dramatist, patriarch, island sovereign, and colonial administrator, Prospero is also eminently a scientist, an intellectual, a scholar, and a teacher.<ref>Prospero's role as teacher has not been extensively examined. Hunt and Winson compare Prospero positively to Belarius (of ''Love's Labour Lost''). Hunt finds Prospero self-sacrificing: <blockquote>A close comparison of Prospero's pastoral instruction with that of his counterpart Belarius not only clarifies the effectiveness of the magician's art but also directs our attention to its best working. When his teaching requires an angry persona, Prospero, after all, self-sacrificially risks his reputation as a kind father. (Hunt 38)</blockquote>Winson argues that through the character of Holofernes Shakespeare mocks the pedantry of teachers of Latin. Hawkes draws on the Caliban/Prospero relationship in his examination of the early twentieth century national institutionalization of literary study in England. Greenblatt focuses on alterity and language in the colonial context.</ref> Throughout the play Prospero teaches all the characters, and the teacher role could be seen to fit him better than even the customary "playwright." Except for Ariel, Prospero doesn't actually script the other characters. Instead he manipulates, trains, and instructs them. Just as in sixteenth century England where, according to historians, education was more socially mixed than at any time before or after, Prospero develops education for all classes of society, for aristocrats (such as Ferdinand) as well as for commoners (such as Trinculo), an education that internalizes bonds of allegiance that confirm and maintain Prospero's authority. Prospero's "national pedagogy" resituates individuated subjects in a reinforced social order. His ability to contain their movement and his all-knowing, all-seeing observation bring the disparate spaces and times of the play into a single spatial and temporal dimension.<ref>Homi Bhabha describes the political unity of the nation in this way: "Quite simply, the difference of space returns as the Sameness of time, turning Territory into Tradition, turning the People into One" (300).</ref>
+
+<!--Paragraph 12-->
+As the play begins we see that Prospero has prepared a "lesson plan" appropriate to all those who land on his island. The nobles Alonzo, Sebastian, and Antonio must learn that their crimes against Prospero cannot be forgotten, and they must be made ready to reinstate Prospero in his position as rightful Duke of Milan. Just as with students new to school, Prospero prepares his "pupils" to gain this knowledge by separating them from the others, disorienting them from their past knowledge, and providing them with knowledge of his role and authority. The supposed "shipwreck," the "loss" of Ferdinand, and the confusing magic of the island dislodge Alonzo, Sebastian, and Antonio from certainties and prepare them for new knowledge. Ariel's appearance as a harpy after the disappearance of the banquet is the critical scene of Prospero's instruction. Beginning by redefining their identity, Ariel challenges their self-understanding: "You are three men of sin. / I have made you mad; / And even with such-like valour men hang and drown / Their proper selves" (III, iii, 53–8).<ref>All references are to the 1987 Oxford edition.</ref> Through the words Prospero puts in his mouth, Ariel informs Alonzo, Sebastian, and Antonio that the storm and the current disruption of their peace is the work of supernatural powers "incensed" over Prospero's "supplanting." Consequently, when Alonzo finally "discovers" Prospero in the final scene, he pronounces "on his own" the words Prospero has trained him to say, "Thy dukedom I resign, and do entreat / Thou pardon me my wrongs" (V, i, 117–8).
+
+<!--Paragraph 13-->
+The central action of the play could thus be seen as the carefully orchestrated re-education of the principal characters by Prospero. In this period English monarchs ruled not only through their person and the intrigue of the court and parliament, but also through new means that reached an increasingly national audience, both literate and illiterate. Christopher Hill argues that "In the early seventeenth century the king ceased to exhibit himself to his subjects... and royal propagandists began deliberately to use control of pulpit and printing press to project a new image of monarchy (41). Indeed, Prospero's control over the denizens of the island is achieved through magical spectacles, enchanting music, and entertaining masques incorporated into his broader educational scheme.
+
+<!--Paragraph 14-->
+The wedding masque, the elaborate manipulation of illusion, the disappearing feast, the invisible noises and music, the familiarity with spirits and quasi-humans—all identify Prospero as a ruler patterned on the magus. Stephen Orgel claims that "Prospero's art is Baconian science and Neoplatonic philosophy, the empirical study of nature leading to the understanding and control of all its forces" (20). Though it was sometimes cast into suspicion as anti-religious, in Shakespeare's day magic could also be considered the active expression of formal knowledge and the precursor to experimental science and social reform. According to Alan Smith "Elizabethan and Stuart England was full of astrologers" and "almanacs even more than the Bible were the 'popular press of the day'" (205). In his study of Renaissance magic, John Mebane writes,
+
+<blockquote>
+Compared to modern scientists, Renaissance magicians operated within a cosmological framework which seems fantastic, and which had to be rejected before genuine science could evolve. Nonetheless, in daring to believe that the human mind could guide and command the creative forces of nature, they asserted important attitudes and values which eventually contributed to the evolution of genuine science. Hermetic magicians and Paracelsians often proclaimed the overthrow of the traditional authorities which had imposed strict limits upon the search for truth; together with the mechanical artisans with which they frequently allied themselves, they are among Bacon's immediate predecessors in emphasizing experience, rather than mere citation of Galen or Aristotle, as the appropriate test of assertions about nature. Perhaps most importantly, they predicted that the imminent renewal of all of human knowledge would bring with it the reform of human society and of human nature itself. (7) 
+</blockquote>
+
+Mebane's analysis of magic underscores Prospero's position as scholar and proto-scientist. Understanding the relation of book learning, science, and magic in Shakespeare's day helps us recognize Prospero's position as Renaissance intellectual engaging in social reform and rationalization of the social order.<ref>Peter Greenaway's 1991 film "Prospero's Books" offers an interpretation of the play that foregrounds the importance of Renaissance science and learning by emphasizing the content of Renaissance books, particularly the development of investigative science. Interspersed throughout the film are illustrations from Renaissance studies of anatomy, architecture, nature, and foreign lands. Prospero is shown teaching Miranda out of a volume on different kinds of plants. Magic and science are richly connected as pages of books blow through scenes with Caliban, as white horses appear in Prospero's library, as anatomical drawings made by the dissection of the human body are juxtaposed with images of four legged creatures and unicorns.</ref>
+
+<!--Paragraph 15-->
+Prospero's dilemma, the choice he must make between the study of the liberal arts (including science and magic) and effective management of the state, is one increasingly faced by Renaissance monarchs (and all politicians) in an age of expanding education. It is a theme that is repeated several times in the play:
+
+<blockquote>
+<poem>
+And Prospero the prime duke, being so reputed
+In dignity, and for the liberal arts [included science and magic]
+Without a parallel; those being all my study,
+The government I cast upon my brother,
+And to my state grew stranger, being transported
+And rapt in secret studies. (I, ii, 72–77)
+
+Me, poor man, my library
+Was dukedom large enough; Of temporal royalties
+He thinks me now incapable . . . (I, ii, 109–11)
+
+Knowing I loved my books, he furnished me
+From mine own library with volumes that
+I prize above my dukedom. (I, ii, 166–9)
+</poem>
+</blockquote>
+
+<!--Paragraph 16-->
+Rather than revealing an incompatibility between liberal arts and public administration, Prospero's reeducation of the other characters puts knowledge into the service of his political power.<ref>By accepting Prospero's separation of knowledge and power (in the abjuration of his magic) some scholars fail to recognize the way in which Prospero's book-learned magic is necessary to his rule on the island. Paul A. Cantor for instance argues in his article "Prospero's Republic: The Politics of Shakespeare's ''The Tempest''" (1981) that Prospero's disinterested separation of knowledge and politics is precisely what makes him an ideal philosopher-king: "His final disposition to philosophy guarantees that he will remain aware of facts of life beyond the political, and this larger perspective helps to moderate whatever ambition he develops" (254). Cantor argues that the play is basically about "Prospero learning to be tough when he has to" (244), and he follows Platonic logic to its Machiavellian conclusion without so much as a wince, approving that "in the deepest sense he [Prospero] has to refrain from sharing the truths he has learned about rule with other men, for these truths, if spread throughout society, would undermine his power to rule" (251).</ref> If books distracted Prospero from his princely duties in Milan, he learns their utility on the island where through his studies he finds the magic he needs to master Caliban and Ariel and control the island and its visitors. Prospero's spectacles intimidate his enemies and allow him to enforce his will. It is only close to the end of the play, when his authority has been assured by their use, that Prospero abjures his magic and "drowns" his books. This abjuration of magic appeals to personal and pre-scientific notions of governance; it is symptomatic, as we shall see, of the social crisis brought about by the imposition of an increasingly absolutist authority.
+
+<!--Paragraph 17-->
+Prospero plans to perpetuate his authority through a marriage between his daughter and Ferdinand; Ferdinand the future ruler must come to recognize Prospero's magic and Prospero's role as master and teacher. Prospero orchestrates his influence over Ferdinand through Miranda, and Ferdinand's first words to Miranda invoke an educational relationship.
+
+<blockquote>
+<poem>
+Most sure, the goddess
+On whom these airs attend. Vouchsafe my prayer
+May know if you remain upon this island,
+And that you will some good instruction give
+How I may bear me here. (I, ii, 422–6)
+</poem>
+</blockquote>
+
+When Ferdinand attempts to resist Prospero with his sword, Prospero responds, "My foot my tutor?" (I, ii, 470) The mixed metaphor of the school/body establishes the proper hierarchy between the two men. Drawing on the image of the king's two bodies, Prospero identifies himself as "head of state," and, at the same time as teacher/ruler. Prospero's magic can control Ferdinand (it causes him to drop his sword on their first meeting); however the naked exercise of power is a less effective means of developing obedience than the internalization of hierarchical relations via a pedagogical practice. Ferdinand's respect for Prospero's superior knowledge prepares him for his future son-in-law status. Prospero says that the trials he puts Ferdinand through are meant to make him value Miranda all the more ("too light winning / make the prize light" (I, ii, 452–3)), yet the course Ferdinand must follow serves a pedagogical purpose: by taking Caliban's job of hauling wood Ferdinand (son of the king) accepts an apprentice role that subordinates him to Prospero (outlawed duke).
+
+<!--Paragraph 18-->
+Apprenticeship was, of course, an important educational practice in Shakespeare's day affecting education both in and outside of school. For girls' education within the family, or for the wealthy, a private tutor in the home such as is comically portrayed in ''The Taming of the Shrew,'' presented the most likely pathways to literacy. As responsible patriarch and father Prospero attends closely to Miranda's education. On the island he is her teacher: "Here / Have I, thy schoolmaster, made thee more profit / Than other princes can that have more time / For vainer hours, and tutors not so careful" (I, ii, 171–4). It is a parody of teacherly power that Prospero's magic allows him to put to sleep and wake Miranda at his will.
+
+<!--Paragraph 19-->
+At several points Prospero is insistent, to the point of disconcerting harshness, with Miranda and Ferdinand about the dangers of unrestrained desire and the importance of sexual purity. In this, of course, there is present the psycho-sexual tension of the patriarchal father/daughter relationship. In a broader sense, however, the inscription of a code of propriety can be seen as a way to establish social control and internalize habits of subordination; that such a process is part of the development of modern national authority is an argument put forward by George Mosse.<ref>Two centuries later the links between propriety and nationalism were both more explicit and more closely tied to the class antagonism of the industrial era. Nonetheless, Mosse's analysis of respectability and nationalism has resonances with ''The Tempest'': <blockquote>In order to establish controls, to impose restraint and moderation, society needed to reinforce the practical techniques of physicians, educators, and police. But their methods had to be informed by an ideal if they were to be effective, to support normality and contain sexual passions. In most timely fashion, nationalism came to the rescue. It absorbed and sanctioned middle-class manners and morals and played a crucial part in spreading respectability to all classes of the population, however much these classes hated and despised one another. (9)</blockquote></ref> Prospero's inculcation of propriety develops the "internal" policing that locates subjection within the individual. In the sexual desire for Miranda, Ferdinand and Caliban are alike; in their restraint they can be distinguished. Thus education in propriety draws distinctions between "us" and "them," between "civilized" and "savage," separating "our" nation from "theirs."
+
+==Caliban and Colonial Education==
+<!--Paragraph 20-->
+Caliban is Shakespeare's most exotic character, yet in the context of European travelogues, reports of the "wild man," and New World contacts, Caliban's difference has an uncanny familiarity. This familiarity can be brought even closer to home when the portrait of Caliban is seen as a figure of pedagogical discourse, the reluctant student. The unwilling student is, of course, a familiar image in Shakespeare whether identified by Jaques as one of the stages of man, "Then the whining school-boy, with his satchel / And shining morning face, creeping like snail / Unwillingly to school," or metaphorically by Romeo, "Love goes toward love as schoolboys from their books; / But love from love, towards school with heavy looks..." Pedantic teachers of Latin and the classics were clearly targets of popular derision, as exemplified in Shakespeare's portrayal of the teacher in ''Love's Labour's Lost''.
+
+<!--Paragraph 21-->
+A rich comparison can be made between Shakespeare's depiction of Caliban's educational reluctance and Thomas Nashe's 1600 portrait of Will Summers, Henry VIII's jester:
+
+<blockquote>
+Who would be a Scholler? Not I, I promise you: my minde alwayes gaue me this learning were such a filthy thing, which made me hate it so as I did: when I should have beene at schoole construing Bate, mi fili, mi fili, mi Batte I was close vnder a hedge or vnder a barne wall playing at spane Counter or Iacke in the boxe: my master beat me, my father beat me, my mother gaue me bread and butter, yet all this would not make me a squitter-booke. It was my destinie, I thanke her as a most courteous goddesse, that she hath not cast me away vpon gibridge. Oh, in what a mightie veine am I now against Horne-bookes! Here before all this companie I profess myself an open enemy to Inke and paper... Nownes and Pronounes, I pronounce you as traitors to boyes buttockes... (Nashe 279)
+</blockquote>
+
+Like Jack Cade, both Summers and Caliban are professed enemies of books, which they personify as figures of evil and source of their punishment. Like Caliban, Summers' education is focused on the acquisition of language (for Caliban, English; for Summers, Latin). Like Caliban, Summer would prefer to be out-of-doors, "under a hedge," close to nature. There is a similar patriarchal pattern in the enforcement of learning for both of them. As Summers is beaten by his master and father, so Caliban is beaten by Prospero. Both Caliban and Summers appeal to female goddesses for protection: Summers personifies his "destinie;" Caliban worships the god of his witch mother, Setebos. While both Caliban and Summers are figures from a comic tradition, their outrage against a disciplinary pedagogy is understandable, even convincing. 
+
+<!--Paragraph 22-->
+Caliban's treatment by Prospero and Miranda should not be separated from the larger English discourse on education, yet Caliban is not only Prospero's and Miranda's student and servant, as island native he is also their colonial subject. As part man part beast Caliban is both more and less than Jaques "whinning school boy." As we shall see, an analysis of the training Caliban receives on the island is relevant to the practices and assumptions that will come to underlie European/Native encounters, most particularly European efforts to ‘educate the savages’ in ensuing centuries of English colonialism. In this sense, ''The Tempest'' offers one of the earliest representations of English colonial education.
+
+<!--Paragraph 23-->
+In 1611, colonial education was new only in that it was to be organized by the English in their own vernacular; the ability to impose the learning of one's language onto others had been the hallmark of imperial rule for centuries. While the educated in Renaissance Europe had to learn Roman Latin, the colonized in the New World and elsewhere had to learn Spanish, Portuguese, Dutch, or, later on, English. In his discussion of the play Stephen Greenblatt calls this process "linguistic colonialism" and turns his argument on the question of the degree to which the likeness or difference of the native are recognized by the colonizer. He points out that New World tongues were thought barbarian and not even considered by many to be languages.<ref>Greenblatt's important essay examines the relationship between colonizer and colonized demonstrating that either dismissing the native's language altogether or, as was also done, assuming that there was no language barrier, fundamentally denies both their likeness and their difference.</ref>
+
+<!--Paragraph 24-->
+Indeed, in ''The Tempest'' before Miranda teaches Caliban to speak she says he "gabbled like a thing most brutish." Miranda's and Prospero's task, then, is to give Caliban not merely a "civilized" tongue, but language itself. Prospero's and Miranda's intentions in educating Caliban prefigure Macaulay's 1835 ''Minute on Indian Education'' where non-European learning is derided and English is championed in order to create a useful class of natives, "Indian in blood and colour, but English in taste, in opinions, in morals, and in intellect" (Macaulay 729). Colonial schools and educational systems in the consequent centuries taught European languages, culture, and administration to non-European subjects. Such schools, much like the schools of sixteenth-century England, brought a multi-ethnic and polylingual youth of indigenous elites of the colonial administrative unit into a single student body and provided them with a uniform and systematized curriculum, instruction in a single language, and an awareness of English (or other European) national histories.
+
+<!--Paragraph 25-->
+In Shakespeare's day as in other periods, when schools draw their pupils from diverse regions, or when students in different places are trained in a similar curriculum and educational process, they develop a sense of common experience and allegiance. Consider the similarities between the effects of education noted by an Oxford beadle in 1678 with the history of colonial education we have been examining.
+
+<blockquote>
+Miserable is the face of any nation where neither schools nor universities be frequented: no law, no safe commerce, a general ignorance and a neglect of duty both to God and man. Now that universities flourish and schools are in many populous towns erected, from those places of public education especially, persons are sent into all parts of the land, engaged in the strictest bonds of allegiance.<ref>Cressy 19.</ref>
+</blockquote>
+
+<!--Paragraph 26-->
+As the beadle's analysis suggests, Caliban's education as colonial subject is intimately related to the play's own making of national subjects "back home." Moreover, the teaching of language to Caliban holds up to the audience a mirror in which they can recognize their own (London) vernacular English as "national" (in the sense that, unlike Caliban, they understand the language "naturally") and "imperial" (in the sense that Caliban must learn English just as the English learn Latin). In the Globe Theater then, the otherwise diverse audience can see itself as a nation united on linguistic lines, with its own English raised to both national and imperial standards. Viewing Caliban as reluctant student suggests the simultaneity of his role as exotic other and familiar citizen. The juxtaposition of Prospero and Caliban is anticipated by the pairing in Nashe's play of the Renaissance monarch—and Henry VIII was an extensively educated king—with the reluctant Will Summers. Jack Cade's, Caliban's, and Will Summer's defiant rejection of literacy should be seen as one of the key motifs of the period, in both New World and Old.
+
+<!--Paragraph 27-->
+The relationship between Prospero's tokens of education and magical power is clearly identified by Caliban. "I am subject to a tyrant, a sorcerer that by his cunning hath cheated me of the island" (III, ii, 40–2), Caliban tells Stephano and Trinculo. Since the contradictions of absolutist rule are sharpest in the relationship of Caliban as slave and as colonized subject, it is he who is best positioned to identify the functioning of Prospero's imperial power. Writing and books are frequently identified as critical technologies in the establishment of colonial authority; Caliban's animosity toward education and the book is paradigmatic of the relationship between colonial subject and colonizing nation. When Caliban plans revolt he advises Stephano and Trinculo to capture Prospero's books,
+
+<blockquote>
+<poem>
+Remember
+First to possess his books; for without them
+He's but a sot, as I am, nor hath not
+One spirit to command—they all do hate him
+As rootedly as I. Burn but his books.
+He has brave utensils, for so he calls them,
+Which when he has a house, he'll deck withal. (III, ii, 90–5)
+</poem>
+</blockquote>
+
+Caliban emphasizes that without possession of the book Prospero will be "as I am." For Caliban, the book is not the vehicle to knowledge but the tool of the magician that makes possible the performance of authority. Books are "utensils," magical instruments of power, and they are also, in themselves, the legitimization of the right to authority, commodities increasingly on display in the educated, aristocratic household (Smith, 188). At stake in the struggle between Caliban and Prospero is ownership of books, the technology of power/magic and the implements of educational practice.
+
+==Pedagogy and Pain==
+<!--Paragraph 28-->
+"As well as grammatical and religious instruction no Tudor or Stuart schoolboy's experience was complete without a measure of corporal punishment."<ref>Cressy 90.</ref> Indeed, the efforts to limit corporal punishment in Shakespeare's time are indicative that "Nownes and Pronounes" really were "traitors to boyes buttockes." Roger Ascham wrote ''The Scholemaster'' (1563) after participating in a discussion about scholars at Eton who ran away from the school frightened of physical brutality. Consider one headmaster’s ordinance composed in 1629 about acceptable corporal punishment:
+
+<blockquote>
+I constitute and ordain that schoolmasters do not exceed in their corrections above the number of three stripes with the rod at any one time, that they strike not any scholar upon the head or the cheek with their fist or the palms of their hands or with any other thing . . . that for speaking English in the Latin school the scholar be corrected with the ferula, and for swearing with the rod . . .<ref>Cressy 92. "The ferule was a sort of flat ruler widened at the inflicting end into a shape resembling that of a pear... with a... hole in the middle to raise blisters" (OED). In the etymology of the word "ferule" the Oxford English Dictionary quotes Ben Jonson. In 1636 he wrote, "From the rodde, or ferule, I would have them free."</ref>
+</blockquote>
+
+<!--Paragraph 29-->
+Corporal punishment plays an important part in the discourse of pedagogy in ''The Tempest''. In response to Caliban's cursing, Prospero administers "cramps" and "pinches:"
+
+<blockquote>
+<poem>
+For this be sure tonight thou shalt have cramps,
+Side-stitches that shall pen thy breath up. Urchins
+Shall, for that vast of night that they may work,
+All exercise on thee. Thou shalt be pinched
+As thick as honeycomb, each pinch more stinging
+Than bees that made 'em. (I, ii, 325–30)
+</poem>
+</blockquote>
+
+Again:
+
+<blockquote>
+<poem>
+If thou neglect'st, or dost unwillingly
+What I command, I'll rack thee with old cramps,
+Fill all thy bones with aches, make thee roar,
+That beasts shall tremble at thy din. (I, ii, 367–70)
+</poem>
+</blockquote>
+
+The spirits Prospero sends to torture Caliban are, apparently, animals themselves, whose purpose is to fill Caliban's head with frightful images and sounds.
+
+<blockquote>
+<poem>
+[But] for every trifle are they set upon me,
+Sometime like apes that mow and chatter at me,
+And after bite me; then like hedgehogs, which
+Lie tumbling in my barefoot way, and mount
+Their pricks at my footfall; sometime am I
+All wound with adders, who with cloven tongues
+Do hiss me into madness. (II, ii, 7–14)
+</poem>
+</blockquote>
+
+<!--Paragraph 30-->
+Caliban fears that he may lose his intelligence, that he may turn into a beast. In a warning to Trinculo and Stephano about what may happen if their plot is found out, Caliban suggests that Prospero will transform them into creatures farther down on the natural scale: "We shall loose our time, / And be turned to barnacles, or to apes / With foreheads villainous low" (IV, i, 248–250). Ironically, Prospero's supposedly "civilizing" discipline produces brutish behavior, and Caliban's fear of being reduced to bestiality is justified. When Prospero and Ariel catch Caliban, Stephano, and Trinculo they are hunted down, like animals. Prospero's attending spirits recall the hunter's ravenous dogs chasing the rebellious slave.<ref>Shakespeare could not have known, of course, that the first slave ship would arrive in Jamestown a mere eight years after the writing of ''The Tempest'' or that by the time of the French Indian wars, fully as much as two-fifths (40%) of the population of Virginia would be black slaves. Yet he was obviously aware of the slave trade and the presence of slaves, both Africans and Native Americans, in the Caribbean plantations. By 1611 the African slave trade was 170 years old; a million Africans had already been brought to the New World by the Spanish and Portuguese. In ''The Tempest'', Caliban is specifically referred to by Prospero as his "slave" on four occasions.</ref>
+
+<blockquote>
+<poem>
+Fury, Fury! There Tyrant, there! Hark, hark!
+Go charge my goblins that they grind their joints
+With dry convulsions, shorten up their sinews
+With aged cramps, and more pinch-spotted make them
+Than pard of cat o' mountain.
+[Ariel] Hark, they roar.
+Let them be hunted soundly. (IV, i, 257–264)
+</poem>
+</blockquote>
+
+The final lesson of Caliban's education is an acceptance of the inevitable failure of revolt. In his last scene, Caliban appears in scraping submission to Prospero's authority. Encountering Prospero again after being hounded by the spirits, Caliban exclaims, "I shall be pinched to death!" (V, i, 276). Yet Prospero does not punish him, but, as he does with the Neapolitans, offers his pardon instead. The "generosity" of the disciplinarian in refraining from torture, as with a trained dog, thus inspires Caliban's obedience. Told to go quickly to Prospero's cell, Caliban now responds without the foot-dragging resistance he customarily displays: "Ay, that I will; and I'll be wise hereafter, / And seek for grace" (V, i, 294–5).
+
+<!--Paragraph 31-->
+In ''The Tempest'' pain is administered after demonstrations of disobedience or obstinacy. It is sharp, frequent and enduring, but not disfiguring (beyond "leopard spots") or life threatening. Pain is not administered to extract truth or knowledge or for the sake of sadistic pleasure, but to further subject Caliban to Prospero's rule, to ensure his cooperation and development within the master/slave master/student relationship. The infliction of pain is neither interrogation nor purposeless punishment but part of a pedagogical discipline accepted then and now. (I taught in a public high school in the 1980's where the vice principal went unchallenged in his use of a ferula.) Closer to us, perhaps, is the fact that in all the extensive scholarship on the play—often sympathetic to Caliban—the infliction of pain and Caliban's disciplinary torture receive scant attention.<ref>For an exception see Breight.</ref>
+
+<!--Paragraph 32-->
+That such violence was (and is) seen as proper and necessary to the business of civilizing Caliban relates to the role of punishment within the pedagogical structure of Prospero's and English power. Through his knowledge of character and his power/magic, Prospero fulfills the fantasy of the slave master/colonial administrator who can subjugate his charges without diminishing their labor power. Above all, in seeking to tame Caliban's "nature," Prospero's domesticating discipline must not interfere with Caliban's usefulness as a servant.
+
+<!--Paragraph 33-->
+In a paradoxical way both the successes and failures of Caliban's education serve to legitimate European cultural domination and ratify assumptions about "uncivilized" Others. Once the master's language is learned by Caliban, it becomes evident that his "failure" stems from "deeper" shortcomings. If in the development of modern nationhood education allows the internalization of authority, the incompleteness of Early Modern absolutism is evident in the need for the direct and public use of violence. In the colonial context violence may be particularly brutal. There is that in Caliban's nature which no amount of nurture can cure:
+
+<blockquote>
+<poem>
+Abhorred slave,
+Which any print of goodness wilt not take,
+Being capable of all ill! I pitied thee,
+Took pains to make thee speak, taught thee each hour
+One thing or other. When thou didst not, savage,
+Know thine own meaning, but wouldst gabble like
+A thing most brutish, I endowed thy purposes
+With words that made them known. But thy vile race—
+Though thou didst learn–had that in't which good natures
+Could not abide to be with; therefore wast thou
+Deservedly confined into this rock,
+Who hadst deserved more than a prison. (I, ii, 357–9)
+</poem>
+</blockquote>
+
+In this address Miranda admits that Caliban did learn, but believes that his brutishness stemmed from belonging to a "vile race," one that "good natures could not abide to be with." Described by Prospero as "hag-born," "savage," "brutish," Caliban seeks "to violate the honor of my child" (I, ii, 347–8). The attempted rape invokes fears of racial mixture and savage sexuality that neither begin nor end with the seventeenth century. The implication of such fears is disturbing: Miranda's suggestion that Caliban's race deserves "more than prison," sounds like a racist justification for violence, even genocide.
+
+==Conclusion==
+<!--Paragraph 34-->
+Educational systemization was, of course, only one piece of a broader and not always even process of modernization. Michel Foucault, in his now classic work ''Discipline and Punish'' explicity draws connections between prisons and educational instutions as he traces an evolution away from medieval and feudal notions of power to Enlightenment and statist notions of centralized and anonymous control.<ref>The most extended Foucaultian treatment of Shakespeare is by Christopher Pye. Though Pye doesn't analyze ''The Tempest'', he does make contributions to the understanding of the histories and of ''Macbeth''. While emphasizing the role of spectacle in the exercise of power, Pye does not examine the way in which modern systems of discipline produce individual identity. John Archer has attempted to historically pin down Foucault's concepts in view of Elizabethan and Jacobean court society. He argues that spying and intelligence though not fully systematized were "united in a culture of surveillance" in seventeenth century English monarchy.</ref> Drawing on examples from both the Seventeenth (plague quarantine) and Eighteenth Centuries (Panopticon), Foucault makes his famous argument that power increasingly "makes itself everywhere present and visible; it invents new mechanisms; it separates, it immobilizes, it partitions; it constructs for a time what is both a counter-city and the perfect society; it imposes an ideal functioning..." (205). He shows that the state becomes more and more like a laboratory "a machine to carry out experiments, to alter behavior, to train, or correct individuals... To try out different punishments on prisoners, according to their crimes and character, and to seek out the most effective ones... To try out pedagogical experiments—and in particular to take up once again the well-debated problem of secluded education, by using orphans" (203–4).
+
+<!--Paragraph 35-->
+It is not inappropriate to connect Prospero's magical and utopian island to a Foucaultian reading of history. Prospero's island does indeed become a cell/laboratory/classroom, where the isolation and manipulation of characters allows authority to "carry out experiments," "alter behavior," "train" and "correct" individuals. Yet Foucault's analysis can also become monolithic and unidirectional, calling for modification in specific textual and historical contexts. Along with the tendancy toward internalized control, the representation of education in ''The Tempest'' suggests an expanding threat of disruption, treason, and rebellion. This should make historical sense to us; though Cade's Rebellion was well in the past, the English revolution, however partial and incomplete, was a mere generation away.
+
+<!--Paragraph 36-->
+Disruption, treason, and rebellion emerge from a utopian dream of freedom that runs throughout the play. This dream is present in Gonzalo's imaginative utopia, in Ariel's reiterated requests for freedom, in Miranda's and Ferdinand's desire for each other, in the natural beauty of the island, in the relationship of Caliban to nature and in his recollection of pre-Prospero independence (when he was 'mine own king'), and, above all, in Stephano's, Trinculo's and Caliban's treasonous rebellion.<ref>Beier's argument about masterless men helps situate the rebellion of the jester and drunken butler within the context of the threat of uprising in Shakespeare's England. For consideration of the play in light of a "discourse of treason," see Breight.</ref> Their plans to kill Prospero, burn his books, marry Miranda, take over the island and insure that "thought is free" (III, ii, 121) lead to the interruption of the wedding masque and render Prospero more "distempered" and "angry" than Miranda has ever seen him.
+
+<!--Paragraph 37-->
+Despite its philosophical or even oppositional possibilities in the English or European context, the vision of Utopia serves to encourage New World colonization and exploitation. As advertising propaganda for settlement the utopian myth is effective in recruiting "your tired, your poor, your huddled masses yearning to breathe free." Simultaneously, the fantasy of New World utopia contains within it the inspiration for colonial domination. While the attractive possibility of the utopia depends, in part, on the imagined life of the Native American (Sir Thomas More's 1516 work stages a conversation with a supposed member of one of Vespucci expeditions about natives in Brazil), the reality of New World colonization increasingly demands the reorganization of Native American society in an acceptable, subordinate role. The disappointing discovery that native life does not conform to European notions of utopia provides an insidious justification for European governance of native society. The surprising difficulty of survival in the New World led to desperate conscription first of Native Americans and then African slaves into forced labor. Prospero instructs Miranda that Caliban's services are necessary:
+
+<blockquote>
+<poem>
+[Miranda] 'Tis a villain, sir,
+I do not love to look on.
+[Prospero] But as 'tis,
+We cannot miss him, He does make our fire,
+Fetch in our wood, and serves in offices
+That profit us. What ho, slave! Caliban! (I, ii, 308–13)
+</poem>
+</blockquote>
+
+The "failure" of the native to welcome the settlement of the European with open arms leads to the European's vengeful use of force.
+
+<!--Paragraph 38-->
+Colonial education has contradictory effects, however. From Prospero's view Caliban is congenitally recalcitrant, and his education thus wasted. Acquiring language is not sufficient to alter his supposedly unregenerate nature. And, as subsequent history has shown, racism and colonial exploitation make more likely the native's rejection of colonial tutelage. At some point, then, the native turns the colonizer's language against him and adopts Caliban's stance: "You taught me language, and my profit on't / Is I know how to curse. The red plague rid you / For learning me your language!" (I, ii, 362–4). Even Caliban's awareness of Prospero's presence does not inhibit his rebellious actions. Though he has been schooled to know that Prospero's tortures are waiting for him, he is undaunted: "His spirits hear me, / And yet I needs must curse" (II, i, 4–5).
+
+<!--Paragraph 39-->
+Caliban's rejection of Prospero's pedagogy points to the subversive danger of the unruly pupil. This reading of ''The Tempest'' suggests that the link between education and social control is nothing new: attempts to formulate a disciplinary national pedagogy had analogs as early as the seventeenth century. I close with Thomas Hobbes' 1688 advice to the English crown:
+
+<blockquote>
+The core of rebellion, as you have seen by this and read of other rebellions, are the universities; which nevertheless are not to be cast away but to be better disciplined, that is to say, that the politics there taught be made to be, as true politics should be, such as are fit to make men know that it is their duty to obey all laws whatsoever that shall by the authority of the king be enacted.
+</blockquote>
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Anderson, Benedict. ''Imagined Communities: Reflections on the Origin and Spread of Nationalism''. London: Verso, 1983.
+
+*Archer, John. ''Sovereignty and Intelligence: Spying and Court Culture in the English Renaissance''. Stanford: Stanford UP, 1993.
+
+*Armstrong, John A. ''Nations before Nationalism''. Chapel Hill: U of North Carolina P, 1982.
+
+*Beier, A.L. ''Masterless Men: The Vagrancy Problem in England 1560–1640''. New York: Methuen, 1985.
+
+*Bhabha, Homi. "DissemiNation: Time, Narrative, and the Margins of the Modern Nation" in ''Nation and Narration''. Ed. Homi Bhabha. London: Rutledge, 1990.
+
+*Breight, Curt. "Treason doth never prosper": ''The Tempest'' and the Discourse of Treason." ''Shakespeare Quarterly'' 41.1 (1990): 1–28.
+
+*Brockbank, Philip. "‘The Tempest’: Conventions of Art and Empire" in ''Later Shakespeare''. Ed. John Brown and Bernard Harris. London: St. Martin’s, 1966. 183–202.
+
+*Brown, Paul. "'This thing of darkness I acknowledge mine': ''The Tempest'' and the Discourse of Colonialism." ''Political Shakespeare: New Essays in Cultural Materialism''. Ed. Jonathan Dollimore and Alan Sinfield. Ithaca: Cornell UP, 1985. 48–71.
+
+*Bruner, Charlotte H. "The Meaning of Caliban in Black Literature Today." ''Comparative Literature Studies'' 13 (1976): 240–53.
+
+*Carey-Webb, Allen. ''Making Subject(s): Literature and the Emergence of National Identity''. New York: Garland Publishing, 1998.
+
+*Cohen, Walter. ''Drama of a Nation: Public Theater in Renaissance England and Spain''. Ithaca: Cornell UP, 1985.
+
+*Cressy, David. ''Education in Tudor and Stewart England''. New York: St. Martin's Press, 1975.
+
+*Foucault, Michel. ''Discipline and Punish: The Birth of the Prison''. Trans. Alan Sheridan. New York: Vintage Books, 1979.
+
+*Gellner, Ernest. ''Nations and Nationalism''. Ithaca: Cornell UP, 1983.
+
+*Gillies, John. "Shakespeare's Virginia Masque." ''ELH'' 53.4 (1986): 673–707.
+
+*Greenblatt, Stephen. ''Learning to Curse: Essays in Early Modern Culture''. New York: Routledge, 1990.
+
+*Griffiths, Trevor. "'This Island's mine': Caliban and Colonialism." ''Yearbook of English Studies'' 13 (1983): 159–80.
+
+*Hawkes, Terence. "Swisser-Swatter: Making a Man of English Letters." ''Alternative Shakespeares''. Ed. John Drakakis. London: Methuen, 1985. 26–46.
+
+*Helgerson, Richard. ''Forms of Nationhood: The Elizabethan Writing of England''. Chicago: U of Chicago P, 1992.
+
+*Hill, Christopher. ''The Pelican History of Britain: Volume 2 1530–1780 Reformation to Revolution''. Harmondsworth: Penguin, 1971.
+
+*Hulme, Peter. ''Colonial Encounters: Europe and the Native Caribbean 1492–1797''. London: Methuen, 1986.
+
+*Hunt, Maurice. "Belarius and Prospero: Two Pastoral Schoolmasters." ''Lamar Journal of the Humanities'' 15.2 (1989) 29–41.
+
+*Linton, Joan Pong. ''The Romance of the New World: Gender and the Literary Formation of English Colonialism''. Cambridge: Cambridge UP, 1998.
+
+*Macaulay, Thomas Babington. "Minute of the 2nd of February, 1835" in ''Macaulay: Prose and Poetry''. Selected by G.M. Young. Cambridge: Harvard UP, 1952.
+
+*Mannoni, Octavio. ''Prospero and Caliban: The Psychology of Colonization''. Trans. Pamela Powesland. Ann Arbor: U of Michigan P, 1990.
+
+*Mebane, John S. ''Renaissance Magic and the Return of the Golden Age: The Occult Tradition and Marlowe, Jonson, and Shakespeare''. Lincoln: U of Nebraska P, 1989.
+
+*Mosse, George L. ''Nationalism and Sexuality: Respectability and Abnormal Sexuality in Modern Europe''. New York: Howard Fertig, 1985.
+
+*Nashe, Thomas. ''The Works of Thomas Nashe''. Vol. III. Ed. Ronald B. McKerrow. Oxford: Basil Blackwell, 1958.
+
+*Nixon, Rob. "Caribbean and African Appropriations of The Tempest." ''Critical Inquiry'' 13.3 (Spring 1987): 557–578.
+
+*Orme, Nicholas. ''Education and Society in Medieval and Renaissance England''. London: Hambledon Press, 1989.
+
+*Pye, Christopher. ''The Regal Phantasm: Shakespeare and the Politics of Spectacle''. London: Routledge, 1990.
+
+*Retamar, Roberto Fernández. "Caliban: Notes Toward a Discussion of Caliban in Our America." ''Caliban and Other Essays''. Trans. Edward Baker. Minneapolis: U of Minnesota P, 1989.
+
+*Rodó, José Enrique, "Ariel" ''Jose Enrique''. Ed. Brotherston, Gordon. Cambridge: Cambridge U. P., 1967.
+
+*Smith, Alan G.R. ''The Emergence of a Nation State: The Commanwealth of England 1529–1660''. London: Longman, 1984.
+
+*Shakespeare, William. ''The Tempest''. Ed. Stephen Orgel. New York: Oxford UP, 1987.
+
+*Vaughn, Alden T., and Virginia Mason Vaughan. ''Shakespeare's Caliban: A Cultural History''. Cambridge: Cambridge UP, 1991.
+
+*Winson, Patricia. "'A Double Spirit of Teaching': What Shakespeare's Teachers Teach Us." in ''New Scholarship from Old Renaissance Dictionaries: Applications of the Early Modern English Dictionaries Database''. Ian Lancashire and Michael Best, eds. ''EMLS'' Special Issue 1.1: (April, 1997).
+
+{{BookCat}}
