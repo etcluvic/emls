@@ -1,0 +1,366 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/Narrative and the Forms of Desire in Shakespeare's ''Venus and Adonis''}}
+''This essay was written by Gary Kuchar''.
+
+<!--Paragraph 1-->
+Recent articles by Catherine Belsey, Richard Halpern, and James Schiffer have shifted the critical focus of Shakespeare's ''Venus and Adonis'' from questions of what the poem means, to how it means, from its moral allegory to its erotic and literary effects. For Belsey, this transition arose from her sense that readers of Shakespeare's epyllion who seek a "moral center that would furnish the work with a final meaning, a conclusion, a definitive statement" (262) tend to be interpreted by the poem in the very effort made to interpret it. ''Venus and Adonis'', Belsey contends, "prompts in the reader a desire for action it fails to gratify. Meanwhile, the critical tradition in its turn, tantalized by the poem's lack of closure, has sought to make something happen, at least at the thematic level" (262).<ref>Belsey traces these tendencies in the critical tradition of ''Venus and Adonis'' from Coleridge to Lu Emily Pearson through to Heather Dubrow. See Samuel Taylor Coleridge, "Shakespeare's ''Venus and Adonis''," in ''Venus and Adonis: Critical Essays'', ed. Philip C. Kolin (New York: Garland, 1997), 69–72; Lu Emily Pearson, "Shakespeare's Philosophy of Love," in ''Venus and Adonis: Critical Essays'', 103–7; and Heather Dubrow, ''Captive Victors: Shakespeare's Narrative Poems and Sonnets'' (Ithaca: Cornell UP, 1987).</ref> Likewise, Halpern asserts that "''Venus and Adonis'' is not only a poem about female sexual frustration; it is meant to produce such frustration. Just as Adonis' beauty arouses Venus but refuses to satisfy her, so Shakespeare's poem aims to arouse and frustrate the female reader" (381). Similarly, Schiffer argues that the poem dramatizes a Lacanian conception of desire to the extent that it reveals "desire can never be truly satisfied, because desire is always for absence, for lack, for what is not there" (369).
+
+<!--Paragraph 2-->
+Although I agree that the poem aims to inspire a sense of frustration in its reader through its unrealized promise of satisfying closure, I do not think adequate attention has been paid to the rhetorical and intertextual elements that work to effect a reader's frustration. This paper aims, then, to demonstrate that the poem's frustrating effects are largely a product of its rhetorical design, the fact that a substantial portion of the narrative's comic-tragic trajectory is constructed through patterns of opposition, resolution, and subsequent disunion. Moreover, a closer rhetorical and intertextual analysis of ''Venus and Adonis'' reveals that the poem's "erotic ontology" (Halpern 383) does not, as Halpern suggests, restrict its frustrating effects to early modern female readers. Instead, the poem's reversal of gender norms enables a complex and unstable series of identifications that betray any straightforward assertion that a male reader is less likely to sympathize with Venus's cause than is a female reader; or, on the other hand, that a female reader is necessarily prone to identify with Venus over and against Adonis. Indeed, one of the primary effects of the poem's gender reversal is to complicate the process of identification so essential to literary response, making the identificatory process itself an issue for the reader, rather than something operating in terms of gender alone.
+
+<!--Paragraph 3-->
+Part of the complexity involved in how a reader responds to the poem's use of reversals results from the way that Shakespeare organizes the symbolic oppositions through which the text is constructed. S. Clark Hulse understands the iconographic and imagistic oppositions in the poem less in terms of sustained narrative deferral, than as an expression of the poem's mythic and existentially ''mediating'' design:
+
+<blockquote>
+Shakespeare's sophisticated reworking of a literary myth [in ''Venus and Adonis''] comes suprisingly close to recovering the function that Levi-Strauss suggests for primary myth: 'to bridge the gap between conflicting values through a series of mediating devices, each of which generates the next one by a process of opposition and correlation. (Hulse 172–3, Levi-Strauss 213–23)
+</blockquote>
+
+For Hulse, "Shakespeare's manner of paradox making has the characteristics of a persistent personal syntax. Indeed, if we think of myth as a conceptual form rather than as a content, we might call it Shakespeare's personal myth, a way of perceiving and reconciling the paradoxes of experience" (173). Although the poem's imagistic and rhetorical design, its "mediating devices" as it were, clearly orbit the mythic concerns of existential and ideological antagonisms, Shakespeare's text makes no claim, as does primary myth, to "explanatory totality" (Levi-Strauss 213–23). ''Venus and Adonis'', in other words, has no pretensions of reconciling "the paradoxes of experience"; it dramatizes such paradoxes and, as Belsey argues, it problematizes certain conflicting values—but it offers no answers. To this extent, Shakespeare's poem makes explicit what Jacques Derrida sees as the latent unending deferral operating in all mythic structures of thought. For Derrida the
+
+<blockquote>
+themes [in myth] duplicate themselves to infinity. When we think we have disentangled them from each other and can hold them separate, it is only to realize that they are joining together again, in response to the attraction of unforeseen affinities. In consequence, the unity of myth is only tendential and projective; it never reflects a state or moment of the myth (526).
+</blockquote>
+
+<!--Paragraph 4-->
+By choosing the sixain form of Thomas Lodge's epyllion ''Scillaes Metamorphosis'' over the heroic couplets of Marlowe's minor epic ''Hero and Leander'',<ref>It is generally understood that Marlowe's poem was written before Shakespeare's and that Shakespeare had some knowledge of it before publication. William Keach notes that "although Marlowe's epyllion was not entered in the Stationers' Register until 28 September 1593, almost five and a half months after Shakespeare's (18 April), and of course not published until 1598, it must have been written by the spring of 1593, since Marlowe was killed at Deptford on 30 May of that year" (85).</ref> Shakespeare is able to create a sense of narrative deferral through the use of repetition offered by the smaller narrative units of the sixain pattern. Indeed, when we compare the opening stanza of ''Venus and Adonis'' with the opening of Marlowe's poem, for instance, we notice that Shakespeare emphasizes action and movement rather than description and imagistic detail. The sense of movement achieved in the opening of Shakespeare's poem occurs through a series of implied similes that are contiguously linked. Marlowe, on the other hand, begins by describing the Ovidian world of ''Hero and Leander''. In particular he draws on the Ovidian ekphrastic tradition in his description of Hero's garments. Such extended detail so early in the poem focuses less on dramatic action than on the narrator's witty rhetorical displays and his capacity for evoking lush visual imagery:
+
+<blockquote>
+<poem>
+At Sestos, Hero dwelt; Hero the faire . . .  
+The outside of her garments were of lawne  
+The lining, purple silke, with guilt starres drawne,  
+Her wide sleeves greene, and bordered with a grove  
+Where Venus in her naked glory strove. (7–11)
+</poem>
+</blockquote>
+
+<!--Paragraph 5-->
+In Shakespeare's poem, however, we get neither extended physical description nor anything approaching narrative aside until the ekphrasis at line 259 when Adonis fails to mount his "trampling courser." Instead, we are immediately presented with Venus' wooing of Adonis through a series of contiguous images that creates tension and movement:
+
+<blockquote>
+<poem>
+Even as the sun with purple-colored face  
+Had ta'en last leave of the weeping morn,  
+Rose-cheeked Adonis hied him to the chase;  
+Hunting he loved, but love he laughed to scorn.  
+Sick-thoughted Venus makes amain unto him,  
+And like a bold-faced suitor 'gins to woo him. (1–6)
+</poem>
+</blockquote>
+
+These opening six lines present the reader with three movements of pursuit and one clear instance of abandonment. The larger narrative movement of pursuit and abandonment in the poem is thus encapsulated in this opening stanza as the first six lines initiate a movement towards resolution but conclude by simply emphasizing further pursuit. The proleptic image of the sun leaving the "weeping morn" frames both Adonis's and Venus' respective pursuits, establishing the poem's pattern of endless seeking, a pattern which fails to cease even at Adonis' death. In this case the pattern evolves through a series of contiguously associated implied similes that develop from the sun and morn to Adonis and the chase, to Venus and her erotic hunt. Shakespeare spends little time describing the mythic world that his characters inhabit; instead, he employs the image of the sun to establish the theme of temporality and the cycle of loss and dissatisfaction to which Venus and Adonis are prisoners. The chiasmus in line four introduces a rhetorical reversal that mirrors the gender reversal of the sexual combatants; such reversals, and the oxymoronic rhetoric they are often figured through, are central to establishing the sense of opposition characteristic of the poem and the subsequent sense of postponement such opposition inspires.
+
+<!--Paragraph 6-->
+From the very beginning of the poem the key axis upon which the narrative moves is not the totalizing motion of metaphor, but a series of delayed and incomplete contiguous or metonymic relationships. The beginning of ''Venus and Adonis'', which already alludes to its own unsatisfying end, begins a pattern or cycle of unfulfillment that repeats throughout the text. This repetition of unfulfillment constitutes the narrative's postponement or detour which sustains the sense of tension that is usually accented by the "middle section" of the narrative and then resolved at the end.<ref>See Peter Brooks' "Freud's Masterplot: Questions of Narrative." ''Literature and Psychoanalysis: The Question of Reading Otherwise'' (Baltimore: Johns Hopkins UP, 1982), 94–207, for a discussion of the role of metonymy and desire in narrative.</ref> In ''Venus and Adonis'', however, the beginning, middle, and end all play a role in enhancing the sense of postponement and delay. By dividing the first 810 lines of the poem into four narrative movements each constituting (with the exception of the ekphrasis) a pattern of pursuit, ostensible resolution and subsequent opposition, it becomes clear that the poem is ''experienced'' as an over-determined series of unresolved patterns of sexual pursuit intertwined with moments of apparent, but finally unrealized union. Lines 1–258 constitute the first main narrative pattern which is followed by the "breeding jennet" episode (259–324). Subsequently, lines 325–545 renew Venus' momentum lost at the end of the first section. This third movement concludes with the kiss at 545, but rather than satiating Venus the kiss leads to yet another intensification of her desire: "Now quick desire hath caught the yielding prey/ And glutton like she feeds, yet never filleth" (547–8). This intensification of desire and the unbearable sense of frustration it inspires reaches its climax at the poem's centre when it becomes apparent to the reader, if not to Venus, that "All is imaginary. . . / He will not manage her, although he mount her" (597–8). Venus follows this with an impassioned, if "over-handled," speech that Adonis be ruled by her rather than Cynthia<ref>Goddess of the moon and hunting.</ref> and Cynthia's subordinate, the boar. This takes us up to the tragic movement of the poem which furthers Venus' sense of loss and dissatisfaction through Adonis' death and the eventual "cropping" of the anemone. These larger narrative units within the first section of the poem contain a series of smaller narratives, as well as imagistic and metynomic patterns that develop the pattern of cyclic unfulfillment. Such sequences of images and the intertexts they evoke work in combination to develop the ceaseless detour and postponement of sexual and narrative resolution.
+
+<!--Paragraph 7-->
+Lines 1–254 constitute the first extended narrative pattern of pursuit, imaginary resolution, and subsequent opposition. This narrative segment begins with the opening stanza that initiates Venus' hunt of Adonis and it moves towards the imaginary resolution of her attempt to "hemm [Adonis] here/ Within the circuit of this ivory pale" (228–9). Venus' desire to imaginatively alter Adonis' perception of the world in her favour is then foiled when the narrator intervenes: "her words are done, her woes the more increasing/ The time is spent, her object will away/ And from her twining arms doth urge releasing" (254–6). Adonis then breaks from her arms and chases after his "trampling courser," allowing the major narrative cycle to repeat while the sub-plot of the horses portrays the quenching of previously thwarted desire. The primary sequence of pursuit and failure is over-determined within this first narrative unit through a series of imagistic and intertextual patterns that repeat the narrative cycle of unfulfillment. Between lines 55–90, for instance, the narration moves from the predatory eagle imagery of stanza 10 to Adonis' coy escape when "her lips were ready for his pay/ He winks, and turns his lips another way" (89–90). This movement away from Venus breaks the ostensible union established through the imaginary "truce" where "one sweet kiss shall pay this comptless debt" (84). This early and failed attempt at seduction initiates a common rhetorical play on paradoxical images that insinuate incommensurability while ostensibly expressing a sense of sensual reciprocity.
+
+<!--Paragraph 8-->
+Although the narrator indicates the possibility of union through the anxiously awaited kiss, his use of market language reveals that such desire is "comptless," hence unpayable. This rhetoric of monetary exchange accentuates the incommensurability between a Goddess and a human; its irony and humour arise through an unlikely figure in which Adonis is presented as infinitely wealthy and Venus as an impoverished investor in the market of love. Although the narration seems to sympathize with Venus to the extent that "she cannot choose but love" while Adonis remains uninterested, the patterning of imagery consistently implies a constitutional sense of dissension set between them. Line 81, for instance, introduces another proleptic image that looks forward to Venus' lament for Adonis when he is prosopopeically figured by the anemone: "And by her fair immortal hand she swears/ From his soft bosom never to remove" (81–2). This image is reversed at the poem's tragic end when she holds the flower in the "hollow cradle" of her breast. Venus' desire never to be removed from Adonis' breast, and the previous image of Adonis "fastened" in her net, evoke the false, or in Northrop Frye's terms, ''demonic'' union<ref>The demonic erotic relation, according to Frye, "becomes a fierce destructive passion that works against loyalty or frustrates the one who possesses it" (''Anatomy'' 149).</ref> of Ovid's "Salamacis and Hermaphrodite." Salamacis, like Venus, grapples her lover/foe as she
+
+<blockquote>
+<poem>
+[catches] him fast betweene hir armes for ought that he could do  
+Yea maugre all his wrestling and his struggling to and fro  
+She held him still, and kissed him a hundred times and mo  
+And willde he nillde he with hir handes she toucht his naked breast  
+And now on this side now on that (for all he did resist  
+And strive to wrest him from hir gripes) she clung unto him fast  
+And wound about him like a Snake, which snatched up in hast  
+And being by the Prince of Birdes borne lightly up aloft  
+Doth writhe hir selfe about his necke and griping talants oft,  
+And cast hir taile about his wings displayed in the winde.  
+:::::::::::(Golding trans. 442–52)
+</poem>
+</blockquote>
+
+The dramatization of this violent union leads up to the poem's tragic finale in which "Salamacis and Hermaphrodite" merge "in one form and face," completing Hermaphrodite's emasculation. The intertextual relationship between Salamacis and Venus is ambiguous at this point because on the one hand Venus is the Goddess of love and thus she offers Adonis the possibility of manhood rather than posing any threat to his masculinity, yet on the other a clear parallel is drawn between her and Salamacis through the similarity of their predatory images. What is unambiguous about the Ovidian intertext at this point is that it indicates a sense of unresolved or at least unsatisfying union. Indeed, Venus and Adonis' relationship is aligned very early on with the negative Ovidian transformations of dissension and false union rather than narratives which dramatize full reciprocity.
+
+<!--Paragraph 9-->
+If we trace the imagistic patterning of lines 55–90 we notice that they follow our sequence of opposition, imaginary union, and subsequent conflict. In stanza 10 Venus is figured as an "empty eagle" gluttonously feeding on her prey. The final couplet of the stanza plays on the Sisyphian or Tantalean nature of her desire: "Even so she kissed his brow, his cheek, his chin/ And where she ends she doth anew begin" (60). The end couplet of the next stanza momentarily resolves this oppositional image of predatorial feeding by representing Venus' imaginary and hypothetical hope for satisfaction. Just as Venus will ostensibly resolve this first major narrative pattern through images of potential reciprocity in which she imagines her body as a park that contains Adonis who is transformed into a deer, she resolves this minor sequence by "Wishing her cheeks were gardens full of flowers/ So they were dewed with [his breath's] distilling showers" (65–6). Here again the imaginary and hypothetical nature of Venus' imagery of reciprocation masks the predatory action which the narration had just presented. In the following stanza the narrator reverses Venus' wish full-filling flower and rain imagery into its dialectical opposite, turning the garden full of flowers into a "river that is rank/ Perforce will force it overflow the bank" (72–3). Thus we move from an image of opposition that the narrator presents in stanza 10, to an image of reciprocation that comes from Venus in the following stanza, back to an image of opposition that reverses Venus' hope for union. The same pattern then repeats over the next two stanzas as lines 73–8 introduce the oppositional colour motif of red and white which is momentarily resolved in the couplet of the following stanza where "one sweet kiss shall pay this comptless debt" (84). The sense of sexual combat and the tension which provokes it is bodied forth through the narrator's heavy use of medial caesura and the repetition of terms such as "still" and "entreats" which overtly express a sense of frustration:
+
+<blockquote>
+<poem>
+Still she entreats, and prettily entreats  
+For to a pretty ear she tunes her tale  
+Still is he sullen, still he low'rs and frets  
+'Twixt crimson shame and anger ashy-pale.  
+Being red, she loves him best; and being white  
+Her best is bettered with a more delight. (73–8)
+</poem>
+</blockquote>
+
+The colour imagery which expresses Adonis' combination of fear and anger recalls us again to a similar passage in Golding's translation of "Salamacis and Hermaphroditus":
+
+<blockquote>
+<poem>
+This sed, the Nymph did hold hir peace, and therewithall the boy  
+Waxt red : he wist not what love was : and sure it was a joy  
+For in his face the color fresh appeared like the same  
+That is in Apples which doe hang upon the Sunnie side :  
+Or Ivorie shadowed with a red : or such as is espide  
+Of white and scarlet colours mixt appearing in the Moone.  
+(Golding 400–6)
+</poem>
+</blockquote>
+
+<!--Paragraph 10-->
+One of the most distinguishing features of Shakespeare's variation on this Ovidian passage results from the metrical patterning of the sixain stanza which naturally lends itself to a closing couplet that develops or reverses the sense of the previous lines. The closing couplet of stanza 13, for instance, plays on the sense of desire's incapacity for fulfillment that closed out the previous stanza with the river imagery. This sense of Venus' insatiability is then repeated in the following stanza through the trope of the comptless debt. Such imagistic patterning and rhetorical reversals, which are usually accomplished in the final couplet of the sixain, are more fully exploited in Shakespeare than in Ovid. Moreover, within this minor narrative and imagistic unit of lines 55–90 we see that the closing couplets of stanzas 10, 12, 13, and 15 express the constitutional impossibility of Venus satisfying her desire for Adonis, while stanzas 11 and 14 present an imaginary sexual resolution. Shakespeare thus adopts much of Ovid's imagery in order to dramatize the sexual combat between Venus and Adonis at the same time as he exploits a series of rhetorical reversals in order to create the sense of an irreconcilable gap between the characters' perception of one another.
+
+<!--Paragraph 11-->
+Because Venus' sensuality is highly verbal as well as deeply physical, she has far greater success achieving a union of words than of bodies. Her failure to entice Adonis reaches a brief and comic climax in lines 85–9 which completes this minor narrative pattern while developing the water and flood imagery that re-appears when Adonis sets off to meet the boar mid-way through the poem. Line 86 embellishes the flood imagery introduced in the couplet of stanza 11 as Adonis "like a divedapper peering through a wave. . ./ ducks as quickly in:/ So offers he to give what she did crave, But when her lips were ready for his pay/ He winks, and turns his lips another way" (86–9). This comic disappearing act is tragically replayed at line 819 as Adonis vanishes in the waves of a "merciless and pitchy night." The flood imagery takes on more profoundly tragic dimensions as the shift in tone from the comic to the mournful is initiated with the image of Adonis being swallowed into the darkness of approaching death:
+
+<blockquote>
+<poem>
+. . . after him she darts, as one on shore  
+Gazing upon a late-embarked friend  
+Till the wild waves will have him seen no more  
+Whose ridges with the meeting clouds contend.  
+So did the merciless and pitchy night  
+Fold in the object that did feed her sight.  
+Whereat amazed, as one that unaware  
+Hath dropped a precious jewel in the flood. . . (816–34)
+</poem>
+</blockquote>
+
+The imagery of the rising and devouring waves contending with the limits of sky expresses a sense of tragic foreboding that extends beyond Adonis' particularity. This sense of the world becoming increasingly tragic in tone is realized more fully when Venus bewails the loss of true beauty that dies with Adonis. "Alas, poor world, what treasure hast thou lost/ What face remains alive that's worth the viewing?/. . . The flowers are sweet, their colors fresh and trim,/ But true sweet beauty lived and died with him" (1075–80). The patterning of flood imagery embellishes and repeats the cycle of loss and unfulfillment throughout the smaller narrative sequences as well as the larger shift from the comic to the tragic. This pattern overdetermines the profound sense of frustration that Venus eloquently, if unsuccessfully, strives to resolve.
+
+<!--Paragraph 12-->
+The erotic rhetoric intensifies towards the end of the first major narrative pattern (lines 1–258) as Adonis arouses greater and greater frustration in his pursuer. The carnal and even violent crescendo of the narrative at this point is marked by a cyclic movement of metonymic images which propels the sense of narrative and sexual postponement. The sequence of images from lines 240–53 moves through a metonymic logic that concludes as it began, taking us through an imagistic variation of the cyclic pattern of incommensurability, union, and subsequent opposition. These lines immediately follow Venus' wish-fulfilling and imaginary transformation into a park; they begin by reversing the sense of union proposed by the park imagery and then re-introduce it, only to undo it yet again:
+
+<blockquote>
+<poem>
+At this Adonis smiles as in disdain  
+That in each cheek appears a pretty dimple;  
+Love made those hollows, if himself were slain  
+He might be buried in a tomb so simple  
+:Foreknowing well, if there he came to lie  
+:Why, there love lived, and there he could not die.  
+These lovely caves, these round enchanting pits,  
+Opened their mouths to swallow Venus' liking  
+Being mad before, how doth she now for wits?  
+Struck dead at first, what needs a second striking?  
+:Poor queen of love, in thine own law forlorn,  
+:To love a cheek that smiles at thee in scorn! (241–53)
+</poem>
+</blockquote>
+
+The patterning of images in these two stanzas illustrates the sort of narrative negotiation between Venus' desire and the reality principle of Adonis' refutations that constitutes much of the poem's structural motion. The metonymic sequence begins with Adonis' dimple metamorphosing into a "tomb so simple" where Cupid may lie "if himself were slain." Here again, the poem's paradoxical rhetoric balances a latent sense of impending tragedy while manifestly expressing the young boy's remarkable beauty. As the narrative focus shifts from Cupid to Venus, Adonis' tomb like dimples transform again into "lovely caves round enchanting pits. . . [which] opened their mouths to swallow Venus' liking" (247–8). This transformation introduces one of the most explicit and sensual images of Venus' masculine position in the poem. The highly charged euphemism of Venus penetrating Adonis' "dimple" gives way as the narrative shifts from Venus' perception of the situation to the actual distance placed between her and Adonis: "Poor queen of love, in thine own law forlorn/ To love a cheek that smiles at thee in scorn." Here the narrative moves away from Venus' perception of Adonis' dimple as a sexualized and penetrable object to a more sober and less erotic view of the situation. The patterning of imagery, here, is cyclic in motion, moving from dimple to tomb, to cave, to pit, to mouth, to cheek again. Such patterning creates a sense of movement towards quiescence while continually frustrating its realization. Moreover, Venus' imaginary and metaphoric transformations are continually undermined by the narration's re-deployment of her own rhetoric, revealing that there is not "relief enough" within her limits.
+
+<!--Paragraph 13-->
+The reversal of gender roles in ''Venus and Adonis'', as in Ovid's "Salamacis and Hermaphrodite", plays an integral role in the necessarily frustrating conclusion the relation is driven towards. Venus' masculine role bodied forth in lines 55–90 is complemented in the third narrative section (lines 325–545) as Adonis unwittingly tropes himself in effeminate and emasculating terms. In an attempt to counter Venus' ''carpe diem'' argument, Adonis displays wisdom beyond his years, at the same time as he expresses an unwitting effeminacy and immature narcissism that undermines his argument:
+
+<blockquote>
+<poem>
+'Who wears a garment shapeless and unfinished  
+Who plucks the bud before one leaf put forth?  
+If springing things be any jot diminished  
+They wither in their prime, prove nothing worth.  
+:The colt that's backed and burdened being young  
+:Loseth his pride, and never waxeth strong.  
+You hurt my hand with wringing; let us part  
+And leave this idle theme, this bootless chat;  
+Remove your siege from my unyielding heart;  
+To love's alarms it will not ope the gate.  
+:Dismiss your vows, your feigned tears, your flatt'ry;  
+:For where a heart is hard they make no batt'ry.' (415–26)
+</poem>
+</blockquote>
+
+In line 417 Adonis implicitly reintroduces the absent and/or flaccid phallus theme with unintentionally humorous results. Then in line 423, through another unfortunate choice of images, he portrays himself as the assailed virgin striving to keep the female phallus from his unyielding gate. Finally he adds insult to his own injury when he reveals that the only "hard" thing about him is his unbattered heart. Adonis' self-emasculating choice of images weakens his position in the poem, indicating an unnatural fear of intimacy that leads some readers to sympathize with Venus' reproach of the coy and unyielding boy.
+
+<!--Paragraph 14-->
+It is the insistent absence of a satisfying male presence in ''Venus and Adonis'', according to Halpern and Schiffer, which accounts for much of the poem's frustrating effect. Halpern reads this absence in the context of the poem's misogynistic and male centered vision of Venus' sexuality. Challenging the assumption that Shakespeare's audience was predominantly male, Halpern cites a variety of sources from the period to show that ''Venus and Adonis'' was often characterized as the reading material of "courtesans, lascivious nuns, adulterous housewives, or libidinous young girls" rather than the "sophisticated" readers alluded to in the Ovidian epigraph (377). Halpern's case regarding the poem's misogyny and its intention to frustrate primarily female readers is overstated to the extent that it underestimates the poem's capacity to titillate readers representing any number of gender and sexual differences, as is indicated by Titan's position in the poem:
+
+<blockquote>
+<poem>
+By this the lovesick queen began to sweat  
+For where they lay the shadow had forsook them  
+And Titan, tired in the midday heat  
+:With burning eye did hotly overlook them  
+:Wishing Adonis had his team to guide  
+So he were like him, and by Venus' side. (175–80)
+</poem>
+</blockquote>
+
+Titan's evocation here accentuates the poem's lack of a satisfying male presence, and his wish parallels that of a male reader frustrated with Adonis's coyness. Titan manifests a heterosexual male reader's desire within the poem, marking out a definite textual site that invites a reader to play out his desire through identification with a powerful, yet finally absent, male presence in the narrative. Such passages indicate that Shakespeare's text does not discriminate in its capacity to titillate and amuse as well as frustrate its readers; if it did, its popularity in the sixteenth and early seventeenth centuries would be even more difficult to explain than is already the case.
+
+<!--Paragraph 15-->
+As we saw in the poem's first narrative sequence (1–259), the poem's Tantalean structure moves through a series of images that express an apparent but unrealized union. This initial sequence establishes the imagistic and structural basis upon which the rest of the poem is then based. Within the larger narrative patterns of the poem there are smaller imagistic sequences, intertextual elements, and rhetorical forms that develop the dissension between Venus and Adonis while manipulating the reader's desire for a resolution to this dissension. These patterns also constitute the structural form of the third narrative pattern (lines 325–545) which begins by making explicit the Ovidian theme that unexpressed desire leads to dire consequences. Developing on the river and flood imagery introduced in lines 70–90, the narration moves from the ekphrasis (259–324) which expresses the fulfillment of desire to the mounting tension of Venus' lust and Adonis' growing impatience:
+
+<blockquote>
+<poem>
+An oven that is stopped, or river stayed,  
+Burneth more hotly, swelleth with more rage;  
+So of concealed sorrow may be said  
+Free vent of words love's fire doth assuage;  
+:But when the heart's attorney once is mute  
+:The client breaks, as desperate in his suit. (331–6)
+</poem>
+</blockquote>
+
+The narrator establishes the ensuing debate (lines 368–450) between Venus and Adonis through a complementary set of images that ostensibly compare the two while further distancing them. Lines 331–6 imply that Venus burns to express her desire for Adonis, while in line 338 Adonis is figured as a burning coal whose anger revives with her return. "He sees her coming and begins to glow/ Even as a dying coal revives with wind" (338–9). This imagistic chiasmus concludes with another illusory union between Venus and Adonis as "Taking no notice that she is so nigh/ For all askance he holds her in his eye" (339–40).
+
+<!--Paragraph 16-->
+The erotic distance between the two becomes even more palpable in this momentary unification in which Adonis "holds her in his eye" while he tries to hide from her in a solipsistic gesture of concealment. The gaze according to Renaissance theories based in Plato's ''Phaedrus'' saw staring as the beginning of intimacy; in this case it signifies a reluctant beginning that moves nowhere. This indication of a potential sexual union without its realization complements the patterning of imagery surrounding it which also evokes the sense of sexual union while suspending its actualization. Thus, action and image, plot and rhetoric, form and content move in analogous patterns of opposition and ostensible union, teasing but never fulfilling the text's and the subsequently the reader's desire for closure and completion.
+
+<!--Paragraph 17-->
+The dialectic play of colour imagery in lines 353–364 shifts into a series of rhetorical and conversational reversals that begin the intense verbal combat of lines 368–450. The rhetorical chiasmuses which begin this sequence give the debate a dynamic, dramatic quality that retains a clear sense of playfulness, while at the same time developing Venus' increasing frustration:
+
+<blockquote>
+<poem>
+Would thou wert as I am, and I a man,  
+My heart all whole as thine, thy heart my wound!  
+. . .  
+'Give me my hand' saith he. 'Why dost thou feel it?'  
+'Give me my heart,' saith she, 'and thou shalt have it.  
+O, give it me lest thy hard heart do steel it,  
+And being steeled, soft sighs can never grave it.  
+:Then love's deep groans I never shall regard  
+:Because Adonis' heart hath made mine hard." (369–78)
+</poem>
+</blockquote>
+
+Venus here develops the earlier image of Adonis' imprinted cheek. This motif of "engravement" plays proleptically on Adonis' death in which the boar's tusk will "trench" (1052) itself in his thigh; when Venus laments that she will not witness "love's deep groans" she unwittingly parallels the "groans" of love with the "groans" of pain during Adonis' agonized and violent demise. For further on at line 950 when Venus chides death she ironically, and tragically asks "What may a heavy groan advantage thee?" thus returning our focus to the absent and long awaited coitus scene passed over in favor of the "hard hunt."
+
+<!--Paragraph 18-->
+Shakespeare ends the third sequence (325–545) with a unique and highly ironic variation on Adonis' death, which in traditional mythic readings tends to signify the "dead time of the year, whether winter or the late summer drought" (Frye ''Code'' 69).<ref>See Abraham Fraunce, ''The Third Part of the Countesse of Pembrokes Yvychurch'' (Northridge: California State UP, 1976), for a mythic reading of the poem by one of Shakespeare's contemporaries.</ref> Shakespeare sets up a comic play on the mythic death and rebirth element underlying the narrative by having Venus faint (464) and then quickly revive with expectations for sexual gratification (482). This variation further develops the ontological and erotic distance between the two as we see Adonis comically kissing and poking Venus in an attempt to arouse her from her feigned sleep. "He bends her fingers, holds her pulses hard/ He chafes her lips; a thousand ways he seeks/ To mend the hurt that his unkindness marred./ He kisses her; and she, by her good will,/ Will never rise, so he will kiss her still" (476–80). These unsatisfying kisses finally lead to the very thing Venus has been waiting for: "Her arms do lend his neck a sweet embrace; Incorporate then they seem; face grows to face; . . ./ Till breathless he disjoined, and backward drew/. . . He with her plenty pressed, she faint with dearth,/ Their lips together glued, fall to the earth" (540–5). These lines offer the clearest example of the poem's capacity to tease a reader with a sense of fulfillment while sustaining a dramatic sense of incompleteness. The ostensibly sensuous term "Incorporate" indicating the possibility of full physical union is qualified and thus undone by the disappointing "seem." Following the term "incorporate" Shakespeare alludes to the imagery of Corinthians I 13:12, expressing a sense of reciprocity which is consistently undermined: "For now we see through a glass, darkly; but ''then face to face'': now I know in part; but then shall I know even as also I am known". This passage expresses precisely the sense of intimacy and knowledge of the other the poem seems to move towards without ever achieving. Finally, after drawing on this powerful Pauline image of reciprocity the narrator teases us further, relating how, "Their lips together glued." Even this moment of apparent union is permeated with comic and ironic overtones as the word "glued" indicates the struggle Venus had to undergo and which she must sustain in order to simply kiss the elusive boy-hunter.
+
+<!--Paragraph 19-->
+The proximity the two achieve in the end of the third section is dramatically undone in the first three stanzas (547–564) of the fourth sequence. In the first of these stanzas the narration repeats three of the main rhetorical images of incommensurability we saw developed in the first sequence between lines 55–90. The first two lines of the stanza return us to the bird of prey motif indicating the unequal and predatory nature of the sexual rapport: "Now quick desire hath caught the yielding prey/ And glutton-like she feeds, yet never filleth" (547–8). The third line repeats the military or combative image of master and slave implicit throughout much of the poem: "Her lips are conquerors, his lips obey," (549). And the fourth line returns us to the rhetoric of monetary exchange: "Paying what ransom the insultor willeth" (550). The repetition of such images indicates that Venus and Adonis have returned to their original state of disunion.
+
+<!--Paragraph 20-->
+The most indicative feature of Shakespeare's concern with expressing the frustration and antinomies of passion, rather than any sense of symbolic union achieved through Adonis' death, is the way that Shakespeare reconfigures the significance of the anemone as it appears in Ovid. In Shakespeare's version, Adonis' body does not undergo the sort of active and ritualistic metamorphosis into an enduring reminder that we see in Ovid; instead, it is transformed by a power that remains unspecified and it is then quickly "cropped" by Venus in another aggressive act that perpetuates rather than resolves her desire. In Book X of Ovid's ''Metamorphoses'' Venus reproaches the fates and then immediately transforms Adonis' body into an anemone:
+
+<blockquote>
+<poem>
+She rent her garments. . .  
+. . . and springing down  
+Reproached the fates: "Even so, not everything  
+Shall own your sway. Memorials of my sorrow  
+Adonis, shall endure; each passing year  
+Your death repeated in the hearts of men  
+Shall re-enact my grief and my lament. . . .  
+And with these words she sprinkled nectar  
+Sweet scented, on his blood, which at the touch  
+Swelled up, as on a pond when showers fall. (Melville trans. 724–37)<ref>Golding's translation follows Ovid in making Venus explicitly responsible for the metamorphosis of Adonis into a flower (848–54).</ref>
+</poem>
+</blockquote>
+
+Shakespeare's ending is decidedly lacking the theme of recurrence and resurrection that characterizes Ovid's version, placing in its stead, a continued sense of dissension:
+
+<blockquote>
+<poem>
+By this the boy that by her side lay killed  
+Was melted like a vapor from her sight  
+And in his blood, that on the ground lay spilled,  
+A purple flower sprung up, check'red with white,  
+:Resembling well his pale cheeks and the blood  
+:Which in round drops upon their whiteness stood.  
+Comparing it to her Adonis' breath,  
+And says within her bosom it shall dwell, . . ./  
+She crops the stalk, and the breach appears  
+Green-dropping sap which she compares to tears. (1165–76)
+</poem>
+</blockquote>
+
+Some critics, most notably Robert Merrix, have ignored or overlooked the term "crops", which clearly implies a sense of being "cut short", in order to read the ending in more Ovidian terms of union and resurrection. Merrix cites lines 1183–5, "Here was thy father's bed, here in my breast;/ Thou art next of blood, and 'tis thy right. Lo in this hollow cradle take thy rest;" in order to show that "[w]ith the transformation of Adonis into the anemone. . . the two composites are united, forming a sexual resolution, a synthesis in which the major attributes of each are embodied in the other" (345). Yet, even here we are invited to read against Venus' choice of images at the same time we are encouraged to sympathize with her. First of all, the image of the hollow cradle recalls us to her intense and insatiable desire that propels the poem's narrative motions; it indicates a sense of emptiness that has not yet been filled; and second by drawing attention to her throbbing heart we do not get a sense that she feels any release or resolution; but rather we sense a feeling of deepening sadness. We might also recall that at line 945 Venus accuses death of the very thing she is later guilty of, introducing an unintentional and unfortunate proleptic warning of the eternal dissension set between her and Adonis: "The Destinies will curse thee for this stroke/ They bid thee crop a weed; thou pluck'st a flower" (945–6). In Shakespeare's version Venus becomes the procurer of her own worst fears.
+
+<!--Paragraph 21-->
+It is also important to notice that the only line indicating close proximity between the ill fated two is spoken indirectly by Venus herself, creating a gap between the actual event as it is narrated and her own interpretation of it: "Comparing it to her Adonis' breath, and ''says within'' her bosom it shall dwell" (1172). William Keach has noted that the repetition of the word "compares" and the shock of the word "crops" in this final sequence makes it clear that the flower functions prosopopeiacally, rather than indicating the promise of return. Venus, Keach notes, realizes that "Adonis is not reincarnated in the flower. . . She. . . 'crops' the stalk and 'compares'. . . the drops of sap to the tears which came to Adonis' eyes (ll. 1175–1176). Venus' realization that the flower is not Adonis contributes to the pathos of her comparisons and, in a sense, mitigates the shock of her 'cropping' the flower" (82–83).
+
+<!--Paragraph 22-->
+Part of the narrative dynamic of frustration being played out in this fourth narrative sequence, as well as the poem as a whole, consists of what Catherine Belsey, following Lacan, terms the ''trompe l'oeil'' motif. Because the poem constructs what Belsey refers to as a "promise of . . . presence it fails to deliver" (261), it is structurally analogous to the scopic or visual effect known as ''trompe l'oeil''. Just as a visual representation might appear to be the thing-as-such, Shakespeare's poem represents an apparent but finally unrealized union. This withholding of aesthetic fulfillment suggests that the poem is based on an "erotic rather than philosophic ontology" (Halpern 383). Both Halpern and Belsey point to the poem's allusion to Pliny's story of artistic competition between Zeuxis and Parrhasius, based as it is on the principle of the ''trompe l'oeil'' (ll. 601–6), as a lucid example of this erotically charged aesthetic:
+
+<blockquote>
+<poem>
+Even so poor birds, deceived with painted grapes  
+Do surfeit by the eye and pine the maw;  
+Even so she languisheth in her mishaps  
+As those poor birds that helpless berries saw.  
+The warm effects which she in him finds missing  
+She seeks to kindle with continual kissing. (601–6)
+</poem>
+</blockquote>
+
+This passage, which occurs directly after the allusion to Tantalus, offers a pictorial analogy for the dynamic of frustrated desire the poem dramatizes. This "pictorial" analogy not only offers a meta-commentary on Venus' unrealized desire, it also reflects the aesthetic ontology with which the reader is engaged. For the reader, like Venus, is tantalized by a promise of narrative and sexual fulfillment that remains unfulfilled. Catherine Belsey summarizes Lacan's insights into the deceitful pleasures this ''trompe-l'oeil'' dynamic offers a reader or viewer:
+
+<blockquote>
+In order to enjoy the ''trompe-l'oeil'' we have to be convinced by it in the first instance and then to shift our gaze so that, seeing the object resolve itself into lines on a canvas, we are no longer convinced; we have to be deceived and then to acknowledge our own deception. (262)
+</blockquote>
+
+For Lacan, the essence of tragic anagnorisis is the recognition of one's lack-of-being (''manque-a-etre'').<ref>For a discussion of Lacan's views on tragedy, particularly in relation to Hegel's reading of ''Antigone'' and Freud's views on catharsis, see ''The Ethics of Psychoanalysis: Seminar VII'' (243–311).</ref> Venus is driven to such a recognition through her failed attempts to have Adonis return her desire. She expresses this negative recognition with a combination of humor and pathos, tragedy and melodrama we have come to expect from Shakespeare's Queen of love. "O, where am I? . . . in earth or heaven/ Or in the ocean drenched, or in the fire?/ What hour is this? or morn or weary even?/ Do I delight to die, or life desire?/ . . ./ O, thou didst kill me, kill me once again!" (492–499). The pun on sexual satisfaction, mixed as it is with cosmological references, expresses a sense of total absence, loss, and lack. Venus' agonized recognition of her emptiness is appropriately expressed as a question, indicating the deep uncertainty she feels as a result of Adonis' refusals. This passage sets up the even more dramatic moment when she falls to the ground with Adonis on top of her only to realize "he will not manage her, although he mount her" (597).
+
+<!--Paragraph 23-->
+Venus' recognition of her lack stems from her perception of Adonis as being full and complete unto himself. This same structural relation exists between the reader of the poem and the text; for just as Venus feels herself absent before a self-sufficient Adonis, the reader experiences a sense of lack in relation to a text that appears complete. Richard Halpern articulates the paradoxical nature of the poem's desire-based ontology by recognizing that
+
+<blockquote>
+to reveal [an] image's emptiness is precisely to confirm its power. . . . Indeed, a kind of metamorphic inversion occurs between viewer and object, for the unsatisfied hunger of the birds indicates their own emptiness in relation to the image, which is complete. (383)
+</blockquote>
+
+This "metamorphic inversion," in which the viewer feels empty in the presence of an object that appears full and self-sufficient, occurs throughout the poem in a number of varying forms. The first instance of this occurs at lines 211–16 when Venus alludes to Pygmalion as she bewails Adonis: "Fie, lifeless picture, cold and senseless stone/ Well-painted idol, image dull and dead,/ Statue contenting but the eye alone,/ Thing like a man, but of no woman bred!" (211–14). Here, as in the Pliny allusion, Venus' psychosexual struggle is expressed through an aesthetic analogy in which the object viewed inspires a heightened sense of lack in the viewer. Her object contents "but the eye alone", evoking rather than fulfilling desire. Where the reader is confronted with the fact that "the signifier precisely defers, supplants, relegates the imagined presence it sets out to name" (Belsey ''Desire'' 64), Venus is confronted with the fact that her object is unattainable and unrealizable. Venus' growing frustration over this intolerable situation expresses itself through her aggressive and cruel allusion to Adonis' unnatural origins. "Thing like a man, but of no woman bred!" (214). This erotic/aesthetic ontology in which Adonis is full and self-sufficient while Venus languishes in her lack is reversed in lines 235–40 when Venus imagines herself as a park upon which Adonis feeds himself. The fulfillment that Venus seeks thus demands a reversal of the unreciprocal mode of perceiving presented in lines 211–16: in order to achieve a sense of momentary fulfillment she imagines being self-sufficient, full, and generative. The same dynamic occurs even more explicitly at line 370, "Would thou wert as I am, and I a man/ My heart all whole as thine, thy heart my wound!" Venus' only power against Adonis' refusals lies in such rhetorical gestures; for as Richard Halpern observes, Venus "must content herself with 'venerian speculation'" (Halpern 380). Halpern, moreover, sees an analogy between Venus' plight and the reader's relation to the text insofar as "[t]he theological gap that separates Venus from the merely mortal Adonis stands in for the ontological gap between the. . . reader and the empty imaginations generated by the poem" (380). Thus part of the process of reading the poem consists of imaginatively re-enacting or reproducing its dramatization of unfulfilled desire.
+
+<!--Paragraph 24-->
+A further example of the ''trompe l'oeil'' dynamic occurs during the ekphrasis, when Adonis' horse is described in complete detail, playing on this ontological relationship between viewer and object:
+
+<blockquote>
+<poem>
+Look when a painter would surpass the life  
+In limning out a well proportioned steed  
+His art with nature's workmanship at strife  
+''As if the dead the living should exceed''  
+So did this horse excel a common one  
+In shape, in courage, color, pace and bone . . . 
+ 
+Look what a horse should have he did not lack  
+Save a proud rider on so proud a back.  
+(my emphasis 290–300)
+</poem>
+</blockquote>
+
+The density of this passage lies in its long, careful description of the horse which functions like the close and mimetically accurate brush-strokes of a Renaissance painter filling in every conceivable detail in order to convey a sense of totality and completeness within the image:
+
+<blockquote>
+<poem>
+Round-hoofed, short-jointed, fetlocks shag and long,  
+Broad breast, full eye, small head and nostril wide  
+High crest, short ears, straight legs and passing strong,  
+Thin mane, thick tail, broad buttock, tender hide. (295–300)
+</poem>
+</blockquote>
+
+Although some readers may find this passage somewhat tedious, its unusually dense and exaggerated description paradoxically reminds us as viewers that it is description and not real. Shakespeare's description presents a kind of wholeness while at the same time making it clear to a reader that the fullness is an effect and not the thing itself. Passages such as this offer a complex and subtle meta-commentary on the relationship between the reader and the text; for just as the description of the horse is a "full-representation" and not the thing itself, the text is an "unresponsive artwork" intended to "generate some kind of sexual thrill or tension" without being able to actually fulfill the desire it is capable of evoking (Halpern 380). Thus Shakespeare's poem presents an unusual self-awareness of the relationship between the text and the reader, revealing the ways in which the text is the site upon which the reader's own desires are manipulated, frustrated, and enjoyed. As much of the critical history of the poem reveals, it is extraordinarily difficult, perhaps even impossible, to interpret the poem without repeating some of the dramatic motions it represents.<ref>For readings that clearly identify with Adonis over against Venus see David N. Beauregard, "Venus and Adonis: Shakespeare's Representation of the Passions," ''Shakespeare Studies'' 8 (1976), 1–23, and C.S. Lewis, ''English Literature in the Sixteenth Century, Excluding Drama'' (Oxford: Oxford UP, 1954). See also Katherine Duncan-Jones, "Much Ado with Red and White: The Earliest Readers of Shakespeare's ''Venus and Adonis''," ''Review of English Studies'' 44 (1993), 479–501, for a discussion of William Reynolds' idiosyncratic response to the poem. For a reading that valorizes Venus see Nona Fienberg, "Thematics of Value in ''Venus and Adonis''," in ''Venus and Adonis: Critical Essays'', ed. Philip C. Kolin (New York: Garland, 1997), 247–58. For a discussion of the poem that seeks to symbolically unify Venus and Adonis see Robert P. Merrix, "'Lo, in This Hollow Cradle Take Thy Rest': Sexual Conflict and Resolution in ''Venus and Adonis''," in Venus and Adonis: Critical Essays, 341–358.</ref> To see the text as an allegory against lust is to repeat Adonis' position in the poem; to unabashedly enjoy its erotic and verbal play is to align oneself with Venus; to become frustrated with Adonis' refusals is to take up Titan's place in the poem. Thus the structure of the poem—with its repetition of ostensible moments of resolution, enticing and humorous rhetorical displays and its highly erotic aesthetic ontology—opens up an interpretive space that allows a reader to identify his or her own desires within its frame.
+
+==Notes==
+I would like to express my gratitude to Mary Silcox for her insightful comments on various versions of this paper.
+
+{{reflist}}
+
+==Works Cited==
+* Beaumont, Francis. "Salmacis and Hermaphroditus." ''Elizabethan Minor Epics''. Ed. Elizabeth S. Donno. New York: Columbia UP, 1963. 
+* Belsey, Catherine. ''Desire: Love Stories in Western Culture''. Cambridge: Blackwell, 1994. 
+* - - - . "Love As Trompe-L'Oeil: Taxonomies Of Desire in ''Venus and Adonis''". In ''Venus And Adonis: Critical Essays''. Ed. Philip C. Kolin. New York: Garland, 1997. 
+* Beauregard, David N. "Venus and Adonis: Shakespeare's Representation of the Passions." ''Shakespeare Studies'' 8 (1976): 83–98. 
+* Brooks, Peter. "Freud's Masterplot: Questions of Narrative." In ''Literature and Psychoanalysis: The Question of Reading Otherwise.'' Baltimore: John Hopkins UP, 1982. 94–207. 
+* Derrida, Jacques. "Structure, Sign, and Play in the Discourse of the Human Sciences." In ''Criticism: Major Statements''. Ed. Charles Kaplan, and William Anderson. New York: St. Martin's Press, 1991. 
+* Dubrow, Heather. ''Captive Victors: Shakespeare's Narrative Poems and Sonnets. ''Ithaca: Cornell UP, 1987. 
+* Duncan-Jones, Katherine. "Much Ado with Red and White: The Earliest Readers of Shakespeare's ''Venus and Adonis''." ''Review of English Studies'' 44 (1993): 479–501. 
+* Fienberg, Nona. "Thematics of Value in ''Venus and Adonis''." In ''Venus and Adonis: Critical Essays''. Ed. Philip C. Kolin. New York: Garland, 1997. 247–58. 
+* Fraunce, Abraham. ''The Third Part of the Countesse of Pembrokes Yvychurch. '' Northridge: California State UP, 1976. 
+* Frye, Northrop. ''Anatomy Of Criticism: Four Essays''. Princeton: Princeton UP, 1957. 
+* - - - . ''The Great Code: The Bible and Literature''. Toronto: Penguin, 1983. 
+* Greene, Thomas M. ''The Light in Troy: Imitation and Discovery in Renaissance Poetry''. New Haven: Yale UP, 1982. * Halpern, Richard. "'Pining Their Maws': Female Readers And The Erotic Ontology Of The Text In Shakespeare's ''Venus and Adonis''". ''Venus And Adonis: Critical Essays''. Ed. Philip C. Kolin. New York: Garland, 1997. 
+* Hulse, Clark. ''Metamorphic Verse: The Elizabethan Minor Epic''. New Jersey: Princeton UP, 1981. 
+* Keach, William. ''Elizabethan Erotic Narratives: Irony and Pathos in The Ovidian Poetry of Shakespeare, Marlowe, and Their Contemporaries''. New Jersey: Rutgers UP, 1977. 
+* Lacan, Jacques. ''The Ethics Of Psychoanalysis: Seminar VII 1959–60''. Trans. D. Porter. New York: W.W. Norton, 1986. 
+* - - - . ''The Four Fundamental Concepts Of Psychoanalysis''. Trans. A. Sheridan. Penguin Books, 1977. 
+* Levi-Strauss, Claude. ''Structural Anthropology''. Trans. Claire Jacobson and Brooke G. Schoepf. New York: Basic Books, 1963. 
+* Lewis, C.S., ''English Literature in the Sixteenth Century, Excluding Drama ''(Oxford: Oxford UP, 1954). 
+* Marlowe, Christopher. "Hero and Leander." In ''Elizabethan Minor Epics''. Ed. Elizabeth S. Donno. New York: Columbia UP, 1963. 
+* Merrix, Robert P. "'Lo In This Hollow Cradle take Thy Rest'": Sexual Conflict And Resolution In ''Venus And Adonis''". In ''Venus And Adonis: Critical Essays''. Ed. Philip C. Kolin. New York: Garland, 1997. 
+* Ovid. ''Metamorphoses''. Trans. A.D. Melville. Oxford: Oxford UP, 1986. 
+* Ovid. ''Shakespeare's Ovid Being Arthur Golding's Translation Of The Metamorphoses''. Ed. W.H.D. Rouse. New York: W.W. Norton, 1961. 
+* Schiffer, James. "Shakespeare's ''Venus And Adonis'': A Lacanian Tragicomedy of Desire". In ''Venus And Adonis: Critical Essays''. Ed. Philip C. Kolin. New York: Garland, 1997. 
+* Shakespeare, William. ''The Sonnets and Narrative Poems: The Complete Non-Dramatic Poetry''. Ed. Sylvan Barnet. New York: Signet, 1988.
+
+{{BookCat}}
