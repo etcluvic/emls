@@ -1,0 +1,114 @@
+''This essay was written by Susan Forscher Weiss and Ichiro Fujinaga''.
+
+<!--Paragraph 1-->
+In 1996 a team of professors and student researchers and performers from The Peabody Conservatory of Music were awarded a mini-grant from the Subcommittee on the Electronic and Distance Education (SEDE) sponsored by the Provost of The Johns Hopkins University to produce a CD-ROM-based multimedia learning environment for the study of Early Music. The goal was and is to encourage students to learn and to promote a greater understanding of music written before the age of Bach. The study of Early Music provides a scaffolding for students on which they can build an understanding of the music of the Common Practice period (and all subsequent periods).
+
+<!--Paragraph 2-->
+This interactive multimedia tool in CD-ROM format was designed to supplement a course in the History of Music of the Medieval and Renaissance periods (a standard requirement at most conservatories, colleges, and universities). Through this medium one can explore aspects of musical composition, music theory, the development of instrumental style, biographies of composers and patrons, questions of performance practice, and discover interrelationships between musical and socio-historical events.
+
+<!--Paragraph 3-->
+The CD-ROM draws upon various media, including audio and video performances by trained conservatory musicians, together with digitized images of paintings and scores, and well-written and researched texts. The disk consists of one small segment of music history: in this case, France in the early 16th century and a particular four-voice composition by Claudin de Sermisy, based on a traditional popular tune.
+
+==Rationale==
+<!--Paragraph 4-->
+The program offers a comprehensive understanding and appreciation of Early Music by placing it in the precise socio-economic culture within which it flourished. The rationale for doing this project stemmed from an assessment, made over a number of years teaching the required course in Medieval and Renaissance Music at Peabody, that the available texts, anthologies, and recordings were woefully inaccurate, inadequate, and uninspired. When students are limited to these materials alone, the majority loses interest in further pursuit of knowledge in this very important part of our musical heritage. The classroom experience must be augmented by other activities including listening to newer and better recordings and viewing contemporaneous images in order to help the student understand the cultural environment surrounding the musical compositions. Many paintings and literary works are in fact rich sources of information concerning performance practice in the periods prior to the Baroque era. As these periods are the least familiar and perhaps the most mysterious to the majority of music students, it is particularly important to enliven the materials.
+
+<!--Paragraph 5-->
+Geography, language, and culture are interdependent and our program can be of use not only in the teaching of music, but also in other disciplines, such as languages, the social sciences, and art history. This interdisciplinary approach is of increasing interest to educators at the secondary and primary levels as well.
+
+==Collaborators==
+<!--Paragraph 6-->
+The project team was interdisciplinary, made up of musicologists, art historians, text scholars, socio-economic historians, computer experts, and students. There was also informal participation from colleagues outside of Peabody including web-site designers, art historians, historians, and musicologists from institutions within Maryland as well as universities in this country and abroad. The project team included Susan F. Weiss, the project director and a member of the Department of Music History at the Peabody; Charles Kim, a graduate of the Computer Music Department and a web designer; Ichiro Fujinaga, faculty member of the Computer Music Department and Associate Director of Information Technology; Mark Cudek, Director of the Peabody Renaissance Ensemble; Webb Wiggins, faculty member of the Early Music Department and a vocal coach; Laura Parker, faculty member, Music Education Department; Joanne Riley, Homewood Academic Computing, The Johns Hopkins University; and Lisa Sheppley, graduate student assistant to Susan F. Weiss.
+
+<!--Paragraph 7-->
+All performances were done by Peabody students, guided by faculty from the Early Music Department. A member of the French department at The Johns Hopkins University helped students arrive at correct pronunciation and syllabification of the poetic text prior to recording the vocal versions. The music library and other libraries of the university provided us with facsimiles and some modern editions of the music. The Recording Arts and the Computer Music faculties of Peabody lent support with technical aspects of the project.
+
+==Content==
+<!--Paragraph 8-->
+The project consisted of one small segment of music history: France in the early 16th century and a particular four-voice composition by Claudin de Sermisy, based on a traditional tune. At one level a student could select “Music at Court — 16th Century — Paris.” This first level includes text and pictures describing basic historical and social conditions; subsequent learning paths include a study of musical forms, more information about the contemporary figures in literature and the arts, as well as an in-depth study of the music itself. Readings are taken from primary and secondary sources, including the latest research and scholarship (see the Selected Bibliography, below). A time line scrolls through the period highlighting important contemporary cultural and historical events.
+
+<!--Paragraph 9-->
+The student has opportunities to learn about the Parisian chanson. After looking at a number of scores and hearing them performed, the student can draw conclusions about style and form and is then able to apply the knowledge gained to a musical problem. For example, in the painting by the Master of Female Half-Lengths, referred to as ''The Concert'' or ''Three Musicians,'' the trio of musicians is shown reading music and performing a vocal and instrumental composition that has been identified as “Jouissance vous donneray” by the 16th-century Parisian chanson composer Claudin de Sermisy. The vocalist, a soprano we assume, is accompanied by a lute and transverse unkeyed flute. All three musicians are reading from two music books. The student will have learned that during this period (1500–1530), four-part frottole, chanson, and lieder are often performed as voice and lute duets. The student would need to determine which parts were played by which musicians in this particular painting. They could make choices and hear them played in all the possible combinations. After a period of study and discovery — including watching a number of video performances of the piece as a duo, as a trio, as a quartet of voices or instruments, or as combination of voices and instruments — the student could come to certain conclusions about performance practice not only as revealed in the paintings (each of which is slightly different from the other), but about performance of 16th-century secular music in general. Other aspects of music and culture are revealed through an in-depth study of this painting (and four other very similar ones by the same artist).
+
+<!--Paragraph 10-->
+At any point in the program, the students can move to another category. Should they wish to know more about the composer Sermisy or his poet Marot they could click on to the “People” icon or they could opt to retrieve more information on other examples of music and musical performance in other very similar, but not entirely identical paintings. A student might wish to learn more about the original notation and about part-books in printed and manuscript sources. At this point a comparison between the original facsimile score and any of the modern transcriptions would shed light on issues of editing early music. The program stimulates critical and creative thinking by encouraging the students to assimilate information from different, but related disciplines. Music students can see the relevance of their subject within the broader context of other academic areas and non-music students can gain accessible information on a period of music that is usually considered out-of-reach.
+
+==Evaluation==
+<!--Paragraph 11-->
+The process of having the students and faculty engaged in the research and performance practice efforts, learning to work cooperatively, created institutional enthusiasm and energy as the project evolved. Students in the undergraduate required course in Medieval and Renaissance Music have been testing the program both as learners and as critics.
+
+<!--Paragraph 12-->
+At the end of the spring semester, we presented a pilot study to the students for the purpose of getting initial feedback and helpful suggestions. The results were extraordinarily positive. Students have been able to see the practical application to studying music within a cultural context. The class of 45 students was divided, based largely on self-selection into three groups: the first (15 students: 7 females, 8 males) chose to use the CD-ROM program only; the second (20 students: 12 females, 8 males) chose to use the required text and recordings; the third (7 students: 1 female, 6 males) elected to use text, recordings, and the CD-ROM program. For the final exam, the students were expected to answer a series of questions based on their reading, listening, or experience with the CD-ROM. Questions were geared both to general knowledge and to specific points requiring the use of visual and aural memory. The result of the exam showed that the third group (CD-ROM and standard materials) scored higher than the other groups, followed by the first group (CD-ROM only). Among the comments, many wrote that the graphics were beautiful and that CD-ROM is a fun and effective way to learn and to supplement music history and performance practice. All enjoyed the audio and video, the magnificent images, and the time line that provided them with a chronological framework, often missing in textbooks. A similar evaluation process including a Likert-type scale survey, is planned for this new project. We also expect evaluative comments and criticism from other faculty at Peabody and scholars around the world over the Internet when this material becomes available on the Web.
+
+<!--Paragraph 13-->
+Enthusiasm for this type of learning far outweighs the criticisms of the limitations of the CD-ROM. Several students chose to do independent work in computer applications to early music. One of these projects was completed by an undergraduate student who had an interest in the history of notation. The student was a double major in music and electrical engineering and found the process of uniting musicological research with the skills needed for creating a web-site particularly rewarding.
+
+==Feedback and Related Activities==
+<!--Paragraph 14-->
+In order to organize and guide this and other SEDE grants, a seminar was given by the Computer Music Department. That provided opportunities to share and explore problems and challenges that were common to the individual projects and also to receive constructive criticism.
+
+<!--Paragraph 15-->
+In an effort to get additional feedback from outside experts we made presentations at the Second Annual SEDE Conference (October 1998) and at the fall meeting of The Johns Hopkins University Board of Trustees. As a result of campus-wide publicity and an article that appeared in ''The Johns Hopkins Gazette'' (26.8) other divisions of the university have expressed interest in our methodology. The project director was asked to give a multimedia presentation in the Masters of Liberal Arts program in the Division of Continuing Studies.
+
+<!--Paragraph 16-->
+In Spring 1997 the project director acted as consultant on ''Common Life in the Middle Ages,'' a web-site sponsored by the Annenberg Foundation and the Corporation for Public Broadcasting aimed at secondary school students (see Weiss, “Common Life”). This web-site was chosen as “Yahoo Pick of the Month” in September 1997. We also designed a web-site that included a soon-to-be published article entitled “Food and Eating in Medieval Society” (see Weiss, “If Music”). The paper, the musical examples (in facsimile edition and in transcription), the recording of the examples, and the visual images were all transferred to the web as a reference for the students in the course.
+
+<!--Paragraph 17-->
+In addition, there have been applications of and interest in the program beyond The Peabody Conservatory and Johns Hopkins, at local institutions, such as the Walters Art Gallery and the Maryland Institute College of Art, as well as outside of Maryland. The project director consulted on a number of other multimedia projects that combined music and technology, such as the exhibition of music in medieval manuscripts “Singing Along With Guido and Friends” at Baltimore’s Walter’s Art Gallery (see Weiss, “Singing Along”). This show, on display from November 1996 to January 1997, was a joint project of the Peabody and the museum. By scanning the images and wall text, as well as the recordings of chant and medieval instrumental music, we were able to provide students, teachers, and scholars, as well as laypersons with a documentary that examines the relationships between music, religion, history, classical literature, and art history during the Middle Ages.
+
+==Future Projects==
+<!--Paragraph 18-->
+In the future we hope to make the project permanently available over the Internet on Peabody’s web server, thus enabling access by a international population of students, scholars, and laypeople. It is hoped that the new format can be used to revamp the current undergraduate curriculum in Music History. The program could be adapted for use at the high school level for classes in humanities and history.
+
+<!--Paragraph 19-->
+Based on the CD-ROM we will expand the curriculum to earlier periods, add more interactivity, transfer the data from CD-ROM to web format, and make it available over the Internet. We will trace this particular chanson’s lineage back to France in the time of the 13th century, examining a monophonic composition by a well known troubadour, followed by a composition by Guillaume de Machaut, the most famous composer of the period known as the Ars Nova, or 14th century, and then to two works, one by Guillaume Dufay, and the other by Josquin des Prez, the two leading representatives of the 15th and early 16th centuries respectively. In each example, we hope to provide the same kind of panorama related to the music as exists in the original, each of which will be interactive. In the expanded web-pages, students will be able to explore music and culture in the 13th, 14th, and 15th centuries in the French-speaking lands of Western Europe. The students will be given opportunities at each step to ask questions, testing their knowledge on the way to becoming fluent in the musical language and vocabulary of the period.
+
+<!--Paragraph 20-->
+The research, writing, web-designing, rehearsals of the music, and overall content will resemble the original program, but the expanded programs on the web will be enhanced by activities that will reveal the students’ progress. By expanding the original to include music from the three preceding centuries we can develop a chronological approach that could then be interfaced with similar studies of other geographical centers in Western Europe (Early Music in Germany, Italy, England, Spain, Poland, etc.), as well as links with non-Western centers. Bibliographies and interlocking web-sites will be available for those wishing to examine issues and concepts in greater depth.
+
+<!--Paragraph 21-->
+In addition, the project will be key to the syllabus of a number of other course offerings at the Peabody Conservatory including the course “A History of Performance Practice, The Social History of Music,” team taught by the project director and Johns Hopkins history professor Richard Goldthwaite, and the graduate seminars, “The History of Notation” and “Renaissance Music: From Machaut to Monteverdi.” It will also serve to enrich courses in the history, art history, humanities, and language departments of Johns Hopkins University. In Spring 1999, the French department of Johns Hopkins and the Musicology department of the Peabody plan a joint symposium on “The Arts and Culture of the 14th Century.” We plan to undertake similar studies for other countries in Europe, such as Italy, Germany, Spain, and England in order to complete a series of web-pages on Music in Western Civilization.
+
+==Conclusions==
+<!--Paragraph 22-->
+One of the many advantages of an electronic learning environment (with its many tiers and levels of information) over traditional textbook pedagogy is its emphasis on the development of good visual and aural memory. Although the program focuses on a specific area, we are confident that it will serve as a paradigm not only for cultures of music but for other disciplines in the humanities.
+
+<!--Paragraph 23-->
+The program places a musical soundscape within the socioeconomic landscape in which it flourished. Although other musical CD-ROMS are available, such as the fine series by Robert Winter (Mozart String Quartets, Beethoven Symphonies, Stravinsky ballets, and the like), ours is unique in that we bring to life a composition from a very early period in the history of music and examine it, not only in a single performance, but also in as many different versions as it might have been heard at that time. The student can navigate back and forth to see images of contemporaneous culture, read about people and events, and view artwork created at approximately the same time period as the musical composition being heard. This multi-disciplined approach is intended to enrich any classroom experience and inspire both the students and professors with ideas for further creative endeavors.
+
+<!--Paragraph 24-->
+The team effort, the brainstorming, and intellectual energy generated by the opportunity to find new pathways to educate and engage students most definitely spread enthusiasm for the project and helped overcome possible phobias connected to the use of computer technology. The project also stimulated faculty to rethink their pedagogical methods and acted as a preventive measure against burnout. Thus, the CD-ROM has been serving and will continue to serve students in music and other disciplines, faculty, the curriculum, and the general population.
+
+==Selected Bibliography==
+*Bernstein, Jane. ''French Chansons of the Sixteenth Century.'' University Park, PA: Pennsylvania State UP, 1985.
+*Basel U Library, MS F. IX. 59–62, no. 44, and MS F. X. 17–20, no. 71 [facsimiles].
+*Brown, Howard Mayer. ''Music in the French Secular Theater, 1400–1550''. Cambridge, MA: Harvard UP, 1963.
+*Cazeaux, Isabelle, ed., ''Claudin de Sermisy. Collected Works. Corpus Mensurabilis Musicae'' 52 (1974): III.138.
+*———. “Claudin de Sermisy.” 17.171–176 in ''The New Grove Dictionary of Music''. London: Macmillan, 1980.
+*———. “The Secular Music of Claudin de Sermisy.” Ph.D. Dissertation, Columbia U, 1961.
+*Friedlander, Max J. ''Early Netherlandish Painting.'' Leyden and Brussels: A.W. Sijthoff, 1967–76.
+*Haar, James, ed. ''Chanson & Madrigal, 1480–1530.'' Cambridge, MA: Harvard UP, 1964.
+*Heartz, Daniel. “Mary Magdalen, Lutenist.” ''Journal of The Lute Society of America'' 5 (1972): 55–58.
+*———. ''Preludes, Chansons and Dances for Lute / Published by Pierre Attaingnant, Paris (1529–1530).'' Neuilly-sur-Seine: Société de musique d’autrefois, 1964.
+*———. ''Pierre Attaignant, Royal Printer of Music''. Berkeley, CA: U of California P, 1969.
+*———. “Au pres de vous: Claudin’s Chanson and the Commerce of Publishers’ Arrangements.” ''The Journal of the American Musicological Society 24'' (1971): 193–225.
+*Levinson-Lessing, Vladimir F. ''The Hermitage, Leningrad: Medieval and Renaissance Masters.'' London: Hamlyn, 1967.
+*Macy, Laura. “Women’s History and Early Music.” 93–100 in ''Companion to Medieval and Renaissance Music.'' Tess Knighton and David Fallows, eds. London: J.M. Dent, 1992.
+*Mayer, C.A., ed. ''L’Adolescence Clementine'' (1532). 177 in ''Clement Marot, Oeuvres Lyriques''. London: Athlone P, 1964.
+*Neuls-Bates, Carol. ''Women in Music.'' New York: Harper & Row, 1984.
+*O’Dette, Paul. “Plucked Instruments.” 139–153 in ''A Performer’s Guide to Renaissance Music''. Jeffery T. Kite-Powell, ed. New York: Schirmer, 1994.
+*John Parkinson. “A Chanson by Claudin de Sermisy.” ''Music and Letters'' 39 (1958): 118–122.
+*Reese, Gustave. ''Music in the Renaissance.'' New York: Norton, 1959.
+*Seay, Albert, ed. ''Pierre Attaignant, Transcriptions of Chansons for Keyboard. Corpus Mensurabilis Musicae'' 20 (1961): 192.
+*Slim, H. Colin. “Instrumental versions, c. 1515–1554, of a Late-fifteenth-century Chanson, ‘O waerder mont.’” 131–161 in ''Music in Medieval and Early Modern Europe: Patronage, Sources, and Texts.'' Iain Fenlon, ed. Cambridge: Cambridge UP, 1981.
+*———. “Mary Magdalene, Musician and Dancer.” ''Early Music'' 8 (1980): 460–473.
+*———. “Music and Dancing with Mary Magdalen in a Laura Vestalis.” 139ff. in ''The Crannied Wall: Women, Religion, and the Arts: Early Modern Europe''. Craig Monson, ed. Ann Arbor: U of Michigan P.
+*———. “Paintings of Lady Concerts and the Transmission of ‘Jouissance vous Donneray’.” ''Imago Musicae'' (1984): 51ff.
+*Wegman, Rob C. “Musica ficta.” 265–274 in ''Companion to Medieval and Renaissance Music.'' Tess Knighton and David Fallows, eds. London: J.M. Dent, 1992.
+*Weiss, Susan Forscher. “If Music Be the Food of Love: Medieval and Renaissance Wedding Banquets and Other Feasts.” In ''Food and Eating in Medieval Society''. London: Hambledon P, 1999.
+*———, consultant. “Common Life in the Middle Ages.” Annenberg/CPB, 1997. [http://www.learner.org URL: http://www.learner.org].
+*———. “Singing Along with Guido and Friends: Music In Manuscripts at the Walters Art Gallery.” ''Bulletin of The Walters Art Gallery'' (October 1996): 5.
+*———. “The Musical Hand.” In ''Writing on Hands: Knowledge and Memory in Early Modern European Culture.'' [Book and Exhibition at The Trout Gallery, Dickinson College, Carlisle, PA (Fall, 2000) and The Folger Shakespeare Library, Washington, DC (Winter, 2001).]
+*Wickhoff, Franz. “Der Bilder weiblicher Halbfiguren aus der Zeit und Umgebung Franz I. von Frankreich.” ''Jahrbuch der Kunsthistorischen Sammlungen des Aallerhoechsten Kaiserhauses'' 22 (1901): 221–245.
+
+{{BookCat}}
