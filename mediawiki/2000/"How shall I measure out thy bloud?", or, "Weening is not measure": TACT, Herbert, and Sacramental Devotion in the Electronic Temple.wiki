@@ -1,0 +1,704 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/"How shall I measure out thy bloud?", or, "Weening is not measure": ''TACT'', Herbert, and Sacramental Devotion in the Electronic ''Temple''}}
+''This essay was written by Robert Whalen''.
+
+<!--Paragraph 1-->
+A celebrated advantage of electronic editions of early modern literature is their capacity for representing multiple states of the text while avoiding a critical apparatus that relegates variants to footnotes. One can imagine, for example, an edition of Herbert's English verse comprised of the Williams and Tanner manuscripts and the 1633 ''editio princeps'', all hypertextually linked and presented in a frames format that foregrounds rather than obscures or literally marginalizes variation. This lateral access to textual difference—which would strongly suggest the reader qualify any claims s/he wishes to make about Herbert by recognizing in the text evidence of multiple Herberts (not to mention the Ferrar scribes at Little Gidding or the printer Thomas Buck)—is, however, only one aspect of the textual and thus critical diversity electronic texts offer.
+
+<!--Paragraph 2-->
+Another, which I explore here, has less to do with substantive textual variation than with different methodological approaches to "reading" one and the same version or witness—a cognitive or perspectival more than a purely material multiplicity. An electronic edition of the 1633 Temple (care of the Chadwyck-Healey database), together with sophisticated content analysis software (Text Analysis Computing Tools or TACT, version 2.1),<ref>See Lancashire, et al.</ref> allows the reader to expand, embellish and qualify his/her understanding of Herbert's verse by including in the critical act a consideration of statistical data. The following is an experiment in criticism that supplements a conventional reading of Herbert's verse, including its historical and cultural ontogeny, with a reading of data generated in response to the concerns of that initial critical experience—a computer-assisted inquiry that foregrounds features of the text only implicitly available otherwise. Whereas the argument is posited with considerable confidence, interpretive conclusions as to the relationship between it and the data are offered somewhat more tentatively, for reasons that will become apparent. My purpose here is not so much to prove the thesis through scientific means as to discover ways in which the data may reflect, temper or even contradict my initial findings. I hope, finally, to have articulated a procedure that allows TACT to complement conventional criticism—a methodology, moreover, that combines two very different, if related, approaches to textual phenomena, and which advances multiple dimensions of literary meaning.
+
+==1. Presence and Modus==
+<!--Paragraph 3-->
+Sacrament and devotion constitute a binarism pivotal to our understanding both of The Temple and of the early Stuart religious scene that is its historical moment. By sacrament I mean, in addition to the material aspects of sacramental ritual, all outward, public, sacerdotal and ecclesiastically oriented forms of religious expression. Devotion, conversely, is defined as that personal spiritual reflection and deliberation over one's soteriological status we have come to associate with puritan enthusiasm and its decidedly Reform theological pedigree.<ref>In keeping with current historiography I mean by Reform the systematic theology of John Calvin (see Milton 8, n14). Calvinism, of course, is not confined to puritan enthusiasts or "precisians." The impact of Reform doctrine on the English church establishment was considerable and reverberated well beyond the Calvinist heyday of the 1590's, even if the Elizabethan settlement and its Jacobean continuance had been driven primarily by royal supremacy and separation from Rome. For a nuanced discussion of both the unifying and divisive effects of Calvinist thought in English establishment divinity see Milton (395–447).</ref> I recognize that such definitions will be objectionable to some historians of the period: devotion, for example, could be defined as inclusive of the ceremonial, and vice versa. My purpose, nonetheless, is to explore what for the ecclesiastical establishment—and the establishment divine, George Herbert—was often a divisive ideological issue, namely, the identity and ''locus'' of spiritual authority.
+
+<!--Paragraph 4-->
+Historian Anthony Milton has identified Herbert as among the earliest of divines "to proclaim the new Anglo-centric orthodoxy" of the English church. Whereas for earlier Stuart and Elizabethan conformists the Church of England was a leader in the Protestant cause against Rome, the new orthodoxy sought to distinguish itself from the political and confessional broils of continental Protestantism. This ''via media'', it is important to note, was based not on the ideal moderation it eventually came to signify, but rather on complex issues of nationhood and, significantly, departure from an earlier Protestant identity.<ref>The description of the English church as "Catholic and Reformed" was shared by both conformists and non-conformists, though it was the Laudians who transformed its meaning from "orthodox Protestantism" to "an independent middle way peculiar to the Church of England" (Milton 527–28).</ref> This English middle way, distinct from foreign Calvinism, was reinforced under King Charles I and Archbishop William Laud by an increased emphasis on the importance of sacrament and ceremony for the confessional identity of the church.<ref>See Davies (18–45).</ref> But if Herbert was among the exponents of an avant-garde style of divinity, sacramental in emphasis as distinct from a more word- and pulpit-centred ministry, his poetry nevertheless is exemplary of the "internal religious experience" Dr. Milton associates with moderate as well as nonconforming puritan divines.<ref>See Milton (12).</ref> One aspect of this tension between lay spiritual autonomy and institutional authority is controversy over the precise nature and extent of Real Presence in the Lord's Supper; the degree to which sacraments are thought to contain or otherwise effect the grace they proclaim is also an index of their sacerdotal status and thus their role in promoting the church's social and confessional cohesion.
+
+<!--Paragraph 5-->
+What, in ''The Temple'', is the nature of the relationship between the potentially contrary imperatives of sacrament and devotion?
+
+<!--Paragraph 6-->
+In the 1633 "H. Communion,"<ref>Unless otherwise indicated, all Herbert citations are from ''The Works of George Herbert'' (F. E. Hutchinson, ed.).  I do not include as part of "The H. Communion" what in B and 1633 is apparently the poem's second half, and which appears in the earlier W as the separate poem "Prayer (2)." For an account of possible editorial error see Huntley (65–76; cf. Herbert, ''Works'' 52). Allowing the two-part version authority, Elizabeth Clarke discerns a dual motion of outward form toward inward spirituality and the subsequent movement of the grace-inspired soul toward heaven (161). This movement is less a "reversal," however, than one continuous "lift," the destination "heaven" being as elusive as the "souls most subtile rooms." I contend that both inward and outward motions are apparent in the poem's "first half" alone.</ref> Herbert avoids explicit mention of the various doctrinal formulae comprising that of the earlier Williams MS. He does not explicitly ''reject'' "rich furniture," "fine aray" and "wedge of gold" (1–2), though his contemporaries would have recognized these as the accoutrements of the Roman Mass. Herbert does object, however, to an emphasis on external trappings as alone constitutive of Real Presence. The reason he offers is as practical as it is dogmatic: "For so thou should'st without me still have been,/ Leaving within me sinne" (5–6). But if the first stanza leads one to expect the species to be included among the external trappings of Roman excess, the second offers a description of sacramental efficacy that is far from impugning the doctrine of transubstantiation:
+
+<blockquote>
+<poem>
+But by the way of nourishment and strength
+::Thou creep'st into my breast;
+::Making thy way my rest,
+:And thy small quantities my length;
+Which spread their forces into every part,
+::Meeting sinnes force and art. (7–12)
+</poem>
+</blockquote>
+
+If Herbert had wanted to place a neutral emphasis on use and the corporate act as the means by which sacramental grace is communicated, he might have chosen something other than this essentially physiological description, which, while avoiding altogether the problem of determining how or at which point in the process the elements take on the role of distributing the body and blood of Christ, nevertheless ensures their substantial and not merely symbolic involvement. It is in the gap between the first and second stanza, between disparaging comments on external finery and scrutiny of an inward, mysterious process, that the potential for controversy resides, a controversy Herbert deftly avoids. By steering clear of any explanation as to the manner by which the elements receive their peculiar powers and instead going straight to their internal operation, he maintains their sensuous status while accommodating a Reform emphasis on the individual psyche as primary site of sacramental presence and soteriological negotiation.
+
+<!--Paragraph 7-->
+Again, the division of "Our souls and fleshy hearts" (15), the focus of the following two stanzas, provides an essentially physical explanation for the mystery of sacramental grace. God's "small quantities" are unable to overcome the wall and thereby are a restraint on mere "rebel-flesh" (17). The "souls most subtile rooms," meanwhile, are penetrable only by "grace," which, nevertheless, "with these elements comes,"<ref>Erroneously aligning Calvin with Zwingli in a homogeneity "typical of the Reformation," R. V. Young sees in this line "an idea foreign to Reform thought." God, says Young's Herbert, "is present in the Eucharistic species" (190–1). The line, however, has "with," not "in," and as such allows precisely the Calvinist reading Young abjures.</ref> and which, having so entered the soul, is able to send "Dispatches" to the sentinels or "spirits refin'd" (19–24) that guard the door. These, presumably, then disseminate medicinal benefits throughout the body. The entire process, a sort of military coup, may be summarized as follows: ceremonial trappings may accompany but certainly do not contain divine presence which, nevertheless, is involved somehow with the material species, but only after ingestion (so far as we know or Herbert allows). These charged species then "spread their forces into every part"; but only grace, the commander-in-chief, is able to breach the stronghold and gain central control of the entire terrain, which is then redeemed/colonized.
+
+<!--Paragraph 8-->
+It is possible, of course, that what I have described as a sensualist sacramental orientation is but the figurative description of what in fact is ''not'' an essentially physical process. The presence of military imagery suggests as much. But just as the notion of a cosmic battle played out on an individual spiritual plane may have been for the early modern Christian an immanent reality, it is not unlikely that for Herbert the inner drama of redemption was more than a merely figurative war. In any case, the equivocal and forensic "Not," "But," "Yet" and "Onely" positioning each stanza are symptomatic less of an attempt to advance some settled middle way than the irenic equivocation of the country parson, who, whatever his theological bias, is content to know that God is "not only the feast, but the way to it."<ref>See Herbert (''Works'' 258).</ref>
+
+<!--Paragraph 9-->
+That this version of "H. Communion" is sensitive to Laudian controversy over the importance of sacraments, ceremony and discipline relative to preaching and doctrine<ref>Laudian reform has been described as "the desire to transform English Protestants" perception of the relative importance of discipline ''vis-à-vis'' doctrine, and of sacraments ''vis-à-vis'' preaching" (Milton 447).</ref> becomes evident when contrasted with that found in the earlier Williams MS, where sundry theological strands are more readily identified.<ref>That the W version was finally excluded from ''The Temple'' may be evidence of Herbert's irenic attitude (see Summers 24; cf. McGill [21–2] and Stewart [54]).</ref> Here, the interrogative first stanza suggests but two poles in the debate, Roman trans- and Lutheran consubstantiation, a choice between a doctrine of ubiquity wherein God's substantial presence does not exclude that of the bread, and the more radical notion that the bread's substance is wholly converted. Herbert goes on in the following stanza to insist that the relative presence or absence of bread is a non-issue, that what really matters is that his "gratious Lord" (1) and "all thy traine" (10) ''somehow'' be there. By the third stanza, however, this ecumenical sentiment is narrowed to a more specifically Calvinist doctrine which, while asserting Real Presence, confines it to the soul of the recipient, the elements indicating as a seal or promise rather than in some way constituting that presence.<ref>To maintain significance for the elements as set apart from ordinary wine and bread while avoiding what he would have regarded as a contamination of the resurrected Christ by mere material being, Calvin settles on an ''arcana virtus'', the doctrine that is his singular contribution to sacramental theology. Christ's flesh, though "separated from us by such great distance," nevertheless "penetrates to us, so that it becomes our food"; the Spirit "truly unites things separated in space." The breaking of bread is a "symbol" and not "the thing itself"; nevertheless, "by the showing of the symbol the thing itself is also shown" (McNeill 4.17.10). With greater clarity Calvin elsewhere writes that "Christ is not visibly present, and is not beheld with our eyes, as the symbols are which excite our remembrance by representing him. In short, in order that he may be present to us, he does not change his place, but communicates to us from heaven the virtue of his flesh as though it were present" (''Corpus Reformatorum'' 49.489; ctd. McDonnell 231).</ref> It is this doctrine, explicitly allowed here, that silently bridges the gap between the first and second stanzas of the later version, though there "nourishment and strength" presume a distinctly physiological medium for God's penetration of the poet's "breast."
+
+<!--Paragraph 10-->
+By the fifth stanza, an even more positive stance begins to emerge, beginning with a sarcastic rejection of "Impanation" (25), the Lutheran view of sacramental presence which focusses directly on the hypostatic union of divine and human beings at the Incarnation.<ref>The term most often was associated with the complementary Lutheran doctrine of consubstantiation, both favourably and otherwise. Under "impanate" and "impanation" the ''OED'' cites the following: "1555 Ridley Wks. (Parker Soc.) 34 Saying: "We grant the nature of bread remaineth . . . and yet the corporeal substance of the bread therefore is gone, lest two bodies should be confused together, and Christ should be thought impanate"; "1548 Gest Pr. Masse in H. G. Dugdale Life App. i. (1840) 86–7 Thimpanacion of Christes bodye..is..soch a presence of Christes body in the bread wherwyth they both shuld be unseverably personed and have al theyr condicions and properties"; "1725 tr. Dupin's Eccl. Hist 17th C. I. vi. iii. 247 [Peter Martyr] attack'd Transubstantiation, and supported the Opinion of Luther concerning the Impanation." For consubstantiation and its basis in Luther's hypostasis interpretation of the Incarnation see Luther (38.306ff).</ref> Rather than bread becoming God, the divine substance becomes united with that of bread, just as the Word becomes flesh at his human birth. That God's nature takes on man's is acceptable, presumably; but that it accommodates that of bread is decidedly not. Herbert is willing to tolerate various degrees of transformation with respect to the species, but he is wary of compromising the divine nature by associating it too closely with mere bread. Rather, it is "My flesh, & fleshly villany" that "made thee dead" (29–30), the implication being that if God's nature is at all compromised in the Eucharist, it is insofar as he dies in being united to the recipient's flesh. In the following stanza this new focus on Incarnation and hypostasis ironically cancels the poem's earlier ecumenism by questioning whether flesh is present among the species at all: "That fflesh is there, mine eyes deny:/ And what should flesh but flesh discry,/ The noblest sence of five?" (31–2). Now more firmly in the realm of Calvinist virtualism, the species signify rather than embody a process which occurs strictly between heaven and communicant. As with the later poem, we again encounter the impasse separating flesh and soul, though here the absence of any physiological explanation only confirms a finally mysterious connection with a radically transcendent God:
+
+<blockquote>
+<poem>
+Into my soule this cannot pass;
+fflesh (though exalted) keeps his grass
+:And cannot turn to soule.
+Bodyes & Minds are different Spheres,
+Nor can they change their bounds & meres,
+:But keep a constant Pole. (37–42)
+</poem>
+</blockquote>
+
+The "this" corresponding here to flesh is countered in the final stanza with "This gift of all gifts," which, presumably, unlike flesh, can indeed "pass." This gift can be none other than grace, explicitly named in the later poem where it alone is able to get over "the wall that parts/ Our souls and fleshy hearts."
+
+<!--Paragraph 11-->
+In the Williams "H. Communion," then, Herbert is reluctant to allow much in the way of intercourse between flesh and soul, maintaining instead a Reform vision of sacramental grace as an essentially spiritual and non-bodily transaction. The later poem, on the other hand, while more equivocating and less polemical in tone, nevertheless promotes a more intimate and amorphous relationship among body and soul, grace and its material means. Whether these poems frame a linear development in Herbert's sacramental thought is difficult to say.<ref>For an account suggesting Herbert's increasingly transubstantiationist view see Ellrodt (324–5).</ref> The time line between the Williams MS and the first edition does parallel a period in Stuart church history, from the 1618 Synod of Dort to the advent of Laud's archbishopric in 1633, which saw an increased emphasis on sacrament and discipline relative to preaching and doctrine. But does Herbert's accommodation of the ecclesiastical establishment's sacerdotalism necessarily indicate discomfort with the puritan emphasis on more private pieties? Whatever their relevance for Herbert's theological itinerary, the two versions of "H. Communion" are comprehensive of the array of sacramental theories available to his contemporaries, from Roman trans- and Lutheran consubstantiation to Calvinist virtualism—with the notable exception of the influential memorialist view advanced by Huldreich Zwingli. Herbert thus shares with his English Protestant contemporaries a concern that the Eucharist involve Real Presence. It is the ''modus'' of that presence as expressed in the poetry, however, which suggests he was far from embracing the Laudian sacramental programme without recognizing a tension between spiritual and material aspects of religious experience. Herbert's beloved English ''via media'', then, was less coherent integration of ceremonial and devotional pieties than a way fraught with struggle and uncertainty.
+
+==2. Sacrament and Devotion: Weening==
+<!--Paragraph 12-->
+Contiguity among sacraments and otherwise non-ceremonial spheres of Christian life is of considerable consequence for the devotional aspects of Herbert's verse. The introspective, self-examining character of much of his poetry suggests a largely puritan religious orientation, this Protestant poetic differing from Roman Catholic meditative practice by focusing less on scriptural topoi and the ''ars memorandi'' essential to their psychological realization than on the spiritual and moral disposition of the contemplative sinner.<ref>Louis Martz, the celebrated and influential champion of Anglo-Catholic poetics, recognizes that although meditative practices had always had a strong psychological component, it was "the inward surge of Puritanism" combined with older techniques that produced the distinctive religious devotion of the seventeenth century. It is "the weapon of mental communion" in Herbert "which makes the sacraments flow from Christ's side." Martz even goes so far as to suggest for the period a "Catholic Puritanism," albeit with the proviso that it was "free of predestination" (9, 299, 127–8).</ref> Contrary to Malcolm Ross's assertion, however, this turning inward does not constitute necessarily a desacramentalization of Christian faith.<ref>Malcolm Ross's answer to the question of whether Protestant Christianity failed to "sacramentalize" the "new individualism" is a resounding Yes (Ross 92 and ''passim'').</ref> For Herbert, rather, the psychological drama of salvation unfolds sacramentally: the external and ritual aspects of sacrament are vividly realized as an integral component of self-reflection, part of the internal machinery addressing the penitent's spiritual depravity. The presence of sacrament and ceremony in The Temple, then, qualifies its ostensibly inward focus, cultivating private devotion as an extension of the social ''ecclesia.'' What we have, in effect, is a sacramental puritanism, an integration of institutional and private aspects of religious experience, as in "Sinne (I)," where God's "fine nets and strategems to catch us in" include not only "laws," "Pulpits and Sundayes," but also "sorrow dogging sinne" and "anguish of all sizes" (3–7). Together, these are "Without, our shame; within, our consciences;/ Angels and grace, eternall hopes and fears" (11–2). Incorporated into the fabric of his devotional experience, sacramental topoi for Herbert signal escape from the anxieties and fears often attending private spiritual reflection. Internalized guilt and shame are alleviated by gesturing toward the external means of grace even as these latter penetrate the private psyche, reifying and animating the otherwise ephemeral motions of Christian salvation.
+
+<!--Paragraph 13-->
+Herbert often combines tears, blood and penitence in a manner symptomatic of his general tendency to maintain a sacramental context for the psychological core of a faith in progress. Tears and genuine repentance are a necessary part of receiving the grace conferred via sacraments. If the corollary is also true—that is, penitence alone, however genuine, is insufficient apart from sacramental aid—"Ephes. 4.30" nevertheless emphasizes the necessity of an appropriate devotional posture. The penitent mourns the Holy Spirit's grief and regrets his own inability to conjure adequate tears. The poem reconciles this lack by closing with a typical identification of tears and blood, the inadequacy of Herbert's grief supplemented by his saviour's: "Lord, pardon, for thy Sonne makes good/ My want of tears with store of bloud" (35–6). This final stanza recalls the sacramental/typological significance of an earlier:
+
+<blockquote>
+<poem>
+Then weep mine eyes, the God of love doth grieve:
+::::Weep foolish heart,
+::::And weeping live:
+For death is drie as dust. Yet if ye part,
+::End as the night, whose sable hue
+::Your sinnes expresse; melt into dew. (7–12)
+</poem>
+</blockquote>
+
+If dew suggests manna and, typologically, the bread of the Eucharist, then Herbert has expanded the tears/blood conceit to include the sacramental body. As night dissolves into dew, so sin, distilled through genuine repentance, is transubstantiated into the bread of life, the Christ who was made a body of sin so that man and God might be reconciled (1 Pet. 2.24; 2 Cor. 5.21). Tears, blood and bread combine to sacramentalize the penitential psyche so that the weeping heart undergoes a kind of reverse alchemy, the alembic of Eucharistic topoi dispersing the self among the dust and dew shrouded by night sky. Sacraments externalize otherwise private tears by allowing the isolation and guilt inevitably attending an inward devotional piety to be relieved through gesture toward a wider communal and mythical context.<ref>Elizabeth Clarke believes that the extreme Baroque conceits in Herbert's poetry of tears manifest an ironic reluctance to allow genuine sincerity for external devotional forms, that "concentration on the outward and physical effects of emotion, without regard to the inward cause, is . . . foreign to Herbert" (123). But surely Herbert knows that inward sincerity is at least as ephemeral as its outward manifestations; his sacramental appropriation of the tears ''tradition''—both topical and spiritual—is the ceremonial attempt to transcend rather than wallow in private fears and anxieties, and thus one more avenue of escape from devotional isolation.</ref> The excessively lachrymose penitent of "The Dawning," similarly, is admonished to "with his buriall-linen drie thine eyes," for "Christ left his grave-clothes, that we might, when grief/ Draws tears, or bloud, not want a handkerchief" (14–6). The association of penitential tears and blood, followed by healing restoration, again recalls the Pauline characterization of Holy Communion as a celebration tempered by the communicant's due consideration of his contribution to Christ's suffering and death. Directed toward a communally valorized symbol, however, Herbert's private grief is externalized and subsumed by the broader tradition of which it is but a part.
+
+<!--Paragraph 14-->
+The (in)adequacy of devotional prayer and its relevance for the material dimension of sacramental grace are explored in "The Search," where, paraphrasing Psalm 42.3, Herbert is both distressed at God's apparent absence and sustained by his own efforts to rectify the loss: "My searches are my daily bread;/ Yet never prove" (3–4). Seeking God is the Christian's food, the devotional quotidian supplementing occasional sacraments. The devout's posture is one appropriate for prayer but also identical to that which the Country Parson prescribes for receiving the Eucharist ("the Feast indeed requires sitting, because it is a Feast; but man's unpreparednesse askes kneeling"<ref>Herbert (''Works'' 259).</ref>):
+
+<blockquote>
+<poem>
+My knees pierce th'earth, mine eies the skie;
+::::And yet the sphere
+And centre both to me denie
+::::That thou art there. (5–8)
+</poem>
+</blockquote>
+
+The juxtaposition of rooted knees and sky-piercing eyes suggests that the space separating the speaker and his God traverses his own body, from prostrate flesh to the limits of corporeal vision. Just as bread in the Eucharist is consumed and assimilated by the communicant, so this "daily bread" combines a hunger for God with an appropriately receptive body, the latter straining its corporeal limitations to partake of an ostensibly spiritual food. Just as various and often conflicting theologies attest to the ''mysterium tremendum'' that is Real Presence, and to the futility of identifying its ''modus'', so is the devotional psyche subject to the anxiety of absence. Reluctant to entertain a radically transcendent deity, Herbert reasons that God may be busy attending to a parallel universe: "Lord, dost thou some new fabrick mould[?]" (25). He discovers, however, that the cause of absence may be the divine Will itself, a rather disconcerting notion; he would much prefer the material barriers of "brasse,/ Or steel, or mountains" to that for which "all strength, all subtilties/ Are things of nought" (34–40).
+
+<!--Paragraph 15-->
+To the extent they are thought to embody divine immanence sacraments attenuate the psychological anxiety of a puritanism sensitive to the vagaries of an inscrutable and alien Will. Yet, as John Donne wrote, agreeing with Richard Hooker and the 29th of the Elizabethan Articles, for the wicked (non-elect?) sacraments offer no benefits at all.<ref>Donne (5.7.163). The 39th Article has "The wicked, and suche as be voyde of a liuelye fayth . . . in no wyse are the partakers of Christe, but rather to their condemnation do eate and drinke the signe or Sacrament of so great a thing" (ctd. Cressy and Ferrell 67). Hooker was concerned that the godly should participate in Communion even if it meant doing so alongside the wicked: see Collinson (31).</ref> And while the elements offered at board are perhaps no guarantee of divine favour, still less is ''this'' daily bread, kneaded in the close, private realm of the devotional psyche, an altogether adequate sustenance. Indeed, it is considerably less tangible, more elusive. But the marriage of Christ and his body, the church, toward which the Eucharist is a public, ceremonial gesture, can also be a private courtship or ''pas de deux.'' Just as the ritual ideally is inseparable from the presence it posits, so devout searches, while for the most part "never prove," are psychologically inextricable from the occasional, fleeting realization of their objective: "For as thy absence doth excell/ All distance known:/ So doth thy nearenesse bear the bell,/ Making two one" (57–60). Intimate nearness is never far from infinite distance. For Herbert, whose searches are his daily bread, seeking and finding, presence and absence are but sistole and diastole of the same beating heart.<ref>"Herbert's God is tasted as much by his absence as by his presence" (Wilcox 64).</ref>
+
+<!--Paragraph 16-->
+The relationship between devotional and sacramental pieties is significant not only for the devout's interest in experiencing the comforts of divine presence, but also for the ongoing dialogue between personal moral culpability and the knowledge of a radical grace. In "Conscience," for example, the alternating voices of confident judge and guilty supplicant suggest psychological division, or rather the poet's capacity to sustain mutually contrary roles simultaneously. Conscience, after all, is a component of his own psyche. In the poem's sacramental context the violence associated with the Crucifixion is directed against the guilt-obsessed "pratler" (1) and his "chatting fears" (5), the speaker's defense
+
+<blockquote>
+<poem>
+My Saviours bloud: when ever at his board
+I do but taste it, straight it cleanseth me,
+:::And leaves thee not a word;
+::No, not a tooth or nail to scratch,
+::And at my actions carp or catch. (14–8)
+</poem>
+</blockquote>
+
+Notable here is the association of "word" with the accusing Conscience, and, more significant, the silencing of this "pratler" by the speaker's recourse to the Eucharist. The sacrament/Conscience dichotomy is clarified and the tables turned when in the final stanza we discover that the "bloudie crosse" signified in the cleansing rite has become the speaker's "sword," comprised of "Some wood and nails to make a staff or bill/ For those that trouble me" (21–4). Introspective and sacramental pieties conflict violently; their contrarity, always potential in early Stuart church politics, is realized here within the devotional psyche itself. On the one hand, the speaker longs to escape Conscience's tortuous confines, finding in sacramental ritual an opportunity to escape from his present circumstances into an external and mythical drama; on the other, he seeks to appropriate the symbols of that myth as not only healing balm but as violent purge, paradoxically eradicating the accuser Conscience from whatever might then remain of his divided self. This dual motion, of private devotion toward external rite on the one hand, and sacramentalization of the devotional realm on the other, is stated succinctly in the second stanza, where inward agony melts into the surrounding heavens: "My thoughts must work, but like a noiseless sphere" (8).
+
+<!--Paragraph 17-->
+It is odd that the healing qualities of the Eucharist are aimed primarily at what is also a necessary component of the Christian psyche, the censor who convicts of sin. Certain fair looks, presumably, ''are'' foul, certain sweet dishes sour, particularly if they garner a disproportionate share of one's devotional energies.<ref>In "Vanitie [2]," for example, the speaker's "Poore silly soul" is cautioned to "Heark and beware, lest what you now do measure/ And write for sweet, prove a most sowre displeasure" (1–6), conscience dutifully alert to what is ''actually'' sour, what sweet. In "The Storm," guilt is a salvific catalyst:
+
+<blockquote>
+<poem>
+A throbbing conscience spurred by remorse
+Hath a strange force:
+It quits the earth, and mounting more and more
+Dares to assault thee, and besiege thy doore. (9–12)
+</poem>
+</blockquote></ref> Yet Herbert apparently is concerned more with exorcising Conscience than with curbing those earthly desires and activities which threaten devotional constancy. Indeed, perhaps music howls at all only because Conscience chides and clouds the ear, which otherwise is free to hear the "Harmonious peace" (9) of "noiselesse" thoughts and the Pythagorean music they echo.
+
+<!--Paragraph 18-->
+Internal/external or private/public oscillation is a key feature of both sacramental worship and devotional versification: the Christian ''mythos''<ref>Northrop Frye defines ''mythos'' as imitation of a "generic and recurrent action or ritual" or of "the total conceivable action of an omnipotent god or human society" (Frye, ''Anatomy'' 366–7). I understand sacraments as comprehensive of both these definitions.</ref> attending ceremony and ritual informs the communicant's private reflections, whether at "board," prayer, or quill and "little book."<ref>According to Walton, this was Herbert's name for the volume of poems sent from his death-bed to Nicholas Ferrar and the authoritative basis for ''B'' and 1633: "The Life of Mr. George Herbert" (286).</ref> Herbert's poetry, intended for publication, addresses matters and rehearses doctrines common among the members of a faith community even as it portrays one individual working out his salvation in fear and trembling. Central to this integration of communal myth and private devotional sphere, sacramental topoi advance the individual Christian's ''rôle'' in a larger scheme, both his performative ritual duty, and his status with respect to the Christian eschaton, the register or book of life to which all hopeful souls aspire. This is why Herbert's verse rarely if ever borders on maudlinesque autobiography; religious psychomachia, his speakers' struggles and anxieties, are those of the Christian Everyman, even if his candid treatment of the tension between confident artist and pious submissive is unique to English letters. The creative energy of his verse consists in Herbert's repeatedly calling upon sacraments to mediate a grace whose presence the most sincere and confident of devotional psyches is unable to sustain. It is only through continual return to its institutional and carnal status as sacrament that he can effectively think the Word-become-flesh and the radical grace it proclaims.
+
+<!--Paragraph 19-->
+"Love Unknown" documents not only Herbert's efforts to comprehend the depth of personal depravity and the extent of God's love; the poem also reveals a devotional psyche reluctant to accept the repeated assurances of its undeserved salvation, even when such assurance is sacramental in form. The first attempt to appease his Lord results in the speaker's heart being "seiz'd" and thrown in a font,
+
+<blockquote>
+<poem>
+:::::::::wherein did fall
+A stream of bloud, which issu'd from the side
+Of a great rock: I well remember all,
+And have good cause: there it was dipt and dy'd,
+And washt, and wrung: the very wringing yet
+Enforceth tears. (13–8)
+</poem>
+</blockquote>
+
+The typology connecting the rock which fed the Israelites with Christ speaks of both Baptism and a spiritual food and drink (Ex. 17.6 and 1 Cor. 10.1–4). Herbert's more explicit evocation of the blood of Atonement, along with the qualification "yet," suggests the heart's continual need of sacramental renewal and anticipates the Eucharistic account at the centre of the poem. Upon discovery of the insufficiency of his sacrifices, Herbert acknowledges his friend's observations—"''Your heart was foul . . . hard . . . dull'' " (18, 37, 56)—by following each with a brief confession. The second of these celebrates a Eucharistic remedy that also exemplifies the ''mysterium tremendum'' cautiousness characteristic of early Stuart divines' approach to sacramental doctrine:
+
+<blockquote>
+<poem>
+:::::::I found a callous matter  
+Began to spread and to expatiate there:
+But with a richer drug then scalding water
+I bath'd it often, ev'n with holy bloud,
+Which at a board, while many drunk bare wine,
+A friend did steal into my cup for good,
+Ev'n taken inwardly, and most divine
+To supple hardnesses. (38–45)
+</poem>
+</blockquote>
+
+Herbert clearly sees as disadvantaged those whose sacramental views lean toward a Zwinglian memorialism or otherwise merely representational ritual, "bare wine" evoking a disenchanted, ineffective species. He is careful, however, to qualify his friend's presence in the cup with "Ev'n taken inwardly," thus connecting any substantial transformation with the act of ingestion. The sensualist tone thus actually reinforces a Reform emphasis on the inward grace with which the poem is chiefly concerned.
+
+<!--Paragraph 20-->
+The first and third confessions, recognizing human failure to merit salvation, are complemented by divine assurance. Plagued by knowledge of his many faults, the penitent "still askt pardon, and was not deni'd" (21); his sins, as it turns out, are "by another paid,/ Who took the debt upon him" (60–1). It is in between, following the second confession (38–9), that sacramental grace intervenes to assuage his anxiety. Just as sacrifice, prayer and poetic effort are acceptable only when recognized as divinely initiated and sustained, so Christ's presence among the "rich furniture and fine array" of sacrament and ceremony imbues what is otherwise meaningless custom with inexhaustible significance. Sensualist or potentially sacerdotal indulgence is softened both by the homely image of divine presence as a mischievous friend stealing his way into the cup, and by the emphasis on process and use; these latter allow the apparently embarrassing problem of ''locus'' to be avoided, even if the evocative image and diction—"bath'd," "bloud," "drunk," "supple"—complicate the evasion. On the one hand, Herbert is reluctant to allow the absolute autonomy of his God to be subjected to the material limitations of carnal being; yet he also seems to suggest that the very notion of an undeserved grace depends on Christ's actual presence among both the means and "suppling" effects of God's supreme gift. If antipapist precisians worried that the notion of Real Presence compromises radical transcendence and divine autonomy, Herbert demonstrates such presence is but the divinely instituted and necessary expression of the Incarnation, of a Will paradoxically divested of power and subjected to history, a body and death.
+
+<!--Paragraph 21-->
+But "Love Unknown," nevertheless, is essentially a psychological dramatization, gesturing only momentarily toward the soteriological efficacy of sacraments and the escape they provide from incessant self-scrutiny.<ref>Debora K. Shuger argues that the "confessional intimacy of the divine-human encounter in Herbert fulfills the need for a relationship ''not'' available in society" (104). In establishing a barely emergent "modern" subjectivity in Herbert Shuger fails to acknowledge the extent to which the antinomian despair often attending such personal intimacy is alleviated by repeated sacramental gestures and their affirmation of the communal basis for a faith not subject finally to private anxieties.</ref> Recourse to an external remedy, however fleeting, is the attempt to provide an objective means of grace independent of subjective disposition. But as significant as it may be, the Eucharist nevertheless is overwhelmed, "Ev'n taken inwardly"—swallowed, as it were, by the speaker's ever vigilant Conscience. Even the comfort of divine identification is denied by an anxiety impervious to sacramental persuasion, for immediately following the Eucharistic encounter, the still unconvinced penitent hesitates:
+
+<blockquote>
+<poem>
+But when I thought to sleep out all these faults
+:::::::(I sigh to speak)
+I found that some had stuff'd the bed with thoughts,
+I would say ''thorns.'' (49–52)
+</poem>
+</blockquote>
+
+Far from a mere meditation on the crucified Christ, the metaphor transfers the crown of thorns to the speaker's psyche and confers on his ephemeral tortures the dignity of messianic sacrifice. If Herbert's sacramental vision suggests Roman sensualism and communal ritual, however, these serve primarily to ceremonialize the deliberations over salvation that are otherwise so insistently his own. Perhaps there may be no rest for one who knows that even his prayers echo the chasm between ritual act and the manic-depressive vicissitudes of the devotional sphere—"Though my lips went, my heart did stay behinde" (59)—unless, of course, he can accept finally that his friend's suppling "holy bloud" has indeed made his heart "''new, tender, quick'' " (70).
+
+==3. Sacrament and Devotion: Measuring==
+<!--Paragraph 22-->
+It is clear that the Eucharist is "the marrow of Herbert's sensibility"<ref>In Herbert (ed. Patrides 17).</ref>—a phrase, moreover, which suggests both the material and spiritual aspects of religious experience with which this study is concerned. Another way of approaching this conceptual polarity is to examine relevant features of the text as statistical data. The Temple, that is, in addition to being a collection of poems composed and organized according to artistic purpose and design, is also a repository of discrete words whose individual and relational frequencies can be ascertained: words can be selected and organized according to defined categories; various statistical relationships among these words and categories can then be measured for relative significance. Ideally, such data will allow valid inferences to be made about their linguistic, historical and cultural contexts.<ref>Krippendorff (21).</ref>
+
+<!--Paragraph 23-->
+Northrop Frye has described reading as the intersection of horizontal and vertical axes, the horizontal corresponding to our initial experience of text through time, the vertical to the critical mode, a conceptually spatial organization of that primary encounter. Frye's vertical axis is extended here to include a lateral apprehension of the text as data organized according to thematic categories derived from the horizontal, or narrative, experience.<ref>Frye (''Words'' 69–76).  I should add that Frye in this context mentions that a "rush of experiences with limited possibilities of development into genuine knowledge is the major educational difficulty with electronic media in our society" (75). Perhaps it is impossible to know what he might have thought of content analysis as critical tool, never mind my manipulation of his conceptual model. It can only be hoped that genuine knowledge is indeed the predominant feature of this investigation, and that the "panics inspired" by the proliferation of electronic media may have been seen by Frye as to some degree ameliorated.</ref> This axes formula describes not only a critical methodology; it characterizes a fundamental feature of human cognition, namely, the tendency to rationalize, to organize, categorize and render intelligible otherwise meaningless sensory data. It should be clear, however, that the vertical dimension of cognitive experience does not follow neatly upon the horizontal, as Frye suggests; rather, the vertical and horizontal are inextricable, the activities of reading and understanding joined in a rapid oscillation of discursive and non-discursive experience. That rational or static models, moreover, are never entirely separable from the less tidy, more dynamic domain of temporal, narrative experience is a fact now recognized by social scientists whose sometimes morbid obsession with categorical and statistical precision has led in the past to distrust of and even contempt for literary explanations of human being. Statisticians now readily admit that "literary and statistical approaches to social events [among which I include writing and reading] are simply different 'mapping' techniques,"<ref>Cuzzort and Vrettos (4).</ref> an observation which implicitly recognizes the spatial dimension of Frye's literary-critical formula. Cuzzort and Vrettos are quick to point out, however, that while statistical reasoning may be fundamentally discursive, cognition itself is inescapably statistical:
+
+<blockquote>
+Even in its most formal and complex mathematical forms, statistical reason rests on commonsense devices that are as old as human thought. When people began talking about the world and their relationship to it in primordial times, they also began expressing their knowledge in forms similar to statistical modes of thinking. For example, people have always been concerned with what is typical as well as what differs from the typical. They are interested in relationships, risks, and probabilities . . . [They] have always had to make generalizations based on limited observations. These are extremely fundamental statistical concerns. It should be apparent, then, that statistical reasoning has a history dating back to when people first began thinking and communicating their thoughts to each other. The elementary forms of statistical method are also the elementary forms of communication—permeating nearly every aspect of anything we deal with or talk about . . . Thus, the academic study of statistics is, among other things, an attempt to standardize commonsense forms of understanding.<ref>Cuzzort and Vrettos (9).</ref>
+</blockquote>
+
+Terms such as "standardize" and "commonsense" may be anathema to some humanist scholars. If pressed, however, these will admit that each of their critical efforts is also but an "attempt" to make sense of historical, socio-cultural and linguistic complexity, the stuff of which may not inappropriately be called data. The point here is that something like a social-scientific model of statistical reason is a feature of any critical discourse, even if not explicitly formalized.
+
+<!--Paragraph 24-->
+Using TACT, I generated a concordance from the 1633 Temple and selected those words relevant to the categories of sacrament and devotion as defined above:
+
+'''Table 1: Categories'''
+{| class="wikitable"
+|-
+! Sacrament !! Devotion
+|-
+| banquet || alone
+|-
+| bloud || faith
+|-
+| board || grace
+|-
+| bodie || grief
+|-
+| bowl || grones
+|-
+| bread || I
+|-
+| cordiall || memorie
+|-
+| cup || mine
+|-
+| crosse || my
+|-
+| dew || plead
+|-
+| drink || prayer
+|-
+| eat || say
+|-
+| feast || sinne
+|-
+| flesh || soul
+|-
+| fruit || tears
+|-
+| meat || thinks
+|-
+| taste || weep
+|-
+| tongue || wish
+|-
+| vein || word
+|-
+| vine || write
+|-
+| wine ||
+|-
+| wound ||
+|}
+
+I then asked TACT (a) to list all co-occurrences, within a ten-word span, of any two words in either of the categories; (b) to indicate the frequency of each word and each co-occurrence; and (c) to measure the relative significance of the co-occurrences. The program does not distinguish between the two categories when compiling its list, so all co-occurrences are included, both those consisting of one word from each of the two categories and those for which only one category is the source of both words. This is good, of course, for it allows one to measure not only the relative frequency and significance among sacramental-devotional co-occurrences, but also to compare co-occurrences comprised solely of sacramental terms with those whose words are defined as devotional, and each of these co-occurrences, in turn, with those in which both categories are represented. TACT, then, has retrieved, counted and measured the relative significance of co-occurrences which, according to the limitations of two conceptual categories, are of three possible types: sacramental-devotional, sacramental-sacramental and devotional-devotional. The question of Herbert's confessional identity—whether avant garde sacerdote, puritan ''dévote'', or some ''via media'' hybrid—might thus be addressed from a statistical point of view. If such an approach in no way settles the matter, it does provide an interesting and sometimes surprising perspective.
+
+<!--Paragraph 25-->
+Using the entire 1633 Temple as statistical sample, then, the table generated by TACT consists of all words from both categories (what the software refers to as node words) each paired with its respective collocates (all words which occur within specified proximity of the node word, in this case a ten-word span, or five words each to the left and right of the node word). The node column consists only of words from the categories, while the collocates are any and all words which occur within the given span. The pairs of most interest, however, and thus represented here, are those in which the collocate, like its corresponding node, is a category word. Each of the following node-collocate pairs, then, consists either of two words from the same category or one from each. Both bloud-wine and bloud-grief, for example, are represented. TACT also ranks these node-collocate pairs according to their z-scores, which, briefly, are calculated by comparing the frequency with which a given word actually occurs as one of a pair with what its frequency as such would be in a random distribution: the higher a pair's z-score, according to the theory, the greater the associational significance of the two words.<ref>A ''TACT'' z-score is calculated "by subtracting the expected frequency from the actual or observed frequency and then dividing the result by the square root of the expected frequency" (Lancashire, et al., 328; cf. Goldfield 107). For a detailed statement of the calculation see Lancashire, et al., (81).</ref> Table 2 below represents all pairs ranked in descending order according to their z-scores. In Table 3, the node and collocate columns correspond to the categories of sacrament and devotion, respectively. Both node and collocate in Table 4 are sacramental words; conversely, Table 5 consists solely of words drawn from the devotion category. Table 6, finally, documents those pairs whose categorical identity is more difficult to determine.
+
+'''Table 2: All Pairs in Descending Order'''
+{| class="wikitable"
+|-
+! Node !! Total Node Frequency !! Node/Collocate Frequency !! Collocate !! Total Collocate Frequency !! Z-Score
+|-
+| blouds || 2 || 2 || plead || 4 || 27.446
+|-
+| prayer || 6 || 2 || banquet || 3 || 18.237
+|-
+| fruit || 14 || 2 || blast || 2 || 14.573
+|-
+| fruit || 14 || 2 || hidden || 2 || 14.573
+|-
+| dew || 8 || 3 || dove || 8 || 14.390
+|-
+| wine || 16 || 2 || wantonnesse || 2 || 13.614
+|-
+| bread || 5 || 2 || wish || 7 || 13.005
+|-
+| vein || 6 || 2 || thinks || 6 || 12.819
+|-
+| dew || 8 || 3 || drop || 11 || 12.207
+|-
+| cup || 7 || 2 || drops || 6 || 11.844
+|-
+| cup || 7 || 3 || wine || 16 || 10.763
+|-
+| meat || 11 || 3 || drink || 11 || 10.333
+|-
+| meat || 11 || 3 || eat || 11 || 10.333
+|-
+| eat || 11 || 2 || teach || 7 || 8.645
+|-
+| bloudy || 2 || 2 || alone || 39 || 8.592
+|-
+| fruit || 14 || 2 || vine || 6 || 8.257
+|-
+| bloudie || 6 || 2 || truth || 15 || 7.962
+|-
+| eat || 11 || 2 || tongue || 9 || 7.568
+|-
+| bloud || 34 || 2 || wept || 3 || 7.447
+|-
+| bloud || 34 || 2 || drunk || 3 || 7.447
+|-
+| eat || 11 || 4 || say || 35 || 7.434
+|-
+| bleed || 2 || 3 || love || 120 || 7.154
+|-
+| feast || 10 || 2 || eat || 11 || 7.153
+|-
+| bloudie || 6 || 2 || write || 19 || 7.018
+|-
+| bowl || 2 || 2 || soul || 60 || 6.831
+|-
+| vein || 6 || 2 || crosse || 20 || 6.826
+|-
+| bread || 5 || 2 || peace || 24 || 6.826
+|-
+| soul || 60 || 2 || bowl || 2 || 6.824
+|-
+| soul || 60 || 2 || memorie || 2 || 6.824
+|-
+| drink || 11 || 2 || pain || 11 || 6.794
+|-
+| wine || 16 || 2 || reason || 8 || 6.590
+|-
+| bloud || 34 || 2 || cordiall || 4 || 6.375
+|-
+| drink || 11 || 2 || think || 13 || 6.203
+|-
+| grace || 29 || 3 || drop || 11 || 6.079
+|-
+| wine || 16 || 4 || bloud || 34 || 6.078
+|-
+| wine || 16 || 4 || bloud || 34 || 6.078
+|-
+| bloud || 34 || 4 || wine || 16 || 6.076
+|-
+| drink || 11 || 2 || weep || 14 || 5.954
+|-
+| board || 6 || 2 || bloud || 34 || 5.085
+|-
+| bloud || 34 || 2 || board || 6 || 5.083
+|-
+| wine || 16 || 2 || fruit || 14 || 4.817
+|-
+| bleed || 2 || 2 || will || 113 || 4.801
+|-
+| bloud || 34 || 3 || weep || 14 || 4.792
+|-
+| prayers || 6 || 2 || hand || 38 || 4.770
+|-
+| bloud || 34 || 5 || tears || 36 || 4.666
+|-
+| bloud || 34 || 2 || saviours || 7 || 4.649
+|-
+| pray || 9 || 2 || flesh || 28 || 4.497
+|-
+| soul || 60 || 5 || flesh || 28 || 3.696
+|-
+| faith || 13 || 2 || hands || 27 || 3.675
+|-
+| soul || 60 || 2 || wound || 7 || 3.272
+|-
+| faith || 13 || 2 || flesh || 28 || 3.591
+|-
+| drink || 11 || 2 || bloud || 34 || 3.530
+|-
+| meat || 11 || 2 || say || 35 || 3.465
+|-
+| bread || 5 || 2 || mine || 78 || 3.439
+|-
+| grace || 29 || 2 || word || 15 || 3.197
+|-
+| soul || 60 || 2 || grones || 8 || 2.990
+|-
+| prayers || 6 || 2 || sinne || 82 || 2.943
+|-
+| bloud || 34 || 2 || taste || 15 || 2.867
+|-
+| prayers || 6 || 7 || my || 637 || 2.851
+|-
+| grace || 29 || 5 || sinne || 82 || 2.741
+|-
+| bloudie || 6 || 2 || lord || 92 || 2.714
+|-
+| bloud || 34 || 2 || thought || 17 || 2.620
+|-
+| bloudie || 6 || 2 || grief || 101 || 2.534
+|-
+| bloud || 34 || 2 || write || 19 || 2.410
+|-
+| soul || 60 || 2 || bodie || 12 || 2.212
+|-
+| prayers || 6 || 6 || i || 650 || 2.160
+|-
+| soul || 60 || 4 || tears || 36 || 2.156
+|-
+| wine || 16 || 4 || god || 140 || 2.078
+|-
+| grace || 29 || 2 || thoughts || 27 || 2.063
+|-
+| bloud || 34 || 2 || words || 24 || 1.991
+|-
+| meat || 11 || 3 || god || 140 || 1.972
+|-
+| bloud || 34 || 2 || sure || 25 || 1.921
+|-
+| meat || 11 || 5 || his || 313 || 1.819
+|-
+| soul || 60 || 3 || minde || 32 || 1.539
+|-
+| soul || 60 || 2 || breath || 19 || 1.438
+|-
+| soul || 60 || 2 || words || 24 || 1.076
+|-
+| faith || 13 || 7 || i || 650 || 0.609
+|-
+| faith || 13 || 6 || my || 637 || 0.230
+|-
+| soul || 60 || 2 || sinnes || 36 || 0.481
+|-
+| grace || 29 || 2 || grief || 101 || 0.047
+|-
+| soul || 60 || 2 || will || 113 || -1.173
+|-
+| soul || 60 || 4 || grief || 101 || -0.001
+|}
+
+<br>
+
+'''Table 3: Sacrament-Devotion'''
+{| class="wikitable"
+|-
+! Node !! Total Node Frequency !! Node/Collocate Frequency !! Collocate !! Total Collocate Frequency !! Z-Score
+|-
+| blouds || 2 || 2 || plead || 4 || 27.446
+|-
+| banquet || 3 || 2 || prayer || 6 || 18.237
+|-
+| dew || 8 || 3 || dove || 8 || 14.390
+|-
+| wine || 16 || 2 || wantonnesse || 2 || 13.614
+|-
+| bread || 5 || 2 || wish || 7 || 13.005
+|-
+| vein || 6 || 2 || thinks || 6 || 12.819
+|-
+| dew || 8 || 3 || drop || 11 || 12.207
+|-
+| eat || 11 || 2 || teach || 7 || 8.645
+|-
+| bloudy || 2 || 2 || alone || 39 || 8.592
+|-
+| bloudie || 6 || 2 || truth || 15 || 7.962
+|-
+| bloud || 34 || 2 || wept || 3 || 7.447
+|-
+| eat || 11 || 4 || say || 35 || 7.434
+|-
+| bleed || 2 || 3 || love || 120 || 7.154
+|-
+| bloudie || 6 || 2 || write || 19 || 7.018
+|-
+| bowl || 2 || 2 || soul || 60 || 6.831
+|-
+| bread || 5 || 2 || peace || 24 || 6.826
+|-
+| bowl || 2 || 2 || soul || 60 || 6.824
+|-
+| wine || 16 || 2 || reason || 8 || 6.590
+|-
+| drink || 11 || 2 || think || 13 || 6.203
+|-
+| drink || 11 || 2 || weep || 14 || 5.954
+|-
+| bleed || 2 || 2 || will || 113 || 4.801
+|-
+| bloud || 34 || 3 || weep || 14 || 4.792
+|-
+| hand || 38 || 2 || prayers || 6 || 4.770
+|-
+| bloud || 34 || 5 || tears || 36 || 4.666
+|-
+| flesh || 28 || 2 || pray || 9 || 4.497
+|-
+| flesh || 28 || 5 || soul || 60 || 3.696
+|-
+| hands || 27 || 2 || faith || 13 || 3.675
+|-
+| wound || 7 || 2 || soul || 60 || 3.272
+|-
+| flesh || 28 || 2 || faith || 13 || 3.591
+|-
+| meat || 11 || 2 || say || 35 || 3.465
+|-
+| bread || 5 || 2 || mine || 78 || 3.439
+|-
+| bloud || 34 || 2 || thought || 17 || 2.620
+|-
+| bloudie || 6 || 2 || grief || 101 || 2.534
+|-
+| bloud || 34 || 2 || write || 19 || 2.410
+|-
+| bodie || 12 || 2 || soul || 60 || 2.212
+|-
+| bloud || 34 || 2 || words || 24 || 1.991
+|-
+| bloud || 34 || 2 || sure || 25 || 1.921
+|-
+| breath || 19 || 2 || soul || 60 || 1.438
+|}
+
+<br>
+
+'''Table 4: Sacrament-Sacrament'''
+{| class="wikitable"
+|-
+! Node !! Total Node Frequency !! Node/Collocate Frequency !! Collocate !! Total Collocate Frequency !! Z-Score
+|-
+| cup || 7 || 2 || drops || 6 || 11.844
+|-
+| cup || 7 || 3 || wine || 16 || 10.763
+|-
+| meat || 11 || 3 || drink || 11 || 10.333
+|-
+| meat || 11 || 3 || eat || 11 || 10.333
+|-
+| fruit || 14 || 2 || vine || 6 || 8.257
+|-
+| eat || 11 || 2 || tongue || 9 || 7.568
+|-
+| bloud || 34 || 2 || drunk || 3 || 7.447
+|-
+| feast || 10 || 2 || eat || 11 || 7.153
+|-
+| vein || 6 || 2 || crosse || 20 || 6.826
+|-
+| bloud || 34 || 2 || cordiall || 4 || 6.375
+|-
+| wine || 16 || 4 || bloud || 34 || 6.078
+|-
+| board || 6 || 2 || bloud || 34 || 5.085
+|-
+| wine || 16 || 2 || fruit || 14 || 4.817
+|-
+| drink || 11 || 2 || bloud || 34 || 3.530
+|-
+| bloud || 34 || 2 || taste || 15 || 2.867
+|}
+
+<br>
+
+'''Table 5: Devotion-Devotion'''
+{| class="wikitable"
+|-
+! Node !! Total Node Frequency !! Node/Collocate Frequency !! Collocate !! Total Collocate Frequency !! Z-Score
+|-
+| soul || 60 || 2 || memorie || 2 || 6.824
+|-
+| grace || 29 || 2 || word || 15 || 3.197
+|-
+| soul || 60 || 2 || grones || 8 || 2.990
+|-
+| prayers || 6 || 2 || sinne || 82 || 2.943
+|-
+| prayers || 6 || 7 || my || 637 || 2.851
+|-
+| grace || 29 || 5 || sinne || 82 || 2.741
+|-
+| prayers || 6 || 6 || i || 650 || 2.160
+|-
+| soul || 60 || 4 || tears || 36 || 2.156
+|-
+| grace || 29 || 2 || thoughts || 27 || 2.063
+|-
+| soul || 60 || 3 || minde || 32 || 1.539
+|-
+| soul || 60 || 2 || words || 24 || 1.076
+|-
+| faith || 13 || 7 || i || 650 || 0.609
+|-
+| faith || 13 || 6 || my || 637 || 0.230
+|-
+| soul || 60 || 2 || sinnes || 36 || 0.481
+|-
+| grace || 29 || 2 || grief || 101 || 0.047
+|-
+| soul || 60 || 2 || will || 113 || -1.173
+|-
+| soul || 60 || 4 || grief || 101 || -0.001
+|}
+
+<br>
+
+'''Table 6: Other'''
+{| class="wikitable"
+|-
+! Node !! Total Node Frequency !! Node/Collocate Frequency !! Collocate !! Total Collocate Frequency !! Z-Score
+|-
+| fruit || 14 || 2 || blast || 2 || 14.573
+|-
+| fruit || 14 || 2 || hidden || 2 || 14.573
+|-
+| drink || 11 || 2 || pain || 11 || 6.794
+|-
+| grace || 29 || 3 || drop || 11 || 6.079
+|-
+| bloud || 34 || 2 || saviours || 7 || 4.649
+|-
+| bloudie || 6 || 2 || lord || 92 || 2.714
+|-
+| wine || 16 || 4 || god || 140 || 2.078
+|-
+| meat || 11 || 3 || god || 140 || 1.972
+|-
+| meat || 11 || 5 || his || 313 || 1.819
+|}
+
+<!--Paragraph 26-->
+At a glance it appears that Table 3, which documents the sacrament-devotion combination, contains more pairs than either the sacrament-sacrament or devotion-devotion table. The highest z-scores, moreover, also belong to those pairs which consist of one word from each of the two categories: blouds/plead, prayer/banquet, prayer/wish, bread/thinks—these all rank slightly higher than the exclusively sacramental pairs cup/drops, cup/wine, meat/drink and meat/eat.
+
+<!--Paragraph 27-->
+Comparison of other node/collocate pairs occurring within a ten-word span suggests support for the observation that Herbert frequently associates sacramental topoi with those constitutive of what I am calling a devotional piety. That is, according to TACT z-score ranking, sacramental topoi in the Temple are more strongly associated with those of private devotional experience and moral culpability than they are with other sacramental topoi. Wine/wantonnesse, for example, ranks considerably higher than wine/cup or wine/drops, while wine/reason ranks higher than wine/bloud or even wine/God. Other node/collocate pairs show similar results. Drink/pain, drink/think and drink/weep all rank higher than drink/bloud. Fruit/blast and fruit/hidden apparently are more significant than either fruit/vine or fruit/wine.
+
+<!--Paragraph 28-->
+Dew, which in Herbert often signifies the Israelite manna and, typologically, the Eucharistic bread, receives a higher score when paired with dove, that ubiquitous symbol of the Holy Spirit, than does its co-occurrence with drop, though both pairs score very high relative to the data as a whole. The co-occurrence of these co-occurrences in "Grace," furthermore, is suggestive of an impasse with respect to confessional identity:
+
+<blockquote>
+<poem>
+The dew doth ev'ry morning fall;
+And shall the dew out-strip thy dove?
+The dew, for which grasse cannot call,
+Drop from above. (9–12)
+</poem>
+</blockquote>
+
+In addition to the repetition of dew surrounding dove, the epideictic tone of the question—the answer presumably an emphatic "No!"—contributes to a tension between sacramental and more ephemeral means of grace. The association of dew with drop, together with a similarly high ranking for cup/drops, moreover, should be kept in mind when recognizing that the pair grace/drop ranks higher than grace paired with either word, sinne, thoughts or grief.
+
+<!--Paragraph 29-->
+This latter observation indicates that the devotional significance of sacramental topoi is complemented by what may be characterized, obversely, as a sacramentalization of the devotional sphere. Pray/flesh and prayers/hand, for example, receive higher rankings than do prayers/sinne, prayers/my and prayers/I. Soul/flesh and soul/wound rank just about equal; both surpass soul paired with minde, breath, words, sinnes, grief or will. Soul/bowl, moreover, ranks higher than all these, though it is closely followed by soul/memorie. It is also worth noting that whereas grace/word outscores bloud/words, this latter has a slight edge on soul/words. The relatively close ranking of such pairs may indicate a ''via media'' Herbert, happily reconciling inner and outer dimensions of religious piety. It is equally possible, however, that close scores are evidence of unresolved conflict or mutual tenacity, the reluctance of sacramental and sacerdotal fervour—what English church historian Peter Lake has called "avant-garde conformity"<ref>Lake, ''passim''; cf. Milton (8–9).</ref>—to yield to more private enthusiasms, and vice versa.
+
+==4. "Weening is not measure," nor Measure Weening: Statistical Data and Literary Criticism==
+<!--Paragraph 30-->
+Nominal categorization is perhaps the most suspect of procedures in social-scientific research, even if it is also fundamental to cognition and discursive reason. If both "ordinary discourse and formal statistical analysis rely on basically the same set of broad logical forms that are necessary for coping with the infinite complexities of the world around us,"<ref>Cuzzort and Vrettos (28).</ref> we nevertheless need to consider the limitations of categorization for a methodology which, by virtue of its tables and measurements, simulates scientific objectivity. The rhetorical clarity and apparent precision of statistical tables is deceiving. It is important to keep in mind that the results they represent are complex, dependent as they are upon "an interaction among the text, the category scheme, and the assignment of words to categories." It is essential, then, that "statistical manipulations based on quantified text" be validated or qualified by actual reference to the text itself.<ref>Weber (54, 62).</ref>
+
+<!--Paragraph 31-->
+It is not difficult, at first sight, to see a general homogeneity among the terms within each of the two categories (Table 1). It is important to recognize, however, that this is as much an effect of comparing terms according to the distinction as it is a reflection of any inherent semantic commonality. Prayer and grones, for example, appear to be more closely related than either is to meat or taste; wine and bloud, similarly, are more intimate, perhaps, than wine and grief or bloud and tears. But if we remove the category headings and combine, say, dew, drink, tears and weep, the distinction is not so readily apparent; such terms' associational relevance is far more complex. More seriously, perhaps, is the issue of semantic limitation imposed on each term by its respective category. Surely we can imagine other meanings and contexts for these words. Is drink, for example, ''always'' a sacramental term in Herbert? Certainly not. But because it ''often'' is just that, its inclusion here is warranted. Similarly, whereas in both "Prayer 1" (51) and "The Quidditie" (69) banquet does not appear to be associated with the Lord's Supper, its only other occurrence in ''The Temple'' is as the title of one of Herbert's most explicit and thematically sustained Eucharistic poems. Wine, not surprisingly, is almost exclusively sacramental. A more unexpected observation is that of the fifteen occurrences of taste, thirteen are clearly sacramental in reference. Similar claims can be made for cup, board, bowl and bread. Eat, feast, flesh, fruit and meat, on the other hand, are only occasionally evocative of sacraments, tongue and vein only once each (in "The Banquet" and "The Agonie," respectively).<ref>Di Cesare and Mignani.</ref>
+
+<!--Paragraph 32-->
+More controversial yet, perhaps, are crosse and bloud, for these, because of their ubiquitous theological currency, are prone to abstraction and thus as much a feature of the puritan psyche as they are the stuff of sensualist meditation or the accoutrements of sacrament and ceremony. Donne's "The Crosse" is among the most succinct statements of this ideological tension: "Materiall Crosses then, good physicke bee,/ But yet spirituall have chiefe dignity" (25–6). Herbert's poem of the same title similarly recognizes that "One ague dwelleth in my bones,/ Another in my soul" (13–4). Bloud in ''The Temple'', moreover, almost always is evocative of the Atonement, while explicitly or implicitly Eucharistic in approximately half of those occurrences. With this in mind, then, we observe that blouds/plead, bloudy/alone, bloudie/truth, bloud/wept, bloud/love, and bloud/write all rank higher than bloud paired with cordiall, board, saviours, taste, or even wine. Again, however, the apparent significance of a given score may have to be qualified when the co-occurrence is viewed in context. A particularly telling example is the node/collocate pair faith/flesh, whose z-score, while higher than that of either faith/I or faith/my, is significantly qualified by the corresponding lines from "Divinitie" which tell us that "Faith needs no staffe of flesh, but stoutly can/ To heav'n alone both go, and leade" (27–8). 
+
+<!--Paragraph 33-->
+If terms assigned sacramental status pose no little difficulty, the so-called devotional terms are even more problematic. For given the fact that ''The Temple'' is a devotional work, just about any word can be said to have devotional significance. And even if we are careful to determine a given word's meaning according to its context—line, stanza or individual poem—any one of its occurrences may be interpreted as something less than primarily devotional. Though one of the three occurrences of wept ("The Glimpse" 21), for example, refers to the speaker, what about "The Thanksgiving," where "Shall I weep bloud? why, thou hast wept such store" (5) suggests alternation between heartfelt prayer and a ''meditatio'' Christi, or "The Sacrifice" (149), where the speaker is Christ? Alone may be a condition of solitude, as in "By all means use sometimes to be alone" ("The Church-Porch" 145), but more often is the modifier meaning "this and nothing beside." Again, is faith particularly devotional or more generally theological? What about word, which, while its primary reference to scripture or preaching suggests the enthusiast side of the Laudian/puritan divide, in "Gratefulnesse" is that which ''both'' "our hearts and hands did crave" (10)? 
+
+<!--Paragraph 34-->
+It is clear, then, that the relevance of any ''TACT''-generated data to critical inquiry is always qualified by the isolated words' actual semantic contexts. Whether or not frequencies and measurements are significant for our understanding of the relationship between devotional and sacramental pieties in ''The Temple'' will depend on the extent to which the objects measured are truly reflective of the categories we assign them. Another category-related problem not discussed above is that of omission: if the categorization of certain words is questionable, what about the possible absence from our lists of words which belong potentially on one or the other? Some final observations serve to illustrate these crucial points. 
+
+<!--Paragraph 35-->
+It may be significant that within the ten-word span of the ''TACT'' investigation bread rarely co-occurs with other sacramental terms. The context of one such co-occurrence, bread/eat in "Giddinesse," is decidedly non-sacramental. In "Peace," on the other hand, the pronoun in the pair bread/you, which might have indicated the sacrificed deity, happens to refer to the penitent as addressed by a "rev'rend good old man" (19); but the context is highly suggestive of the Eucharist:
+
+<blockquote>
+<poem>
+Take of this grain, which in my garden grows,
+::::And grows for you;
+::Make bread of it . . .  (36–8)
+</poem>
+</blockquote>
+
+This observation is supported, moreover, by the final lines of the previous stanza, where this grain is said to contain "A secret vertue bringing peace and mirth/ By flight of sinne" (34–5). The artificial limitation imposed by the categories, their selected constituents and the ten-word span is also evident in "The Collar," where corn, which is not among our selected sacramental terms, is clearly synonymous with bread and evocative of the Eucharist. Indeed, of the five occurrences of bread in the 1633 ''Temple'', three are suggestive of the sacrament. The exception, in addition to "Giddinesse," is "The Search," where, as we have seen, it is the speaker's devotional efforts that are his "daily bread." Also escaping TACT analysis of the ''editio princeps'', however, is the observation that bread not once is mentioned in the 1633 "H. Communion," whereas there are five occurrences alone in the poem of the same title in the much earlier Williams manuscript. And attention to context, of course, can always be expanded. If vertue in "Peace" confirms the sacramental significance of bread, it is also a term central to Calvin's Eucharistic theology, which generally eschews sensualism in favour of a more subjective, inward experience of the rite. On further investigation, moreover, we discover that the vertue-laden grain originates in the clearly apostolic "twelve stalks of wheat" which "sprang" from "out of his [Christ's] grave" and "did soon "disperse/ Through all the earth" (28–32). Is bread in "Peace"—or for Herbert in general—the body of the Word or the word (scripture) of the Word? Is it the Word preached and spiritually digested, or the Word whose benefits our hands (and tongues), as much as our hearts, "did crave"?<ref>It is worth noting both that "vertue" is absent from the categories and that its proximity to bread is ignored by the ten-word span delimiting our investigation. The problem of categorization, moreover, is particularly glaring, for the term's association with a Reform interpretation of Eucharistic presence goes to the heart, so to speak, of the devotional/sacramental divide.</ref>
+
+<!--Paragraph 36-->
+If statistical data and analysis have not brought us any closer to providing a definitive answer to that question, they do allow us to quantify the intensity of Herbert's psychological investment in so vexed an issue. This supplementary evidence appears to support the critical observation that sacrament and devotion, ceremony and psyche, public and private dimensions of religious piety in ''The Temple'' are intimately related. Beyond functioning as a mechanism for testing critical hypotheses, however, content analysis has the potential for drawing the critic's attention to features or details of the text s/he might not notice otherwise. My treatment of the data presented here is rather limited in this respect, narrow relative to their potential significance; examining the same tables, someone else well may perceive other possible avenues of exploration, other issues I have failed to address, even evidence that may be used to deconstruct the critical biases which, after all, have informed the investigation from the outset. 
+
+<!--Paragraph 37-->
+The scope of ''TACT'' inquiry, moreover, could be expanded usefully to encompass other related, perhaps even vital, issues. Rather than confine node and collocate to the categories of sacrament and devotion, it may be worthwhile, for example, to measure ''all'' the collocations of a given node to see whether other quantitatively intense topoi associations emerge—say, those of sacrament and alchemy. Such an approach perhaps is in danger of devolving into critical chaos; but it also suggests as an advantage the potential identification of significant associations or patterns hitherto undetected. Though certainly no substitute for conventional reading, statistical content analysis not only complements the critical endeavour, but well may provide the basis for new critical initiatives.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Clarke, Elizabeth. ''Theory and Theology in George Herbert's Poetry: Divinitie, and Poesie, Met''. Oxford: Clarendon P, 1997. 
+* Collinson, Patrick. ''The Puritan Character: Polemics and Polarities in Early Seventeenth-Century Culture. ''California: William Andrews Clark, 1989. 
+* Cressy, David, and Lori Anne Ferrell, eds. ''Religion and Society in Early Modern England: A Sourcebook'' London: Routledge, 1996. 
+* Cuzzort, R. P., and James S. Vrettos. ''The Elementary Forms of Statistical Reason.'' New York: St. Martin's P, 1996. 
+* Davies, Julian. ''The Caroline Captivity of the Church: Charles I and the Remoulding of Anglicanism, 1625–1641. ''Oxford: Clarendon P, 1992. 
+* Di Cesare, Mario A., and Rigo Mignani, eds. ''A Concordance to the Complete Writings of George Herbert. '' Ithaca: Cornell UP, 1977. 
+* Donne, John. ''The Sermons of John Donne.'' Evelyn M. Simpson and George R. Potter, eds. 10 vols. Berkeley: U of California P, 1953–62. 
+* Ellrodt, Robert. ''Les Poétes Metaphysiques Angelais: John Donne et les Poétes de la Tradition Chretienne''. Vol. 1. Paris: J. Corti, 1960. 
+* Frye, Northrop. ''Anatomy of Criticism.'' New York: Atheneum, 1966. 
+* -----. ''Words with Power: Being a Second Study of the Bible and Literature. ''Toronto: Penguin, 1992. 
+* Goldfield, Joel. "Computational Thematics, a Selective Database, and Literary Criticism: Gobineau, Tic Words, and Riffaterre Revisited." 97–122 in ''Literary Computing and Literary Criticism: Theoretical and Practical Essays on Theme and Rhetoric''. Rosanne G. Potter, ed. Philadelphia: U of Pennsylvania P, 1989. 
+* Herbert, George. ''The Works of George Herbert''. F. E. Hutchinson, ed. Oxford: Clarendon P, 1941. 
+* -----. ''The English Poems of George Herbert''. C. A. Patrides, ed. London: J. M. Dent & Sons, 1974. 
+* Huntley, Frank L. "What Happened to Two of Herbert's Poems?" 65–76 in ''Essays in Persuasion: On Seventeenth-Century Literature''. Frank L. Huntley, ed. Chicago: U of Chicago P, 1981. 
+* Krippendorff, K. ''Content Analysis: An Introduction to its Methodology''. Beverly Hills, CA: Sage, 1980. 
+* Lake, Peter. "Lancelot Andrewes, John Buckeridge and Avant-garde Conformity at the Court of James I." 113–33 in ''The Mental World of the Jacobean Court''. L. Levy Peck, ed. Cambridge: Cambridge UP, 1991. 
+* Lancashire, Ian, in collaboration with John Bradley, Willard McCarty, Michael Stairs and T.R. Wooldridge. ''Using TACT with Electronic Texts: Text-Analysis Computing Tools 2.1 for MS-DOS and PC DOS'', New York: Modern Language Association, 1996. 
+* Luther, Martin.'' Luther's Works''. Helmut T. Lehmann, ed. 55 vols. Philadelphia: Fortress P, 1971. 
+* Martz, Louis L. ''The Poetry of Meditation: A Study in English Religious Literature of the Seventeenth Century.'' New Haven: Yale UP, 1954. 
+* McGill, William J., Jr. "George Herbert's View of the Eucharist." ''Lock Haven Review'' 8 (1966): 16–24. 
+* McDonnell, Kilian. ''John Calvin, the Church, and the Eucharist. ''Princeton: Princeton UP, 1967). 
+* John T. McNeill, ed. ''Institutes of the Christian Religion''. Ford Lewis Battles, trans. 2 vols. Philadelphia: Westminster P, 1960. 
+* Milton, Anthony. ''Catholic and Reformed: The Roman and Protestant Churches in English Protestant Thought 1600–1640''. Cambridge: Cambridge UP, 1995. 
+* Ross, Malcolm. ''Poetry and Dogma: The Transfiguration of Eucharistic Symbols in Seventeenth Century English Poetry''. New Jersey: Rutgers UP, 1954. 
+* Shuger, Debora K. ''Habits of Thought in the English Renaissance: Religion, Politics, and the Dominant Culture. ''Los Angeles: U of California P, 1990. 
+* Stewart, Stanley. ''George Herbert''. Boston: Twayne, 1986. 
+* Summers, Joseph H. "George Herbert and Anglican Traditions." ''George Herbert Journal'' 16.1 (1993): 21–39. 
+* Walton, Izaac. "The Life of Mr. George Herbert." 271–88 in '' Seventeenth Century'' ''Prose and Poetry''. A. M. Witherspoon and F. J. Warnke, eds. 2nd ed. Orlando: Harcourt Brace Jovanovich, 1982. 
+* Weber, Robert Philip. ''Basic Content Analysis''. 2nd ed. Newbury Park, CA: Sage Publications, 1990. 
+* Wilcox, Helen. "'Heaven's Lidger Here': Herbert's ''Temple'' and Seventeenth-Century Devotion." 153–68 in ''Images of Belief in Literature''. David Jasper, ed. London: Macmillan, 1984. 
+* Young, R. V. "Herbert and the Real Presence." ''Renascence '' 45.3 (1993): 93–102.
+
+{{BookCat}}
