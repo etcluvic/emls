@@ -1,0 +1,390 @@
+''This essay was written by William F. Blissett''.
+
+<!--Paragraph 1-->
+Criticus: that was the name Ben Jonson chose for the judging figure in ''The Fountain of Selfe-Love, or Cynthia's Revels'', acted in 1600 and published in quarto in 1601. In the folio of 1616 he reversed title and subtitle and, repeating a phrase he had devised for ''Every Man Out of his Humour'' (1600), called it and ''Poetaster'' "comicall satyres."<ref>All citations of Ben Jonson are from the Herford and Simpson edition, the plays by act, scene and line, and other works by volumes and page (with i, j, u, v regularized).</ref> For consistency with other characters' Greek names (except Mercury and Cupid), he changed the Latin ''Criticus'' to the Greek ''Crites''. The figure is generally regarded as a spokesman for the author and often as an idealized self-portrait, laying Jonson open to the charge of having himself drunk of the fountain of self-love. Addressing his readers in the quarto of ''Sejanus'' (1605), Jonson mentions his "Observations upon Horace his Art of Poetry, which (with the text translated) I intend, shortly to publish." This publication did not take place, and indeed only the translation appeared, after Jonson's death. In the ''Conversations with Drummond of Hawthornden'' (1618–19) we find this: "to me he read the Preface of his arte of Poesie, upon Horace Arte of poesie, where he hath ane apologie of a Play of his St Bartholomees faire, by Criticus is understood Done," and again, "he hath commented & translated Horace Art of Poesie, it is in Dialogue wayes by Criticus he understandeth Dr. Done."<ref>See Herford and Simpson (11:110; 1:134 and 144). Mary C. Williams, "Ben Jonson’s ‘Apology’ for ''Bartholomew Fair''" (180–5), argues that the lost "Apology" was not concerned with general literary theory but specifically with satire, and finds echoes of Donne’s ''Satyres'' in ''Bartholomew Fair''.</ref> The coincidence of names may mean much or little. It would certainly excuse and explain the high praise of Criticus as not being simply self-commendation; and it encourages a consideration of the parallel literary lives of Jonson and Donne.
+
+<!--Paragraph 2-->
+The notion of "parallel lives," familiar from Plutarch, is not a constricting one. Matching a Roman figure to a Greek, usually many centuries apart, Plutarch recounts their respective careers and allows himself a concluding "comparison" of some salient features. The concept of parallel implies distance and allows some departures and returns; provided the comparison is reasonably appropriate, it need not be run into the ground. To take the example we know from Shakespeare's awareness of it in ''Coriolanus'' and ''Timon of Athens'', Plutarch parallels Alcibiades and Coriolanus as young aristocrats on whom high hopes are pinned and who indeed show high military prowess. Both, under provocation, revolt and lead armies against their cities. One, however, belongs to the dog-days of Athens, the other to the frosty spring of Rome. Alcibiades is politically adroit and seductive, Coriolanus truculent and politically gauche; the merry Greek is the outstanding failure of Socratic education, whereas the downright Roman shows all the virtues and all the limitations of strict patrician upbringing. Our parallel lives of Jonson and Donne need not be any closer than that; they will in fact prove to be much closer.
+
+<!--Paragraph 3-->
+To begin with, the two are near contemporaries, Donne born in 1572, Jonson perhaps in the same year, Donne dying in 1631, Jonson in 1637. With brief interruptions, they lived all their lives in London. They had literary friends, patrons, and well-wishers in common, though Jonson was careful to publish his "Works" and Donne careful not to publish. It is likely that the small number of "understanders" of Donne's poems would coincide in many instances with the "judging spectators" of Jonson's plays. Along with Spenser, a generation removed, and Chapman, their elder contemporary, they were two of the most deeply learned writers of their time. They were able to appropriate and breathe life into classical genres with full understanding, full success. Elegy and epigram will not concern us here, but satire and comedy must, if we are to concentrate on the brief period from 1597, the probable date of Donne's ''Satyre IV'', and 1600, the performance of ''Cynthia's Revels''.
+
+<!--Paragraph 4-->
+Donne was born in mercantile and professional London, Jonson in the adjacent royal Borough of Westminster, which was upper and lower class rather than middle. Jonson was a posthumous child, and his widowed mother married a bricklayer. The boy was able to go to Westminster School and to study under the great historian William Camden, who remained a lifelong friend, but there was no possibility of higher education, and so his subsequent reading, which was formidable, was self-imposed. His admission as master of arts of both universities was to be no empty honour—as his detractors would have charged if they could. Donne's school and schoolmasters were less notable, but he spent time in Oxford, until he was of age to be subject to religious tests embarrassing to this scion of a Catholic family. From 1592–96 he resided in Lincoln's Inn, rising (and, one would wager, just about unique in rising) before dawn to advance his studies.
+
+<!--Paragraph 5-->
+Both had some experience of military life. Jonson, probably to escape the trade of bricklayer, served as a soldier in the Low Countries and by his own account slew the enemy champion in single combat in sight of both armies. Donne twice took what may be called military vacations, being present on the expedition to Cadiz in 1596 and the Islands expedition in 1597. Whether either of them was any further ahead in the world by these adventures is questionable.
+
+<!--Paragraph 6-->
+The period from 1595 to 1598 was an unsettled time for Donne as he moved from the lodgings and intellectual company of Lincoln's Inn to a wider acquaintance with the life of the City and the Court in an attempt to "find what wind serves to advance an honest mind." He was writing his satires and the earlier elegies and songs and sonnets but was not embarked on anything recognizable as a literary career.<ref>For texts, dating, and critical insights I have relied on the Milgate and Gardner editions. The ''Satyres'' will be cited by number and line. For biographical detail, see Bald; also, for the years at the Inns of Court, see Finkelpearl (especially 78–80, 86–7, 89); see Marotti (especially 38–42, 102–5).</ref> Jonson gravitated toward the theatre just as the first generation of dramatists were leaving it or dying—Marlowe, Kyd, Lodge, Peele, Greene, Nashe; he made a living by revising old plays, devising new ones, and acting.
+
+<!--Paragraph 7-->
+The person whom the Dean of St. Paul's is to look back on as "Jack Donne" is recalled thus by an "old acquaintance," Sir Richard Baker: "Mr ''John Donne'', who leaving ''Oxford,'' lived at the ''Innes of Court'', not dissolute, but very neat, a great visiter of Ladies, a great frequenter of Playes, a great writer of conceited verses."<ref>Sir Richard Baker, ''Chronicles'' (1643; 2.156); from Bald (72–74)</ref> We may safely assume that the "great frequenter of Playes" saw Jonson act, attended his earlier plays, and marked him as a coming man. The word "neat" is arresting, since Donne's earliest poems are called ''Satyres'', and all the other satirists made much of the supposed etymology that identified the satirist with the satyr—rough, tough, hairy, funky, feisty. Donne's satirist narrator may show dislike and avoidance but he never offends: he strives precariously toward balance. Well, no one ever called Jonson neat. Donne is sociable but no mess-mate, whereas Jonson is tumultuous, embattled, the autocrat of the mess-table. Both were outsiders at a time when to be an outsider was to be on the inside track. Donne, ambiguous in his religious allegiance, uncertain in his prospects, nonetheless moved easily in the best of circles. Jonson, shouldering his way into the same circles, must have seemed a rank outsider, who had laid bricks and now dropped them, for he killed a man in a duel and was to be in and out of custody several times for libellous writings or suspicion of treason.
+
+<!--Paragraph 8-->
+Rather surprisingly, Donne's lyric poems are as piquant as Jonson's are pellucid; but their epigrams, elegies, and verse letters resemble one another's more than they do anyone else's, so much so that there was a long scholarly debate about the authorship of a group of poems. One, of course, is to be primarily a dramatist, the other exclusively a non-dramatic poet, but here the critic must hasten to add that the word "dramatic"<ref>Marotti (57–60) applies the word "dramatic" to Donne’s poetry nine times.</ref> has been regularly applied to Donne's poems, and "undramatic" occasionally to Jonson's plays. Certainly, after ''Every Man in his Humour'' and before ''Volpone'' Jonson was writing his least dramatic plays as Donne was writing his most dramatic poems. Of course, Donne's poems are called dramatic because the poet presents himself in a starring role, observing himself as if on stage. There is, however, no real action, no second actor or chorus, though the mistress, who says nothing, must be a person in her own right: otherwise she could not be addressed as she is. The poem has an audience only in the sense that it is permitted to be overheard by the poet's male companions. With the exception of the roster of devotés in ''Satyre III'', Donne's persons are one-on-one, even when in crowds, whereas Jonson, far from confining himself to duologue, has characters entering, ensembles, crowd scenes, hubbub. And yet for all the comings and goings of sharply differentiated characters, Jonson could be praised by T. S. Eliot not so much for his plots as for his "skill in doing without a plot"<ref>See Eliot (155).</ref>—and the play we are concerned with, ''Cynthia's Revels'', is the most signal example of this.
+
+<!--Paragraph 9-->
+A rapid summary will be sufficient to remind us that Donne and Jonson remained on close and admiring terms after the period of our special interest, provided we bear in mind that literary friendships are based as much on unlikeness as likeness—on the absence of rivalry and on the appreciation in the other of powers latent but unexercised in oneself. Donne, along with other wits, contributed a poem on the occasion of the publication of the ''Volpone'' quarto in 1607. Of Jonson's ''Epigrams'', two (xxiii and xcvi) are in praise of Donne, and a third (xciiii) is dedicated "To Lucy Countesse of Bedford, with Mr Donnes Satyres," which being in manuscript he must have copied or caused to be copied, and we know that one Francis Davidson made a note to ask Jonson or someone else for a copy of Donne's ''Satyres''. Donne is mentioned in conversation with Drummond more often and more admiringly than any other contemporary. Beyond the identification of Criticus, three other remarks are especially relevant. If Donne is "the first poet of the world in some things," and "if he wrote all his best things before the age of twenty-five," it follows that Jonson placed the highest estimation on the ''Satyres'', which belong to that early period—the period before Jonson had written anything he would own as "works." Beside this must stand another, fiercely jocular, assertion, "that Donne for not keeping of accent deserves hanging."<ref>The poem on ''Volpone'' is a serious and high-minded instance of the Augustan dilemma—praise in terms of the Ancients so high that the Ancients must give way to this Modern. The epigram, Herford and Simpson (8:34, 62, 60–1); ''Conversations'', Herford and Simpson (1:133, 135).</ref>
+
+==ii. Excursus on Keeping of Accent==
+<!--Paragraph 10-->
+Discussing "difference of wits" in his ''Discoveries'', Jonson (following Seneca and Martial) comments on "Others, that in composition are nothing, but what is rough, and broken . . . . And if it come gently, they trouble it of purpose. They would not have it without rubs, as if that stile were more strong and manly, that stroke the eare with a kind of uneven[n]esse . . . . And this vice, one that is in authority with the rest, loving, delivers over to them to bee imitated: so that oft-time the faults which he fell into, the others seek for: This is the danger, when vice becomes a ''Precedent''."<ref>See Herford and Simpson (8:585) and commentary (11:234).</ref>
+
+<!--Paragraph 11-->
+This I take to be directed at the Donne of the ''Satyres'' and not at Marston. Donne had led the way and had an "authority" that Marston never attained, certainly not in Jonson's eyes.
+
+<!--Paragraph 12-->
+Jonson was no pedant writing on graph-paper to a metronome. Though an accomplished metrist and a master of "smooth song," he is at the same time even more a deviser of "strong lines." Compare the vacuous sonnet of the would-be poet Matthew in ''Every Man In'' with Jonson's own succinct and full "Drink to me only with thine eyes"; equally smooth, it is a question of "matter" and non-matter. The songs in ''The Gypsies Metamorphosed'' can be rollicking and rowdy without being unmetrical; so too the Witches' charm in ''The Masque of Queens''. True, in the quarto ''Fountain of Self-Love'' the song of the beggars keeps a sort of decorous indecorum by falling into a skeltonic scramble, and Mosca's grotesque masque (which confesses "the false pace of the verse") is a sort of calypso.<ref>Levin (231–32) reminds us that the four-stress doggerel couplet was a staple of the old morality play. We are constantly reminded of Donne’s poem "Metempsychosis."</ref> But when Jonson is writing seriously and not parodically, even in the epigrams savoured with black salt, he "keeps accent," and I can attest that students and actors memorizing passages of Jonson are helped in grasping the concentrated matter by the guidance of the firm underlying metre.
+
+<!--Paragraph 13-->
+What was it about Donne's poetry, particularly the ''Satyres'', that turned Jonson, on balance so admiring and friendly, into a hanging judge? Donne is not wildly irregular, certainly not to twentieth-century ears; he writes for the most part regular iambic-pentameter couplets, but some lines are irregular by even the most lenient rules of scansion. Of two dozen lines (of 244) in ''Satyre IV'' that I regard as irregular, some may be explained as using caesura as a dramatic pause or as employing a device (adopted too by Jonson) of sliding unaccented syllables as "grace notes," but here are a half dozen that call for neck-verse and branding:
+
+<blockquote>
+<poem>
+5. My minde, neither with prides itch, nor yet hath been
+124. Perpetuities of them, lasting as farre
+168. Such as swells the bladder of our court? I
+185. At stage, as court; All are players; who e'er lookes
+226. As theirs which in old hangings whip Christ; yet still
+242. With ''Machabees'' modestie, the knowne merit
+</poem>
+</blockquote>
+
+The presence of such lines in critical number encourages the reader to adopt (especially in reading aloud) a tense, staccato, emphatic delivery, so that even when regular the lines sound irregular. The metre is pushed to the limit, and always in the direction of added emphasis, the opposite of the throw-away line. The ''Satyres'' are in couplets, but the frequent enjambement and the rhyming of stressed and unstressed syllables, important and unimportant words, prompt one to say that they are written not ''in'' but ''against'' the couplet. The heroic couplet wants to be bright, striving toward rhyming words of like importance, compatibility and wit. Donne, avoiding this, gives an effect of chiaroscuro—unsuspected and arresting light and shadow. This is of a piece with the mixture of gravity and levity, of the morally serious and the indecorous, of the sacred and the profane, that pervades the ''Satyres.''
+
+<!--Paragraph 14-->
+The stylistic eccentricities of Donne and the other Elizabethan satirists are usually attributed to two sources: to their association and confusion of the satirist with the satyr (to be discussed shortly) and to their avowed imitation of Roman satire. The consolidation of Humanism meant that Horace and then Juvenal and Persius were coming into view to take their place with the long-known Virgil and Ovid, and it was part of the conventional wisdom to contrast the equanimity of smooth Horace with the indignation of rough Juvenal and Persius: generally speaking, Horatian satire aims at just enough, the "golden mean," to use Horace's own phrase, whereas Juvenalian works itself up to excess in order to unbalance the complacently balanced, the unjustly ensconced. The fact that Juvenal and Persius can be hard to construe would encourage the young would-be satirist to overlook their metrical regularity and see only their forceful syntax and blistering rhetoric. Persius was a new name, a young poet who died young, a starry-eyed Stoic postulant indignant at the wickedness of the world. He employed at the opening of his first satire—and therefore the one most likely to be attempted—an ungainly metre, the choliambic or "limping iambic." An accepted classical metre, it has not to my knowledge been exactly imitated in English. An example of a choliambic line might be "Galumph galumph galumph galumph galumph umph umph"—with foot-dragging spondees allowable in all but the fifth foot. Here was apparent classical precedent for an awkward, chafing metre, for contortions of syntax and violence of argument, a poetry of aggression.<ref>See Raven (29–37) for discussion of the choliambic metre (scazon). Raven associates choliambics with cynicism; see Gilbert on choliambics (38) and Persius’ "grimacing style" (41); Anderson asserts that the language of Persius is "among the most vigorous in Latin literature" for its forceful verbs, metaphorical adjectives, omission of inessentials—and "if obscurity can help, he willingly adopts it" (35).</ref>
+
+<!--Paragraph 15-->
+Jonson would never go as far as this, holding it, and proving it, to be unnecessary. Yet, for all the mock ferocity to Drummond and the reasoned judgment in the ''Discoveries'', he must see that Donne is at one with him in devising a style of seriousness, of "matter above words," to quote the clarion call at the end of the Prologue to ''Cynthia's Revels.'' For all its stylistic audacities, such a passage as this of Donne's is eminently speakable, its matter forcefully advanced; Dante is recalled:
+
+<blockquote>
+<poem>
+. . . . Such men as he saw there,
+I saw at court, and worse, and more; Low feare
+Becomes the guiltie, not th'accuser; then,
+Shall I, no ones slave, of high borne, or rais'd men
+Fear frownes? And, my Mistresse Truth, betray thee
+To th'huffing braggart, puft Nobilitie?
+No, no, Thou which since yesterday hast beene
+Almost about the whole world, has thou seene,
+O Sunne, in all thy journey, Vanitie,
+Such as swells the ladder of our court ? . . . . (IV, 159–68)
+</poem>
+</blockquote>
+
+Equally speakable, equally forceful, with a metre less obtrusive, a syntax less gnarled, is such a passage as this—Jonson's Crites speaking to Arete:
+
+<blockquote>
+<poem>
+Where I have seene (most honour'd ARETE),
+The strangest pageant, fashion'd like a court,
+(At least I dream't I saw it) so diffus'd,
+So painted, pyed, and full of rainbow straines,
+As never yet (eyther by time, or place)
+Was made the food to my distasted sence:
+Nor can my weake inperfect memorie
+Now render halfe the formes unto my tongue,
+That were convolv'd within this thriftie roome. (III, 4:3–11)
+</poem>
+</blockquote>
+
+The two distinct satiric voices are in basic accord.
+
+==iii. Courtier and Satyr==
+<!--Paragraph 16-->
+At the end of Queen Elizabeth's reign and the beginning of King James' a figure calling himself a "malcontent" or a "satyr" (in the special sense of "satirist") was a familiar feature of the social and literary landscape—or, better say townscape, for, unlike the satyrs of classical mythology, who belong in the wilds or the wilder reaches of pastoral, the malcontent-satyr is an urban phenomenon. The connection is an etymological accident based on the resemblance of ''satire'' or ''satura'' to ''satyr'', but the matter was not sorted out until Isaac Casaubon addressed it in 1605.<ref>See Casubon.</ref> Meanwhile, satirist figures were impulsive, rough in speech and manners, rather beastly—some very much so (Marston, Guilpin), others only tinged by a style of speech (Donne's satirist-narrators, Jonson's Asper and Crites). All are ranged against "the times," "the world," but their specific opposite, in appearance and manners, in business and desires, is the courtier.
+
+<!--Paragraph 17-->
+A much larger and more varied assemblage, courtiers range from members of the Privy Council and attendants on royalty to the many who receive or expect to receive or wait in the hope of receiving some "advancement" at the centre of power and fountain of honour. What a courtier should ideally be, how he should live his life, was widely pondered and proclaimed. Castiglione's ''Courtier'' was translated as early as 1561, and doctrine for the gentleman and for the lady was available in great store. Nor did this suddenly end: one of the satirists of the 1590s, Joseph Hall, on his way to a bishopric, wrote a set of Theophrastian Characters to which he appended (1608) "The Character of a Good Courtier."<ref>See Hall (199–203).</ref>
+
+<!--Paragraph 18-->
+Absent from Castiglione, who as an Italian had experience of city-states and dukedoms but not of sacral monarchy (except the special case of papal court), was a sense of the earthly court as an image of the Court of Heaven. Court punctilio, as developed in France, Spain, the Empire, and England, derives ultimately from Byzantium with its elaborate liturgy of approach and entry to the presence of the Emperor as if to the Presence of God, with its preferment by grace and favour, its setbacks and falls from grace, its awaiting the sovereign's pleasure. Anyone with experience of an earthly court as an image of the Court of Heaven will inevitably see it, from another aspect, as a parody, and will face the dilemma of courtly compliment edging into flattery and honest admonition shading into lèse-majesté.
+
+<!--Paragraph 19-->
+A court is an earnest co-operative effort to create and maintain and deserve a "great good place," and for all the frailty of mankind seldom quite loses sight of that aim. In making friends with the Mammon of Unrighteousness, in paying court to Lady Pecunia (Jonson's reincarnation of Langland's Lady Mead), in blurring the distinction between due authority and usurped power, in donning the cloak of dissimulation, the courtier can often stand in parlous case as he waits for advancement toward the place of fullness and bounty. As he puts in an appearance at Court, he must be forever asking himself the nagging questions: How do I stand? How do I rate? What sort of figure am I cutting? Some of the occupations of this interim period are foolish and vicious, a perfect waste of time; and yet some are real accomplishments requiring prolonged effort and discipline. Consider Ophelia's phrase, "the courtier's, soldier's, scholar's eye, tongue, sword," assigning all these attributes to the three figures. The soldier has an eye for tactics, a tongue for command, a sword for battle; the scholar an eye for the text, a tongue for eloquence, a pen-sword for controversy; the courtier an eye for magnificence and spectacle, a tongue for conversation and counsel, a sword for the defence of his honour and his prince's.<ref>Some fifty years ago, at the University of British Columbia, I can attest that G.G. Sedgewick came up with this solution of the old problem of assigning attribute to agent.</ref> Even being "the glass of fashion and the mould of form" can be a civilizing mission, conferring a boon on the beholder. And so the Court is not simply the "World," the enemy of the soul, that one is supposed to have renounced: there are faithful counsellors and good courtiers, and it is not quite impossible to
+
+<blockquote>
+<poem>
+finde
+What winde
+Serves to advance an honest minde.
+</poem>
+</blockquote>
+
+John Donne, most of his life, was concerned with advancement in the state or preferment in the church, with getting ahead in the world or getting on in his vocation, though never of course exclusively so concerned, to the violation of his conscience.
+
+<!--Paragraph 20-->
+Sir Walter Ralegh, the story of whose gallantry with the cloak deserves to be true, had a meteoric career as a courtier, yet he could feel and express a profound disillusionment with the world in which he shone:
+
+<blockquote>
+<poem>
+say to the court it glows
+and shines like rotten wood;
+</poem>
+</blockquote>
+
+but he did not drop out: he remained a courtier until, at the king's pleasure, he was executed.
+
+<!--Paragraph 21-->
+The satyr-malcontent without going away does drop out: he retreats to a corner from which like a porcupine he shoots his angry quills. He lurks, he skulks, he will not join in, but he does not leave town—and town it is, better, city, best of all, capital city, seat of a court. The strain of prolonged celebration generates complaint, the strain of obligatory praise generates dispraise, vituperation; the effort of equilibrium too long continued passes into destabilization. How could it be otherwise? And how at the end of a long reign, with an overplus of young educated unoccupied men with dim prospects of advancement, could the malcontent-satyr fail to appear, bearing a nursable grudge against the world, especially against the most conspicuous of worldlings, the courtier?<ref>See Kay (53) for prevalence of anti-court sentiment among Inns-of-Court gentlemen.</ref>
+
+<!--Paragraph 22-->
+The targets of the Elizabethan satirist are what might be expected. Young, single, intelligent, unemployed men without secure prospects are likely to dwell on the faults of women and on the mantraps of vice, on money-lenders and anyone who seems to be making a killing in bad times, on boors—especially rich city or country boors, on poetasters and pretenders to wit and taste, and on courtiers. Targets of what weapons? Every modernism, including this first generation of modernism, has its weaponry (the last generation of modernism had its avant-garde, its guerrilla warfare, its literary and pictorial bomb outrages). Elizabethan satire arms itself with three new weapons—the surgeon's lance, the schoolmaster's (or slavemaster's) whip, and (more surprisingly) the looking-glass aggressively forced upon the victim.
+
+<!--Paragraph 23-->
+The wielder of these weapons is often at pains to establish himself as a vivid and compelling personality. Here, as in so many other regards, he stands in the Roman tradition in which his schooling had placed him, most especially in the tradition of forensic oration, in which the speaker, in the public world of praise and blame, must engage the attention of his audience by making himself interesting as a personality, someone to be reckoned with, who can compel a change of mind. The earliest satirist, Lucilius, was as robust and combative a personality as Cicero; his works are largely lost, and so that most private of men, Horace, was the first to establish a satiric personality to endure through the centuries. "Satire is our own thing," said Quintilian, not presumably to deny what we would call a satiric impulse to such Greek writers as Archilochus and Aristophanes but to claim for Rome the satiric genre. The Roman matrix favoured its flourishing: not only unrestrained denunciation in the republican forum, but the long continuance and popularity of gruesome public spectacles, and the presence from the beginning of a vast gallery of comical and derogatory names, proudly borne, as if in defiance of the satirist—Brutus-stupid, Cicero-chick-pea, and many others.<ref>For two-dozen examples of pejorative naming, see Blissett (107 n.11). This phenomenon is rare in English: the Elizabethan Thomas Bastard and the modern Noel Steward come to mind.</ref>
+
+<!--Paragraph 24-->
+The classically-trained Renaissance youth would be aware of this side of Roman Antiquity, but the emergence of Juvenal as a classic at the end of the sixteenth century would have placed beside Horace, the unarmed and relaxed, a satirist armed and tensed. Portly, smooth Horace is well connected with the authorities and, even when living a retired and rustic life, still somehow at the centre of things. Raw-boned, hock-headed Juvenal, who found it impossible not to write satire, was the very man the young late Elizabethan needed, especially when joined by Persius—serious, upper-class, Stoical, teasingly obscure, and dying at twenty-seven.
+
+<!--Paragraph 25-->
+The satirists of the Nineties, snarling and biting more like cynics than Stoics, and turning their whole armory on everybody and everything, grotesquely inflated their own importance, so that a modicum of sober moderation compelled them sometimes to distance themselves from their own figure of the "satyr," to question his worth and his credentials as a judge. Concurrently, in 1599, the ecclesiastical authorities called in and burnt the satires and epigrams.<ref>The Bishops’ Restraining Order of June 1599 is given as an appendix to Arnold Davenport’s edition of Joseph Hall’s ''Poems'' (293–94).</ref> This was an important move in its day but should not be regarded as world-historic. Satires and epigrams continued to appear sporadically despite the ban, though formal verse satire had run its course; and the satiric impulse quickly reappeared in the theatre, with some specific inhibitions but no general attempt at suppression.
+
+<!--Paragraph 26-->
+Donne's ''Satyre IV'' was probably written and given limited circulation in manuscript in 1597, before the ban; after it, in 1600, Jonson's ''Cynthia's Revels'' was performed and in the next year published. Neither presents, and (given the cultural context) both must have chosen not to present, the expected malcontent-satirist figure as the judging consciousness. Donne's narrator, for all the fierce energy of his meditations, is not aggressive: rather, he endures all things as a mortification.<ref>Sister M. Geraldine Thompson, in two notable articles, discusses the religious preoccupation and vocabulary of the ''Satyres'': "John Donne and the Mindes Endeavours" and "Donne’s ''Notitia'': the Evidence of the Satires." Andreasen finds the speaker of the poems "idealistic" (60) and "an older man than John Donne" (75); Hutchinson finds the ''personae'' of the ''Satyres'' distinguishable from each other and quite unlike the "heroic scourges of all that is bad" (355); Bellette observes that "Donne, for all his wit and urbanity, takes remarkably little joy in the worldly pageant around him . . . . Expecting the railer, the flashy cynic, we nevertheless recognize, as in many other satirists, the moralist and preacher beneath" (132). Hester, in an extended study, ''Kinde Pitty and Brave Scorn'', lays great stress on the Christian zeal of the ''Satyres''.</ref> Jonson's Criticus/Crites (in sharp contrast to the fulminating and intervening Asper and Macilente of the previous play) is quiet and muted, with that "passion for anonymity" that characterizes the successor to the courtier, the civil servant. Unlike Hall and Marston and others of the satiric generation, but like Spenser and Ralegh of an older generation, they take a keen, sharply critical interest in the court. In the last years of the old Queen, of course, they remain outsiders, though both are to find their entrée later, Jonson through the masques pioneered by ''Cynthia's Revels'', Donne through preaching before the King.
+
+==iv. ''Satyre IV''==
+<!--Paragraph 27-->
+The five ''Satyres'' are dated by their modern editor 1593, 1594 or 95, 1597, and 1598, Donne having written them between the ages of twenty-one and twenty-six. When some time after 1607 Jonson wrote a complimentary verse epistle "To Lucy, Countess of Bedford, with Mr Donne's Satires," he refers to them as a "book" and observes, weightily, "rare poems ask rare friends." His own poem is itself a considerable gift, and he must have made an effort to copy, or to have someone else copy, the 669 lines of the ''Satyres''. This argues great admiration.
+
+<!--Paragraph 28-->
+Recall again the remarks to Drummond, that Donne is the first poet of the world in some things and that he wrote all his best poems before the age of 25. About the same age, being privileged to see these audacious poems, absorbing classical literature and making it contemporary, as Jonson himself was deliberately to do, he must have found them a shock, a spur to action, a prized possession to return to. Let us imagine Jonson on one of these returns picking out some passages most pertinent to himself.
+
+<!--Paragraph 29-->
+The first line of the first ''Satyre'' ("Away thou fondling motley humorist") might be addressed by Wellbred or Edward Knowell to Matthew, by Asper to Fastidius Brisk, by Horace to Crispinus, by Criticus to any of the courtiers at Cynthia's court, or by Ben Jonson himself to a certain kind of playgoer, especially when he reads on and finds "Every fine silken painted fool we meet" (I.72). The reader discovers the poet-narrator reluctantly leaving his study and his books for the busy "middle street," to accompany the "humorist." The narrator combines exasperation with responsible care for "my lost sheep" (3), whereas Jonson in similar company will barely concede the other's humanity. Jonson must smile when he reads that "our dull comedians will want him" (99) for his used finery as theatrical costumes; not dull himself, he must concede there is a kind of actor who relies too much on costume.
+
+<!--Paragraph 30-->
+The second ''Satyre'' too has a passage at the beginning pertinent to Jonson's condition. Before his main business of attacking lawyers, Donne considers the pitiful poets whose state "Is poore, disarm'd, like Papists, not worth hate," and continues:
+
+<blockquote>
+<poem>
+One, (like a wretch, which at Barre judg'd as dead,
+Yet prompts him which stands next, and cannot reade,
+And saves his life) gives ideot actors means
+(Starving himself) to live by'his labor'd sceanes;
+As in some Organ, Puppits dance above
+And bellows pant below, which them do move. (II.9–16)
+</poem>
+</blockquote>
+
+Jonson the starveling playsmith would see the general application on reading the satire when it was new; saving himself from the gallows by pleading benefit of clergy and reciting his "neck verse," he would, in September 1598, see its more intimate application. Near the end of the poem occurs the phrase "meanes blesse" (107), surely the most condensed, not to say crabbed, statement of the Horatian ideal of ''aurea mediocritas'', an example Jonson will note of centrality and classicism in "matter" combined with harshness in "words."
+
+<!--Paragraph 31-->
+The same stylistic challenge will face Donne's close and sympathetic reader as he begins the third ''Satyre'':
+
+<blockquote>
+<poem>
+Kinde pitty chokes my spleene; brave scorn forbids
+Those teares to issue which swell my eye-lids . . . . (III.1–2)
+</poem>
+</blockquote>
+
+While the lines can be made to scan, they permit (I say require) in speaking an emphasis on every syllable but two in each line. This must give Jonson pause, but the concentration of matter will please him: the contrast between kind pity (natural, simple, spontaneous compunction) and brave scorn (adorned, ostentatious, deliberate rejection) is strong, especially when the gentler impulse governs the violent verb (chokes) and the unsanctified impulse appeals to law (forbids); and the spleen is equally the seat of laughter and of melancholy and, between them, of anger. Jonson was never to concern himself with the satiric analysis of religious positions, but one section of this poem is in line with his practice in two of his comical satires. Donne presents a procession (43–69) of vividly conceived figures characterized by the description of their mistresses, false religions. Jonson is to introduce "humours" of ''Every Man Out'' by a similarly conceived, greatly augmented, march-past; and ''Cynthia's Revels'' likewise presents the persons of the play almost entirely by description.
+
+<!--Paragraph 32-->
+Donne and Jonson were both to take as a point of departure Horace's well known Satire I.9, the encounter of the poet with the adhesive bore: Jonson in the same humorously exaggerated tone as Horace, in ''Poetaster'' III.1, Donne much more darkly serious than either, and concerning himself not with the ordinary life of the city but with the special case of the court. Jonson names the bore Crispinus and in later scenes satirizes him recognizably as Marston; in Horace he is only "someone known to me by name"—a name he does not disclose; but in Donne he is four times called a "thing" (lines 18, 20, 35, 152) and is menacing in his attentions, luring the poet-narrator to court and pumping him for his opinions. Either he is a disguised priest or an agent provocateur, dangerous as either, and above all, strange—strange in visage and garb, in motive and idiom. The word "strange" is six times applied to him (lines 18, 21, 23 twice, 30, 38), and once again when the poet "did see / All the court fill'd with more strange things than hee" (152).
+
+<!--Paragraph 33-->
+The judgment on the court—and Donne, like Jonson, is highly "judgmental", as anyone must be who is concerned with praise and blame—is entirely negative:
+
+<blockquote>
+<poem>
+So'it pleas'd my destinie
+(Guilty of my sin of going,) to thinke me
+As prone to'all ill, and of good forget—
+full, as proud, as lustfull, and as much in debt,
+As vaine, as witlesse, and as false as they
+Which dwell at Court, for once going that way. (11–16)
+</poem>
+</blockquote>
+
+And again,
+
+<blockquote>
+<poem>
+Aretine's pictures have made few chast,
+No more can Princes courts, though there be few
+Better pictures of vice, teach me vertue. (70–2)
+</poem>
+</blockquote>
+
+The standpoint from which judgment is made becomes clear when
+
+<blockquote>
+<poem>
+At home in wholesome solitarinesse
+My precious soule began, the wretchednesse
+Of suitors at court to mourn, (155–7)
+</poem>
+</blockquote>
+
+and he compares them to the souls Dante saw in hell. Thus early Donne began the spiritual wrestling that was thereafter to mark his life and art. Jonson, reading this, might well ask himself whether he ever worried over the eternal destiny of any of his own satirized characters, and answer no.
+
+<!--Paragraph 34-->
+The royal Presence itself does not escape judgment in the ''Satyres''. In the Second, the lawyer will "lye in every thing / Like a Kings favorite, yea like a King." (69–70). In the Third, the king's power of life and death is likened to a hangman's (91–2), and in the Fourth the clangorous word "King" tolls as often as "thing," or the unnerving "strange": when the Thing says "Tis sweet to talke of Kings" (74), the poet-narrator plays as his trump card the guide at the Abbey who
+
+<blockquote>
+<poem>
+From King to King and all their kin can walke:
+Your eares shall heere naught, but Kings; your eyes meet
+Kings only; The way to it, is Kingstreet . . . . (78–80)
+</poem>
+</blockquote>
+
+And when a flatterer says "For a King / Those hose are" (181–2), the poet thinks of a player-king, for their courtier-owner will bring
+
+<blockquote>
+<poem>
+Them next weeke to the Theatre to sell;
+Wants reach all states; Me seemes they do as well
+At stage, as court; All are players . . . . (181–5)
+</poem>
+</blockquote>
+
+Only in the short, anti-climactic Fifth Satyre, when Donne was in place, on the road to advancement as Secretary to the Lord Keeper, is there a complimentary address to the Queen as "Greatest and fairest Empresse," too exalted to "know and root out this enormous sinne," (V.28, 34) except through a just deputy and agent. Jonson is not to end his three comical satires with so unemphatic and minimal a salute. A glimpse of the Queen herself, at the end of ''Every Man Out'', cures the rankling envy of Macilente; the Emperor Augustus puts an end to the sillyclever blasphemies of his courtiers in ''Poetaster''; in ''Cynthia's Revels'' the "Queen and huntress, chaste and fair," is no passive spectator of the revels in her honour but a judging spectator.
+
+==v. ''Cynthia's Revels'' 1600==
+<!--Paragraph 35-->
+As a "great frequenter of plays," the young John Donne was the sort of person most likely to see ''Every Man In His Humour'' and the three comical satires and to read them in quarto. In his employment after 1598 his duties would be largely secretarial but partly social. Lady Egerton was gravely ill at the beginning of 1600 and died on 21 January, at which time it was noticed that "the Lord Keeper doth sorrow more than the wisdom of so great a man ought to do."<ref>See Bald (109).</ref> His household would, of course, have gone into mourning, but in the festive time of Christmas and Epiphany before her death, Lord Egerton, himself staying with her, might well have asked his secretary to circulate in public places, if only to receive and transmit enquiries, official and personal. And so I think it legitimate to suppose that Donne saw ''Cynthia's Revels'' and brought to it his "judging mind."
+
+<!--Paragraph 36-->
+The judging character at the centre of the play—really the only actor who acts, devising the masques and at the end imposing the penances—is named Criticus in the quarto (renamed Crites in the folio), and we recall that some years later in the lost introduction to Horace's ''Art of Poetry'' Jonson gave the name Criticus to a speaker in the dialogue and twice in conversation identified him with Donne. Too much weight should not be placed on this: if Jonson had from the beginning associated the dramatic character specifically with Donne, he certainly went to considerable lengths to prevent him from being recognized. Donne was notably good looking and well dressed, whereas Crites is called a "poore Grogram Rascall" (III.2.6) and "the little, poore, plaine gentlemen i' the blacke, there" (IV.1.84). Nevertheless, there is no judgment of Crites to which Donne could not assent; they share the same intellectual and moral qualities; and the descriptive "character" at the end of II.3, in which his temperament is held up as a perfect balance of elements and humours, is such that anyone would be pleased to see applied to himself. The soliloquy scene of Crites (III.3) and the ensuing scene of dialogue with Arete (both in verse) together read like a sort of formal verse satire on the court designed to please the author of ''Satyre IV''.
+
+<!--Paragraph 37-->
+Hearing these words spoken by Children of Queen Elizabeth's Chapel would be an unusual experience for the auditor as for the playwright. Donne's own satires are written for a man's voice, the voice of a somewhat older and graver John Donne; Jonson's two (very different) humour plays are written for mature, resonant, ringing, roaring, bawling voices. Here, in a smaller, brighter, more concentrated world of theatre, the child actors, with their high pitch, clear enunciation, alacrity of speech and agility of movement, and rapid transitions from gravity to levity, must compensate for their lack of range, depth, and build-up of emotion.<ref>For discussion of child actors as affecting the style and substance of plays, see Hunter (95) Parfitt (49, 134–6), and Shapiro (106, 118, 186–87).</ref>
+
+<!--Paragraph 38-->
+If the audience expected something composed and, in total effect, sedate, like the old plays of Lyly, one of which, ''Love's Metamorphosis'', had recently been revived by this same company, the playwright springs a surprise as three children enter in a scuffle as to who is to speak the prologue. For a moment we may think that they are really horsing around: there are flashes of anger, grabs and pushes, high-pitched giggles, before this settles into being Jonson's least uproarious play. A mischievous boy, losing the draw as to who is to speak the prologue, vows to "revenge my selfe upon the Author . . . . Ile goe tell all the argument of his play aforehand, and so stale his invention to the auditorie before it come forth" (Ind. 35–7). A daring move by the playwright, who stakes the success of his play on the maxim, to be stated moments later in the Prologue, "Words, above action: matter, above words" (Prol. 20). He as much as tells us to pay scant attention to what happens or promises to happen and much attention to what we judge it to mean. More than any other, this play will demonstrate Jonson's skill in "doing without plot." This being so, we need not go through the whole play with Donne but linger only on such details as might catch his attention.
+
+<!--Paragraph 39-->
+Narcissus, a young, sweetly sad figure of self-love, is recalled at the opening of the play, and his fount is called a "fresh fount" in a sweetly sad song. The curse of Echo on the fountain is not a heavy curse, nor does it have dire consequences. Nobody is harmed, let alone poisoned by it: the courtiers preen and boast and are full of themselves as much before as after they drink of it. It merely confirms them in the state we initially find them in.
+
+<!--Paragraph 40-->
+Echo departs, leaving Cupid and Mercury, who are gods, but mischievous gods, and out of pure mischief they adopt the guise of pages:
+
+<blockquote>
+<poem>
+since wee are turn'd cracks, let's studie to be like cracks;
+practise their language, and behaviours, and not with dead
+imitation: act freely, carelessly, and capriciously, as if
+our veines ranne with quick-silver, and not utter a phrase
+but what shall come forth steept in the verie brine of conceipt,
+and sparkle like salt in fire. (II.1.5–10)
+</poem>
+</blockquote>
+
+These in their comments and interventions continue the tone of the boy-actors' tussle, blended with the tone of the only classical writer mentioned by name in the play (I.4.18), Lucian, whose romps in the company of gods and heroes gave classical humanists from Erasmus and More to Jonson and Swift a holiday from gravity, good behaviour, and right thinking.<ref>See Duncan (130–35).</ref>
+
+<!--Paragraph 41-->
+Eight courtiers, four men and four women, are described and set in motion—or rather, set to talking, for the point of the play is that they should accomplish nothing; they cut a figure in style of clothes and speech, but words and appearance cannot conceal their vacuity.<ref>See Cook (166–67, 272–75). Jonson’s satirized figures come close in appearance and manners to the "privileged playgoers" at the Blackfriars Theatre; also Haynes (46–47, 50, 62–65), on Jonson's satirizing fashion before a fashionable audience.</ref> Of these satirical portraits only two might be said to come out of Donne's ''Satyres''. Asotus, "the prodigal," a fantastic flitting character, bears some resemblance to the flibbertigibbet of ''Satyre I''; Amorphus, "deformed", a closer likeness to the "Thing" of ''Satyre IV''.
+
+<!--Paragraph 42-->
+Amorphus enters as Echo is leaving. He is attracted by her "symmetry" and finds her refusal to tarry "improportionable." He says he is no Minotaur, Centaur, Satyr, Hyena, Baboon, no Rhinoceros, at each denial making himself more ridiculous. An affectate traveller, he must be funny looking and curiously dressed with all sorts of travel badges from the "eight score and eighteen Prince's courts where I resided." He is not as seedy or as sinister as Donne's figure but just as "strange." He even carries a list of 345 ladies, all noble, all conquests, in a book, and is as impressive to the foolish Asotus as he is preposterous to us.
+
+<!--Paragraph 43-->
+The play gravitates deeper into the court, so that "you are now within in regard of the presence" (II.3.1), and Mercury says to Cupid gleefully, "O, what a masse of benefit shall we possesse, in being the invisible spectators of this strange show, now to be acted!" (8–10). Amorphus, denying that the face is the index of the mind, occupies himself and impresses Asotus by making faces of "any Politique creature"—Merchant, Student, Lawyer, Statist, and varying degrees of Courtier—a one-boy procession displaying impish powers of mimicry and eliciting (if at all well done) applause or appreciative groans. Pause at the Courtiers' faces:
+
+<blockquote>
+But now, to come to your face of faces, or courtiers face, tis of three sorts, according to our subdivision of a courtier, elementarie, practique, and theorique. Your courtier theorique, is hee, that hath arriv'd to his fardest, and doth now know the court, rather by speculation , then practice; and this is his face: a fastidious, and oblique face, that lookes, as it went with a vice, and were screw'd thus. Your courtier practique, is he, that is yet in his path, his course, his way, & hath not toucht the ''puntilio'', or point of his hopes; his face is here: a most promising, open, smooth, and over-flowing face, that seemes as it would runne, and powre it selfe into you. Somewhat a northerly face. Your courtier elementarie . . . a light, revelling, and protesting face, now blushing, now smiling, which you may helpe much with a wanton wagging of your head, thus, (a feather will teach you) or with kissing your finger that hath the ruby, or playing with some string of your band, which is a most quaint kind of melancholy besides: or (if among ladies) laughing lowd, and crying up your owne wit, though perhaps borrow'd, it is not amisse. (II.3.35–48, 58–69).
+</blockquote>
+
+It is after this giggly dégringolade that the virtues of the unemphatic, undazzling Crites are extolled, and we watch his countenance, consistently humane, not ferocious, not owlish, but appraising, unperturbed. It is with his serious eyes, as much as with the merry eyes of the boyish gods, that we regard "The strangest pageant, fashion'd like a court" (III.4.4).
+
+<!--Paragraph 44-->
+Ben Jonson does not often show the interest in women that Shakespeare, or even Lyly, excelled at, but in this play for boy-actors (and again in ''Epicoene'') he is something of an equal-opportunity playwright when he introduces a bevy of women courtiers to match the men, and calls the chief among them Philautia—the Self-Love that is the leading idea of the play. In spite of the presence and activities of Cupid, however, none of the four pairs (that any matchmaking spectator will match) will actually pair off. In this regard, the comical satire departs entirely from the five ''Satyres'', in which there are no women except the unseen mistress of the chump in the first and the unnamed women, who are really churches, in the third. Donne of course is amply to make up for this in his other poems.
+
+<!--Paragraph 45-->
+At the mention (III.1.77) of "the frame of a woolfe in the hangings" at court, Donne might smile in recollection of his own mention (''Satyre IV'' 231–2) of the great chamber "hung / With the seaven deadly sinnes"; they are complimentary details, of similar effect. So too when Jonson compares the "young Grammatical Courtier" to a "Neophyte-Player" (III.1.3–4), or again when Crites speaks of "the strangest pageant, fashion'd like a court" (III.4.4), Donne may recall his own identification of court and theatre in the ''Satyres'' and in the memorable line from "The Calme," "Like courts removing or like ended plays."<ref>In the verse letter "To Sir Henry Wotton," Donne is to write:
+<blockquote>
+<poem>
+Beleeve mee, Sir, in my youths giddiest dayes,
+
+When to be like the court, was a playes praise,
+
+Playes were not so like Courts, as Courts are like playes
+</poem>
+</blockquote>
+</ref>
+
+<!--Paragraph 46-->
+Courtiers are forever waiting on someone's pleasure: they are ladies and gentlemen in waiting. The tedium and boredom must be filled somehow, with pastimes at least, with accomplishments at best. Donne's satire, concerned as it is with the business of the court and the real evils lurking there, must convey the wretchedness of suitors.<ref>In ''The Courtiers Library'' (dated by E.M. Simpson 1604/5 [London: Nonesuch, 1930]) there is an extended, derisively satirical account of "the engagements natural to your life at court," that leave "no leisure for literature" (40–42). This shows that Donne could be as aware as Jonson of the unseriousness of court life.</ref> Jonson, confining himself to the recreations of the court, has no need to recall that it is the centre of actual power, and abuse of power. No one in ''Cynthia's Revels'' serves the Prince by military or civil activity or counsel. The occupation of courtiers is to ''appear''—and to be what they appear, to embody the virtues and social accomplishments that serve the sovereign's pleasure—or, in failure, the vices and follies that deserve the sovereign's displeasure. The courtier, necessarily concerned with appearance, is more than usually prone to self-love. Unmasking, in ''Cynthia's Revels'', is sufficient punishment and correction. It would not be sufficient for Donne's court. Donne's court ''Satyre'' is set in a place of danger and is suffused with fear and self-doubt. Jonson's comical satires, particularly this one, are fearless and confident.
+
+<!--Paragraph 47-->
+Jonson's courtiers occupy themselves in delivering elaborate advice or overblown compliments, in playing the amusing but rather footling game of substantive and adjective, whereby each player chooses his own rather special adjective and then has to apply it to a given word—the given word in this case being the mildly improper "breeches."<ref>On games, see Jackson (121); Womack (99–100).</ref> Well, it fills the time until the water from the fountain arrives and they all drink, all but Crites. To them Arete (who also will not drink) enters, summoning them to attend and take part in solemn revels that night. The serious characters Crites and Arete wonder how harmony can be made out of discord, but
+
+<blockquote>
+<poem>
+Respect of ''Majesty'', the ''Place'', and ''Presence''
+Will keep them within Ring. (V.5.25–6)
+</poem>
+</blockquote>
+
+Cynthia will effect the reformation she intends.
+
+<!--Paragraph 48-->
+There is every reason why the first masque, described and interpreted by Cupid as Anteros, and the second masque, described and interpreted by Mercury, should be quite lovely in their music, costumes, and movement. Jonson affords this but will not let his spectators be deceived. Under their disguises, Cupid and Mercury are undeceivers; Crites and Arete are judicious spectators; the masquers subtract from the effect by praising themselves. Cynthia begins her formal response by praising what she can praise, though casting an ominous shadow by recalling her judgment on Actaeon and Niobe. She continues in censure, leading to the unmasking of the masquers, each of whom has assumed the moderate virtue of which his or her naming quality is the vicious extreme—Philautia, or self-love, posing as Storge, or legitimate self-esteem. Cynthia leaves the sentencing to Crites, who requires that they march to the fountain singing a palinode, do penance there, and then purge in the Well of Knowledge, the Helicon, before returning to serve Cynthia as she should be served. Cynthia's last words are, "A vertuous Court, a world to virtue drawes," a sentiment congruent to the praise of the Queen in Donne's last ''Satyre'' but ringing out more strongly. The goddess, adopting the tone and imagery of the satirist, says "we must lance these sores or all will putrify" (V.11.68–9, 94) but adds, in view of the celebratory quality of the revels, "let none now bleed"(99). In the world of satire, this calm judicious conclusion is quite unlike the severity of Donne's ''Satyre IV'', as if testy Ben had resolved to be more lenient than Jack Donne. But in the world of comedy and of court entertainment, the punitive ending must have muted the success of the play in the festive season.<ref>See Leggatt’s comments on the "unfestive" ending (177–79, 82–83, 124–30). See also Burt (1–15, 28, 30).</ref> Written by Jonson in full maturity, it aims high, to make his name as a right poet, to delight and be acclaimed by the wiser sort at the centre of grace and power. I can imagine a coterie audience well enough disposed toward it and not quick to admit that it was sinking under its own weight. It would have been better received if it had been more nearly the length of the play by Lyly and had allowed each character no more than enough rope to hang himself or herself, So cut, I can even imagine a successful, highly mannered, modern production before a university audience. The pleasures of reading the text, especially if one disregards most of the additions in the folio,<ref>Edwards, who admires and enjoys the play, calls the folio additions "elephantine" (144).</ref> at least grow and do not shrink with repetition.
+
+<!--Paragraph 49-->
+One of the sharpest surprises in the ''Conversations with Drummond'' is that "he hath a minde to be a churchman, & so he might have favour to make one Sermon to the King, he careth not what yr after would befall him, for he would not flatter though he saw Death." This gives added point to the amusing letter of Chamberlain to Carleton, 17 November 1621, on the rumour that Donne was likely to be named Dean of St. Paul's. As Richard Corbett had recently been appointed Dean of Christ Church, Oxford: "a pleasant companion saide that yf Ben Johnson might be made deane of Westminster, that place, Paules, and Christchurch, shold be furnished with three very pleasant poeticall deanes."<ref>See Herford and Simpson (141) and Bald (408).</ref>
+
+<!--Paragraph 50-->
+''Cynthia's Revels'' had failed with the courtiers because it was too preachy, subdividing its text too minutely and going on too long. Its entire lack of any political content protected it from the sort of danger that might have befallen Donne if ''Satyre IV'' had been made public. At the time of the ''Satyres'' Donne was still a deeply troubled nominal Roman Catholic; Jonson was a Catholic from 1598–1610. Their mature and considered choice of Anglican allegiance is to be the last and perhaps greatest parallel in their lives, not to be matched by any comparable pair. At the time that Jonson, with fierce jocularity, spoke to Drummond, there was no possibility of his ever preaching a sermon, and in his own sphere he was a supreme master of compliment—considered compliment, perhaps effective, certainly not idle. Donne, ordained four years since, was rising in the Church and will have many occasions to preach, often to auditory of great power. His words are weighty, but he will never stand in danger for them.
+
+<!--Paragraph 51-->
+There we leave our seventeenth-century worthies, returning briefly to a moment early in 1600. Jonson, always a restive playwright, is peeking at the audience as the speaker of the Epilogue to ''Cynthia's Revels'' concludes:
+
+<blockquote>
+<poem>
+Stifly to stand on this, and proudly approve  
+The play, might taxe the maker of ''selfe-Love'',  
+I'le onely speake, what I have heard him say;  
+By (—) 'tis good, and if you lik't, you may.
+</poem>
+</blockquote>
+
+Anxiously he looks to see if John Donne is applauding.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Anderson, William. Introduction. ''Persius, The Satires.'' Trans. by W. S. Merwin. Bloomingdale and Indianapolis: U of Indiana P, 1962.
+* Andreasen, N.J.C. "Themes and Structures in Donne’s ''Satyres''." ''Studies in English Literature'' 3 (1963): 59–75.
+* Bald, R.C. ''John Donne: A Life.'' Oxford, Clarendon P, 1970.
+* Bellette, Anthony F. "The Originality of Donne’s ''Satyres''." ''University of Toronto Quarterly'' 44 (1975): 130–40.
+* Burt, Richard. ''Licensed by Authority: Ben Jonson and the Discourse of Censorship.'' New York: Cornell UP, 1993.
+* Blissett, William F. "Roman Ben Jonson." ''Ben Jonson’s 1616 Folio.'' Newark: U of Delaware P, 1991. 90–110.
+* Casubon, Issac. ''De Satyrica Graecrum Possi &amp; Romanorum Satira''. 1605. Peter Delmar, ed. New York: Scholars’ Facsimiles and Reprints, 1973.
+* Cook, Ann Jennalie. ''Privileged Playgoers of Shakespeare’s London.'' Princeton: Princeton UP, 1981.
+* Duncan, Douglas. ''Ben Jonson and the Lucianic Tradition.'' Cambridge: Cambridge UP, 1977.
+* Edwards, Philip. ''Threshold of a Nation''. Cambridge: Cambridge UP, 1979.
+* Eliot, T.S. "Ben Jonson." 1911. ''Selected Essays.'' 3rd ed. London: Faber and Faber, 1952.
+* Finkelpearl, Philip J. ''John Marston of the Inner Temple.'' Cambridge, MA: Harvard UP, 1969.
+* Gardner, Helen, ed. ''John Donne: Elegies and the Songs and Sonets''. Oxford, Clarendon P, 1965.
+* Hall, Joseph. "A Description of a Good and Faithful Courier." 1608. ''Heaven Upon Earth and Characters of Virtue and Vices.'' Rudolph Kirk, ed. Rutgers: Rutgers UP, 1948.
+* ———. ''Poems.'' Arnold Davenport, ed. Liverpool: U of Liverpool P, 1969.
+* Haynes, Jonathan. ''The Social Relations of Jonson’s Theater''. Cambridge: Cambridge UP, 1992.
+* Hester, M. Thomas. ''Kinde Pitty and Brave Scorn''. Durham, NC: Duke UP, 1982.
+* Highet, Gilbert. ''The Anatomy of Satire.'' Princeton: Princeton UP, 1962.
+* Hunter, G. K. ''John Lyly.'' London: Routledge, 1962.
+* Hutchinson, Alexander N. "Constant Company: John Donne and his Satiric Personae." ''Discourses'' 15 (1970): 354–63.
+* Kay, David. ''Ben Jonson: A Literary Life.'' New York: St. Martin’s Press, 1995.
+* Jackson, Gabriele Bernhardt. ''Vision and Judgment in Ben Jonson’s Drama.'' New Haven: Yale UP, 1968.
+* Jonson, Ben. ''The Works of Ben Jonson''. C.H. Herford and Percy Simpson ed. 11 vols. Oxford: Clarendon Press, 1932–52.
+* ———. ''The Fountain of Self-Love.'' 1601. W. von Bang and L. Krebs. ''Materialen Zur Kunde des ältern Englischen Drama'' 22. Louvain 1908.
+* Leggatt, Alexander. ''Cynthia’s Revels: Ben Jonson His Vision and his Art.'' London: Methuen, 1981.
+* Levin, Harry. "Jonson’s Metempsychosis." ''Philological Quarterly'' 22 (1943): 231–2.
+* Milgate, W. ''Epithalamions, Anniversaries and Epicedes.'' Oxford, Clarendon P, 1978.
+* ———. ''Satires, Epigrams, and Verse Letters.'' Oxford: Clarendon P, 1967.
+* Marotti, Arthur F. ''John Donne, Coterie Poet.'' Madison: U of Wisconsin P, 1986.
+* Parfitt, George. ''Ben Jonson: Public Poet and Private Man''. New York: Barnes and Noble, 1976.
+* Raven, D.S. ''Latin Metre.'' London: Faber and Faber, 1955.
+* Shapiro, Michael. ''Children of the Revels.'' New York: Columbia UP, 1977.
+* Thompson, M. Geraldine. "Donne’s ''Notitia'': the Evidence of the Satires." ''University of Toronto Quarterly'' 36 (1966): 24–36.
+* ———. "John Donne and the Mindes Endeavours." ''Studies in English Literature'' 5 (1965): 115–131.
+* Williams, Mary C. "Ben Jonson’s ‘Apology’ for ''Bartholomew Fair''." ''English Language Notes'' 10 (1993): 180–85.
+* Wormack, Peter. ''Ben Jonson.'' Oxford: Blackwell, 1986.
+
+{{BookCat}}
