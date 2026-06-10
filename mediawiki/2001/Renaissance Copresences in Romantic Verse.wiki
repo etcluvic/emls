@@ -1,0 +1,268 @@
+''This essay was written by Lee M. Johnson''.
+
+<blockquote>
+<poem>
+Ye Presences of Nature in the sky
+And on the earth! Ye Visions of the hills!
+And Souls of lonely places! 
+:''The Prelude'', I: 464–66
+
+And I have felt
+A presence that disturbs me with the joy
+Of elevated thoughts . . . .
+:''Tintern Abbey'', 93–95
+</poem>
+</blockquote>
+
+<!--Paragraph 1-->
+Theories of language are at their best when describing simple communications ("John and Mary went to the opera") but show a strain when confronting complex expressions ("bright effluence of bright essence increate"). The phrase "wrestling with God," which is in the title of this volume, requires one to wrestle with words, perhaps even with the Word; and the presupposition of metaphysical conditions merely compounds the problem of making the vehicle of language carry a burden appropriate to the tenor of thought intermixed with it. In this essay, we shall consider poets wrestling, if not explicitly with a deity, at least with those predecessors of greatest and most urgent significance. The language and forms our poets must devise for transforming allusions to their predecessors into complex interactions as copresences in their works also make possible wrestling with any problems of ultimate value. Our attention will be directed to the differences between metaphorical and metaphysical wit, to the equivalent distinction between a conventional literary allusion and the creation of a copresence, and to the nature of mathematical reality and its Platonic presences as an analogue to the symbolic forms evoked by poets wrestling with a metaphysical sense of presence.
+
+<!--Paragraph 2-->
+As an approach to the metaphysical possibilities of poetic allusions, let us consider how allusions consisting of emblematic and symbolic forms, above and beyond verbal references, tend to suggest or evoke a sense of presence that goes beyond conventional notions of how allusions work. In this respect, P.G. Stanwood and I, drawing upon A. J. Smith's distinction between "metaphorical" and "metaphysical" wit, have argued that "metaphysical wit may in part be induced through structural mediation."<ref>See Stanwood and Johnson (“The Structure of Wit” 23).</ref> Whereas metaphorical wit is essentially verbal in nature, relying on linguistic and rhetorical ingenuity, its courtly art can trivialize or ignore the inner life which, in Smith's words, emerges from "the intricate interrelation of divine being with human nature, timeless events with history."<ref>See Smith (135).</ref> Set against the flux of language is the pattern of form which is often preeminent in metaphysical verse. In Herbert's "The Altar" and "Easter-wings," of course, the patterns are obvious representations of their respective objects of perception and mimic their physical presence. More interesting for our purposes, though, is the evocation of conceptual order at the other end of ''The Temple'' in such poems as "Love (III)," set after physical time and space have ceased. Here, three tri-partite stanzas, each featuring three lines of iambic trimeter, unite the Eucharist, the server, and the communicant. The ubiquitous threeness of forms in "Love (III)" attempts to represent a metaphysical reality in a way that mere words cannot. The explanation for the distinction between symbolic forms and words appears to reflect the incarnational nature of the forms. Words, according to some notions, may be merely self-referential or, at best, attempt to refer outwards, as it were, to an external world. Symbolic forms, by contrast, refer inwards, incarnating a posited external world in the mystery of pattern. Hence, the distinction between metaphysical and metaphorical wit seems to require an account of incarnational poetics and the implied ontological presuppositions associated with the most challenging examples of metaphysical verse.
+
+<!--Paragraph 3-->
+As a special case, Henry Vaughan's achievement provides further support for the view that incarnational strategies are associated with a sense of presence. ''Silex Scintillans'' (1650) exists, of course, because of Herbert's ''Temple'', and Vaughan's poems are replete with verbal echoes of Herbert's. When the evocation of Herbert's presence is most acute, however, symbolic form becomes more important than mere verbal allusion. In "The Match," for example, Vaughan begins by addressing his predecessor directly in stanzas that recall Herbert's interest in the mirror-patterns of bilateral symmetry: a5b2b4/a5c2c4//d5e2e4/d5f2f4 (in the notation, letters refer to rhymes and numbers to the total of iambic feet in each line: thus, the first three lines rhyme abb and consist of a pentameter, a dimeter, and a tetrameter). In Vaughan's poem, the Herbertian stanzas bring the two poets together and anticipate the second and longer part of the poem, now addressed to the Lord and punning wittily on the poet's two lives in further examples of the bilateral symmetry of his stanzas. Metaphysically, Vaughan is ultimately concerned with the alignment of two worlds, one temporal and the other eternal, which the alternating odd and even numbers of his lines reflect and resolve through the threeness which, as has been indicated schematically, builds up the twoness of his stanzas. At its best, the language of the poem reaches out to its metaphysical form, which, in turn, moves among the symbolic forms of Herbert's verse in what, for some readers, must seem more an act of co-creation rather than a mere imitation of, or tribute to, a predecessor, so strong is the sense of presence.
+
+<!--Paragraph 4-->
+Unfortunately, there is no standard work on the nature of literary allusions which could account for the type of copresence attempted by Vaughan, despite a recent upsurge of interest in allusive functions.<ref>3. Two notable instances of the revival of interest in literary allusions are Pasco, ''Allusion: The Literary Graft'' in the series Text/Culture, and Pucci, ''The Full-Knowing Reader: Allusion and the Power of the Reader in the Western Literary Tradition.''</ref> To the contrary, the current temper of the times encourages discussions of "intertextuality" which homogenize distinctions involving influence and referentiality, perhaps to the denigration of the urgent human impulses that lead writers to interact with one another in the first place. In that sense, the presuppositions and vocabulary of much recent literary theory have diminished the author, the reader, and the world reflected in the work in favor of critical and metacritical self-scrutiny. Let us consider the advantages of standing back from any theory which does not address the issue of presence and of looking anew at the nature of literary influences. In particular, let us consider what happens when an allusion is more than a mere allusion: when it attempts to recreate a tradition or, most strikingly, a sense of individual presence emanating from some familiar ghost of the past. Such a complex and ambitious interaction, as we have seen with Vaughan and Herbert, may be termed a deep allusion that evokes a copresence. Our remaining examples will consider how some Romantic poems by Coleridge and Wordsworth rely on works by their Renaissance predecessor Milton; but the argument will engage general implications about presence which entail metaphysical and theological complications that may highlight aspects of how poetic language and form relate to ontological principles.
+
+<!--Paragraph 5-->
+The issue of presence, both immediately and finally, may well constitute, for many people, the defining problem of life. It is an issue of such scope that it requires some attention before we turn to our examples from Renaissance and Romantic poetry. Fundamentally, presences emerge from the civilized and conscious appearance or construction we make of the largely incomprehensible reality in which we live. They are the goal of each "raid on the inarticulate," as "East Coker" (179) phrases it, and pose apparently insoluble difficulties for our linguistic and symbolic descriptions of them.<ref>See Eliot (“Easter Coker” 31).</ref> It is possible to argue, after all, that our empirical experience is meaningful only as an activity of language and that language refers only to itself and not to any presences outside itself which would merely conjure up a referential illusion or fallacy. At the other extreme is the sense that the world is haunted by presences, whether or not we have any linguistic or symbolic means to express them. To the mystic, such presences could have a divine origin; to the mentally unstable, they would be most unwelcome invasions of the psyche.
+
+<!--Paragraph 6-->
+So far as many poets are concerned, the problem of presences hinges on the relationship of human languages to the "languages" in the otherwise inarticulate universe. In ''The Fall of Hyperion'', Keats' Moneta makes a telling observation to the soul-making narrator:
+
+<blockquote>
+<poem>
+. . . thou might'st better listen to the wind,
+Whose language is to thee a barren noise,
+Though it blows legend-laden through the trees—
+In melancholy realms big tears are shed,
+More sorrow like to this, and suchlike woe,
+Too huge for mortal tongue, or pen of scribe.<ref>See Keats (“The Fall of Hyperion” 521).</ref>
+:''The Fall of Hyperion'', Canto 2: 4–9
+</poem>
+</blockquote>
+
+Even though the language of the legend-laden world is but a barren noise to human ears, Keats nevertheless has faith that such a world can be accommodated, in part, to human comprehension. In a related act of faith, Wordsworth had earlier recalled contemplative rustics who did not have the benefit of linguistic training and sophistication:
+
+<blockquote>
+<poem>
+Theirs is the language of the heavens, the power,
+The thought, the image, and the silent joy:
+Words are but under-agents in their Souls;
+When they are grasping with their greatest strength,
+They do not breathe among them; this I speak
+In gratitude to God, who feeds our hearts
+For his own service; knoweth, loveth us,
+When we are unregarded by the world.<ref>See Wordsworth (“The Fourteen-Book ''Prelude''.” 252–53). Subsequent citations of ''The Prelude'' are from this edition and are indicated in the text by book and line numbers.</ref>
+:''The Prelude'', XIII: 270–77
+</poem>
+</blockquote>
+
+The "language of the heavens" lies, of course, beyond any human words; and it is a measure of Wordsworth's philosophical sensibility that such a "language" presupposes a divine source. But what if Keats and Wordsworth are wrong: what if there are no languages other than those which human beings have devised?
+
+<!--Paragraph 7-->
+In an apparent answer to such a question, Wordsworth invoked the nature of mathematical reality as a realm that ontologically lies beyond the symbols used to describe it. He "recognized," in the world of geometry,
+
+<blockquote>
+<poem>
+A type, for finite natures, of the one
+Supreme Existence, the surpassing life
+Which, to the boundaries of space and time,
+Of melancholy space and doleful time,
+Superior, and incapable of change,
+Nor touched by welterings of passion—''is'',
+And hath the name of God. 
+:''The Prelude'', VI: 133–39
+</poem>
+</blockquote>
+
+As an analogy, the nature of mathematical reality raises questions similar to those posed by the use of form and language to evoke the presence of another being, human or divine; and a brief consideration of mathematical presences should indicate the ubiquity of the problem.
+
+<!--Paragraph 8-->
+To Wordsworth, Plato's eternal realm houses geometric forms, which have, for the English poet, a mysterious relationship to the temporal forms of nature. Wordsworth is haunted by presences from both worlds. Mathematicians, from Plato onwards, have remained divided about the Platonic basis of mathematics and are often much farther away than Wordsworth from sensing any presences in their discipline. H. E. Huntley, for example, contrasts Morris Kline's anti-Platonist views with those of G. H. Hardy: "It would appear as though mathematics is the creation of human fallible minds rather than a fixed, externally existing body of knowledge. The subject seems very much dependent on the creator" (Kline 154); "I believe that mathematical reality lies outside us, that our function is to discover or ''observe'' it, and that theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply notes of our observations. This view has been held, in one form or another, from Plato onwards . . . " (Hardy 38).<ref>As quoted in Huntley [''The Divine Proportion: A Study in Mathematical Beauty'', 154 (Kline) and 38 (Hardy)].</ref> More recent anti-Platonist stances from Reuben Hersh (''What is Mathematics Really?'') and Gregory Chaitlin (''The Limits of Mathematics'') clash with the mathematical Platonism of Roger Penrose: ". . . its existence rests on the profound, timeless, and universal nature of these concepts, and on the fact that their laws are independent of those who discover them" (413).<ref>See Penrose (''Shadows of the Mind'' 413). Subsequent citations from Penrose are indicated in the text by page numbers.</ref> Penrose is Wordsworthian in his sense of mathematical presences: ". . . the reality of mathematical concepts is a much more natural idea for mathematicians than it is for those who have not had the fortune to spend time exploring the wonders and mysteriousness of that world" (413). Finally, in thinking of relationships among physical, mental, and Platonic worlds, Penrose asserts: "To me the world of perfect forms is primary (as was Plato's own belief)—its existence being almost a logical necessity—and ''both'' the other two worlds are its shadows" (417). Is mathematical reality discovered or invented? A persuasive answer would simultaneously solve most of the major issues in metaphysics and religion, rule on the referentiality of language, and, on a much smaller scale, even determine the fate of cultural post-modernism! In short, the problem of presence would be solved.
+
+<!--Paragraph 9-->
+It is the sort of problem that engaged the far-ranging mind of Coleridge, and his approaches to it suggest creative complexities at their finest. Whereas the relationship of Vaughan to Herbert is, on the face of it, notable for showing some simplicity and clarity, the relationship of Coleridge to his predecessors and to the poetic tradition presents a complex range of possibilities. Perhaps nowhere is the complexity of Coleridge's attitudes revealed more poignantly than in ''Dejection: An Ode''. The basic circumstances of the ode's composition are well known: apparently after having heard the first four stanzas of Wordsworth's Immortality Ode in 1802, Coleridge, responding to his friend's expression of a loss of "vision" and "glory," poured out his own sense of a loss of imaginative power in a long and often self-pitying verse epistle to Wordsworth's sister-in-law. That epistle, "A Letter to Sara Hutchinson," was dated April 4, 1802. On October 4, 1802, the date of Wordsworth's wedding anniversary, which, coincidentally, was also the anniversary of Coleridge's unhappy marriage to Sara Fricker, Coleridge's verse letter was revised and published as "Dejection: An Ode, Written April 4, 1802." The anguished love for Sara Hutchinson was now hidden under references to Wordsworth as "Edmund," but the date of publication must have called attention to the contrast between Wordsworth's growing poetic strength and domestic happiness in relation to Coleridge's sense of failure and misery. The final version, addressed simply to a "Lady," completed the miracle of poetic transformation: a great irregular Pindaric ode arising from the poet's claim of poetic impotence and from the often embarrassing verse letter at its origin.
+
+<!--Paragraph 10-->
+The relationship of ''Dejection: An Ode'' to Wordsworth's great Ode has been a source of perennial speculation and confusion, but Coleridge's attitudes towards his contemporary are similar to those he entertained towards Milton, whose poem ''On the Morning of Christ's Nativity'' has a striking role to play in Coleridge's work and perhaps helps to clarify Coleridge's assessment of poetic power in general. References to Milton's poem occur climactically at the end of each main section of Coleridge's ode and lead to a recovery of strength that marks the beginning of each new section. The ode falls into three parts: stanzas I–III, IV–VI, and VII–VIII. At lines 46, 47, and 46, respectively, the stanzas divide the poem into almost perfect thirds. Let us proceed by considering how Miltonic patterns affect the first third of the poem. The opening two stanzas document the gap between the perceiving subject and the objects of perception which are here located in images of evening twilight. Artistically, the stanzas display an unpredictable succession of rhymes but no rhyming pattern. In stanza III, the ode rises to a generalized statement of the problem; and the stanza attains the rhetorical heightening of a formal close by embodying a set pattern of complex order:
+
+<blockquote>
+<poem>
+My genial spirits fail;
+And what can these avail
+To lift the smothering weight from off my breast?
+It were a vain endeavour,
+Though I should gaze for ever
+On that green light that lingers in the west:
+I may not hope from outward forms to win
+The passion and the life, whose fountains are within.<ref>See Coleridge (“Dejection: An Ode” 1.365). Subsequent citations of the ode are from this edition and are indicated in the text by line numbers</ref>
+</poem>
+</blockquote>
+
+Schematically, the stanza divides into three sections: a3a3b5 / c3c3b5 / d5d6. The first sections show in miniature the design of the stanza overall: the same line-lengths and sequences that had hitherto been unique to "The Hymn" of ''On the Morning of Christ's Nativity'' and its repeated ode form based on an AA'B ("a," "a prime," "b") pattern:
+
+<blockquote>
+<poem>
+Ring out ye Crystal spheres,
+Once bless our human ears,
+(If ye have power to touch our senses so)
+And let your silver chime
+Move in melodious time;
+And let the Bass of Heav'n's deep Organ blow,
+And with your ninefold harmony
+Make up full consort to th' Angelic symphony.<ref>See Milton’s (“On the Morning of Christ's Nativity” 46).</ref>
+</poem>
+</blockquote>
+
+With the exception of the seventh line, which, in Coleridge's poem is a pentameter rather than a tetrameter, Coleridge has duplicated Milton's distinctive stanza, a remarkable pattern that takes the regular Pindaric AA'B sequence of strophe—antistrophe—epode from the larger arena of interstanzaic arrangement to the smaller scale of design within the stanza itself.
+
+<!--Paragraph 11-->
+Is Coleridge's adoption of Milton's stanza merely a generic way of indicating that the requirements of an ode are being met? Or is the stanza an imaginative copresence, a deep allusion, that, like a muse, inspires the later poet's confidence in the power of his calling? Superficially, Coleridge's language appears to be at odds with the poetic form he has called up from Milton, whose hymn celebrates two interrelated manifestations of imaginative power: the Incarnation as divine love and energy and the poet's creativity of having come of age at twenty-one with a great work of his own. The two birthdays at the heart of Milton's poem proclaim spiritual strength; by stark contrast, Coleridge's poem laments its loss. Yet, by incorporating Milton's work into his own as a presence of strength, could not Coleridge be drawing upon it as a mainstay against his misery? It is true that the next section of the ode, stanzas IV–VI, immediately recovers by identifying that strength as "A light, a glory, a fair luminous cloud" (54) and even more closely as "This light, this glory, this fair luminous mist" (62) which is "this strong music in the soul" (60). As such, the Miltonic presence in Coleridge's poem is an affirmation of poetry's prophetic identity, the copartner of "wedding Nature" and source of a "new Earth and new Heaven" (68, 69). Thanks to Bloom, Bate, and others, an entire generation of literary scholars has become acutely sensitive to "the anxiety of influence," the "burden of the past," and other indications of creative distress in literary relationships.<ref> See Bloom’s ''The Anxiety of Influence'', and Bate’s ''The Burden of the Past and the English Poet''.</ref> Blake's problems with Milton are a striking case in point. Is it not also possible, however, for a poet in uttermost anxiety to reach out to a predecessor in a desperate act of faith?
+
+<!--Paragraph 12-->
+To Coleridge, Milton was a preeminent symbol of imaginative power. The famous definitions of the primary and secondary imaginations conclude Chapter XIII of ''Biographia Literaria'', but Milton's lines on discursive and intuitive reason from Book V of ''Paradise Lost'' provide that chapter's main epigraph. Admittedly, discussions of the "poetical character" featured Milton throughout the late eighteenth and early nineteenth centuries; Collins, Gray, Hazlitt, Wordsworth, and Keats were among those who saw him as the type of prophetic and meditative power. Of course, the Romantic poets were the first who, individually and collectively, looked to their English predecessors first rather than to Continental or Classical models for their immediate and ultimate standards, even though the sense of English poetry as its own great tradition had been growing since the time of Spenser. Even in such a literary climate, Coleridge's evocation of Milton is distinctive. In stanza VI of ''Dejection: An Ode'', afflictions have compromised the "shaping spirit of Imagination" (86), and the counterbalancing example of Milton becomes evident again:
+
+<blockquote>
+<poem>
+For not to think of what I needs must feel,
+But to be still and patient, all I can;
+And haply by abstruse research to steal
+From my own nature all the natural man—
+This was my sole resource, my only plan:
+Till that which suits a part infects the whole,
+And now is almost grown the habit of my soul. (87–93)
+</poem>
+</blockquote>
+
+The irregular rhyming in stanzas IV–VI attains a set and formal close in the preceding lines, a rhyme royal stanza which concludes with an Alexandrine, a Spenserian touch which Milton uses at the end of all four introductory stanzas of his Nativity Ode. Most appropriately, the next use of this Miltonically modified rhyme royal stanza is in Wordsworth's ''Resolution and Independence'', which treats afflictions related to those raised by Coleridge in his ode. The effect of the Miltonic pattern of rhyme royal in Coleridge's poem once again results in an improvement: stanza VII, which opens the final section of the ode, is full of energy arising from the "outward forms" deplored at the poem's outset. Even more telling is the fact that its final lines (118–25) are another instance of the Nativity Ode's hymn stanza. In this case, the cries of the child to her mother have a structural parallel in Coleridge's relationship to Milton. The hymn stanza's AA'B pattern of two trimeters followed by a pentameter is heard even in the final lines of stanza VIII (132–34), as the poet wishes the joy and power of the imagination for his lady. In sum, the only set rhyming patterns in the whole of ''Dejection: An Ode'' are the hymn stanza and the modified rhyme royal of Milton's Nativity Ode; and each time the Miltonic form is incarnated in Coleridge's poem, the power of the imagination revives.
+
+<!--Paragraph 13-->
+That a sense of presence was crucial to Coleridge is clear in many other works; sometimes, as in ''The Rime of the Ancient Mariner'' or ''Christabel'', presences could be negative, even malevolent. As a poet, however, Coleridge treats presence as the beneficial heart of a literary relationship. In "To William Wordsworth," Coleridge honors the presence of his friend by writing in Wordsworthian blank verse paragraphs and by recounting the main features of ''The Prelude'' and its restorative effect on him until, at the end, he evokes the most significant presence of all: "And when I rose, I found myself in prayer" (112).<ref>See Coleridge  (“To William Wordsworth” 1.408).</ref> Again, when considering Coleridge's evocations of Wordsworth or Milton, we need to look at the poetic forms and patterns that embody a particular poetical character and spirit and give a sense of personality in a way that a merely verbal allusion could never do.
+
+<!--Paragraph 14-->
+Less personal as a form of presence but nevertheless of importance in going beyond verbal allusions is the attempt to recreate a mode or tradition. In Coleridge's "Ne Plus Ultra," it is as if a typical 17<sup>th</sup>-century metaphysical lyric has come to life again in the Romantic period. The poem explores the paradox of negation, not as nothingness or absence of being, but as a palpable presence: "Sole Positive of Night" and "The one permitted opposite of God" (1, 4).<ref>See Coleridge  (“Ne Plus Ultra” 1.431). Subsequent citations of this poem are from this edition and are indicated in the text by line numbers.</ref> Although the poem's line-lengths vary from iambic dimeter to pentameter, they are generally arranged in a ring structure, as examples of bilateral symmetry encircling the poem's midpoint, which is the central line of the following extract:
+
+<blockquote>
+<poem>
+The Intercepter—
+The Substance that still casts the shadow Death!—
+The Dragon foul and fell—
+The unrevealable,
+And hidden one, whose breath
+Gives wind and fuel to the fires of Hell!
+Ah! sole despair . . . . (8–14)
+</poem>
+</blockquote>
+
+At the center of the poem's twenty-one lines is "the unrevealable," a trimeter which is surrounded by trimeter, pentameter, and dimeter lines that radiate away from it in opposite directions. Perhaps Coleridge is calling attention to the problematical nature of a geometric point, which, at the center of a circle, is both nothing as well as the basis on which everything is erected. The traditional symbolism of a circle as a never-ending line and form of perfection is here inverted, much as "darkness visible" in Milton's Hell is an inversion or parody of the light invisible of his Heaven. The form of Coleridge's lyric is emblematic of his theme: the antithesis of God is not nothing but something, a negative presence. Evil, having no authentic expression of its own, parasitically adopts forms of the good (in this case, the circle) which nevertheless call attention to its dependent nature in relation to the pre-existing good. So, in Coleridge's poem, "The unrevealable" is "Reveal'd to none of all th' Angelic State / Save to the Lampads Seven, / That watch the throne of Heaven!" (19–21), whose final two trimeters recall both the evil at the midpoint of the poem and the theme announced in its opening two trimeter lines but with the metrical form now associated with its heavenly source. Coleridge's sensitivity to metrical and stanzaic symbolism may, for some readers, recall the tradition of the metaphysical lyric; but it is a tradition, rather than a personal presence, as in ''Dejection: An Ode'', that is being recalled. The very impersonality with which "Ne Plus Ultra" treats the paradox of a negative presence is nevertheless impressive and categorical in its demonstration of how metrical and formal symbolism may compensate for the limitations of language.
+
+<!--Paragraph 15-->
+Coleridge's complex attitudes towards Wordsworth and towards their Renaissance predecessors have a parallel in Wordsworth's, as well, especially with respect to the figure of Milton, who benevolently haunted Wordsworth throughout his career. The Miltonic haunting took its definitive and characteristic form in May, 1802, when, after listening to Dorothy read Milton's sonnets, William "took fire" from their character, began composing his first indisputably great sonnets, and ultimately became the most productive sonneteer of all the major English poets.<ref>See Wordsworth (“Notes” 3.417). All subsequent citations of Wordsworth's poems are from this edition and are indicated in the text by the abbreviation PW, volume number, and line numbers.</ref> What happened to Wordsworth on that occasion was probably something akin to a conversion-experience based, in this case, on the intuiting of the presence of Milton's sensibility in the very form of his sonnets. Among the first fruits of Wordsworth's taking fire was "London, 1802": "Milton! thou shouldst be living at this hour"; and Milton's poetical character inspirits, in general, his successor's deep affinity for the form. So profound was Wordsworth's Miltonic theory and practice of the sonnet that he was the first to appreciate, as he put it to Crabb Robinson, "a perfect sonnet without rhyme" in ''Paradise Lost''.<ref>See Robinson (484).</ref> Like their rhymed counterparts, the unrhymed sonnets tend to reconcile characters in accordance with the theme of love, "By name to come call'd Charity, the soul / Of all the rest" (''PL''. XII, 584–85), and to harmonize earth and heaven in accordance with prophetic language.<ref>See Milton (“Paradise Lost” 467). For a consideration of Milton's use of unrhymed sonnets in the verse paragraphs of his major poems, see Johnson  (“Milton's Blank Verse Sonnets” 5.129–53).</ref> Milton's use of the blank verse sonnet at crucial points in the epic is an outstanding expression of his symbolic art, and it is as a copresence that Wordsworth places one prominently at the beginning of the final verse paragraph of ''The Prelude'':
+
+<blockquote>
+<poem>
+Oh! yet a few short years of useful life,
+And all will be complete, thy race be run,
+Thy monument of glory will be raised;
+Then, though, too weak to tread the ways of truth,
+This Age fall back to old idolatry,
+Though Man return to servitude as fast
+As the tide ebbs, to ignominy and shame
+By Nations sink together, we shall still
+Find solace—knowing what we have learnt to know,
+Rich in true happiness if allowed to be
+Faithful alike in forwarding a day
+Of firmer trust, joint laborers in the Work
+(Should Providence such grace to us vouchsafe)
+Of their deliverance, surely yet to come. 
+:''The Prelude'', XIV: 432–45
+</poem>
+</blockquote>
+
+<!--Paragraph 16-->
+Addressed to Coleridge, these lines exemplify Wordsworth's understanding of the nature and role of Milton's blank verse sonnets. The octave and sestet are run together in the Miltonic manner, the break being signaled by the dash in the ninth line. Furthermore, the octave concerns earthly matters whereas the sestet turns to things in an eternal context, again, as in the precedents from Milton. Wordsworth's lines echo phrases and themes from the final speeches of Adam, Michael, and Eve at the epic's conclusion. Michael's (574–87) and Eve's (610–23) are unrhymed sonnets on knowledge in relation to wisdom and on prophetic fulfillment. What Adam and Eve know enables them to go into the world of their future, just as Coleridge and Wordsworth undertake their prophetic task in the fallen world with Providence as their guide. The verbal and thematic parallels are striking, but the prophetic interchange between ''The Prelude'' and ''Paradise Lost'' achieves formal incarnation in the shared symbolic functions of the blank verse sonnets, as if the hand of Milton were deftly guiding Wordsworth's in the assertion and attainment of prophecy at the end of ''The Prelude''.
+
+<!--Paragraph 17-->
+However important blank verse sonnets may have been to Wordsworth, it is not clear that they could be part of a reader's literary experience until they have been identified and their significance discussed. Their function as an allusion—in this case, by ''The Prelude'' to ''Paradise Lost''—is otherwise outside most readers' understanding and expectation of metrical verse. That is one reason why, for our purposes, it may be more helpful to approach the problem, not so much as an allusion, but as the embodiment of a presence of an earlier work in a later one. Nowhere is this problem more mysterious and perplexing, however, than in circumstances such as the following: the echoing of key sounds and forms from Vergil's ''Eclogue IV'' in Milton's ''Lycidas'' and Wordsworth's Immortality Ode. The facts of the matter have been set out elsewhere and hence are reviewed only briefly in relation to their service in the present context.<ref>See Johnson (“Virgil, Wordsworth, and the Power of Sound” 93–109).</ref> "Paulo maiora canamus," from the opening line of the Fourth or Messianic Eclogue, was the working epigraph of Wordsworth's ode throughout its composition. Thematically, the allusion is apt: the golden child of Vergil's poem has its counterpart in the Wordsworthian child as "best Philosopher." The redemption of the natural world, its bounty in the new golden age described by Vergil, is related to Wordsworth's eventual use of natural imagery to embody symbolic and supernatural conditions, as in the seascape at the end of stanza IX or the flower that blows ("The Child is father of the Man") at the end of stanza XI. In ''Lycidas'', too, nature that caused the shipwreck becomes, "through the dear might of him that walked the waves," an image of a pastoral heaven presided over by the Good Shepherd. That very figure as the infant Christ, of course, is what made Vergil's prophecy of a golden child so vital to the Christian era. The figure of Christ, the golden and Wordsworthian children, and the transformation of nature from a realm of mutability and melancholy into a vehicle for the tenor of spiritual perfection are all "intertextual" aspects of these three great poems and, as such, illustrate strikingly how literary allusions move from verbal to thematic parallels.
+
+<!--Paragraph 18-->
+What part of one's literary experience, though, is touched by the auditory and formal parallels among the three works? Consider how a mere sound, the syllable ''or'', appears to resonate with symbolic purpose both within and between all three. With respect to ''Eclogue IV'', H. G. Edinger has made a persuasive argument for just such an evocative use of sound:
+
+<blockquote>
+It is immediately apparent that this syllable is involved in words that are properly called key words in the poem.
+''Maiora'' announces the higher concern of the poem that segregates it from the surrounding ''Eclogues''; it also
+sets the tone of the poem. ''Saeclorum'' . . . ''ordo'' is a phrase that represents a pair of homodyned ''or''s [that is, doubly accented, both metrically and rhetorically] in a verse quite central to the poem's theme, the return of the golden age . . . In summary, the sound ''or'' in the Fourth Eclogue has been avoided by the poet to such an extent that its few occurrences stand out prominently to color a small number of majestic and important verses, and to underline by emphatic, echoing sound a key train of thought in the poem, ''maior'', ''saeclorum'', ''ordo'', ''fatorum'', ''concors'', ''honor'', ''Orpheus''.<ref>See Edinger (31).</ref>
+</blockquote>
+
+With respect to ''Lycidas'', the rhymes on the syllable ''or'' sum up key phases of the poem's argument and its depiction of the fates of poet and priest: "Yet once more, O ye Laurels, and once more" (1), "Down the swift ''Hebrus'' to the ''Lesbian'' shore" (63), "Stands ready to smite once, and smite no more" (131), "Weep no more, woeful Shepherds, weep no more" (165), and "Henceforth thou art the Genius of the shore" (183).<ref>See Milton (“Lycidas” 120, 122, 124, 125). A discussion of the continuous rhyming of the poem is in Wittreich, Jr. (“Milton's ‘Destin'd Urn’: The Art of Lycidas” 60–70). An evaluation of the rhymes is in Oras (“Milton's Early Rhyme Schemes and the Structure of Lycidas” 20).</ref> In the Immortality Ode, the contrast between the mutable and eternal worlds is perfectly expressed in the Alexandrines which conclude stanzas I and IX: "The things which I have seen I now can see no more" (9) versus "And hear the mighty waters rolling evermore" (168; PW IV: 279, 284). In all three poems, the sound of the syllable ''or'' encircles or symbolically encloses a thematic progression to an ultimate resolution. The repeated sound is thus spread over so many lines that it cannot so much be identified by an auditory memory of something heard by the physical ear as by the mind's contemplation of a formal concept. By this paradoxical means, a sound, which, like music, is a phenomenon experienced in time, serves an architectural purpose, which originates in space. In this respect, the abstract forms of each poem rely, at their highest degree of symbolism, on the geometry of the divine proportion or golden section; detailed discussions of such formal sophistications have appeared at length and are not needed here except to emphasize that the placement and use of the syllable ''or'' is synchronized with the placement and use of such abstract forms.<ref>See Johnson (''Wordsworth's Metaphysical Verse'' 202–211), and, for “Lycidas,” the same author's “Milton's Mathematical Symbol of Theodicy” (25–26)</ref>
+
+<!--Paragraph 19-->
+The aim of much traditional scholarship is to attain a definitive treatment of a subject, but such an attainment is unlikely on the question of formal interrelationships among the Fourth Eclogue, ''Lycidas'', and the Immortality Ode. Is the significant appearance of the syllable ''or'' a mere coincidence, for example, or is it deliberate? If one concedes that it may be deliberate, in what sense does it constitute an allusion by Wordsworth to Milton and Vergil in the way that the repetition of a key image or phrase constitutes an allusion? There is no way to answer the question conclusively, but one might suspect that, in the Immortality Ode, the formal use of the syllable ''or'' is not so much an allusion to, but an incarnation of, ''Lycidas'' and the Fourth Eclogue in Wordsworth's great Ode. That is to say, when Wordsworth uses "paulo maiora canamus" as his working epigraph, the verbal allusion reaches out to Vergil's poem; but when the syllable ''or'' becomes a small yet formal mainspring of Wordsworth's poem, the very nature of Vergil's Eclogue and, of course, of Milton's elegy, as well, is embodied as a presence in the very texture of Wordsworth's ode. The syllable ''or'', being linked to words of prophetic and redemptive signification, becomes a way in which Wordsworth can bring into his ode, even on the smallest scale, the conceptual and visionary ontology of his precursors. Again, whereas language looks outwards to find significance, symbolic pattern, working inwards, incarnates the significance that has already been posited from without. The Immortality Ode, in this sense, does not merely allude to but embodies Vergilian and Miltonic presences. As such, the ode's generic and archetypal expression, which has bewildered so many Wordsworthians who are accustomed to detailed and specific descriptions of nature, is "timeless" in its ability to integrate the themes and artistry of three great and widely separated works into one. In this way, the great Ode allows us to glimpse into the heart of the creative process as it has inspirited three of the most complex and gifted of poets.
+
+<!--Paragraph 20-->
+Our final example, the sonnet "Mutability," furnishes a parallel to Coleridge's "Ne Plus Ultra" in its evocation of a tradition rather than an individual sensibility. Despite being a sonnet, "Mutability" no more displays the presence of Milton than that of Spenser, Sidney, or any other Renaissance figure who has dealt with the theme of mutability or with the sonnet-form itself. Instead, Wordsworth individualizes a tradition by creating an unusual emblematic lyric that might appear to us as a Romantic metaphysical poem. The rising and falling of the musical scale is associated with the dynamics of mutability. The fixed, symbolic form of the poem, as defined by its rhymes, circumscribes that negative dynamism. Any structural distinction, for example, between octave and sestet, is secondary to the rhymes that encircle the sonnet and call attention to the middle of the symbolic circle thus created, which resides in the seventh and eighth lines: "Truth fails not; but her outward forms that bear / The longest date do melt like frosty rime" (PW III: 401). Here, in brief, is the Platonic heart of the poem and the middle of the sonnet's encircling rhymes that show how even mutability conforms to order. Generically similar in its emblematic form to the ring structure of Coleridge's "Ne Plus Ultra," the midpoint of "Mutability" relies on the idea of a positive rather than a negative presence, one that emanates from a higher plane than that represented by mutability or any other agent whose being is dependent on a pre-existing good. The main allusion in Wordsworth's poem is a self-quotation; the wonderful line "The unimaginable touch of Time" is recalled verbatim from the juvenile work "Fragment of a 'Gothic' Tale" (PW I: 288). To Wordsworth, the self-quotation may have additionally represented a touch of permanence running through more than three decades of change between his earlier and later life in the kind of assertion of continuing presence that is so familiar from his works in blank verse.
+
+<!--Paragraph 21-->
+We began by observing that there is no standard work on the nature of literary allusion, and our examples may indicate why it is such a vexed and complex issue. In some instances, there is a case to be made for replacing the idea of an allusion with the idea of a copresence, especially if, instead of a verbal reference to an earlier work, the formal properties of the earlier work are incorporated into the form of the later one. The resulting effect is a sense of incarnational presence, whether of an individual or a tradition. In ''Real Presences'', George Steiner has called upon the nature of music as a way of challenging the philosophical nihilism and solipsism of much modern literary theory, especially in its deconstructionist aspects: "It is in and through music that we are most immediately in the presence of the logically, of the verbally inexpressible but wholly palpable energy in being that communicates to our senses and to our reflection what little we can grasp of the naked wonder of life."<ref>See Steiner (216–17).</ref> What Steiner has intuited about the relationship of music to the rich possibilities of being is another and specific instance of our larger attention to the nature of mathematical pattern in relation to mathematical reality and to the nature of symbolic metrical form in its embodiment of poetic realities and presences beyond those named by words. In our examples from ''Dejection: An Ode'' and the Immortality Ode, we have seen how the evocation of presence indicates even their subtlest differences as Coleridge dramatically draws upon the Nativity Ode for a renewal of imaginative energy and as Wordsworth integrates the Fourth Eclogue and ''Lycidas'' into his ode and its vision of the prophetic and ontological contexts of our very being. All these measures have a metaphysical and spiritual character, of course, and, as such, are an inherent part of the human psyche. It is no surprise, then, that, even in the 20th century, poetic copresences are essential to verse of major proportions. In the second part of "Little Gidding," for example, Eliot's "familiar compound ghost" (95) is incarnated in an adaptation of Dante's ''terza rima''.<ref>See Eliot (“Little Gidding” 53).</ref> Throughout his career, Eliot had alluded to Dante; here, however, Dante is directly incorporated into Eliot's poem as one whose art is immediately relevant to the figure of "some dead master" (92), the presence who embodies the timeless and metaphysical dimension of reality. Although proficient in many forms of free or non-metrical verse, Eliot resorts to metrical pattern when language must transcend its limitations and the poem must attempt a non-verbal incarnation of presence. In "Little Gidding," as in our Romantic examples, Steiner's conclusion is justified: "I have, before, cited some of those who know best: the poets, the artists. I have found no deconstructionist among them. I have found none who can, in conscience, accept the constraints on permissible discourse prescribed by logical atomism, logical positivism, scientific proof-values or, in a far more pervasive sense, by liberal scepticism" (Steiner 227). Let us qualify Steiner's views by observing that even a scientist must have faith that the universe existed long before we emerged to describe it, that it will continue to exist if we, as a species, pass away, and that its existence is, in short, not contingent on our equations and observations which nevertheless capture, in some fashion, its nature, its presence. In a more complex way that involves metaphysical referentiality, that is what, as we have seen, poetic copresences evoke from the "legend-laden" world.
+
+<!--Paragraph 22-->
+A final assessment of the nature of interactions in a copresence is probably too complex ever to be definitive. Although unavoidably speculative, any conclusion, such as the one we may now consider, needs to distinguish between a contemporary's use of a predecessor and their participation in a conceptual and symbolic field that transcends them both. If the terms in which the predecessor is recreated by the contemporary are simply assertions of the latter's control and power, the encounter is a mere act of psychic cannibalism—nothing more. It seems clear, however, that the copresence of Herbert in Vaughan's poetry is not that of an individual but the form of a soul contemplated, as it were, under the eye of eternity. What is being appropriated is not something Vaughan as an individual can possess. Although an element of psychic cannibalism may at first seem to be present in Coleridge's evocations of Milton, the emphasis is not on Milton but on the figure of the prophetic poet and the symbolic forms of that poetry which, when recreated, may inspire a similar transcendence of individual circumstance in the later poet. Historically, Coleridge's treatment of Milton (and even Wordsworth) as a poetic symbol of the prophetic figure is the most advanced instance of identifying the ideal "poetical character" that appears repeatedly in the verse and critical prose of the late 18<sup>th</sup> and early 19<sup>th</sup> centuries. Accordingly, in his great Ode, Wordsworth goes beyond his immediate circumstances to occupy a symbolic literary space with Milton and Vergil who appear not so much as individual poets but as the highest representatives of poetry's timeless task of gauging things temporal in relation to things eternal. In a similar way, Eliot's Dante merges into the "familiar compound ghost" that lies beyond individual desire or control.
+
+<!--Paragraph 23-->
+The idea that the initiator of a copresence is creating something beyond the initiator's final control may seem perplexing but is clarified by the analogy of mathematical concepts. From Plato to Penrose, there is a sense that, in some respects, we discover and participate in a pre-existent mathematical reality that is therefore not entirely of our own making. Its status as an independent world parallels the symbolic field that ultimately supports the metaphysical nature of a literary copresence. It is a parallel that was so well understood by Wordsworth, whose Wanderer, in wrestling with his deity, asserts that moral law and mathematical truth ("Whose kingdom is, where time and space are not" [PW V: 76]) are transcendent hallmarks of the divine nature itself:
+
+<blockquote>
+<poem>
+For adoration thou endur'st; endure
+For consciousness the motions of thy will;
+For apprehension those transcendent truths
+Of the pure intellect, that stand as laws
+(Submission constituting strength and power)
+Even to thy Being's infinite majesty! 
+:''The Excursion'', IV: 94–99
+</poem>
+</blockquote>
+
+<!--Paragraph 24-->
+Contemplation of the divine nature as a copresence evokes laws that lie at the antipodes from mutable, temporal conditions. For the most part, those conditions account for our verbal languages, which, by definition, cannot forge names for the unnameable. The symbolic languages of mathematics and, by analogy, of incarnational forms in literary copresences have been employed as ways of extending a sense of the ontological richness of reality. They constitute an archetypal language and a set of symbolic forms that seem to lie at the heart of, or are at least consistent with, the intense literary relationships that transform conventional allusions into symbolic copresences and take both poet and reader beyond the limitations of language and self.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Bate, Walter Jackson. ''The Burden of the Past and the English Poet.'' Cambridge, Mass.: Belknap P, 1970.
+* Bloom, Harold. ''The Anxiety of Influence.'' New York: Oxford UP, 1973.
+* Chaitlin, Gregory. ''The Limits of Mathematics.'' New York: Springer, 1997.
+* Coleridge, Samuel Taylor. "Dejection: An Ode." ''Coleridge's Poems.'' Vol. 1. Ed. Ernest Hartley Coleridge. Oxford: Clarendon P, 1962.
+* -----. "Ne Plus Ultra." ''Coleridge's Poems.'' Vol. 1. Ed. Ernest Hartley Coleridge. Oxford: Clarendon P, 1962.
+* -----. "To William Wordsworth." ''Coleridge's Poems.'' Vol. 1. Ed. Ernest Hartley Coleridge. Oxford: Clarendon P, 1962.
+* Edinger, H. G. "Paulo Maiora Canamus." ''Vergilius'' 14 (1968).
+* Eliot, T.S. "Easter Coker." ''Four Quartets''. London: Faber and Faber, 1959.
+* -----. "Little Gidding." ''Four Quartets.'' London: Faber and Faber, 1959.
+* Hersh, Reuben. ''What is Mathematics Really?'' New York: Oxford UP, 1997.
+* Huntley, H. E. ''The Divine Proportion: A Study in Mathematical Beauty.'' New York: Dover Publications, 1970.
+* Johnson, Lee M. "Milton's Blank Verse Sonnets." ''Milton Studies'' 5 (1973): 129–53.
+* -----. "Milton's Mathematical Symbol of Theodicy." ''Symmetry: Unifying Human Understanding.'' Ed. Istvan Hargittai. New York: Pergamon P, 1986.
+* -----. "Virgil, Wordsworth, and the Power of Sound. ''Mosaic'' 8 (1979): 93–109.
+* -----. ''Wordsworth's Metaphysical Verse: Geometry, Nature, and Form.'' Toronto: U of Toronto P, 1982.
+* Keats, John. "The Fall of the Hyperion." ''The Poetical Works of John Keats.'' Ed. H.W. Garrod. Oxford: Clarendon P, 1958. 507–523.
+* Milton, John. "Lycidas." ''John Milton: Complete Poems and Major Prose.'' Ed. Merritt Y. Hughes. New York: Odyssey P, 1957.
+* -----. "On the Morning of Christ's Nativity." ''John Milton: Complete Poems and Major Prose.'' Ed. Merritt Y. Hughes. New York: Odyssey P, 1957.
+* -----. "Paradise Lost." ''John Milton: Complete Poems and Major Prose.'' Ed. Merritt Y. Hughes. New York: Odyssey P, 1957.
+* Oras, Ants. "Milton's Early Rhyme Schemes and the Structure of ''Lycidas''." ''Modern Philology'' 52 (1952): 20.
+* Pasco, Allan H. ''Allusion: The Literary Graft.'' Toronto: U of Toronto P, 1994.
+* Penrose, Roger. ''Shadows of the Mind: A Search for the Missing Science of Consciousness.'' Oxford: Oxford UP, 1994.
+* Pucci, Joseph. ''The Full-Knowing Reader: Allusion and the Power of the Reader in the Western Literary Tradition.'' New Haven: Yale UP, 1998.
+* Robinson, H. C. ''Henry Crabb Robinson on Writers and Their Work.'' Ed. Edith J. Morely. London: J. M. Dent, 1938.
+* Smith, A.J. ''Metaphysical Wit.'' Cambridge: Cambridge UP, 1991.
+* Stanwood, P.G. and Lee M. Johnson. "The Structure of Wit: Is All Good Structure in a Winding Stair?" ''The Wit of Seventeenth-Century Poetry.'' Eds. Claude J. Summers and Ted-Larry Pebworth. Columbia: U of Missouri P, 1995. 22–41.
+* Steiner, George. ''Real Presesnces.'' Chicago: U of Chicago P, 1989.
+* Vaughan, Henry. ''Silex Scintillans.'' London: 1650.
+* Wittreich, J. A. (Jr.) "Milton's 'Destin'd Urn': The Art of ''Lycidas.''" ''PMLA'' 84 (1969): 60–70.
+* Wordsworth, William. ''The Fourteen-Book Prelude''. Ed. W. J. B. Owen. Cornell: Cornell UP, 1985.
+* -----. "Notes." ''The Poetical Works of William Wordsworth.'' 2nd ed. Vol. 3. Ed. E. de Selincourt and Helen Darbishire. Oxford: Clarendon P, 1954.
+
+{{BookCat}}
