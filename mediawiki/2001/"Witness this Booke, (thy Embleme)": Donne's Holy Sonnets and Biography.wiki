@@ -1,0 +1,265 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/"Witness this Booke, (thy Embleme)": Donne's ''Holy Sonnets'' and Biography}}
+''This essay was written by Diana Treviño Benet''.
+
+<!--Paragraph 1-->
+John Donne's ''Holy Sonnets'' have not endured because they are good "devotional" poetry. Readers who turn to these poems expecting piety, guidance (however artful), or anything like the varied spiritual perspective of George Herbert, for instance, are bound to be surprised or disappointed. Donne's sonnets do not feature an everyman expressing typical Christian problems or aspirations. Quite the contrary. A unique voice compels our attention, thrilling us even before we understand precisely what it is saying, shattering the decorous bounds of devotion with its force of expression. The immense aesthetic pleasure afforded by these poems consists in large part of hearing a vivid and original voice that rings, as it considers religious subjects, not with anything as feeble as piety, but with wit, energy, and drama. The same voice animates the secular poems, and, from the beginning, it has been identified as the voice of John Donne.
+
+<!--Paragraph 2-->
+With the exception of biographers and cultural historians, who have linked the ''Holy Sonnets'' to problems or periods in Donne's life,<ref>R.C. Bald wrote that the ''Holy Sonnets'' depicted a spiritual crisis from which Donne eventually emerged as an assured Christian (235). John Carey thought that the same poems showed Donne's pain in trying to conform to the Anglican religion (57).</ref> most critics have avoided a discussion of their interpretive methods or assumptions. Though a substantial number of scholars have read the sonnets as descriptions of the poet's theology, their recourse to biography goes largely unremarked, as if what Donne felt or believed were less personal than the events and experiences that made up his life.<ref>See, for example, Stachniewski (677–705); Young; Low (201–221). Cf. Dennis Flynn who rejects the idea of a persona in a discussion of "To E. Of D." in order to identify the recipient of the poem and to date its composition. See also Richard Strier, who acknowledges his biographical assumption, however briefly: "Sometimes the poetic speaker is the historical author, or is a direct projection of him (or her)" (358).</ref> There are several reasons for the general repression of biography, the first being a distrust of the old approach that saw every line as a little window into the author's life or mind. Then there is our fondness for the New Criticism's "speaker," the product of our own close reading. No less important has been our ignorance of the reading and interpretive habits of the seventeenth century, to which is closely related our assumption that, as part of his "dramatic" style, Donne created dramatic, by which we mean fictional, speakers.
+
+<!--Paragraph 3-->
+Even if we want to broach the relation between the author and the voice the poems create or communicate, the matter is complex. The first audience of individual sonnets was Donne's coterie, a little world of readers who knew him personally and as love poet, satirist, elegist, and all-around wit and courtier. Possibly, some readers have theorized, Donne performed some of his poems before members of this coterie, interpreting (through demeanor, gesture, or tone) lines or whole poems that admit of various interpretations in print. At any rate, the qualities of verse written to a known and knowing audience helped to create something like a dramatic voice, since knowledgeable readers could be counted on to recognize ironies, exaggerations, and other signs of discrepancies between the actual writer and his poetic voice. Still, this reading competence required the coterie's knowledge of Donne's character and condition as the baseline against which to measure the accuracy or inaccuracy of his poetic self-projection. From members of Donne's coterie to the widening circle of acquaintance who might have seen a copy of a sonnet to readers of the first and second editions of the poems, Donne had contemporary readers with varying degrees of acquaintance with him (or with none), with varying abilities to estimate how closely the poetic voice could be identified with the author. But on the evidence of the 1633 and 1635 editions of ''Poems, By J. D.'' (the only contemporary evidence available), seventeenth-century readers identified the voice of the poems as Donne's.
+
+<!--Paragraph 4-->
+The interpretive assumptions of these readers merit our attention, first, because they tell us something about how Donne's contemporaries read poetry in general and Donne's in particular. Of course, this knowledge does not enable us to read the sonnets as early-modern people did; it does, however, reveal Donne's general expectation of how his verse would be read. Since the poet and his first print audiences agreed in the belief that an author's writing is his "emblem," my reading of the ''Holy Sonnets'' is an effort to describe the emblem Donne set before his readers. I shall look first at the biographical assumptions of Donne and his contemporaries. Then I shall summarize the current interest in reinserting the author into critical discourse and show that the authorial "emblem" of the seventeenth century has a counterpart in the "mask" or "persona" that is part of a present-day effort to redefine biographical criticism. A reading of the ''Holy Sonnets'' will follow, focusing on Donne's poetics of credibility, which depends on the persona of the Pauline striver, a mask Donne adopts as he turns from secular to religious poetry. A contextualization that considers in detail the interpretive practice of Donne's known readers, what we know about his career while he was composing some of the ''Holy Sonnets'', and the demands of writing for a coterie is clearly beyond the scope of this essay. My aim is to sketch a reading of the ''Holy Sonnets'' that is nuanced by cultural as well as subjective factors, and to contribute to the reconsideration of biography that other scholars have initiated in Donne studies.
+
+<!--Paragraph 5-->
+In the 1633 edition of Donne's poetry, Thomas Browne titled his elegy "To the deceased Author, Upon the Promiscuous printing of his Poems, the Looser sort, with the Religious," with "Promiscuous" referring to the mixture of secular and sacred poems that made up the volume. The elegy declares that the poet's "Loose Raptures" express Donne's "wantonnesse," his "Wanton Story," and his "Confession."<ref>Browne, "Jo. Mar.," and Mayne are quoted in Smith (84–98). For discussion of the elegies on Donne's death, see Gottlieb (23–38); and, especially for a discussion of Browne and Walton, see Fallon (197–212).</ref> Browne interpreted literally the convention that a book portrays its author, and he was not the only one to do so. "Jo. Mar.," probably John Marston, after calling Donne's "last preach'd, and printed Booke, / His Picture in a sheet," and comparing it to the "Statue in a sheet of stone" in St. Paul's, concludes with praise for ''Poems, by J. D.'':
+
+<blockquote>
+<poem>
+Those sheetes present him dead, these if you buy,
+You have him living to Eternity.
+</poem>
+</blockquote>
+
+Writing about Donne's love poems, Jasper Mayne also assumed that they represented the poet and, specifically, his experiences in love. He advises "Poore Suburbe Wits" to "learne to Court" from Donne, who could "move / A Cloystred coldnesse, or a Vestall love." Mayne excuses himself for introducing this "low praise," which is "onely for [Donne's] yonger dayes."
+
+<!--Paragraph 6-->
+Precisely because contemporaries believed the poetry portrayed Donne, the editor of the second edition (probably Izaak Walton) deliberately created what he considered a more accurate image. He sorted the poems (setting the familiar order in which the "Songs and Sonnets" are far from the concluding "Divine Poems") and omitted Browne's tribute, probably because the 1635 edition was no longer a "promiscuous" mixture. Besides, in its other comments, Browne's poem stated what all thought but may not have wanted to emphasize, that Donne's life was, in part at least, a "Wanton Story." The 1635 editor also added a frontispiece picture of Donne as a youth with an epigram by Walton beneath it:
+
+<blockquote>
+<poem>
+This was for youth, Strength, Mirth, and wit that Time
+Most count their golden Age; but t'was not thine.
+Thine was thy later yeares, so much refind
+From youths Drosse, Mirth, and wit; as thy pure mind
+Thought (like the Angels) nothing but the Praise
+Of thy Creator, in those last, best Dayes.
+Witnes this Booke, (thy Embleme) which begins
+With Love; but endes, with Sighes, and Teares for sins.<ref>Smith (100).</ref>
+</poem>
+</blockquote>
+
+In referring to Donne's book as his "Emblem," Walton merely repeats more artfully what the other poets had said: a direct relationship exists between Donne's life and his art. The poetry is a representation, an image, of the poet. Since an "emblem" is more specifically "A drawing or picture expressing a moral fable" (''OED''), Walton also underlines the moral hinted at in the arc of Donne's life: beginning with the "Drosse" of love, it ends with "Teares for sins." The new emblem created by the "new" book, and the new epigram all match; the book reflects the life.
+
+<!--Paragraph 7-->
+The wholesale identification of Donne's poetry with his life may offend modern readers; but the poet encouraged contemporaries to make the connection. In a sermon Donne unequivocally linked his secular poetry with his youth at Lincoln's Inn: "I saw it was thought wit, to make Sonnets of their own sinnes. . . . I sinn'd not for the pleasure I had in the sin, but for the pride that I had to write feelingly of it."<ref>Quoted in Marotti (67).</ref> As for the blatant editorial shaping of the 1635 edition, it is undeniably truer than the 1633 volume to the overall trajectory of Donne's life, in which a racy youth was followed (eventually) by pious maturity. Moreover, Donne himself promoted that view of his life when he referred in 1619 to ''Biathanatos'' as a "Book written by ''Jack Donne,'' and not by ''D. Donne.''"<ref>See Hester (22).</ref> Thus he authorized the representation of his life as broken into two distinct phases of youth and maturity, with his writing reflecting one phase or the other. Long after Donne's and his memorialists' split characterization, other contemporaries referred to the same pattern. In 1643, Richard Baker wrote about his "old acquaintance,"
+
+<blockquote>
+: Mr. ''John Dunne,'' who leaving ''Oxford,'' lived at the ''Innes of Court,'' not dissolute, but very neat; a great visiter of Ladies, a great frequenter of Playes, a great writer of conceited Verses; until such time as King ''James'' taking notice of the pregnancy of his Wit, was a meanes that he betooke him to the study of Divinity.<ref>Smith (126).</ref>
+</blockquote>
+
+Except Browne, all of the aforementioned follow the Dean's lead in depicting his life as split into a before-and-after pattern. Donne, Browne, Marston, Mayne, Walton, and Baker, all posit a direct relationship between Donne's life and his art, interpreting his writing as his emblem or representation. Some years later, writing in the poet's biography about his struggles before taking Orders, Walton compared them to the strife preceding Augustine's conversion.<ref>See Walton (258).</ref>
+
+<!--Paragraph 8-->
+Despite their acceptance of the pattern that divides life and poems so neatly in two, contemporary readers were not naive about an author's self-presentation. Ben Jonson's "To Heaven" addresses the seeming disjunction between the secular and devotional voices in his poetry:
+
+<blockquote>
+<poem>
+Good, and great God, can I not thinke of thee,
+But it must, straight, my melancholy bee?
+Is it interpreted in me disease,
+That, laden with my sinnes, I seeke for ease?
+O, be thou witnesse, that the reynes dost know,
+And hearts of all, if I be sad for show,
+And judge me after: if I dare pretend
+To ought but grace, or ayme at other end.<ref>Quoted from ''The Complete Poetry of Ben Jonson'' (ed. William B. Hunter).</ref>
+</poem>
+</blockquote>
+
+"To Heaven" is the sole religious poem in ''The Forest,'' and Jonson wrote only five others (two appear in ''Epigrams'' and three in ''Underwood''). Obviously Jonson's contemporaries did not think of the playwright as a person likely to feel burdened by sin. Instead, the poet complains, when he turns to God, people suspect that he is ill or feigns remorse for ulterior motives. Jonson and his readers take for granted that he is the speaker of his poems. The poet wants only to persuade them that he genuinely suffers the spiritual pain he claims.
+
+<!--Paragraph 9-->
+If Jonson's poem indicates the general awareness that a poet can fake emotions or concerns "for show," intending something other than his stated "ayme," other texts suggest that when it came to devotional literature, poets and public were especially sensitive to the connection between the author and his work. George Herbert was said to have characterized ''The Temple'' as "a picture of the many spirituall Conflicts that have past betwixt God and my Soul"; Nicholas Ferrar vouched that the book was the emblem of a man who was "a companion to the primitive Saints, and a pattern or more for the age he lived in." A real or seeming disjunction between author and theme, as in the case of Jonson or other secular poets who turned to spiritual subjects, required circumspection. Thomas Carew, for instance, complimenting George Sandys "on his translation of the Psalmes," assumed that readers would identify him, Carew, not with his own metrical versions of the Psalms, but with his more typical works; "My unwasht Muse, polutes not things Divine, / Nor mingles her prophaner notes with thine." Praise requires Carew to assert the power of Sandys' work, but awareness of his own reputation stops him from claiming that his friend's translations will transform him: "Who knows," the poet speculates, but that his muse's "wandring eyes that run, / Now hunting Glow-wormes, may adore the Sun." Anything is possible.<ref>Herbert and Ferrar are quoted from ''The Works of George Herbert,'' ed. F. E. Hutchinson; Carew from ''The Poems of Thomas Carew with his Masque "Coelum Britannicum,"'' ed. Rhodes Dunlap.</ref>
+
+<!--Paragraph 10-->
+With its need to justify Jonson's poetic voice as the reflection of his actual life, "To Heaven" implies the absence of a conception of a "speaker" akin to a dramatic personage whom readers could infer from individual poems. Indeed, as Jonson and Donne's encomniasts imply, unless early-modern readers were specifically informed to the contrary, they assumed that the voice that spoke in a poem was the author's. Of course historical, biblical, or invented characters spoke in verse. But these were identified in titles (like Jonson's "In the Person of Womankind") or easily identifiable by differing obviously and radically (as in gender) from the author.<ref>Satire was the poetic genre in which a dramatic speaker was assumed. See Lodge (1:80).</ref> Apart from such specific cases, readers identified the poet as the speaker of his poem and, as "To Heaven" and the elegies on Donne indicate, they expected that the poem would reflect, in some measure, the author's life and ethos. The Jonson and Carew poems further imply the expectation that a writer's self-representation will conform to what readers consider his characteristic traits, interests, and concerns. Jonson's protestations reveal the disbelief or suspicion that could ensue when the poet's self-projection deviated substantially from its usual appearance. "To Heaven" depicts the reaction that Donne, as a secular poet, could anticipate when he turned to spiritual matters.
+
+<!--Paragraph 11-->
+Given the seventeenth-century practice of reading poetry biographically and the fact that Donne's first, coterie audience would have had particular expectations of this poet, the emblem that he put before his readers in the ''Holy Sonnets'', his most sustained mode of spiritual expression, merits our attention. As we have seen, the before-and-after representation promoted by the churchman in his late forties led contemporaries like Walton to make a sharp division between secular and religious poems. But Walton "knew him [and his poetry] only in later life,"<ref>See Carey (22).</ref> and the information we have about Donne's writing and life does not support an abrupt, radical division. Whereas Walton imagined a diptych of contrasting emblems, a reading that recognizes the pressures exerted by the sonnets' first audience, and their "mixture of secular and religious intentions"<ref>See Marotti (245).</ref> produces a more nuanced image.
+
+<!--Paragraph 12-->
+I propose to read the ''Holy Sonnets'' as Walton and Donne's other elegists did, as emblems of the author. But though my approach bears that resemblance to the unself-conscious practice of the poet's contemporaries, it is inspired by the current reconsideration of biographical criticism. There is a growing recognition that biography is a form of history that it is counterproductive to ignore, as Annabel Patterson remarked some time ago: "'Intertextuality' . . . does not compare for interpretive rigor with the older concept of a poet's career, as the first context with which any interpretation must engage."<ref>See Patterson (151).</ref> Stanley Fish considers biography the ineluctable foundation of interpretation. He argues that whether we focus on an individual author or on one of the "transcendental anonymities" into which some critics believe the author has dissolved, it is not possible to divorce "meaning . . . from questions of biography and intention"<ref>See Fish (10). Other quotations from this article in this paragraph are cited parenthetically by page number.</ref> because all meaning is contextual:
+
+<blockquote>
+The critic who decides to ignore Milton's religious views and treat ''Lycidas'' as a poem has not chosen ''against'' biography but rather has chosen one kind of biography over another. Instead of reading within the assumption of a religious intention that critic will be reading within the assumption of a poetic intention; the meanings he or she assigns will be meanings that could have been intended by a person who was working in a poetic tradition. (12)
+</blockquote>
+
+But Fish does not suggest that we revert to a biographical approach that means "busy[ing] ourselves with the day-to-day details" of the author's life (15), and I do not propose to read the ''Holy Sonnets'' as if they were entries in Donne's spiritual diary or versified statements of his theology.
+
+<!--Paragraph 13-->
+Undoubtedly, historicism and cultural studies have renewed interest in issues that, until recently, concerned only biographers, such as the relationships between literary works and the personal and social life. But rather than narrowing the focus of interpretation to the individual life and consciousness, these approaches broaden it outward from author and text to their larger social contexts. These critical perspectives, encouraging awareness of the embeddedness of texts in their milieux, have demonstrated the power of different kinds of materials and contexts to expand our understanding. More than anything else in Donne studies, Arthur Marotti's ''John Donne: Coterie Poet'' has been persuasive in reinforcing the argument that "it is important to define the particular biographical and social contexts in which [Donne's works] were composed and read" because the crucial knowledge that his coterie brought to their reading is otherwise lost.<ref>See Marotti (152).</ref>
+
+<!--Paragraph 14-->
+The tenets of a new biographical approach will continue to emerge as more scholars see the desirability of reconstituting authors (together with their cultural contexts) for the sake of better understanding literary texts. Curiously, however, a recent version of biographical criticism has an intriguing similarity to the approach that we inferred from the comments of Donne's contemporaries. "Persona criticism," which Cheryl Walker defines in her feminist reading of Elinor Wylie, adapts the old term "persona" to mean "a mask that may be related simultaneously to the biographical data available about the author and to other cultural and literary voices."<ref>See Walker, "Persona Criticism and the Death of the Author," in ''Contesting the Subject'' (114).</ref> A persona, that is, is a culturally significant figure available to the various artists and people of the same time and place (114). For example, other seventeenth-century people might have cast themselves or others in the Augustinian persona that Walton eventually claimed for Donne in his biography: it was a persona imbued with significance for the whole spiritually-informed culture. Walker points out that a mask is superior to a human being as an object of analysis because the mask
+
+<blockquote>
+is limited, identifiable, constructed, and without intentions. . . .[T]he persona is almost
+precisely opposite to the historical subject-author in that it functions like an outline, a
+potentiality, rather than a fulness. (115)
+</blockquote>
+
+Persona criticism proceeds first by identifying the characteristics of the author-mask in the literary works under analysis; subsequently, it explores "the way these effects (this voice or character) come out of a particular time and place at the intersection of psychological and cultural history" (114).
+
+<!--Paragraph 15-->
+Obviously, persona criticism is similar to the seventeenth-century practice of identifying the author with the emblem, the representation or persona that emerges from the literary work. But the differences between the old assumptions and the new biographical strategy are crucial. Walton and his contemporaries considered the emblem a more or less realistic representation of the actual person; Walker emphasizes that the persona is a construct and a figure with cultural as well as individual significance. Thus defining the mask moves it beyond questions of "sincerity" and beyond the limitations of the merely personal. In not privileging individual subjectivity over historical and cultural contexts, persona criticism, like Marotti's historicist-cultural approach, is an important modification of a simpler biographical criticism. It, too, argues the necessity of identifying "the circumstances that govern relations between authors and texts."<ref>''Ibid.'' (110).</ref> Where Marotti reads the poems as "rhetorical enactments of [Donne's] relationships to peers and superiors,"<ref>See Marotti (xi).</ref> I am interested here in the mask Donne presents to his readers in the specific circumstances of departing from his secular poetic persona.
+
+<!--Paragraph 16-->
+Marotti has written about the shifting status of religious verse in the reign of James and about the particulars of Donne's situation that probably inspired him to turn to sacred poetry even as he still sought secular preferment. He concedes that the religious poems "no doubt express Donne's private, psychological, religious, and moral struggles."<ref>''Ibid.'' (245). Other quotations of ''Coterie Poet'' in this paragraph are cited parenthetically by page number.</ref> But, reminding us that the poet wrote secular and religious works during the same period (182), and apprising us that he used some sonnets to try to win patronage (245), he gives equal weight to the poems' social aspect: "Like Donne's other coterie writings, the ''Holy Sonnets'' are witty performances that exploited a knowledgeable audience's awareness of their author's personal situation and history" (251). At the same time that Donne exploited his first audience's knowledge of himself, his circle's knowledge presented him with a challenge as he shifted from a decidedly worldly to a spiritual perspective. The nature of the ''Holy Sonnets'' was dictated, at least in part, by Donne's need to account for a self-representation that differed from his earlier written selves. To negotiate the transition, Donne fashioned a poetics of credibility whose linchpin is the mask of the Pauline striver, a figure that combines a great sense of sinfulness with an effortful spirituality based on fear.
+
+<!--Paragraph 17-->
+Donne might have been describing his own poetic practice in a sermon preached to Queen Anne at Denmark-House in 1617:
+
+<blockquote>
+[T]he Prophets, and the other Secretaries of the holy Ghost in penning the books of Scriptures, do for the most part retain, and express in their writings some impressions, and some air of their former professions . . . And, according to this Rule too, ''Salomon,'' whose disposition was amorous, and excessive in the love of women, when he turn'd to God, he departed not utterly from his old phrase and language, but having put a new, and a spiritual tincture, and form and habit into all his thoughts, and words, he conveys all his loving approaches and applications to God.<ref>See Donne (''Selected Prose'' 144–45).</ref>
+</blockquote>
+
+The poet "whose disposition was amorous" fashions a poetics for the ''Holy Sonnets'' that emphasizes their stylistic and moral continuities with his secular and other sacred poems. This consistency amidst a great change is Donne's subtle assertion that the spiritual poems represent him accurately.
+
+<!--Paragraph 18-->
+Similarities of style, tone, and taste link the secular and divine poems, mitigating potential readerly unease about the change in Donne's subject matter. The poet declares in "Oh, to vex me" that the voice heard by God and his past mistresses is the same, an easily verifiable claim. In "If poysonous mineralls," Donne disputes with God as readily as he argues with lovers and others in the secular poems. "Batter my heart" features the imperious tone characteristic of such poems as "The Sunne Rising." Like some of the secular poems, some of the sonnets seem to be purely intellectual exercises, albeit in dramatic form: "This is my playes last scene" and "Death be not proud" give different answers to the question of whether death is fearful. The love of paradox is equally prominent in the secular and divine poems: "Why are wee by all creatures" seems to answer "If poysonous mineralls" and both, together with "Spit in my face," explore the paradox of a god who dies for his unworthy creatures. Perhaps most tellingly, the shock tactics deployed in some elegies and satires also feature in the ''Holy Sonnets''. "Spit in my face," for instance, finds Donne painting himself as a sinful Jesus, deserving crucifixion, before he settles for being the lone crucifier of the savior. "Show me deare Christ" shows Donne's penchant for conflating the sacred and the amorous in imagery that casts the Church as a loose woman.
+
+<!--Paragraph 19-->
+In seven of the ''Holy Sonnets'', Donne points deliberately to another of his literary masks. The poet remembers the "fire / Of lust" and his words to "profane mistresses" ("I am a little world"; "What if this present").<ref>Donne's poems are quoted from ''The Complete Poetry of John Donne,'' ed. John T. Shawcross.</ref> Now he laments the tears wasted in past idolatry ("O might those sighes"). But though he knows how "idolatrous lovers weepe and mourne" ("If faithfull soules"), he admits that his "amorous soul" ("Show me deare Christ") was led to divine love by the earthly variety ("Since she whome I lov'd"). But the connection between sacred and "profane Love" is not always so beneficial, according to "Oh, to vex me." Moreover, the Christian persists in familiar but inappropriate attitudes. An annoyed Donne admits in "Oh, to vex me," for example, that sensually- or spiritually-motivated, he is the same lover: his "ridlingly distemperd" emotions and his strategies remain what they always were. In "O might those sighes," he complains that as he suffered in idolatrous love, so he suffers in its holy counterpart. Although the poem describes a radical shift in orientation, readers familiar with Donne's secular poetry would not see a drastic change in the tone of his emotional life.
+
+<!--Paragraph 20-->
+Presenting himself in the ''Holy Sonnets'' as the same (literary) character he always was, Donne offers the continuities linking his authorial self-projections as his spiritual bona fides. The spirited approach and the heightened, volatile emotions are the same in the service of sensual or divine love because he is the same person, the poet assures his reader. John Chudleigh, whose elegy appeared in the 1635 edition of the ''Poems'', makes some astute observations:
+
+<blockquote>
+<poem>
+He kept his loves, but not his objects; wit
+Hee did not banish, but transplanted it,
+Taught it his place and use, and brought it home
+To Pietie, which it doth best become;
+He shew'd us how for sinnes we ought to sigh,
+And how to sing Christs Epithalamy:
+The Altars had his fires, and there hee spoke
+Incense of loves, and fansies holy smoake.<ref>See Smith (111–2).</ref>
+</poem>
+</blockquote>
+
+Between his references to sighing, singing, and speaking, it is unclear whether Chudleigh refers to Donne's prose, sermons, or poetry. Finally, it does not matter because his subject is Donne's consistency. Beneath the seemingly radical change from love poet to priest, the elegist discerns the same fiery personality. Chudleigh, clearly noting the continuities of style, tone, and perspective that mark all the work, secular or religious, interprets Donne's poetics of credibility as a sign of sincerity.
+
+<!--Paragraph 21-->
+The Pauline striver is often the speaker of Donne's ''Holy Sonnets'', combining a great sense of sinfulness with an effortful spirituality based on fear. Glancing back to a sensual perspective or straining toward a livelier faith, the ''Holy Sonnets'' document Donne's fitful shift from the natural man to the Pauline striver who "works out his own salvation in fear and trembling" (Phil. 2:12). Paul uses the last phrase four times to describe the Christian's proper attitude before his master.<ref>See I Cor. 2:3; 2 Cor. 7:15; Ephes. 6:5; and Phil. 2:12.</ref> In Philippians, he follows his recommendation of the effort it behooves Christians to make with the emphatic admission that he himself has not "already attained," is not "already perfect," as he presses "toward the mark for the prize of the high calling of God" (Phil. 3:12–14). In Donne's ''Holy Sonnets,'' the combination of acknowledged imperfection and strenuous effort prompted by a cultivated fear forms the pattern of the Pauline striver, a credible mask for the poet whose previous self-projection was "wanton."
+
+<!--Paragraph 22-->
+The ''Holy Sonnets'' are not the poems of a mature Christian who consistently abhors, or absolutely renounces, sin. Over and over, declaring that the devil "usurpes" and "ravishes" his weak soul, the Pauline persona worries about his imperfection and instability. In spite of himself, the poet confesses, he betrays himself and is likely to act in his usual sinful way. The cunningly-made "little world" has been burned by "the fire / Of lust and envie" (10–11), and its flames have still not retired. "Teach mee how to repent," he cries in "At the round earths imagin'd corners" (13). He knows that, lacking firmness, he will "soone despaire" if help is not forthcoming ("As due by many titles," 12). The rhetorical fireworks of a poem like "Batter my heart" may obscure Donne's disappointed admissions that he is unable to give himself to God and that his repentant grief is not felt very keenly.
+
+<!--Paragraph 23-->
+Donne does not make excessive demands on readers' credulity regarding the origin of his spirituality, either. Though he gives himself credit for "valiantly" overstriding "hels wide mouth" (4) in "If faithfull soules," for example, he admits at the same time that the outward "circumstances and . . . signes" (6) of his life would not necessarily lead others to predict such a fate for him. Some kind of conversion experience may be implicit when an "idolatrous lover" changes spiritual direction, but Donne is prosaic in this regard. The ''Holy Sonnets,'' when they allude (however indirectly) to their genesis, indicate a circumstantial spirituality created by external events and capable mostly of showing the poet the desirability of changing his life. "Sickness, deaths herald" ignites his fear, and therefore his interest in repentance, according to "Oh my blacke Soule," "This is my playes last scene," and "Thou hast made me."
+
+<!--Paragraph 24-->
+Donne's chief concern in these extravagantly emotional sonnets is—paradoxically—a tepid spirituality. In "Oh my blacke Soule," for instance, illness exposes him as an evildoer who fears imminent punishment. Though he acknowledges insufficient contrition, he is incapable of doing as he knows he should. In "Spit in my face," the poet describes feeling simultaneously like a grievous sinner deserving crucifixion and a willing crucifier who does not sufficiently value the redemptive love of God. Appropriately, the Pauline striver fights his perceived lack of fervor with soliloquy, the devotional method of self-exhortation, and with the deliberate cultivation of holy fear. "Soliloquy[,] . . . a preaching to ones self," in Richard Baxter's succinct definition,<ref>Baxter is quoted by Lewalski (154).</ref> is Donne's most constant strategy in his struggles against indifference. The frequency with which he resorts to this devotional method reveals the extent to which he gauges his devotion as lukewarm.
+
+<!--Paragraph 25-->
+"Why are wee by all creatures" and "What if this present" are efforts to generate gratitude. Calling up images of the tear-filled eyes and bloody frowns of Christ in the latter poem, Donne conveys his perception of blunted sensibilities. The memory of "profane mistresses" (10) as he deliberately envisions the crucified savior, confirms that he is not ready for the "worlds last night," not altogether persuaded that the picture of Christ crucified is a beautiful sight. "Wilt thou love God" addresses the poet's perceived failure to love God enough. Conscientiously, almost ploddingly, he sets himself to work, meditating on the triune God, one person at a time, in order to emphasize how much God loves him. Donne's self-exhortations, efforts to excite his emotions, convey distress about what he characterizes as his spiritual superficiality. He judges as inadequate his feelings of contrition, repentance, gratitude, and love.
+
+<!--Paragraph 26-->
+Seven sonnets show Donne working to rouse his sluggish devotion by cultivating holy fear: "Oh my black Soule," "This is my playes last scene," "At the round earths imagin'd corners," "What if this present," "Thou hast made me," "I am a little world," and "Oh, to vex me." Responding directly to the Pauline injunction to "work out your own salvation with fear and trembling," these are powerful poems. Occasionally, however, their deliberate melodrama and sensationalism seem suspect and a purely rhetorical heat exposes the gap between effort and genuine devotion. "Thou hast made me," for instance, is overloaded with kinetic metaphors—running, freezing in immobility, falling, rising, and floating or flying, the poet seems too busy to be devout. Seen as exercises in the cultivation of "right fear," however, these sonnets take on a different complexion. In John Bunyan's ''Pilgrim's Progress,'' Christian asks Hope about men like Ignorance, who do not go on pilgrimage: "Have they at no time . . . convictions of sin, and so consequently fears that their state is dangerous?" Stressing that fear can lead people to make a start in faith, Hope answers that it "tends much to men's good, and to make them right at their beginning to go on Pilgrimage." The "right fear," as Christian explains, "is caused by saving convictions for sin"; "it driveth the soul to lay fast hold of Christ for salvation"; and "it makes the soul afraid to turn from God, his Words and Ways."<ref>See Harrison (149, 150–51, 152).</ref> The capacity of fear to call people to faith is so important that Christian warns against any inclination to avoid it. The ignorant who try to stifle it will backslide. "[A]s their sense of Hell and the fears of damnation chills and cools, so their desires for Heaven and Salvation cool also. . . .[T]he bottom of all is . . . want of a change in their minds and will." Fear is powerful because it has the power to change the sinful mind and will. Fear has the power to create a new man.
+
+<!--Paragraph 27-->
+Donne expresses a similar respect for the spiritual utility of fear. In Meditation VI of ''Devotions Upon Emergent Occasions,'' he observes the fear of his physician and reflects on the emotion. "[L]et me not, O Lord," he prays, "go about to overcome the sense of that fear, so far as to pretermit the fitting and preparing of myself for the worst that may be feared, the passage out of this life." Insofar as it inspires the Christian to turn to God, fear is vital:
+
+<blockquote>
+<poem>
+''The secret of the Lord is with them that fear him;'' the secret, the mystery of the right use of fear. Dost thou not mean this when thou sayest, ''we shall understand the fear of the Lord?'' Have it, and benefit by it; have it, and stand under it; be directed by it, and not be dejected with it.<ref>See Donne (''Devotions Upon Emergent Occasions'' 42, 39).</ref>
+</poem>
+</blockquote>
+
+Like Bunyan, Donne distinguishes the "right" fear from the ordinary feeling that produces dejection. He considers the fear of God a "secret" and a "mystery" because its operation and benefit may not be immediately apparent.
+
+<!--Paragraph 28-->
+The sonnets in which Donne employs strategies to create holy fear focus on death, judgment, or hell as he tries to feel the burden of sin or to experience fully his need to repent. Powerful images are the Pauline striver's self-prescribed antidote to sin and indifference. "Deaths herald" hales the soul and leads it off to execution; Death tears body and soul apart like the separable parts of a joint, and the soul sees God's awesome face. The terrified poet and Death run rapidly toward each other in one sonnet; in another, his soul and body must be burnt with the "fiery zeale" of God. Elsewhere, numberless souls find their bodies on Judgment Day, and in another poem "the worlds last night" leads to the bloody, frowning face of Christ. Such images are obvious efforts to arouse emotion, and entirely appropriate to a sinner at the beginning of his pilgrimage. Donne's declaration in "Oh, to vex me" that his best days are those when he "shakes with feare," confesses that he needs to stimulate the terror that convicts him of sin which, in turn, leads him to God.
+
+<!--Paragraph 29-->
+In the ''Devotions,'' Donne declares that the fear and the love of God are finally "inseparable."<ref>''Ibid.'' (41).</ref> "What if this present" is central among the sonnets of holy fear because it shows Donne moving from fear to love. At the beginning, the poem goes swiftly from one image or emotion to another:
+
+<blockquote>
+<poem>
+What if this present were the worlds last night?
+Marke in my heart, O Soule, where thou dost dwell,
+The picture of Christ crucified, and tell
+Whether that countenance can thee affright,
+Teares in his eyes quench the amasing light,
+Blood fills his frownes, which from his pierc'd head fell,
+And can that tongue adjudge thee unto hell,
+Which pray'd forgivenesse for his foes fierce spight?
+</poem>
+</blockquote>
+
+To juxtapose divine justice and love, Donne immediately displaces the thought of the last judgment with the disturbing, fearful face of redemption. The light in Christ's eyes is "amasing," and his agonized frowns are appropriate also to his role as the eternal judge. Remembering "the worlds last night" from the perspective of the Crucifixion, Donne superimposes the divine guise of judge on the savior; transformed by blood, tears, and forgiveness, Christ's frightening features become the image of compassion.
+
+<!--Paragraph 30-->
+The poet began his effort at reassurance by reminding himself that the picture of the crucified Christ is in his heart. As Donne and his reader know, this is the place lovers traditionally favor for the lady's portrait (witness "The Dampe" and "The Dreame"). Now this hint of the soul closeted in the heart with its beloved's picture reminds the poet of other loves:
+
+<blockquote>
+<poem>
+No, no; but as in my idolatrie
+I said to all my profane mistresses,
+Beauty, of pitty, foulnesse onely is
+A signe of rigour: so I say to thee,
+To wicked spirits are horrid shapes assign'd,
+This beauteous form assures a pitious mind.
+</poem>
+</blockquote>
+
+These lines achieve a remarkable density by being freighted, for the reader familiar with Donne's other persona, with textual memories. To read only the words would be to half-read the lines, missing the wealth of association that "idolatrie" immediately summons. Irresistibly, the lines recall the "Songs and Sonets"—the themes and flavor of the secular works as well as the specific poems (like "The Canonization" or "Air and Angels") featuring religious diction. The reader remembers what the poet remembers.
+
+<!--Paragraph 31-->
+Donne's tone is rueful as he recalls his other mask of sensual lover, and his former worship of false images. Nevertheless, the Pauline striver still uses the strategies perfected by the profane lover. He comforts his anxious soul with the same reasoning he used to persuade his mistress to "pitty," a strategy complicated for the reader by the awareness that truth was never the point of the lover's palaver to his mistresses. But Donne does not lie to himself; instead, he highlights the differences between idols and the true God, between sensual and divine love, and between his past and present perspectives. The false idols of his past required flattering persuasion to give the petitioner what he wanted. They could be lied to and, in fact, their beauty or foulness depended on whether or not they gave what the worshipper sought. On the cross, God gave sinners what they needed but could not ask for. The difference between the earlier and the present lover is best indicated by his awareness that true beauty belongs to God, whose "horrid" appearance on the cross expresses his love more clearly than anything else could do.
+
+<!--Paragraph 32-->
+"What if this present" portrays a rare instance in which Donne's former persona and his present one merge. Instead of seeming to be imported into the sonnet, Donne's past persona emerges subtly, from the image of Christ's picture hanging in his heart. Divine love reminds the poet of sensual love which had once reminded him, and reminds him again, of divine love. Though thinking of it saddens him, his former sin is not an impediment to his present assurance—far from it. His past is redeemed by his present understanding, but his present understanding is also informed by his past. What the poet spoke of as coercive flattery in human love is revealed as the truth of divine love: pity is the sign of beauty. The countenance of the suffering Christ cannot "affright" the Christian because it is the image of love.
+
+<!--Paragraph 33-->
+Like many of the ''Holy Sonnets,'' this poem emphasizes the poet's sense of sinful imperfection and his fears. Donne seems still close enough to his idolatry that its forms of petition and worship come naturally to mind when he approaches the true God. Of course, as he realizes, many differences separate his past and present loves. One of these is the desirability of fear in the context of eternal consequences, the holy fear that Donne considered in the ''Devotions:''
+
+<blockquote>
+: Many of the blessed martyrs have passed out of this life without any show of fear; but thy most blessed Son himself did not so. . . . Let me not therefore, O my God, be ashamed of these fears, but let me feel them to determine where his fear did, in a present submitting of all to thy will. And when thou shalt have . . . rectified my former presumptions and negligences with these fears, be pleased, O Lord, as one made so by thee, to think me fit for thee.<ref>''Ibid.'' (42).</ref>
+</blockquote>
+
+Finally, the fear the poet cultivates in the ''Holy Sonnets'' is the way he cultivates his acceptability to God in his developing spirituality. The Pauline striver works out his own salvation in fear and trembling, knowing that "it is God which worketh in [him]" (Phil. 2:13)—holy fear comes from a loving God intent on correcting the sinner.
+
+<!--Paragraph 34-->
+Of course the ''Holy Sonnets'' cannot reveal Donne's sincerity. But the poems can reveal intention, to the extent that it can be inferred from his accomplishment; they can reveal the persona he constructs.<ref>Walker argues that an author's "intentions are relevant but they are in no way definitive" (117).</ref> Like his contemporaries, Donne thought of the self-projection he presented in writing as his image or emblem. But whereas contemporary readers like Walton equated the poems with the life, persona criticism does not look to the poet's life to explicate the text or vice versa. It focuses, instead, on the composite mask that can be reconstructed from the poems and interprets it as any other aspect of the text can be interpreted. From this critical perspective, it is immaterial whether an infusion of grace or a practical impulse inspired Donne to write the sonnets. One advantage of persona criticism as a strategy for biographical interpretation is that it concerns itself in large part with recurring patterns in texts. One may quarrel with the significance of those patterns, but the disagreement is about texts and not about intangibles like the author's faith or frame of mind. Persona criticism attends to the particularities of the author's life and career as well as to their social and cultural contexts. Its praxis acknowledges that literary masks, no less than people, possess a cultural life; indeed, some masks possess, as John Milton wrote about books, "a potency of life in them to be as active as that soul whose progeny they are."
+
+<!--Paragraph 35-->
+John Donne wrote the ''Holy Sonnets'' with a keen awareness of the "life beyond life"<ref>See Milton's "Areopagitica" (720).</ref> of his poetically-constructed personae. When he turned his hand to religious poetry, he could not ignore the masks he had been constructing from the time he began writing and circulating poems. Because he wrote for a circle familiar with his life and his achieved literary identity—with his masks—he was compelled to reconceive his poetic persona and to situate it in some relation to its predecessors. Sprinkled with provocative references to the sensual amorist, the ''Holy Sonnets'' have as a major part of their project the creation of a plausible stance for the erstwhile lover, satirist, and elegist. The pressure of what Donne had previously circulated inspired a poetics of credibility consistent with his earlier self-representations. The continuities between Donne's secular and sacred poems are such that no one could doubt that he was the author of the ''Holy Sonnets.'' But the poet's typical strategies and his unmistakable voice served to flesh out the new persona of the Pauline striver, a man whose questionable past is not entirely past, a hard case who requires energetic self-talk and the deliberate arousal of fear to inspire him to devotion.
+
+<!--Paragraph 36-->
+Donne could not delete the lover or the occasionally coarse elegist from his coterie's collective mind, but he could assume a mask that did not actively solicit disbelief. The Pauline striver allows for moral inexactitude and a maximum of drama in the working out of salvation with fear and trembling. In this endeavour, Donne's efforts of self-exhortation and the arousal of fear are as creditable as tangible results. The Pauline striver, manifestly imperfect but exerting himself, is Donne's early Christian persona, a model of the effort, energy, and determination that he could muster to conform to the requirements of his master. A religion-oriented society preoccupied with spiritual development would have recognized this biblical persona and appreciated Donne's affirmation of powerful and transformative faith.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Bald, R.C. ''John Donne: A Life. ''Oxford: Oxford UP, 1970. 
+* Carey, John. ''John Donne: Life, Mind and Art''. New York: Oxford UP, 1981. 
+* Carew, Thomas. ''The Poems of Thomas Carew with his Masque “Coelum Britannicum”''. Ed. Rhodes Dunlap. 1949. Oxford: Clarendon P, 1970. 
+* Donne, John. ''The Complete Poetry of John Donne. ''Ed. John T. Shawcross. Garden City: Doubleday Anchor Books, 1967. 
+* -----. ''John Donne: Devotions Upon Emergent Occasions. Together with Death’s Duels. ''1959. Ann Arbor: U of Michigan P, 1990. 
+* -----. ''John Donne: Selected Prose. ''Ed. Neil Rhodes. New York: Viking Penguin, 1987. 
+* Fallon, Robert Thomas. “Donne’s ‘Strange Fire’ and the ‘Elegies on the Authors Death.’” ''John Donne Journal ''7 (1988): 197–212. 
+* Fish, Stanley. “Biography and Intention.” ''Contesting the Subject: Essays in Postmodern Theory and Practice of Biography and Biographical Criticism. ''Ed. William H. Epstein. West Lafayette, Indiana: Purdue UP, 1991. 
+* Flynn, Dennis. "'Awry and Squint': The Dating of Donne's ''Holy Sonnets.''" ''John Donne Journal'' 7 (1988): 35–46. 
+* Gottlieb, Sidney. “Elegies Upon the Author: Defining, Defending, and Surviving Donne.” ''John Donne Journal'' '' ''2 (1983): 23–38. 
+* Harrison, G.B. Introduction. ''Pilgrim’s Progress. ''By John Bunyan. 1907; Rev. 1954. New Jersey: Dutton, 1973. 
+* Herbert, George. ''The Works of George Herbert. '' Ed. F.E. Hutchinson. Oxford, Clarendon P, 1959. 
+* Hester, M. Thomas. Introduction. ''Letters to Severall Persons of Honour (1651)''. By John Donne. Delmar, NY: Scholars’ Facsimiles and Reprints, 1977.''' ''' 
+* Jonson, Ben. ''The Complete Poetry of Ben Jonson. ''Ed. William B. Hunter. 1963. New York: W.W. Norton, 1968. 
+* Lewalski, Barbara. ''Protestant Poetics and the Seventeenth-Century Religious Lyric''. Princeton: Princeton UP, 1979. 
+* Lodge, Thomas. ''Defense of Poetry''. In ''Elizabethan Critical Essays. ''Ed. G. Gregory Smith. Oxford: Clarendon P, 1904. 1.61–86. 
+* Low, Anthony. "John Donne: 'The Holy Ghost is Amorous in His Metaphors.'" in ''New Perspectives on the Seventeenth-Century Lyric. E''d. John R. Roberts. Columbia: U of Missouri P, 1994. 
+* Marotti, Arthur. ''John Donne, Coterie Poet''. Madison: U of Wisconsin P, 1986. 
+* Milton, John. “Areopagitica.” ''John Milton: Complete Poems and Major Prose. ''Ed. Merritt Y. Hughes. New York: Odyssey P, 1957. 
+* Patterson, Annabel. “Lyric and Society in Jonson’s ''Underwood''.” ''Lyric Poetry: Beyond New Criticism. ''Eds. Chaviva Hosek and Patricia Parker. Ithaca: Cornell UP, 1985. 
+* Smith, A.J., ed. ''John Donne: The Critical Heritage''. London and Boston: Routledge and Kegan Paul, 1975. 
+* Stachniewski, John. “John Donne: The Despair of the ‘''Holy Sonnets''.” ''English Literary History ''48 (1981): 677–705. 
+* Strier, Richard. "John Donne, Awry and Squint: The '''Holy Sonnets,' ''1608–1610." ''Modern Philology'' 86 (1989): 357–84. 
+* Walker, Cheryl. “Persona Criticism and the Death of the Author.” ''Contesting the Subject: Essays in Postmodern Theory and Practice of Biography and Biographical Criticism.'' ''Ed. William H. Epstein. West Lafayette, IN: Purdue UP, 1991''.  
+* Walton, Izaak. ''Life of Dr. John Donne. ''In ''Seventeenth-Century Prose and Poetry. ''1929. New York: Harcourt, Brace and World, 1963. 250–71. 
+* Young, R. V. "Donne's ''Holy Sonnets'' and the Theology of Grace." In "''Bright Shootes of Everlastingnesse": The Seventeenth-Century Religious Lyric. E''d. Claude J. Summers and Ted-Larry Pebworth. Columbia: U of Missouri P, 1987. 20–39.
+
+{{BookCat}}
