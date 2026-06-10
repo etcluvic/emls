@@ -1,0 +1,358 @@
+{{displaytitle|title=Essays in Early Modern Literary Studies, 1995-2000/John Donne's "Lamentations" and Christopher Fetherstone's ''Lamentations . . . in prose and meeter'' (1587)}}
+''This essay was written by Ted-Larry Pebworth''.
+
+<!--Paragraph 1-->
+One of the most important issues in the study of Donne's skillful but until recently neglected poetic translation of "The Lamentations of Jeremy, for the most part according to Tremellius" concerns which translations of ''Lamentations'' other than Tremellius' Latin rendering Donne may have consulted as he versified Jeremiah's song of tribulation. Various twentieth-century scholars and critics have seen in Donne's wording and phrasing traces of the Geneva translation, and—less convincingly—the Vulgate and even the Authorized Version.<ref>See e.g., Grierson (2:245–48); Gardner (103–106); Shawcross (371); Pollock (513–15); Klause (337–59); and Roebuck (37–44).</ref> What none have so far noticed, however, is another pair of translations that Donne must certainly have consulted, published together in 1587 as ''The Lamentations of Ieremie, in prose and meeter, with apt notes to sing them withall: Togither with Tremelius his annotations, translated out of Latin into English by Christopher Fetherstone, for the profit of all those to whom God hath giuen an in-sight into spirituall things'' (London: for John Wolfe).
+
+<!--Paragraph 2-->
+A close comparison of Donne's versification of ''Lamentations'' with the two versions published by Fetherstone—one in prose, the other in verse—reveals two things. First, given the particular exigencies of translating Latin prose into rhymed English verse, Donne's poem is in fact, to use the phrasing of its heading, "for the most part according to Tremellius." Second, where Donne's version differs from Tremellius' text in word choice and phrasing, it almost always does so in the direction of the verse translation presented by Fetherstone in the second half of his book. Indeed, throughout, but especially in the problematic brief verses that make up chapter 3, Donne's poem is a virtual patchwork of phrasings taken alternately from both Tremellius and the verse translation included in Fetherstone's book. This hitherto unnoticed publication of 1587 is, then, highly significant for our understanding of Donne's poetic rendering of ''Lamentations''.
+
+<!--Paragraph 3-->
+Although Christopher Fetherstone published seven translations and one book of his own composition during the 1580s, he is virtually unknown today. An Oxford man, he nevertheless escaped the notice of Anthony à Wood; and it was not until the late nineteenth century, in Joseph Foster's ''Alumni Oxonienses'', that any biographical notice of him appeared in print. Moreover, that sketch is tantalizingly brief, not even mentioning his publications. The ''Alumni Oxonienses'' entry notes only that Fetherstone was of Queen's College; that he received his B.A. on 3 February 1583/4; that in 1613 he was perhaps vicar of Appleby St. Michael, Westmoreland, and in 1616 rector of Bentham, Yorkshire; and that he was the father of Alexander Fetherstone, who became a canon of Lichfield in 1660.<ref>See Foster (2:494).</ref>
+
+<!--Paragraph 4-->
+We must turn to the ''Short Title Catalogue'' to compile a list of Fetherstone's literary compositions. In 1582, while still an undergraduate, he published his only known original work, ''A dialogue agaynst light, lewde, and lasciuious dauncing'' (''STC'' 10835). The year of his baccalaureate degree, 1584, he published his translation of John Calvin's commentary on John's Gospel (included in ''STC'' 2962). The next year, 1585, he published his translations of an abridgement of Calvin's ''Institutes'' (''STC'' 4429) and of Calvin's commentary on the Acts of the Apostles (''STC'' 4398). The following year, 1586, he published a translation of François Hotman's ''The Brvtish Thvnderbolt: or rather Feeble Fier-flash of Pope Sixtvs the fift, against Henrie the most excellent King of Nauarre. . . .'' (''STC'' 13843.5). And the next year, 1587, saw the publication of Fetherstone's final three known works: a translation of ''Haggeus the prophet'' with Johann Jacob Grynaeus' commentary (''STC'' 2790), a translation of Léonard Constant's ''Remonstrance chrestienne et salutaire'' as ''A christian and wholesom admonition, directed to the Frenchmen, which are reuolted from true religion, and haue polluted themselues with the idolatrie of poperie'' (''STC'' 5154), and his translation of Tremellius' ''Lamentations'' (''STC'' 2779).
+
+<!--Paragraph 5-->
+As this list of publications indicates, Fetherstone was obviously drawn to the Calvinist wing of the established Church and was outspokenly anti-Roman Catholic. It is not surprising, therefore, that he should have admired and wished to translate a part of Tremellius' Latin Old Testament, first published in Frankfurt in the 1570s and in London in 1580, which—with Theodore Beza's Latin New Testament attached—quickly became the Protestant contender against the Vulgate issued by Pope Sixtus V in the Counter Reformation battle of Latin bibles. Born in 1510 in Italy and educated in the Jewish faith of his family, Joannes Immanuel Tremellius converted to Christianity about 1530 and became a staunch Calvinist. He spent most of his life, in the words of Herbert Grierson, as "a wandering, often fugitive, scholar and reformer" (2:245), holding—among other positions—the professorship of Hebrew at Cambridge from 1548 to 1553 and the professorship of theology at Heidelberg from 1562 to 1577. He died in 1580.
+
+<!--Paragraph 6-->
+Fetherstone's translation of Tremellius' ''Lamentations'', which survives in only one known complete copy,<ref>In the Cambridge University Library, shelfmark Syn 8.58.12 (4) Collation: A2; B–F8 G2; 44 leaves; A1v, D6v, and G2v blank. The Folger Shakespeare Library has an incomplete copy. No other copies are recorded in the ''Short Title Catalogue'', and the book has yet to appear in the University Microfilms ''STC'' series.</ref> is a small book consisting of an unnumbered two-page epistle dedicatory and eighty-two numbered pages (four other pages are unnumbered). The first part, a translation of ''Lamentations'' and Tremellius' copious notes and commentary on Jeremiah's book into English prose, occupies the first forty-two pages. The second part, with a separate half-title (43), is an augmented versification of ''Lamentations'' in the Double Common Meter stanzas popularized by the Sternhold–Hopkins psalter (that is, fourteeners in couplets, with two couplets—broken into eight half lines—per stanza), with the first stanza of each of the five chapters presented in a musical setting. The epistle dedicatory (sig. ''A''2r–v), signed by Fetherstone, is addressed "TO THE GODLY, ZEALOVS, AND my worshipfull frend, M. Iohn Bannister, Master of Chyrugerie, Grace and Peace."<ref>Fetherstone's dedicatee did not escape the notice of Anthony à Wood, who wrote this of him: "JOHN BANISTER was born of honest and wealthy parents, but in what county I know not; studied logicals for a time in this university; afterwards entring upon the physic line, solely gave himself up to the study of that faculty and chirurgery. In 1573 he was licensed by this university to practice physic; about which time being settled in the ancient borough of Nottingham lived there many years in great esteem, and was wonderfully followed by all sorts of people for his happy practice in that and chirurgery." Wood then lists six of Banister's publications, all but one of which are on the subject of medicine and surgery. See Bliss (561–2).</ref> This brief dedication is tantalizing, both for what it tells us about Fetherstone's ideology and for what of a factual nature it obfuscates.
+
+<!--Paragraph 7-->
+Immediately notable in this epistle dedicatory is that whereas Tremellius placed ''Lamentations'' firmly in its historical setting, "after the death of king Iosias" (''The Argvment'', 1), Fetherstone saw the book from a millenarian perspective, linking Jeremiah's lament to prophecies of the Second Coming. He determined to publish this book, he says,
+
+<blockquote>
+because we ought not to omit any opportunity whereby those whom the pleasures of the world haue ouertaken, and whom security hath lulled fast asleepe, which stretch them-selues upon their beddes of yuorie and singe to the sound of the instruments, drinking wine in bowles, &amp; eating the fed beasts, may be brought to co[n]sider the calamities of Ioseph &amp; to bewaile the poore estate of the church of Christ, the city of God, the beloued Ierusalem. Which thing this litle booke may well bring to passe.
+</blockquote>
+
+Fetherstone may have been inspired to view ''Lamentations'' in a millenarian context by George Joye's 1534 translation of ''Jeremy the Prophete . . . with Lamentations'' (''STC'' 2778). At any rate, both Joye and Fetherstone anticipate the apocalyptic interpretations of Jeremiah's lament that were to become increasingly popular among Calvinists throughout Europe in the seventeenth century.
+
+<!--Paragraph 8-->
+The second fact that Fetherstone reveals in this epistle dedicatory is that he himself is not the author of the versification of ''Lamentations'' that forms the second half of his book. But within that revelation is embedded a puzzle. Fetherstone states that this "litle volume of verses" was "deliuered" to him "by a frend," who asked him to judge its merits. Finding it to be "gathered into proper &amp; pithie meeter, which for the most part holdeth those fast tyed to those thinges which they would scarce afoord one looke if they were written in prose," Fetherstone determined that it "did fulwell deserue to come abroade in open vewe of the world." For want of "some better approbation," Fetherstone states, he determined to publish the verse translation under his own name and to preface it with his English prose translation of Tremellius' Latin text and its copious annotations.
+
+<!--Paragraph 9-->
+Who this versifier was Fetherstone does not reveal; his two subsequent references are simply to "my friend." His reticence in identifying this friend, coupled with his studied avoidance of gendered pronouns, suggests that the friend may have been a woman. One of the few avenues of literary composition open to women in the sixteenth century was the translation (and versification) of religious texts; and as Margaret Hannay reminds us, "When their work was published, it was often anonymous; if it was known to be by a woman, it was usually restricted to manuscripts in the family circle."<ref>See Hannay (9).</ref> Indeed, as Hannay observes, "silence was considered one of the primary feminine virtues throughout the Tudor period," and "Ominously, silence was said to be connected to that primary feminine virtue, chastity" (4). If the author of the versified ''Lamentations'' presented by Fetherstone was a woman, there was a compelling reason for her to remain anonymous, as well as for Fetherstone to avoid gendered pronouns in referring to her.
+
+<!--Paragraph 10-->
+A second noteworthy aspect of this versification of ''Lamentations'' presented by Fetherstone, also left unsaid in the dedicatory epistle, is that this anonymous friend based her versification of ''Lamentations'' not on Tremellius, but on the Geneva translation of 1560. Thus we have in a single volume Tremellius' ''Lamentations'' in English prose and the Geneva version of the same book rendered into verse. Beginning with John J. Pollock's 1974 article on the sources of Donne's "Lamentations," scholars have noticed echoes of the Geneva translation in the poem. What the discovery of Fetherstone's little book clarifies, however, is that these Genevan echoes were for the most part filtered through the versification of the Geneva version made by Fetherstone's friend. While Donne of course knew the Geneva bible first hand, when he seems to be echoing that translation in his versification of ''Lamentations'', he is actually closer in wording and phrasing to the versification of Geneva published by Fetherstone than he is to the prose of the Geneva itself.
+
+<!--Paragraph 11-->
+Space does not permit a complete list of instances where Donne echoes Fetherstone or his friend; and in any case, such a catalogue would be extremely tedious, concentrating as it must on such minutiae as tenses of verbs and singular or plural forms of nouns and pronouns. Instead, I will call attention to a few telling examples, reproduced in full in the Appendix. For ease of comparison, in each example I quote the first printing of Donne's text (1633), accompanied by variants in the manuscripts and in the subsequent seventeenth-century printings; Tremellius' Latin text; Fetherstone's prose translation of Tremellius; the versification of the Geneva text by Fetherstone's friend; the Geneva text itself; and the Authorized Version. The relevant words or phrases are boldfaced.
+
+<!--Paragraph 12-->
+The first two examples show how close Donne's versified translation is to Fetherstone's prose translation, and therefore to Tremellius' Latin. Donne was of course an accomplished Latinist himself and did not require English translations of ''Lamentations'' as anything more than suggestive reference tools or models; but we know that in the early modern period translation was very much a comparative exercise, with scholars as a matter of course consulting as many versions of a work as they found helpful. It is therefore instructive to note how frequently Donne agrees exactly with Fetherstone in the choice of English equivalents to Tremellius' Latin words and phrases.
+
+<!--Paragraph 13-->
+The first example is Lamentations 4:7–8a (Donne, lines 293–97). In this passage, both Donne and Fetherstone translate Tremellius' "carbunculi" as "carbuncle(s)" and "nigredine" as "blackness," whereas the Geneva, Vulgate, and Authorized Version have some form of red stones or "rubies" in the former instance and "coal" in the latter. In the second example (Lamentations 2:2; Donne, lines 93–96), Donne and Fetherstone both use forms of "swallow" to translate Tremellius' "absorbet" and "profane" to translate Tremellius' "prophanum," whereas the Geneva "destroyed" and "polluted" respectively, and the Vulgate their Latin equivalents. It is interesting to note that whereas the Authorized Version has "polluted" in the second instance, it has "swallowed up" in the first; but it was not necessary for Donne to have consulted that bible, since its wording in this case is anticipated by Fetherstone.
+
+<!--Paragraph 14-->
+These two examples also clearly demonstrate that Fetherstone's friend was following the Geneva translation, not Tremellius, in her versifications of these passages. In Lamentations 4:7–8a, she truncates Geneva's "ruddie . . . then the red precious stones" into "ruddie precious stones" and reproduces Geneva's "cole" outright. In Lamentations 2:2, she repeats Geneva's "destroyed" and, for purposes of meter and rhyme, expands Geneva's "polluted" into "fraught with sin."
+
+<!--Paragraph 15-->
+Since both Fetherstone and Donne are translating Tremellius, it is not surprising that their two versions—given the necessary limitations of verse—should so often agree. What is telling is that where Donne deviates from Tremellius, he most frequently does so in the direction of the versification of Geneva's ''Lamentations'' made by Fetherstone's friend. Two of the most instructive of these borrowings are found in examples three and four. In the third example (Lamentations 1:21; Donne, lines 81–84), Donne follows Fetherstone's friend in using the word "promis'd" where Tremellius has "promulgasti," Fetherstone has "published," the Geneva itself has "pronounced," the Vulgate goes its own way in modifying "diem" with "consolationis," and the Authorized Version has "called."
+
+<!--Paragraph 16-->
+Even more conclusive evidence that Donne consulted the versification of Fetherstone's friend may be found in the fourth example (Lamentations 3:17; Donne, lines 199–200). There Donne duplicates exactly a six-word phrase used by Fetherstone's friend, who had turned Geneva's "Thus my soule, was farre of[f] fro[m] peace" into "My soule farre off from peace," while Tremellius reads "Adeò rejicis a pace animam meam" and Fetherstone reads "Thou doest so reiect my soule from peace." Here it is most instructive to note that whereas Donne's wording follows exactly that of the Authorized Version—"my soul far off from peace"—the Authorized Version in fact duplicates exactly the phrasing of Fetherstone's friend, published some twenty-four years earlier.
+
+<!--Paragraph 17-->
+The same phenomenon obtains in example five (Lamentations 4:5; Donne, lines 285–88), except that there both Fetherstone and his friend anticipate the wording of the Authorized Version. Both Tremellius and the Vulgate use the word "stercora," which translates as "dung," the reading in Geneva. Donne did not have to go to the Authorized Version, however, to find the plural expansion "dunghills" (which in Latin is "sterculines"), since Fetherstone translates Tremellius' singular "stercora" as "dunghils" and his friend—for metrical reasons—expands Geneva's "dongue" into "dunghils."
+
+<!--Paragraph 18-->
+Examples such as these could easily be multiplied. They lead to the inescapable conclusion that Donne must have consulted Fetherstone's book while composing "Lamentations." Recognizing the significance of Fetherstone's 1587 publication for Donne's poem has important consequences for our continuing discussion, especially as concerns the influences on its composition and the related question of its date.
+
+<!--Paragraph 19-->
+In 1912, Grierson proposed that in its deviations from Tremellius, Donne's poem was influenced by the Vulgate (2:245–48). In the first edition of ''John Donne: The Divine Poems'', 1952, Helen Gardner followed Grierson in assuming the influence of the Vulgate, but also added that "In some places" Donne's choice of words "seems affected by the Authorized Version" (104). In 1967, John T. Shawcross echoed Gardner (371). But in 1974, John J. Pollock questioned the influence of the Vulgate in Donne's poem and proposed instead the influence of the Geneva translation, in addition to the Authorized Version (513), a view that Gardner accepted in the second edition of ''The Divine Poems'', published in 1978 (103). Quite recently, however, both John Klause and Graham Roebuck, working independently, have questioned Donne's use of the Authorized Version (Klaus 340; Roebuck 38). My own collation of Donne's poem against Fetherstone's translation and his friend's versification—as well as against the Vulgate, the Geneva version, and the Authorized Version—confirms Klaus' and Roebuck's arguments disputing the influence of the Authorized Version. At virtually every point of crux, the apparent echoes of the Authorized Version may be accounted for by reference to one or other, and sometimes both, of the two versions of ''Lamentations'' in Fetherstone's book. My collation also confirms, but significantly qualifies, their conclusions about the influence of the Geneva version. While there are definite Genevan parallels and echoes in Donne's poem, they are largely filtered through the verse translation of Geneva's text made by Fetherstone's friend.
+
+<!--Paragraph 20-->
+While the question of the dating of Donne's "Lamentations" is too complex to be discussed in detail here, suffice it to say that insofar as the discovery of the influence of Fetherstone's book on the poem contributes to the discounting of the putative influence of the Authorized Version of 1611, it counters the argument against the impossibility of an early date for the poem's composition. On the other hand, Donne's use of Fetherstone does not preclude a late date of composition, since the latter's 1587 book could have exerted influence long after its initial date of publication.
+
+<!--Paragraph 21-->
+In sum, a recognition of the influence of Christopher Fetherstone's 1587 ''Lamentations . . . in prose and meeter'' on Donne's "Lamentations of Jeremy, for the most part according to Tremellius" clarifies several contentious issues raised by Donne's twentieth-century editors and critics. First, Fetherstone's translation of Tremellius reaffirms the claim of the poem's heading, that Donne's versification is "for the most part according to Tremellius," and it allows us to see how often Donne chose the same English terms that Fetherstone had used to translate Tremellius' Latin. Second, the versification by Fetherstone's friend both accounts for and qualifies the influence of the Geneva bible on Donne's poem, showing that particular translation to be filtered through her poetical rendering of it. Moreover, knowledge of her version of ''Lamentations'' allows us to see that when she deviated from the text she was versifying, Donne occasionally followed her lead. Finally, knowledge of both Fetherstone's prose translation and his friend's versification allows us to dispute the putative influence of the Authorized Version on Donne's poem, since at the significant points of crux either Fetherstone or his friend adumbrate the readings of that publication. And with 1611 removed as the ''terminus ad quo'' for the composition of Donne's poem, the way is left open for those who would argue that "Lamentations" is an early work, though the influence of Fetherstone's 1587 book in no way precludes a later date of composition.
+
+==Appendix==
+Note: The quotations from Donne's "Lamentations" in the examples below follow the text of the poem's first printing in the posthumous 1633 edition of Donne's ''Poems'', which has been used as the copy-text in all twentieth-century editions of the poem. There are significant verbal variants in the six surviving early manuscripts of the poem, however, and I have recorded them in the examples, using the following sigla: DT1, Trinity College Dublin ms. 877 (Dublin ms. I); H4, Harvard ms. Eng. 966.3 (Norton ms.); H6, Harvard ms. Eng. 966.5 (O'Flahertie ms.); HH1, Huntington ms. EL6893 (Bridgewater ms.); WN1, National Library of Wales Dolau Cothi ms. 6748 (Dolau Cothi ms.); and Y3, Yale, Osborn Collection, ms. b 148 (Osborn ms.). In addition, I have recorded verbal variants in the subsequent seventeenth-century editions and issues of Donne's ''Poems'', using these sigla: B, 1635; C, 1639; D, 1649; E, 1650; F, 1654; and G, 1669. 
+
+===Example 1: Lamentations 4:7–8a===
+Donne (lines 293–97):
+
+<blockquote>
+<poem>
+7 But heretofore purer her Nazarite
+Was then the snow, and milke was not so white;
+As '''carbuncles''' did their pure bodies shine
+And all their polish'dnesse was Seraphine.
+8 They are darker now then '''blacknes''' . . . .
+
+(Variants: snow] snowes H4. polish'dnesse] polishings HH1. Seraphine] Saphirine DT1 H4 H6 HH1 WN1 Y3 B–G. blacknes] darknes H4.)
+</poem>
+</blockquote>
+
+Tremellius:
+<blockquote>
+<poem>
+7 Puriores erant Naziræi illius nive; nitidiores lacte: rubebant corpore magis quàm '''carbunculi,''' Sapphirina polities eorum:
+
+8 ''Quomodo'' obscurior est '''nigredine''' forma eorum . . . .
+</poem>
+</blockquote>
+
+Fetherstone:
+<blockquote>
+<poem>
+7 Her Nazarites were ''more pure'' then snowe, more white than the milke, their bodies were redder than the '''Carbuncle''', they were smoother than the Saphyre.
+
+8 Howe is their visage blacker than '''blacknesse''' . . . .
+</poem>
+</blockquote>
+
+Fetherstone's friend:
+<blockquote>
+<poem>
+7 Her Nazarites as pure as snow,
+and liuely coloured:
+Euen as the ruddie precious stones,
+or Saphyre pullished.
+8 Are now as blacke as anie '''cole''' . . . .
+</poem>
+</blockquote>
+
+Geneva:
+<blockquote>
+<poem>
+7 Her Nazarites were purer then ye snowe, ''and'' whiter then the milke: thei were more '''ruddie''' in body, then the '''red precious stones:''' thei were ''like'' polished saphir.
+
+8 ''Now'' their visage is blacker than a '''cole''' . . . .
+</poem>
+</blockquote>
+
+Vulgate:
+<blockquote>
+<poem>
+7 Candidiores Nazaraei eius niue, nitidiores lacte, '''rubicundiores''' ebore antiquo, sapphiro pulchriores.
+
+8 Denigrata est super '''carbones''' facies eorum. . . .
+</poem>
+</blockquote>
+
+Authorized version:
+<blockquote>
+<poem>
+7 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than '''rubies''', their polishing was of saphire:
+
+8 Their visage is blacker than a '''coal''' . . . .
+</poem>
+</blockquote>
+
+===Example 2: Lamentations 2:2===
+
+Donne (lines 93–96):
+<blockquote>
+<poem>
+2 The Lord unsparingly hath '''swallowed'''
+All Jacobs dwellings, and demolished
+To ground the strengths of ''Iuda,'' and '''prophan'd'''
+The Princes of the Kingdome, and the land.
+
+(Variants: dwellings] dwelling HH1. strengths] strength H4 H6 HH1 Y3 B–G.)
+</poem>
+</blockquote>
+
+Tremellius:
+<blockquote>
+2 ''Quomodo'' '''absorbet''' Dominus non utens clementia omnia habitacula Jahakobi, destruit furore suo munitiones filiæ Jehudæ, deturbans in terram? ut '''prophanum''' abjicit regnum cum principibus ipsus?
+</blockquote>
+
+Fetherstone:
+<blockquote>
+2 How doth the Lord vsing no mercie '''swallow vp''' all the habitations of Iacob, hee destroyeth in his wrath the fortresses of the daughter of Iehuda, casting th downe to the ground: he casteth away the kingdome with her princes as a '''prophane''' thing?
+</blockquote>
+
+Fetherstone's friend:
+<blockquote>
+<poem>
+2 All Iacobs habitations
+the Lord '''destroyed''' hath:
+And casteth off the daughter deere,
+of Iuda in his wrath.
+He hath throwne down vnto the grod
+the kingdoms fraught with sin.
+And therewithall the princes great
+that gouerned therein.
+</poem>
+</blockquote>
+
+Geneva:
+<blockquote>
+2 The Lord hathe '''destroyed''' all the habitacions of Iaakob, and not spared: he hathe throwen downe in his wrath the strong holdes of the daughter of Iudah: he hathe cast them downe to the grounde: he hathe '''polluted''' the kingdome and the princes thereof.
+</blockquote>
+
+Vulgate:
+<blockquote>
+2 '''Præcipitauit''' Dominus, nec pepercit, omnia speciosa Iacobi destruxit in furore suo munitiones virginis Iuda, &amp; deiecit in terram: '''polluit''' regnum, &amp; principes eius.
+</blockquote>
+
+Authorized Version:
+<blockquote>
+2 The Lord hath '''swallowed up''' all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah: he hath brought them down to the ground: he hath '''polluted''' the kingdom and the princes thereof.
+</blockquote> 
+
+===Example 3: Lamentations 1:21===
+
+Donne (lines 81–84):
+<blockquote>
+<poem>
+21 Of all which heare I mourne, none comforts mee,
+My foes have heard my griefe, and glad they be,
+That thou hast done it; But thy '''promis'd''' day
+Will come, when, as I suffer, so shall they.
+
+(Variants: I] mee Y3. comforts] comfort H6 HH1.)
+</poem>
+</blockquote>
+
+Tremellius:
+<blockquote>
+21 Audientium me in gemitu esse nemo consolatur me, omnes inimici mei audito malo meo gaudent te ''id'' facere; adduces diem <i>quem</i> '''promulgasti''', ut sinit pares mihi.
+</blockquote>
+
+Fetherstone:
+<blockquote>
+21 None of all those that heare I am in sorrow doth comfort mee: all mine enimies hearing of my miseries are glad that thou doest it: thou shalt bring vpon them <i>that day which</i> though hast '''published''', that they may be like to me.
+</blockquote>
+
+Fetherstone's friend:
+<blockquote>
+<poem>
+21 My mourning is declard abroade,
+yet comfort none I find:
+Mine enemies that heare thereof
+full ioifull are in mind.
+In that thou hast afflicted me,
+yet vvilt thou bring to passe,
+The daie that thou hast '''promised''',
+to vvast them as the grasse.
+</poem>
+</blockquote>
+
+Geneva:
+<blockquote>
+21 They haue heard that I mourne, ''but'' there ''is'' none to comfort me: all mine enemies haue heard of my trouble, &amp; are glad, that thou hast done it: thou wilt bring the day, that thou hast '''pronounced''', and they shalbe like vnto me.
+</blockquote>
+
+Vulgate:
+<blockquote>
+21 Audierunt quia ingemisco ego, &amp; non est qui consoletur me: omnes inimici mei audierunt malum meum, lætati sunt, quoniam tu fecisti: adduxisti diem '''consolationis''', &amp; fient similes mei.
+</blockquote>
+
+Authorized Version:
+<blockquote>
+21 They have heard that I sigh: ''there is'' none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done ''it'': thou wilt bring the day ''that'' thou hast '''called''', and they shall be like unto me.
+</blockquote>
+
+===Example 4: Lamentations 3:17===
+Donne (lines 199–200):
+<blockquote>
+<poem>
+17 And thus my Soule farre off from peace was set,
+And my prosperity I did forget.
+
+(Variants: And] When Y3. off] oft H4; ''omitted'' WN1. And] all Y3. prosperity] prosperities H4.)
+</poem>
+</blockquote>
+
+Tremellius:
+<blockquote>
+17 Adeò '''rejicis a pace animam meam''', <i>ut</i> (oblitus sum boni . . . .
+</blockquote>
+
+Fetherstone:
+<blockquote>
+17 ''Thou doest so'' '''reiect my soule from peace''', that I haue forgotten goodnesse.
+</blockquote>
+
+Fetherstone's friend:
+<blockquote>
+<poem>
+17 '''My soule far off from peace''' did then
+forget prosperitie.
+</poem>
+</blockquote>
+
+Geneva:
+<blockquote>
+17 Thus '''my soule, was farre of[f] fro[m] peace:''' I forgat prosperitie . . . .
+</blockquote>
+
+Vulgate:
+<blockquote>
+17 Et '''repulsa est à pace anima mea''', oblitus sum bonorum.
+</blockquote>
+
+Authorized Version:
+<blockquote>
+17 And thou hast removed '''my soul far off from peace''': I forgat prosperity.
+</blockquote>
+
+===Example 5: Lamentations 4:5===
+Donne (lines 285–88):
+<blockquote>
+<poem>
+5 They which before were delicately fed,
+Now in the streets forlorne have perished,
+And they which ever were in scarlet cloath'd,
+Sit and embrace the '''dunghills''' which they loath'd.
+<i>(Variant: dunghills] Dunghill H6 HH1 Y3.)</i>
+</poem>
+</blockquote>
+
+Tremellius:
+<blockquote>
+5 Qui comedebant in deliciis, <i>quomodo</i> desolantur per vicos? <i>quomodo</i> qui nutriebantur in coccino amplexantur '''stercora'''?
+</blockquote>
+
+Fetherstone:
+<blockquote>
+5 They that were fed with delicates, how are they left desolate in the streets? how do they ''embrace'' the '''dunghils''' that were nourished in scarlet?
+</blockquote>
+
+Fetherstone's friend:
+<blockquote>
+<poem>
+5 They that with dilicates were fed,
+do perish now apace:
+And those that were in skarlet wrapt,
+the '''dunghils''' do embrace.
+</poem>
+</blockquote>
+
+Geneva:
+<blockquote>
+5 Thei that did fede delicately, perish in the stretes: they that were broght vp in skarlet, embrase the '''dongue'''.
+</blockquote>
+
+Vulgate:
+<blockquote>
+5 Qui vescebantur voluptuosè, interierunt in viis: qui nutriebantur in croceis, amplexati sunt '''stercora'''.
+</blockquote>
+
+Authorized Version:
+<blockquote>
+5 They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace '''dunghills'''.
+</blockquote>
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+* Bliss, Philip. ''Athenae Oxonienses . . . to which are added The Fasti. A New Edition with Additions, and a Continuation''. 4 vols. London: for F. C. and J. Rivington, ''et al.'', 1813.
+* Foster, Joseph. "Fetherstone, Christopher." ''Alumni Oxonienses: The Members of the University of Oxford, 1500–1714.'' 4 vols. Oxford: Parker, 1891–92.
+* Gardner, Helen, ed. ''John Donne: The Divine Poems.'' 2nd ed. Oxford: Clarendon P, 1978.
+* Grierson, Herbert J. C., ed. ''The Poems of Johns Donne.'' 2 vols. Oxford: Oxford UP, 1912.
+* Hannay, Margaret Patterson, ed. "Introduction." ''Silent But for the Word: Tudor Women as Patrons, Translators, and Writers of Religious Works.'' Kent, OH: Kent State UP, 1985.
+* Klause, John. "The Two Occasions of Donne's ''Lamentations of Jeremy''." ''Modern Philology'' 90 (1993): 337–59.
+* Pollock, John J. "Donne's 'Lamentations of Jeremy' and the Geneva Bible." ''English Studies'' 55 (1974): 513–15.
+* Roebuck, Graham. "Donne's ''Lamentations of Jeremy'' Reconsidered." ''John Donne Journal'' 10 (1994): 37–44.
+* Shawcross, John T., ed. ''The Complete Poetry of John Donne.'' Garden City, NY: Doubleday Anchor, 1967.
+
+{{BookCat}}
