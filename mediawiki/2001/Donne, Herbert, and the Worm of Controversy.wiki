@@ -1,0 +1,424 @@
+''This essay was written by Louis L. Martz''.
+
+<!--Paragraph 1-->
+One of the most poignant poems in Herbert's "Church" is the one entitled "Church-rents and schismes," a poem that forms a sad contrast with the idealized vision of "The British Church" presented thirty pages earlier:
+
+<blockquote>
+<poem>
+I joy, deare Mother, when I view
+Thy perfect lineaments and hue
+Both sweet and bright . . .
+
+A fine aspect in fit array,
+Neither too mean, nor yet too gay,
+Shows who is best.<ref>Quotes from Herbert taken from ''The Works of George Herbert''. (F.E. Hutchinson, ed.).</ref>
+</poem>
+</blockquote>
+
+But now the Rose of Sharon, the Church, the Bride of Christ (according to traditional interpretation of the Song of Songs) has been shredded by controversy:
+
+<blockquote>
+<poem>
+Brave rose, (alas!) where art thou? in the chair
+Where thou didst lately so triumph and shine
+A worm doth sit, whose many feet and hair
+Are the more foul, the more thou wert divine.
+This, this hath done it, this did bite the root
+And bottoms of the leaves: which when the winde
+Did once perceive, it blew them underfoot,
+Where rude unhallow'd steps do crush and grinde
+Their beauteous glories. Onely shreds of thee,
+And those all bitten, in thy chair I see.
+</poem>
+</blockquote>
+
+<!--Paragraph 2-->
+In the next stanza Herbert takes a long view of the history of the Church, which, according to traditional thinking, began with the covenant made by God with Abraham (Genesis 17). Over the years of the Old Testament the Church suffered a decline for causes represented by the "abominations" denounced by the Prophets; but the sacrifice of Christ restored the Church to health.
+
+<blockquote>
+<poem>
+Why doth my Mother blush? is she the rose,
+And shows it so? Indeed Christs precious bloud
+Gave you a colour once; which when your foes
+'Thought to let out, the bleeding did you good,
+And made you look much fresher than before.
+Now a second decline has begun:
+But when debates and fretting jealousies
+Did worm and work within you more and more,
+Your colour faded, and calamities
+Turned your ruddie into pale and bleak:
+Your health and beautie both began to break.
+</poem>
+</blockquote>
+
+Then with the Church thus weakened, neighbors from the north, the Scottish Presbyterians, took advantage of the controversies to refuse obedience to the governance and ritual of the British Church against the attacks of the Scottish Calvinist, Andrew Melville:
+
+<blockquote>
+<poem>
+Then did your sev'rall parts unloose and start:
+Which when your neighbors saw, like a north-winde
+They rushed in, and cast them in the dirt
+Where Pagans tread. O Mother deare and kinde,
+Where shall I get me eyes enough to weep,
+As many eyes as starres? since it is night,
+And much of Asia and Europe fast asleep,
+And ev'n all Africk; would at least I might
+With these two poore ones lick up all thy dew,
+Which falls by night, and poure it out for you!
+</poem>
+</blockquote>
+
+The unusual extravagance of this conclusion indicates the depth of Herbert's anguish over current attacks on his Church.
+
+<!--Paragraph 3-->
+The causes of controversy were manifold, deriving essentially from the predestinarian theology of Calvin, as opposed to those theologies that believed in the operations of free will. The doctrine of predestined reprobation was one of the most bitter points of controversy, because, as its opponents argued, the doctrine might appear to make God the creator of evil. But no, the strict Calvinists argued, evil derives from the sin of Adam, which corrupted the whole human race; God, out of his goodness, has chosen to select a small group of individuals for salvation by the Sacrifice of Christ, leaving the rest to perdition. But this solution seemed to raise more problems than it answered. If God predestined the fate of all before the beginning of time, why was the Sacrifice of Christ needed? And why, when Christ declares that he came for all, why should so few be selected for salvation?
+
+<!--Paragraph 4-->
+As Nicholas Tyacke points out,<ref>See Tyacke (176).</ref> the Calvinist doctrine of grace received by predestination was antithetical to the traditional doctrine of grace received through the sacraments of Baptism and Communion. Consequently, to strict Calvinists, these sacraments could not perform the function of grace, but became tokens of a faith already granted. Ceremonies celebrating the Presence were therefore unjustified, and, indeed, "papistical." George Herbert, as a moderate member of the British Church, apparently wanted to have it both ways: effectual sacraments, and a limited form of predestination—a form allowable under the widespread acceptance of the doctrine of God's foreknowledge, a doctrine which argued that God predestined individuals to salvation or damnation because he knew what their lives and actions would be. This doctrine was bitterly denied by strict Calvinists because it opened the way for some degree of reward for "good life." But nothing in the articles of the British Church prevented someone from privately holding this belief, as apparently Herbert did, when he concluded his poem "The Water-course" by saying that God grants Salvation and Damnation "as he sees fit."
+
+<!--Paragraph 5-->
+It may be significant that the word "predestination" occurs only once in the entire ''Temple,'' and there, in "The Thanksgiving," the word comes in the ironical context of a promise to engage in "good works"—to merit a favorable predestination, as it seems:
+
+<blockquote>
+<poem>
+For thy predestination I'le contrive,
+That three yeares hence, if I survive,
+I'le build a spittle, or mend common wayes,
+But mend mine own without delayes.<ref>For Protestants in general "good works" have no "merit," but are the result of "faith." Note the simile involved in the speaker's procrastination in performing his promise to build a hospital or repair roads.</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 6-->
+Herbert's belief in the efficacy of the sacraments appears to have undergone considerable development since his early years at Cambridge, epicenter of Calvinism in England. The early version of his sonnet "H. Baptisme" makes no mention of the Sacrifice of Christ and refers only to the abstract "streams" "above the Heavens" that evidently grant a saving faith to the sinner:
+
+<blockquote>
+<poem>
+As he that Heaven beyond much thicket spyes
+I pass the shades, & fixe upon the true
+Waters above the heavens. Or sweet streams
+You do prevent most sins & for the rest
+You give us teares to wash them . . . .<ref>See Herbert (''Works'' 43–44), abbreviations expanded.</ref>
+</poem>
+</blockquote>
+
+The final version stresses the relation between Christ's Sacrifice and those "streames" of grace:
+
+<blockquote>
+<poem>
+So when I view my sinnes, mine eyes remove
+More backward still, and to that water flie,
+Which is above the heav'ns, whose spring and vent
+Is my deare Redeemers pierced side.
+O blessed streams! either ye do prevent
+And stop our sinnes from growing thick and wide,
+Or else give tears to drown them as they grow.
+</poem>
+</blockquote>
+
+<!--Paragraph 7-->
+Similarly, his early poem "The H. Communion" makes no claim for the sacrament's efficacy, but ponders with a surprising lack of reverence the various controversial views of the Communion, dismissing the problems with a sarcastic tone arising, no doubt, from his impatience with all this controversy:
+
+<blockquote>
+<poem>
+First I am sure, whether bread stay
+O whether Bread doe fly away
+Concerneth bread, not mee . . .
+
+Then of this also I am sure
+That thou didst all those pains endure
+To'abolish Sinn, not Wheat . . .
+
+I could beleeve an Impanation
+At the rate of an Incarnation,
+If thou hadst dyde for Bread.<ref>See Herbert (''Works'' 200–201).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 8-->
+In striking contrast, the utterly different poem "The H. Communion" that appears in ''The Temple'' displays a tone of devout reverence, while the poem allows a measure of efficacy to the physical "quantities" of the sacrament:
+
+<blockquote>
+<poem>
+But by the way of nourishment and strength
+Thou [Christ] creep'st into my breast;
+Making thy way my rest.
+And thy small quantities my length;
+Which spread their forces into every part,
+Meeting sinnes force and art.
+</poem>
+</blockquote>
+
+But these, he adds, cannot "get over to my soul":
+
+<blockquote>
+<poem>
+Onely thy grace, which with these elements comes,
+Knoweth the ready way,
+And hath the privie key,
+Op'ning the souls most subtile rooms;
+While those to spirits refin'd, at doore attend
+Dispatches from their friend.
+</poem>
+</blockquote>
+
+That is to say, Christ, speaking within the soul, sends messages to the physical elements.
+
+<!--Paragraph 9-->
+This is not the predetermined grace of Calvinism: it is a grace "which with these elements comes." ''How'' Christ is thus so powerfully present Herbert does not explain. Perhaps he would agree with his younger contemporary Jeremy Taylor, when, in his ''Holy Living,'' he advises: "Dispute not concerning the secret of the mystery, and the nicety of the manner of Christ's presence: it is sufficient to thee that Christ shall be present to thy soul, as an instrument of grace."<ref>See Taylor (1: 259).</ref> Herbert seems thus to take the Presence in the last stanza of the lyric that forms the conclusion of this double poem:
+
+<blockquote>
+<poem>
+Thou hast restor'd us to this ease
+By this thy heav'nly bloud;
+Which I can go to, when I please,
+And leave th'earth to their food.
+</poem>
+</blockquote>
+
+We should note that the early version of this lyric, entitled "Prayer," contains no such eucharistic allusion in its ending.<ref>See Herbert (''Works'' 52–53).</ref>
+
+<!--Paragraph 10-->
+Finally, in the twin Communion poems "The Invitation" and "The Banquet" (which do not appear in the early manuscript), the speaker's fervor arises directly from the taking of an operative sacrament:
+
+<blockquote>
+<poem>
+O what sweetnesse from the bowl
+Fills my soul,
+Such as is, and makes divine!
+Is some starre (fled from the sphere)
+Melted there,
+As we sugar melt in wine?
+
+Or hath sweetnesse in the bread
+Made a head
+To subdue the smell of sinne;
+Flowers and gummes, and powders giving
+All their living,
+Lest the Enemy should winne?
+
+Doubtlesse, neither starre nor flower
+Hath the power
+Such a sweetnesse to impart:
+Onely God, who gives perfumes,
+Flesh assumes,
+And with it perfumes my heart.
+</poem>
+</blockquote>
+
+Here, then, is a sacrament that deserves an appropriate ceremony, as Herbert explains in ''The Country Parson,'' recommending "that there be a fitting, and sightly Communion Cloth of fine linnen, with an handsome, and seemly Carpet of good and costly Stuffe, and all kept sweet and clean, in a strong and decent chest, with a Chalice, and Cover, and a Stoop, or Flagon . . ." But one should not mistake this for the sort of ceremony that the Reformers were denouncing: "And all this he doth, not as out of necessity, or as putting a holiness in the things, but as desiring to keep the middle way between superstition and slovenlinesse . . . ."<ref>The passage from "Fine linnen" to "Flagon" is part of a passage set in italic in the edition of 1652, apparently as part of the editor's effort to stress the importance of ceremony (Herbert ''Works'' 246).</ref> Herbert, as always, is well aware of the controversies swirling about him.
+
+<!--Paragraph 11-->
+The twenty-seven poems that occur between "The British Church" and "Church-rents and schismes" provide evidence of Herbert's deep concern over these "fretting" controversies. Most obvious is "Divinitie," where Herbert strenuously objects to the current haggling over minute points of doctrine:
+
+<blockquote>
+<poem>
+Could not that Wisdome, which first broacht the wine,
+Have thicken'd it with definitions?
+And jagg'd his seamlesse coat, had that been fine,
+With curious questions and divisions?
+
+But all the doctrine, which he taught and gave,
+Was cleare as heav'n, from whence it came,
+At least those beams of truth, which onely save,
+Surpasse in brightnesse any flame.
+</poem>
+</blockquote>
+
+<!--Paragraph 12-->
+But this is the very problem: what are "those beams of truth, which onely save"? Simple assertion will not bring peace: people will still argue over the sacrament of Communion, perversely asking, "But he doth bid us take his bloud for wine." Of course Christ bid nothing of the sort. But does that drinking of the wine have a redeeming effect? This is the problem, which Herbert seems to answer in his poem "Peace." After many vain searches,
+
+<blockquote>
+<poem>
+At length I met a rev'rend good old man,
+Whom when for Peace
+I did demand, he thus began:
+There was a Prince of old
+At Salem dwelt, who liv'd with good increase
+Of flock and fold.
+</poem>
+</blockquote>
+
+This is a clear allusion to Melchisedec, "king of Salem, which is king of peace" (Hebrews 7:2), who "brought forth bread and wine" (Genesis 14:18)—a "type" of Christ. This would seem to lead into a definition of the meaning of the Communion:
+
+<blockquote>
+<poem>
+He sweetly liv'd; yet sweetnesse did not save
+His life from foes.
+But after death out of his grave
+There sprang twelve stalks of wheat:
+Which many wondring at, got some of those
+To plant and set.
+It prosper'd strangely, and did soon disperse
+Through all the earth:
+For they that taste it do rehearse,
+That vertue lies therein,
+A secret vertue bringing peace and mirth
+By flight of sinne.
+</poem>
+</blockquote>
+
+There is then a secret power within the sacrament: "vertue lies therein, / A secret vertue"—"vertue" in the old sense of "operative influence."<ref>See ''OED'', "Virtue" for many early examples of the meaning of "power" or "efficacy."</ref> It is not a mere token of faith.
+
+<!--Paragraph 13-->
+But as the poem concludes, another possibility emerges as the "rev'rend good old man" ends his sermon:
+
+<blockquote>
+<poem>
+Take of this grain, which in my garden grows,
+And grows for you;
+Make bread of it, and that repose
+And peace, which ev'rywhere
+With so much earnestnesse you do pursue,
+Is onely there.
+</poem>
+</blockquote>
+
+"Take of this grain" seems to echo the Communion ritual, but the stress falls on "bread"; there is no mention of the wine. Then one thinks: how did the apostles spread their message over the earth? It was by preaching the Word. Preaching then may be the grain that leads to "the bread of life," as in the famous verses of John's Gospel: "I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst" (John 6:35). Here, perhaps, is another of Herbert's generous ambiguities: a strict Calvinist could read this passage as affirming the "secret vertue" of the Scriptures to be revealed by preaching.
+
+<!--Paragraph 14-->
+Still, the emphasis of other poems in this section falls upon the Communion, as in the last two lines of "The Bunch of Grapes" or the lines (40–45) of "Love Unknown," where the naïve speaker, a true Calvinist, sees himself as one of the chosen. He bathes his heart "ev'n with holy bloud, / Which at a board, while many drunk bare wine, / A friend did steal into my cup for good . . ." Yet "The Method" is clearly a poem of free will presenting a God whose will is not predestinating, but whose judgments are affected by human acts:
+
+<blockquote>
+<poem>
+Poore heart, lament.
+For since thy God refuseth still,
+There is some rub, some discontent,
+Which cools his will.
+
+Thy Father could
+Quickly effect, what thou dost move;
+For he is ''Power:'' and sure he would;
+For he is ''Love.''
+
+. . . . . . . . .
+
+Then once more pray:
+Down with thy knees, up with thy voice.
+Seek pardon first, and God will say, 
+''Glad heart rejoyce.''
+</poem>
+</blockquote>
+
+With such conflicting views, peace is never possible, as Herbert testifies in his poem "The Familie," which may be taken both as a personal reproach and as an implied allusion to the rents and schisms of the Church:
+
+<blockquote>
+<poem>
+What doth this noise of thoughts within my heart,
+As if they had a part?
+What do these loud complaints and puling fears,
+As if there were no rule or eares?
+
+But, Lord, the house and familie are thine,
+Though some of them repine.
+Turn out these wranglers, which defile thy seat:
+For where thou dwellest all is neat.
+</poem>
+</blockquote>
+
+<!--Paragraph 15-->
+Such conflicts, as Achsah Guibbory argues,<ref>See Guibbory, Chapter 3, "George Herbert: Devotion in ''The Temple'' and the Art of Contradiction." Guibbory has made fruitful use of the important work by British historians over the past two decades, exploring the complexity of religious controversy in Herbert's era and its relation to the outbreak of the Civil War. See the notes to her Introduction (228–30) for references to studies by Peter Lake, Nicholas Tyacke, Conrad Russell, John Norrill, Patrick Collinson, and Kevin Sharpe, along with other valuable contributions.</ref> inevitably lie at the center of Herbert's poems. He was writing his later poetry—the ninety-five poems that do not appear in the early Williams manuscript—at precisely the time when religious conflict in England was rising to a crisis. In the year of his ordination as deacon (1624), the case of Richard Montagu was being hotly argued in Parliament, with Pym leading the charge of "heresy" and "popery" against Montagu's inflammatory treatise of 1623, ''A New Gagg,'' which defended free will and the sacraments.<ref>See Tyacke, Chapter 6, "Richard Montagu, the House of Commons, and Arminianism." The attacks on Montagu were exacerbated by his appeal to the King in 1625: ''Appello Caesarem. A Iust Appeale from Two Uniust Informers.'' Here Montagu's attack on Calvinism becomes much stronger. Indeed the treaties amounts to a point-by-point refutation of the doctrines set forth by the Lambeth Articles and the Synod of Dort. Calvinists, he declares, "would ''make the World beleeve,'' that ''Ecclesia Anglicana Calvinistat:'' as if he were the father and founder of our Faith; as if our Beleefe were to be pinned upon his sleeve, and absolutely to be taught after his Institues" (59). What he objects to most strenuously is the concept of an "''irrespective'' Decree" (58) toward salvation or damnation—that is, a Decree by God made without respect to the qualities or actions of individual human beings.</ref> In the same year, 1624, Herbert, apparently for reasons of family, served briefly as a member of Parliament for Montgomery. We do not know whether Herbert attended any of the sessions devoted to denouncing Richard Montagu, but we can hardly doubt that he followed the proceedings closely. At this time Herbert was also caught in a cross-fire from his relatives. His older brother Edward (Lord Herbert of Cherbury) had published in Paris in 1624 a philosophical treatise, ''De Veritate,'' which contained several anti-Calvinist passages.<ref>See Tyacke (133).</ref> Meanwhile Herbert's kinsman and patron, William Herbert, Earl of Pembroke, was strongly supporting the Calvinist position. Montagu suffered no penalty for his bold anti-Calvinist utterance—and later, under Laud, became a bishop.
+
+<!--Paragraph 16-->
+This emergence of "Arminianism" under the aegis of Laud and Charles I may seem to represent a sudden shift caused by the change of kings in 1625. But the change was not really sudden. Ever since the early years of the century, as Nicholas Tyacke has shown, a rising tide of discontent with strict Calvinism was appearing, encouraged by the anti-Calvinist movement led by Arminius in Holland. Montagu would never have dared to make his bold utterance if he had not felt that the time was ripe, that he would have influential supporters among both clergy and laymen, restless under the Calvinist strictures set forth so bluntly in the famous Lambeth Articles of 1595<ref>For a translation of the Lambeth Articles see Porter (371; qtd. from Martz [66]).</ref>—articles that the strict Calvinists were constantly seeking to have officially adopted as the creed of the British Church, in order to clarify the ecumenical vagueness of the Thirty-nine Articles.
+
+<!--Paragraph 17-->
+Among those supporters, by implication, was the man who in 1621 became the Dean of St. Paul's, John Donne, whose sermons, early and late, contain many passages that strongly disagree with Calvinism. He issues the challenge openly, knowing that many of his audience are attuned to Calvinism. Thus in the famous passage from a sermon of 1620—the part beginning "I am not all here"—Donne continues: "You are not all here neither; you are here now, hearing me, and yet you are thinking that you have heard a better Sermon somewhere else, of this text before; you are here, and yet you think you could have heard some other doctrine of down-right ''Predestination'', and ''Reprobation'' roundly delivered somewhere else with more edification to you . . ." (3: 110).<ref>Passages from Donne's sermons are quoted from ''The Sermons of John Donne''.</ref>
+
+<!--Paragraph 18-->
+And again, in an undated sermon, but earlier than 1621, Donne strikes out at the current views and practices of English Calvinism:
+
+<blockquote>
+[W]ee are fallen upon such times, too, as that men doe not thinke themselves Christians, except they can tell what God meant to doe with them before he meant they should be Christians; for we can be intended to be Christians, but from Christ; and Wee must needs seek a Predestination, without any relation to Christ; a decree in God for salvation, and damnation, before any decree for the reparation of mankind, by Christ. Every Common-placer will adventure to teach, and every artificer will pretend to understand the purpose, yea, and the order, too, and method of Gods eternall and unrevealed decree. (3: 338)
+</blockquote>
+
+<!--Paragraph 19-->
+Donne's sermons set forth a deliberate, careful, reasoned attack on the dominant Calvinism of the older generation. Against their "marks of election" he sets a broader assurance: that when God says All he means All. Donne declares every human being's access to salvation, every human being's possession of the indestructible Image of God, the interior trinity of Augustine, represented in the three powers of the soul, Memory, Understanding, and Will.<ref>Augustine's doctrine of this interior trinity with the human soul leads to the assertion of free will, restored by grace available to all. See especially Donne's second sermon on the Image of God (''Sermons'' 9: 68–91) where, distinguishing humankind from the other creatures, Donne declares that, bearing the Image of God, human beings have the power of "choosing" or "assenting." "Make thine understanding, and thy will, and thy memory (though but natural faculties) serviceable to thy God; and auxiliary and subsidiary for thy salvation. For, though they be not naturally instruments of grace; yet naturally they are susceptible of grace . . . " (84–85).</ref> Moreover he declares (in a sermon of 1618) that every person has the ability to ''use'' those faculties (under the grace available to all) in such a way that "our natural faculties, formerly bound up in a corrupt inability to do so, [are] now able to concurre with [God], and cooperate to good actions." (1: 313) Adam forfeited his free will, and our free will with his—"But yet," Donne says (in a sermon of 1615) the robe of righteousness restored our faculties to create not only "as S ''Austin'' qualifies it, a restitution to the same integrity, which ''Adam'' had and had lost, but [a robe] that was ''Amictus sapientiae;'' (so S. ''Ambrose'' calls it) it was an ability to preserve himself in that integrity, to which he was restored . . . so the faculty of free-will works in us as well as it did in ''Adam'' though onely the grace of God enable that faculty" (1: 162–63).
+
+<!--Paragraph 20-->
+Donne's position is most clearly set forth in his Whitsunday sermon of around 1620, which the Georges, in their influential book,<ref>See George and George, ''The Protestant Mind of the English Reformation, 1570–1640''. The Georges' view of Calvinist dominance in the seventeenth century has now been modified by the studies of British scholars, as noted above.</ref> cite as an example of what they regard as Donne's almost unique departure from the dominant Calvinism of the clergy in his time. Here Donne first guards himself by launching a series of strong attacks on Roman doctrine and practice in the earlier part of his sermon; then he concludes with a potent and withering attack on the Calvinist doctrine of reprobation as it was represented by William Perkins and others of the old Calvinist generation.
+
+<blockquote>
+They are too good husbands, and too thrifty of Gods grace, too sparing of the Holy Ghost; that restraine Gods generall propositions, ''Venite omnes,'' Let all come, and ''Vult omnes salvos,'' God would have all men saved, so particularly, as to say, that when God sayes ''All,'' he meanes some of all sorts, some Men, some Women, some Jews, some Gentiles, some rich, some poore, but he does not meane, as he seemes to say, simply All. Yes; God does meane, simply All, so as that no man can say to another, God meanes not thee, no man can say to himselfe, God meanes not me.
+</blockquote>
+
+"The blood of Christ was shed for all that will apply it," Donne insists. "And the Holy Ghost is willing to fall, with the sprinkling of that blood, upon all that do not resist him . . . ." (5: 53–4) Similarly, in a sermon of 1618 he opposes the Calvinist doctrine of irresistible grace:
+
+<blockquote>
+[S]hall we still trust to such a power, or such a measure of that Grace, at last, as that we shall not be able to resist, but shall convert us whether we will or no, and never concur willingly with Gods present grace? ''Draw me, and I will run after thee,'' saies the Spouse: she was called before, now she awakens; and she does not say draw me . . . and lay all upon the force of grace, but draw me and I will run; she promises an application and concurrence on her part. So then ''venit salvare,'' is ''venit vocare.'' He came to save by calling us, as an eloquent and a perswasive man draws his Auditory, but yet imprints no necessity upon the faculty of the will . . . ." (1: 313)
+</blockquote>
+
+<!--Paragraph 21-->
+Indeed this view of free will is latent in his famous Satire III, where his command and cry, "Seeke true religion. O where?" would have no meaning if the speaker did not feel that somehow within himself he had the power to climb, about and about, up that hills toward truth. The basic point of view in Satire III is surely Protestant: the speaker will allow no earthly law or power to come between the individual soul and God:
+
+<blockquote>
+<poem>
+Keepe the truth which thou 'hast found; men do not stand
+In so 'ill case here, that God hath with his hand
+Sign'd Kings blanck-charters to kill whom they hate,
+Nor are they Vicars, but hangmen to Fate.
+Foole and wretch, wilt thou let thy Soule be ty'd
+To mans lawes, by which she shall no be try'd
+At the last day?<ref>See Donne (''Satires, Epigrams, and Verse Letters'' 130).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 22-->
+In this satire, Donne makes a significant reference to the term ''protestant'': "To adore, or scorne an image, or protest, / May all be bad." Donne is using the term ''protest'' with strict etymological, legal, and historic accuracy to designate the Lutherans, the original ''protestantes''—a term applied to the rulers and citizens of Germany who had made their formal protestation against the edict of the Diet of Spires in 1529, an edict against the Reformation. As the ''OED'' explains, "In the 16<sup>th</sup> c. the name ''Protestant'' was generally taken in Germany by the Lutherans; while the Swiss and French called themselves ''Reformed.''" In Satire III Donne is, as usual, making precise distinctions. To adore an image is Roman, to scorn an image is Genevan, to ''protest'' is to be a Lutheran, that is, to live somewhere between the two extremes, as Luther did by retaining a version of the Real Presence in the eucharist by his doctrine of consubstantiation.
+
+<!--Paragraph 23-->
+Donne made the point clear in a sermon of 1627, where he discusses the proper use of pictures, images, in worship. He begins by tactfully recognizing Calvin as his opponent on this issue. Calvin, "out of his religious wisdome," says Donne, conceded that at the beginning of the Reformation there were many that needed pictures "because then they had no other way of Instruction"; but now, Calvin says, that need can be supplied with sermons. "And this is true," Donne concedes on his own part, "that where there is a frequent preaching, there is ''no necessity'' of pictures; but will not every man adde this, That if the true use of Pictures bee preached unto them, there is ''no danger'' of an abuse; and so, ''as Remembrancers'' of that which hath been taught in the Pulpit, they may be retained"; and he adds, "they may bee retained here [in England], as they are in the greatest part of the ''Reformed'' Church, and in all that, that is ''properly Protestant''" (7: 432). Here Donne is treating the ''Reformed'' Church as larger than strict Calvinism and distinguishing the ''Reformed'' from the Lutheran—those ''properly'' called ''Protestant,'' who retained much of the old imagery and ritual, in accord with the view that Donne presents in his Candlemas sermon of (probably) 1626–7:
+
+<blockquote>
+The Church of God, in the outward and ceremoniall part of his worship, did not disdain the ceremonies of the Gentiles; Men who are so severe, as to condemne, and to remove from the Church, whatsoever was in use among the Gentiles before, may, before they are aware, become Surveyors, and Controllers upon Christ himself, in the institution of his greatest seales: for Baptisme, which is the Sacrament of purification by washing in water, and the very Sacrament of the Supper it self, religious eating, and drinking in the Temple, were in use amongst the Gentiles too. It is a perverse way, rather to abolish Things and Names, (for vehement zeale will work upon Names as well as Things) because they have been abused, then to reduce them [lead them back] to their right use. (7: 325)
+</blockquote>
+
+<!--Paragraph 24-->
+The implied relation of ceremonies to sacraments here may remind us once again that the quarrel with the Puritans was not at its heart concerned with external matters of ceremony. It was concerned with ''what'' those ceremonies were celebrating. Donne put it plainly in his poem "The Crosse":
+
+<blockquote>
+<poem>
+From mee, no Pulpit, nor misgrounded law,
+Nor scandall taken, shall this Crosse withdraw,
+It shall not, for it cannot; for, the losse
+Of this Crosse, were to mee another Crosse;
+Better were worse, for, no affliction,
+No Crosse is so extreme, as to have none.
+Who can blot out the Crosse, which th'instrument
+Of God, dew'd on mee in the Sacrament?<ref>See Donne (''Divine Poems'' 260).</ref>
+</poem>
+</blockquote>
+
+<!--Paragraph 25-->
+Donne did not become the most famous preacher in the London of his day because he spoke what a firmly Calvinist audience wished to hear. On the contrary, his sermons seem to recognize a widespread need to be free of Calvinist dominance among the clergy, to be free of the fears of reprobation that, later on, John Bunyan so vividly described in his ''Grace Abounding to the Chief of Sinners.''
+
+<!--Paragraph 26-->
+What we are watching in the poetry and prose of Donne and Herbert is, I believe, the gradual passing away of the dominant power of strict Calvinism; and indeed, as the framers of the Lambeth Articles believed, it might be said that there is no true Calvinism that is not strict. When one denies, or refuses to declare predestined reprobation, or asserts some measure of free will, or allows some degree of efficacy in the sacraments, it may be said, and indeed it was said, that one is no longer a Calvinist. One may use Calvinist terminology and thought as part of an effort to accommodate the old and the new, as Herbert does in some of his poems, while holding firmly to the Church that keeps its ancient traditions, purified and reformed in the light of a broader protestantism than Calvin could offer—a Church closer to Lutheranism in many ways. This is the "Church" that is, as I read it, contained within George Herbert's ''Temple''.
+
+<!--Paragraph 27-->
+Finally, we should note that Donne strongly opposed the view that only a few are chosen, saying, in a sermon of 1624:
+
+<blockquote>
+"[T]here are an infinite number of ''Stars'' more then we can distinguish, and so, by Gods grace, there may be an infinite number of soules saved, more then those, of whose salvation, we discerne the ''ways,'' and the ''meanes.'' Let us embrace the way which God hath given us, which is, the knowledge of his Sonne, ''Christ Jesus:'' what other way God may take with others, how he wrought upon ''Iob,'' and ''Naaman,'' and such others as were not in the ''Covenant,'' let us not inquire too curiously, determine too peremptorily, pronounce too uncharitably . . . ."
+</blockquote>
+
+"Many shall come;" (he quotes from Matthew 8:11), "How many?" he asks, and answers from the Book of Revelation (7:9) "a multitude that no man can number" (6:161, 163).
+
+<!--Paragraph 28-->
+This is as far from Calvin as one can get: a sign of the deep division between Calvinists and those called "Arminians." It was a schism that within a few years would play a major role in the destruction of the British Church, its Archbishop, and its King.
+
+==Notes==
+{{reflist}}
+
+==Works Cited==
+*Donne, John. ''The Divine Poems''. Helen Gardner, ed. Oxford: Clarendon P, 1952.
+*-----. ''The Satires, Epigrams, and Verse Letters''. W. Milgate, ed. Oxford: Clarendon P, 1967.
+*-----. ''The Sermons of John Donne.'' Evelyn Simpson and George E. Potter, eds. 10 vols. Berkeley: U of California P, 1953–62.
+*George, Charles H. and Katherine George. ''The Protestant Mind of the English Reformation, 1570–1640.'' Princeton: Princeton UP, 1961.
+*Guibbory, Achsah. ''Ceremony and Community from Herbert to Milton: Literature, Religion and Cultural Conflict in Seventeenth-century England.'' Cambridge: Cambridge UP, 1998.
+*Herbert, George. ''The Works of George Herbert.'' F.E. Hutchinson, ed. Oxford: Clarendon P, 1941. Rpt. 1945.
+*Martz, Louis L. ''From Renaissance to Baroque.'' Columbia: U of Missouri P, 1991.
+*Porter, H.C. ''Reformation and Reaction in Tudor Cambridge.'' Cambridge: Cambridge UP, 1958.
+*Taylor, Jeremy. ''Holy Living and Holy Dying.'' Paul Stanwood, ed. Vol. 1. Oxford: Clarendon P, 1989. 2 vols.
+*Tyacke, Nicholas. ''Anti-Calvinists: The Rise of English Arminianism.'' Oxford: Clarendon P, 1987.
+
+{{BookCat}}
